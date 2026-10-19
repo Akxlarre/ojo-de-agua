@@ -1,0 +1,137 @@
+[
+  {
+    "id": "agot_2",
+    "fuente_superficial": "RIO LOA Y SUS AFLUENTES",
+    "region": "ANTOFAGASTA",
+    "resolucion_dga": "DGA N° 197",
+    "fecha_resolucion": "24-01-2000",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "14-02-2000"
+  },
+  {
+    "id": "agot_3",
+    "fuente_superficial": "RIO SAN PEDRO Y SUS AFLUENTES",
+    "region": "ANTOFAGASTA",
+    "resolucion_dga": "DGA N° 44",
+    "fecha_resolucion": "11-05-2016",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "01-06-2016"
+  },
+  {
+    "id": "agot_4",
+    "fuente_superficial": "RIO VILAMA Y SUS AFLUENTES",
+    "region": "ANTOFAGASTA",
+    "resolucion_dga": "DGA N° 03",
+    "fecha_resolucion": "12-04-2017",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "01-06-2017"
+  },
+  {
+    "id": "agot_5",
+    "fuente_superficial": "RIO HUASCO Y SUS AFLUENTES",
+    "region": "ATACAMA",
+    "resolucion_dga": "DGA N° 24",
+    "fecha_resolucion": "14-03-2016",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "02-05-2016"
+  },
+  {
+    "id": "agot_6",
+    "fuente_superficial": "RIO CHOAPA Y SUS AFLUENTES",
+    "region": "COQUIMBO",
+    "resolucion_dga": "DGA N° 1432",
+    "fecha_resolucion": "08-10-2004",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "15-07-1994"
+  },
+  {
+    "id": "agot_7",
+    "fuente_superficial": "RIO ELQUI Y SUS AFLUENTES",
+    "region": "COQUIMBO",
+    "resolucion_dga": "DGA N° 1515",
+    "fecha_resolucion": "25-05-2009",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  },
+  {
+    "id": "agot_8",
+    "fuente_superficial": "RIO GRANDE Y RIO LIMARI Y SUS AFLUENTES",
+    "region": "COQUIMBO",
+    "resolucion_dga": "DGA N° 72",
+    "fecha_resolucion": "19-01-2005",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  },
+  {
+    "id": "agot_9",
+    "fuente_superficial": "PRIMERA SECCION RIO MAPOCHO Y SUS AFLUENTES",
+    "region": "METROPOLITANA",
+    "resolucion_dga": "DGA N° 383",
+    "fecha_resolucion": "27-09-1983",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "01-07-2009"
+  },
+  {
+    "id": "agot_10",
+    "fuente_superficial": "PRIMERA SECCION RIO ACONCAGUA",
+    "region": "VALPARAISO",
+    "resolucion_dga": "DGA N° 209",
+    "fecha_resolucion": "22-05-1985",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "01-04-2005"
+  },
+  {
+    "id": "agot_11",
+    "fuente_superficial": "RIO PUTAENDO Y SUS AFLUENTES",
+    "region": "VALPARAISO",
+    "resolucion_dga": "DGA N° 1278",
+    "fecha_resolucion": "13-09-2004",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  },
+  {
+    "id": "agot_12",
+    "fuente_superficial": "ESTERO CHIMBARONGO Y SUS AFLUENTES",
+    "region": "OHIGGINS",
+    "resolucion_dga": "DGA N° 894",
+    "fecha_resolucion": "05-11-1999",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  },
+  {
+    "id": "agot_13",
+    "fuente_superficial": "PRIMERA SECCIÓN RIO TINGUIRIRICA Y SUS AFLUENTES",
+    "region": "OHIGGINS",
+    "resolucion_dga": "DGA N° 80",
+    "fecha_resolucion": "16-03-1983",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "15-04-1983"
+  },
+  {
+    "id": "agot_14",
+    "fuente_superficial": "RIO CLARO DE RENGO Y SUS AFLUENTES",
+    "region": "OHIGGINS",
+    "resolucion_dga": "DGA N° 25",
+    "fecha_resolucion": "14-03-2016",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": "02-05-2016"
+  },
+  {
+    "id": "agot_15",
+    "fuente_superficial": "RIO DIGUILLIN Y SUS AFLUENTES",
+    "region": "BIO BIO",
+    "resolucion_dga": "DGA N° 158",
+    "fecha_resolucion": "21-04-1994",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  },
+  {
+    "id": "agot_16",
+    "fuente_superficial": "RIO LAJA DESDE SUS NACIENTES Y BOCATOMA CANAL SIBERIA",
+    "region": "BIO BIO",
+    "resolucion_dga": "Decreto MOP N° 1858",
+    "fecha_resolucion": "25-08-1952",
+    "tipo": "DECLARACION DE AGOTAMIENTO",
+    "fecha_publicacion": ""
+  }
+]

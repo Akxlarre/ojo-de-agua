@@ -1,0 +1,64 @@
+// ── .card, .card-tinted, .card-accent ────────────────────────────────────
+// Ahora definidas globalmente en _variables.scss.
+// Este archivo solo contiene estilos específicos del componente KPI.
+
+// ── Chip de ícono ─────────────────────────────────────────────────────────
+// Cuadrado redondeado con fondo semántico — ancla visual del KPI.
+// Default: tinte de marca (color-primary-muted).
+.kpi-card__icon-chip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  flex-shrink: 0;
+  background: var(--color-primary-muted);
+  color: var(--color-primary);
+}
+
+// ── Variantes semánticas — chip ───────────────────────────────────────────
+.kpi-card--success .kpi-card__icon-chip {
+  background: var(--state-success-bg);
+  color: var(--state-success);
+}
+
+.kpi-card--warning .kpi-card__icon-chip {
+  background: var(--state-warning-bg);
+  color: var(--state-warning);
+}
+
+.kpi-card--error .kpi-card__icon-chip {
+  background: var(--state-error-bg);
+  color: var(--state-error);
+}
+
+// ── Pill de tendencia ─────────────────────────────────────────────────────
+// Reemplaza el texto plano por una pill con fondo semántico.
+.kpi-card__trend {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  line-height: 1;
+
+  &--up {
+    background: var(--state-success-bg);
+    color: var(--state-success);
+  }
+
+  &--down {
+    background: var(--state-error-bg);
+    color: var(--state-error);
+  }
+}
+
+// ── Variantes de tamaño del valor principal ───────────────────────────────
+.kpi-card--md .kpi-value {
+  font-size: var(--text-3xl);
+}
+
+.kpi-card--sm .kpi-value {
+  font-size: var(--text-2xl);
+}

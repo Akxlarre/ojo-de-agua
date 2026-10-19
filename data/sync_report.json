@@ -1,0 +1,43 @@
+{
+  "estado": "EXITOSO",
+  "timestamp_inicio": "2026-10-19T15:08:15.584052+00:00",
+  "timestamp_fin": "2026-10-19T15:08:29.349369+00:00",
+  "duracion_segundos": 13.77,
+  "decretos_escasez": {
+    "vigentes": 5,
+    "caducados": 0
+  },
+  "grafo_nodos": 42801,
+  "grafo_aristas": 37466,
+  "mapa_html_bytes": 2254745,
+  "entidades_resumen": {
+    "Cuenca": 90,
+    "Rio": 221,
+    "JuntaVigilancia": 85,
+    "AsociacionCanalistas": 32,
+    "Canal": 2286,
+    "SHAC": 738,
+    "EstacionBNA": 3843,
+    "DecretoEscasez": 249,
+    "DeclaracionAgotamiento": 15,
+    "ZonaProhibicion": 149,
+    "CuencaCAMELS": 516,
+    "SistemaAPR": 2238,
+    "Glaciar": 2094,
+    "SancionAmbiental": 1395,
+    "DerechoAprovechamiento": 4147,
+    "PlantaTratamiento": 171,
+    "HumedalUrbano": 107,
+    "CentralHidroelectrica": 189,
+    "DepositoRelave": 839,
+    "PatenteNoUso": 23073,
+    "AreaSilvestreProtegida": 107,
+    "PlantaDesaladora": 58,
+    "IncendioForestal": 10,
+    "DemandaAgricola": 90,
+    "PredioRiego": 8,
+    "Embalse": 43,
+    "Bocatoma": 2,
+    "Celador": 6
+  }
+}

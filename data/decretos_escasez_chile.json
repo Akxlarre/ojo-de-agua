@@ -1,0 +1,2243 @@
+[
+  {
+    "id": "dec_escasez_2008_1",
+    "decreto": "N° 125 de 29 de enero de 2008",
+    "ano": 2008,
+    "region": "Coquimbo, Valparaíso, Metropolitana, O'Higgins y Biobío",
+    "fecha_caducidad": "29 de julio de 2008",
+    "cobertura_territorial": "Cuenca de los ríos Cogotí, combarbalá y Pama, ubicados en la provincia de Limarí, la cuenca del río Illapel y Chalinga en la provincia de Choapa, de la región de Coquimbo; las cuancas de los ríos Petorca y Ligua, ubicados en la provincia de Petorca, de la región de Valparaíso; las cuencas de los ríos y esteros del sector de secano ubicado en la comuna de San Pedro, provincia de Melipilla, región Metropolitana; las cuencas de los ríos y esteros, ubicados en el sector de secano de la provincia de Cardenal Caro, región de O'Higgins; las cuencas de los ríos Ñiquén y Perquilauquén, Chagaral y Larqui, ubicados en la región del Biobío.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2008_2",
+    "decreto": "N°134 de 5 de febrero de 2008",
+    "ano": 2008,
+    "region": "Coquimbo y Maule",
+    "fecha_caducidad": "6 de agosto de 2008",
+    "cobertura_territorial": "Cuenca del río Quilimarí y cuenca del río Mataquito",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2008_3",
+    "decreto": "N°153 de 15 de febrero de 2008",
+    "ano": 2008,
+    "region": "Coquimbo, Valparaíso, Metropolitana, Maule y Biobío",
+    "fecha_caducidad": "15 de agosto de 2008",
+    "cobertura_territorial": "Cuenca de los esteros Canela y Pupío en la provincia de Choapa; las cuencas de los ríos y esteros de la comuna de Zapallar; de los esteros Huaquén y Los Molles en la provincia de Petorca; las cuencas de los ríos y esteros de las comunas de Alhué y Melipilla; las cuencas de los ríos y esteros de las comunas de Colina y Til-Til; la cuenca del río Putagán en la provincia de Linares y la cuenca del río Renegado en la provincia de Ñuble",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2008_4",
+    "decreto": "N° 167 de 22 de febrero de 2008",
+    "ano": 2008,
+    "region": "Atacama",
+    "fecha_caducidad": "22 de agosto de 2008",
+    "cobertura_territorial": "Cuenca del río Copiapó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2008_5",
+    "decreto": "N° 227 de 24 de marzo de 2008",
+    "ano": 2008,
+    "region": "Aysén",
+    "fecha_caducidad": "24 de septiembre de 2008",
+    "cobertura_territorial": "Cuencas de los ríos y esteros de las comunas de Lago Verde y Coyhaique; cuenca de los ríos y esteros de las comunas de Cisnes y Aysén; cuenca de los ríos y esteros de las comunas de Río Ibáñez y Chile Chico; cuenca de los ríos y esteros de la comuna de Cochrane",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2008_6",
+    "decreto": "N° 287 de 21 de abril de 2008",
+    "ano": 2008,
+    "region": "Valparaíso",
+    "fecha_caducidad": "21 de octubre de 2008",
+    "cobertura_territorial": "Cuenca del río Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2009_8",
+    "decreto": "N°110 de 4 de febrero de 2009",
+    "ano": 2009,
+    "region": "Biobío",
+    "fecha_caducidad": "4 de agosto de 2009",
+    "cobertura_territorial": "cuenca de los ríos Ñiquén y Perquilauquén",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2010_10",
+    "decreto": "N°402, 24  nov de 2010",
+    "ano": 2010,
+    "region": "Valparaíso",
+    "fecha_caducidad": "24 de mayo de 2011",
+    "cobertura_territorial": "Comuna de Quilpué",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2010_11",
+    "decreto": "N°403, 24 nov de 2010",
+    "ano": 2010,
+    "region": "Valparaíso",
+    "fecha_caducidad": "24 de mayo de 2011",
+    "cobertura_territorial": "Cuencas de Ligua-Petorca y Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2010_12",
+    "decreto": "N°404, 24 nov de 2010",
+    "ano": 2010,
+    "region": "Coquimbo",
+    "fecha_caducidad": "24 de mayo de 2011",
+    "cobertura_territorial": "Comunas de Canela y Los Vilos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2010_13",
+    "decreto": "N°405, 24 nov de 2010",
+    "ano": 2010,
+    "region": "Coquimbo",
+    "fecha_caducidad": "24 de mayo de 2011",
+    "cobertura_territorial": "Cuencas de los ríos Guatulame y Cogotí",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_15",
+    "decreto": "N°124, 28  ene de 2011",
+    "ano": 2011,
+    "region": "Valparaíso",
+    "fecha_caducidad": "28 de julio de 2011",
+    "cobertura_territorial": "San Antonio, Santo Domingo y Puchuncaví",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_17",
+    "decreto": "N°133, 01 feb de 2011",
+    "ano": 2011,
+    "region": "Coquimbo",
+    "fecha_caducidad": "01 de agosto de 2011",
+    "cobertura_territorial": "Illapel y Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_18",
+    "decreto": "N°157, 17  feb de 2011",
+    "ano": 2011,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de agosto de 2011",
+    "cobertura_territorial": "Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_19",
+    "decreto": "N°161, 25  feb de 2011",
+    "ano": 2011,
+    "region": "Maule",
+    "fecha_caducidad": "25 de agosto de 2011",
+    "cobertura_territorial": "Cuenca del río Mataquito",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_20",
+    "decreto": "N°162, 25  feb de 2011",
+    "ano": 2011,
+    "region": "Maule",
+    "fecha_caducidad": "25 de agosto de 2011",
+    "cobertura_territorial": "Comuna de San Javier y Provincia de Cauquenes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_21",
+    "decreto": "N°186, 13  abril de 2011",
+    "ano": 2011,
+    "region": "Metropolitana",
+    "fecha_caducidad": "13 de octubre de 2011",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_22",
+    "decreto": "N°187, 13 de abril de 2011",
+    "ano": 2011,
+    "region": "Maule",
+    "fecha_caducidad": "13 de octubre de 2011",
+    "cobertura_territorial": "Cuenca del río Purapel",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_23",
+    "decreto": "N°198, 27 de abril de 2011",
+    "ano": 2011,
+    "region": "O'Higgins",
+    "fecha_caducidad": "27 de octubre de 2011",
+    "cobertura_territorial": "Río Claro",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_24",
+    "decreto": "N° 222, 6 de jun de 2011",
+    "ano": 2011,
+    "region": "Coquimbo",
+    "fecha_caducidad": "06 de diciembre de 2011",
+    "cobertura_territorial": "Los Vilos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_25",
+    "decreto": "N° 223,  6 de jun de 2011",
+    "ano": 2011,
+    "region": "Valparaíso",
+    "fecha_caducidad": "06 de diciembre de 2011",
+    "cobertura_territorial": "Comuna de Quilpué y provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_26",
+    "decreto": "N°281,  15 de sept de 2011",
+    "ano": 2011,
+    "region": "Atacama",
+    "fecha_caducidad": "15 de marzo de 2012",
+    "cobertura_territorial": "cuenca del río Copiapó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_27",
+    "decreto": "N° 409, 18 de nov 2011",
+    "ano": 2011,
+    "region": "Valparaíso",
+    "fecha_caducidad": "18 de mayo de 2012",
+    "cobertura_territorial": "Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_28",
+    "decreto": "N° 411,  29 de nov 2011",
+    "ano": 2011,
+    "region": "Valparaíso",
+    "fecha_caducidad": "29 de Mayo de 2012",
+    "cobertura_territorial": "Comuna de San Antonio y Santo Domingo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_29",
+    "decreto": "N° 415,  7 de dic 2011",
+    "ano": 2011,
+    "region": "Coquimbo",
+    "fecha_caducidad": "7 de junio de 2012",
+    "cobertura_territorial": "Cuenca del río Quilimarí",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2011_30",
+    "decreto": "N° 416,  7 de dic 2011",
+    "ano": 2011,
+    "region": "Valparaíso",
+    "fecha_caducidad": "7 de junio de 2012",
+    "cobertura_territorial": "Cuencas de los ríos Ligua y Petorca, a las cuencas costeras Quilimarí-Petorca y Ligua-Aconcagua y a la comuna de Quilpué",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_32",
+    "decreto": "N° 29, 20 de enero 2012",
+    "ano": 2012,
+    "region": "Metropolitana",
+    "fecha_caducidad": "20 de julio de 2012",
+    "cobertura_territorial": "Provincia de Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_33",
+    "decreto": "N° 154, de 16 de marzo de 2012",
+    "ano": 2012,
+    "region": "Atacama",
+    "fecha_caducidad": "16 de septiembre de 2012",
+    "cobertura_territorial": "Zonas baja y media de la cuenca del río Copiapó y la Quebrada de Paipote",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_34",
+    "decreto": "N° 178, de 4 de abril de 2012",
+    "ano": 2012,
+    "region": "Metropolitana",
+    "fecha_caducidad": "4 de octubre de 2012",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_35",
+    "decreto": "N° 225, de 12 de junio de 2012",
+    "ano": 2012,
+    "region": "Valparaíso",
+    "fecha_caducidad": "12 de diciembre de 2012",
+    "cobertura_territorial": "Comunas de La Ligua, Petorca y Cabildo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_36",
+    "decreto": "N° 262, de 27 de agosto de 2012",
+    "ano": 2012,
+    "region": "Coquimbo",
+    "fecha_caducidad": "27 de febrero de 2013",
+    "cobertura_territorial": "Comuna de Los Vilos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_37",
+    "decreto": "N° 286, de 12 de septiembre de 2012",
+    "ano": 2012,
+    "region": "Atacama",
+    "fecha_caducidad": "17 de marzo de 2013",
+    "cobertura_territorial": "cuenca del río Copiapó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_38",
+    "decreto": "N° 330, de 9 de noviembre de 2012",
+    "ano": 2012,
+    "region": "Valparaíso",
+    "fecha_caducidad": "9 de mayo de 2012",
+    "cobertura_territorial": "Cuenca del río Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_39",
+    "decreto": "N° 331, de 9 de noviembre de 2012",
+    "ano": 2012,
+    "region": "Valparaíso",
+    "fecha_caducidad": "9 de mayo de 2012",
+    "cobertura_territorial": "Comunas de San Antonio y Santo Domingo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_40",
+    "decreto": "N°339, de 29 de noviembre de 2012",
+    "ano": 2012,
+    "region": "Maule",
+    "fecha_caducidad": "29 de mayo de 2013",
+    "cobertura_territorial": "Comuna de Vichuquén",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2012_41",
+    "decreto": "N°362, de 13 de diciembre de 2012",
+    "ano": 2012,
+    "region": "Valparaíso",
+    "fecha_caducidad": "13 de junio de 2013",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_44",
+    "decreto": "N° 156, de 15 de marzo de 2013",
+    "ano": 2013,
+    "region": "Atacama",
+    "fecha_caducidad": "18 de septiembre de 2013",
+    "cobertura_territorial": "Comunas de Tierra Amarilla y Copiapó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_45",
+    "decreto": "N° 158, de 21 de marzo de 2013",
+    "ano": 2013,
+    "region": "Coquimbo",
+    "fecha_caducidad": "21 de septiembre de 2013",
+    "cobertura_territorial": "Cuenca del río Quilimarí",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_46",
+    "decreto": "N°204, de 20 de mayo de 2013",
+    "ano": 2013,
+    "region": "Coquimbo",
+    "fecha_caducidad": "20 de noviembre de 2013",
+    "cobertura_territorial": "Cuenca del Estero Pupío",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_47",
+    "decreto": "N°288, de 11 de octubre de 2013",
+    "ano": 2013,
+    "region": "Valparaíso",
+    "fecha_caducidad": "11 de abril de 2014",
+    "cobertura_territorial": "Provincias de Los Andes, San Felipe, Quillota, Marga-Marga y la comuna de Concón",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_48",
+    "decreto": "N°289, de 11 de octubre de 2013",
+    "ano": 2013,
+    "region": "Valparaíso",
+    "fecha_caducidad": "11 de abril de 2014",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_49",
+    "decreto": "N°290, de 11 de octubre de 2013",
+    "ano": 2013,
+    "region": "Valparaíso",
+    "fecha_caducidad": "11 de abril de 2014",
+    "cobertura_territorial": "Comunas de Santo Domingo, Cartagena y Casablanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2013_50",
+    "decreto": "N° 291, de 21 de octubre de 2013",
+    "ano": 2013,
+    "region": "Maule",
+    "fecha_caducidad": "21 de abril de 2014",
+    "cobertura_territorial": "Comuna de Vichuquén",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_52",
+    "decreto": "N° 18 de enero de 2014",
+    "ano": 2014,
+    "region": "Bíobío",
+    "fecha_caducidad": "8 de julio de 2014",
+    "cobertura_territorial": "Cuenca del Río Laja",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_53",
+    "decreto": "N° 139 de 6 de junio de 2014",
+    "ano": 2014,
+    "region": "Coquimbo",
+    "fecha_caducidad": "6 de agosto de 2014",
+    "cobertura_territorial": "Comunas de: La Higuera, La Serena, Vicuña, Ovalle, Punitaqui, Combarbala, Canela, Illapel, Salamanca, Los Vilos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_54",
+    "decreto": "N°147 de 13 de febrero de 2014",
+    "ano": 2014,
+    "region": "Maule",
+    "fecha_caducidad": "13 de agosto de 2014",
+    "cobertura_territorial": "Comunas de: Pelluhue, Chanco, Cauquenes, Curepto, San Javier, Empedrano, Constitución, Pencahue, Licantén, Rauco, Sagrada Familia y Hualañé",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_55",
+    "decreto": "N°154 de 27 de febrero de 2014",
+    "ano": 2014,
+    "region": "Coquimbo",
+    "fecha_caducidad": "27 de agosto de 2014",
+    "cobertura_territorial": "Comuna de Monte Patria",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_56",
+    "decreto": "N°155 de 27 de febrero de 2014",
+    "ano": 2014,
+    "region": "Maule",
+    "fecha_caducidad": "27 de agosto de 2014",
+    "cobertura_territorial": "Comunas de: San Clemente, Pelarco, Río Claro, San Rafael, Talca, Maule, Colbún, Yerbas Buenas, Villa Alegre, Linares y Longaví",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_57",
+    "decreto": "N° 235 de 10 de abril de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "12 de octubre de 2014",
+    "cobertura_territorial": "Cuenca de los ríos Ligua y Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_58",
+    "decreto": "N°252 de 15 de abril de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "15 de julio de 2014",
+    "cobertura_territorial": "Provincia de San Felipe de Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_59",
+    "decreto": "N° 258 de 25 de abril de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "15 de julio de 2014",
+    "cobertura_territorial": "Provincias de Los Andes, Quillota y Marga-Marga",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_60",
+    "decreto": "N° 372 de 06 de agosto de 2014",
+    "ano": 2014,
+    "region": "Coquimbo",
+    "fecha_caducidad": "6 de febrero de 2015",
+    "cobertura_territorial": "Comunas de: La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Río Hurtado, Ovalle, Punitaqui, Combarbalá, Illapel, Los Vilos, Canela y  Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_61",
+    "decreto": "N° 404 de 02 de septiembre de 2014",
+    "ano": 2014,
+    "region": "Coquimbo",
+    "fecha_caducidad": "02 de marzo de 2015",
+    "cobertura_territorial": "Comuna de Monte Patria, provincia de Limarí",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_62",
+    "decreto": "N° 406 de 04 de septiembre de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "04 de marzo de 2015",
+    "cobertura_territorial": "Comunas de San Felipe, Panquehue, Llaillay y Limache",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_63",
+    "decreto": "N° 422 de 13 de octubre de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "13 de abril de 2015",
+    "cobertura_territorial": "Provincia de Petorca y comuna de Putaendo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2014_64",
+    "decreto": "N° 459 de 28 de noviembre de 2014",
+    "ano": 2014,
+    "region": "Valparaíso",
+    "fecha_caducidad": "28 de mayo de 2015",
+    "cobertura_territorial": "Provincias de Los Andes y Quillota y a las comunas de Santa María, Catemu y Olmué",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_66",
+    "decreto": "N° 87 de 6 de febrero de 2015",
+    "ano": 2015,
+    "region": "Atacama",
+    "fecha_caducidad": "06 de agosto de 2015",
+    "cobertura_territorial": "Comunas de Tierra Amarilla, Copiapó, Alto del Carmen, Vallenar, Freirina y Huasco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_67",
+    "decreto": "N° 88 de 9 de febrero 2015",
+    "ano": 2015,
+    "region": "Coquimbo",
+    "fecha_caducidad": "09 de agosto de 2015",
+    "cobertura_territorial": "comunas de La Higuera, La Serena, Vicuña, Coquimbo, Paihuano, Ovalle, Río Hurtado, Punitaqui, Combarbalá y a la Provincia de Choapa",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_68",
+    "decreto": "N° 98 de 03 de marzo de 2015",
+    "ano": 2015,
+    "region": "Coquimbo",
+    "fecha_caducidad": "09 de agosto de 2015",
+    "cobertura_territorial": "Comuna de Monte Patria",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_69",
+    "decreto": "N° 101 de 05 de marzo de 2015",
+    "ano": 2015,
+    "region": "Valparaíso",
+    "fecha_caducidad": "5 de septiembre de 2015",
+    "cobertura_territorial": "Comunas de San Felipe, Panquehue, Llaillay, Limache y Concón",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_70",
+    "decreto": "N° 129 de 14 de abril de 2015",
+    "ano": 2015,
+    "region": "Valparaíso",
+    "fecha_caducidad": "14 de octubre de 2015",
+    "cobertura_territorial": "Comunas de La Ligua, Petorca, Papudo, Cabildo y Zapallar",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_71",
+    "decreto": "N° 140 de 24 de abril de 2015",
+    "ano": 2015,
+    "region": "O'Higgins",
+    "fecha_caducidad": "24 de octubre de 2015",
+    "cobertura_territorial": "Comuna de Rengo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_72",
+    "decreto": "N° 150 de 26 de mayo de 2015",
+    "ano": 2015,
+    "region": "Valparaíso",
+    "fecha_caducidad": "26 de noviembre de 2015",
+    "cobertura_territorial": "Comuna de Putaendo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_73",
+    "decreto": "N° 189 de 01 de julio de 2015",
+    "ano": 2015,
+    "region": "Valparaíso",
+    "fecha_caducidad": "01 de octubre de 2015",
+    "cobertura_territorial": "Comunas de Quillota, La Cruz, La Calera, Nogales, Hijuelas, Los Andes, San Esteban, Calle Larga, Rinconada",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_74",
+    "decreto": "N° 225 de 5 de agosto de 2015",
+    "ano": 2015,
+    "region": "Maule",
+    "fecha_caducidad": "5 de febrero de 2016",
+    "cobertura_territorial": "Provincias de Talca, Cauquenes, Curicó y Linares",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_75",
+    "decreto": "N° 230 de 07 de agosto de 2015",
+    "ano": 2015,
+    "region": "Atacama",
+    "fecha_caducidad": "7 de febrero de 2016",
+    "cobertura_territorial": "Cuenca del Río Huasco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_76",
+    "decreto": "N° 236 de 10 de agosto de 2015",
+    "ano": 2015,
+    "region": "Coquimbo",
+    "fecha_caducidad": "10 de noviembre de 2015",
+    "cobertura_territorial": "comunas de La Higuera, La Serena, Vicuña, Coquimbo, Paihuano, Río Hurtado, Monte Patria, Ovalle, Punitaqui, Combarbalá y a la Provincia de Choapa",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2015_77",
+    "decreto": "N° 301 de 10 de noviembre de 2015",
+    "ano": 2015,
+    "region": "Coquimbo",
+    "fecha_caducidad": "10 de mayo de 2016",
+    "cobertura_territorial": "comunas de La Higuera, La Serena, Vicuña, Coquimbo, Paihuano, Río Hurtado, Ovalle, Punitaqui, Combarbalá, Monte Patria, Illapel, Los Vilos, Canela y Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_79",
+    "decreto": "Nº 141 de 12 de febrero de 2016",
+    "ano": 2016,
+    "region": "Atacama",
+    "fecha_caducidad": "12 de agosto de 2016",
+    "cobertura_territorial": "Comunas de Vallenar, Freirina y Huasco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_80",
+    "decreto": "Nº 154 de 24 de marzo de 2016",
+    "ano": 2016,
+    "region": "Valparaíso",
+    "fecha_caducidad": "24 de septiembre de 2016",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_81",
+    "decreto": "Nº 157 de 29 de marzo de 2016",
+    "ano": 2016,
+    "region": "Valparaíso",
+    "fecha_caducidad": "29 de septiembre de 2016",
+    "cobertura_territorial": "Comuna de Llay Llay",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_82",
+    "decreto": "Nº 180 de 11 de mayo de 2016",
+    "ano": 2016,
+    "region": "Coquimbo",
+    "fecha_caducidad": "11 de noviembre de 2016",
+    "cobertura_territorial": "Las provincias de Choapa y Limarí, y comunas de La Serena, Coquimbo, La Higuera, Paihuano y Vicuña",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_83",
+    "decreto": "Nº 241 de 28 de octubre de 2016",
+    "ano": 2016,
+    "region": "Maule",
+    "fecha_caducidad": "28 de abril de 2017",
+    "cobertura_territorial": "Las provincias de Curicó, Talca, Linares y Cauquenes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_84",
+    "decreto": "Nº 243 de 11 de noviembre de 2016",
+    "ano": 2016,
+    "region": "Metropolitana",
+    "fecha_caducidad": "11 de mayo de 2017",
+    "cobertura_territorial": "Provincia de Chacabuco/ Comunas: Colina, Lampa y Tiltil",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_85",
+    "decreto": "Nº 244 de 11 de noviembre de 2016",
+    "ano": 2016,
+    "region": "Metropolitana",
+    "fecha_caducidad": "11 de mayo de 2017",
+    "cobertura_territorial": "Comunas de Curacaví y San Pedro",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2016_86",
+    "decreto": "Nº 251 de 22 de noviembre de 2016",
+    "ano": 2016,
+    "region": "Coquimbo",
+    "fecha_caducidad": "22 de mayo de 2017",
+    "cobertura_territorial": "Comunas de La Higuera, La Serena, Vicuña, Paihuano, Coquimbo, Río Hurtado, Ovalle, Monte Patria, Punitaqui, Combarbalá, Canela, Illapel, Salamanca, Los Vilos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_88",
+    "decreto": "Nº 4 de 24 de enero de 2017",
+    "ano": 2017,
+    "region": "Valparaíso",
+    "fecha_caducidad": "24 de julio de 2017",
+    "cobertura_territorial": "Comunas de La Ligua, Cabildo y Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_89",
+    "decreto": "Nº 15 de 31 de enero de 2017",
+    "ano": 2017,
+    "region": "Valparaíso",
+    "fecha_caducidad": "31 de julio 2017",
+    "cobertura_territorial": "Comuna de Santa María",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_90",
+    "decreto": "Nº 22 de 22 de febrero de 2017",
+    "ano": 2017,
+    "region": "Valparaíso",
+    "fecha_caducidad": "22 de agosto de 2017",
+    "cobertura_territorial": "Comuna de Casablanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_91",
+    "decreto": "Nº 37 de 3 de abril de 2017",
+    "ano": 2017,
+    "region": "Valparaíso",
+    "fecha_caducidad": "3 de octubrede 2017",
+    "cobertura_territorial": "Provincias de Quillota, Marga - Marga y comuna de Llayllay",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_92",
+    "decreto": "Nº 58 de 26 de mayo de 2017",
+    "ano": 2017,
+    "region": "Maule",
+    "fecha_caducidad": "26 de noviembre de 2017",
+    "cobertura_territorial": "Provincia Curicó: comunas Curicó, Rauco, Romeral, Teno, Vichuquén, Licantén, Hualañé, Molina, Sagrada Familia.  Provincia de Talca: comunas Consitución, Curepto, Empedrado, Maule, Pelarco, Pencahue, Río Claro, San Clemente, San Rafael Talca.  Provincia Cauquenes: comunas Chanco, Cauquenes, Pelluhue.  Provincia Linares: comunas Linares, San Javier, Parral, Villa Alegre, Longaví, Colbún, Retiro, Yerbas Buenas",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_93",
+    "decreto": "Nº 74 de 29 de junio de 2017",
+    "ano": 2017,
+    "region": "Coquimbo",
+    "fecha_caducidad": "29 de septiembre de 2017",
+    "cobertura_territorial": "Comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Río Hurtado, Monte Patria, Ovalle, Punitaqui, Combarbalá, Canela, Illapel, Los Vilos y Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_94",
+    "decreto": "Nº 84 de 01 de agosto de 2017",
+    "ano": 2017,
+    "region": "Los Lagos",
+    "fecha_caducidad": "1 de febrero de 2018",
+    "cobertura_territorial": "Comunas de Quemchi, Quellón",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_95",
+    "decreto": "Nº 85 de 01 de agosto de 2017",
+    "ano": 2017,
+    "region": "Valparaíso",
+    "fecha_caducidad": "2 de febrero de 2018",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_96",
+    "decreto": "Nº 115 de 25 de octubre de 2017",
+    "ano": 2017,
+    "region": "Metropolitana",
+    "fecha_caducidad": "25 de abril de 2018",
+    "cobertura_territorial": "Comunas de San Pedro, Alhué, Curacaví y Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_97",
+    "decreto": "Nº 120 de 2 de noviembre de 2017",
+    "ano": 2017,
+    "region": "Coquimbo",
+    "fecha_caducidad": "2 de mayo de 2018",
+    "cobertura_territorial": "Comunas de la Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Río Hurtado, Monte Patria, Ovalle, Punitaqui, Combarbalá, Canela, Illapel, Los Vilos y Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2017_98",
+    "decreto": "Nº 143 de 4 de diciembre de 2017",
+    "ano": 2017,
+    "region": "Maule",
+    "fecha_caducidad": "4 de junio de 2018",
+    "cobertura_territorial": "Comunas de Vichuquén, Teno, Hualañé, Rauco, Romeral, Curicó, Licantén, Sagrada Familia, Curepto, Molina, Constitución, Río Claro, Pencahue, San Rafael, Pelarco, Talca, San Clemente, Maule, Empedrado",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_100",
+    "decreto": "Nº 4 de 5 de enero de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "5 de julio de 2018",
+    "cobertura_territorial": "Provincias de Quillota, Marga-Marga y Petorca y las comunas de LLay Llay, Concón, San Antonio",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_101",
+    "decreto": "Nº 10 de 30 de enero de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "30 de julio de 2018",
+    "cobertura_territorial": "comuna de Puchuncaví",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_102",
+    "decreto": "Nº 11 de 30 de enero de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "30 de julio de 2018",
+    "cobertura_territorial": "comuna de Putaendo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_103",
+    "decreto": "Nº 13 de 1 de febrero de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "1 de agosto de 2018",
+    "cobertura_territorial": "comunas de San Felipe, Santa María, Catemu y Panquehue, provincia San Felipe y a la comuna de Los Andes, en la provincia Los Andes, Region de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_104",
+    "decreto": "Nº 85 de 26 de abril de 2018",
+    "ano": 2018,
+    "region": "Metropolitana",
+    "fecha_caducidad": "26 de octubre de 2018",
+    "cobertura_territorial": "Provincia de Melipilla, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_105",
+    "decreto": "Nº 89 de 3 de mayo de 2018",
+    "ano": 2018,
+    "region": "Coquimbo",
+    "fecha_caducidad": "3 de noviembre de 2018",
+    "cobertura_territorial": "Comunas de la Higuera,La Serena, Coquimbo, Paihuano, Vicuña, Ovalle, Punitaqui, Combarbalá, Canela, Illapel, Los Vilos y Salamanca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_106",
+    "decreto": "Nº 95 de 5 de junio de 2018",
+    "ano": 2018,
+    "region": "Maule",
+    "fecha_caducidad": "5 de diciembre de 2018",
+    "cobertura_territorial": "Provincia de Curicó y a las Comunas de Curepto, Constitución, Maule, Pelarco y Río Claro en la Provincia de Talca a las Comunas de Longaví, Parral, Retiro, San Javier, Villa Alegre y Yerbas Buenas en la Provincia de Linares y a las Comunas de Chanco y Pelluhue en la Provincia de Cauquenes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_107",
+    "decreto": "Nº 112 de 5 de julio de 2018",
+    "ano": 2018,
+    "region": "Metropolitana",
+    "fecha_caducidad": "5 de enero de 2019",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_108",
+    "decreto": "Nº 114 de 6 de julio de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "6 de enero de 2019",
+    "cobertura_territorial": "Comunas de Petorca, Cabildo, La Ligua, Zapallar y Papudo, Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_109",
+    "decreto": "Nº 125 de 14 de agosto de 2018",
+    "ano": 2018,
+    "region": "Metropolitana",
+    "fecha_caducidad": "14 de febrero de 2019",
+    "cobertura_territorial": "Comuna de Colina, Provincia de Chacabuco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_110",
+    "decreto": "Nº 126 de 29 de agosto de 2018",
+    "ano": 2018,
+    "region": "Valparaíso",
+    "fecha_caducidad": "1 de marzo de 2019",
+    "cobertura_territorial": "Provincias de Los Andes, San Felipe, Quillota y Marga Marga",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2018_111",
+    "decreto": "Nº 150 de 27 de noviembre de 2018",
+    "ano": 2018,
+    "region": "Coquimbo",
+    "fecha_caducidad": "27 de mayo de 2019",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_113",
+    "decreto": "Nº 8 de 30 de enero de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "30 de julio de 2019",
+    "cobertura_territorial": "Provincia de Petorca, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_114",
+    "decreto": "Nº 9 de 30 de enero de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "30 de julio de 2019",
+    "cobertura_territorial": "Provincia de Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_115",
+    "decreto": "Nº 10 de 30 de enero de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "30 de julio de 2019",
+    "cobertura_territorial": "Provincia de Marga Marga",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_116",
+    "decreto": "Nº 33 de 1 de marzo de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "1 de septiembre de 2019",
+    "cobertura_territorial": "Cuenca del Río Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_117",
+    "decreto": "Nº 68 de 28 de junio de 2019",
+    "ano": 2019,
+    "region": "Coquimbo",
+    "fecha_caducidad": "1 de diciembre de 2019",
+    "cobertura_territorial": "Region de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_118",
+    "decreto": "Nº 81 de 31 de julio de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "31 de enero de 2020",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_119",
+    "decreto": "Nº 75 de 19 de julio de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "19 de enero de2020",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_120",
+    "decreto": "N°91 de 20 de agosto de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "20 de febrero de 2020",
+    "cobertura_territorial": "Provincoas de Valparaíso y San Antonio",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_121",
+    "decreto": "N°74 de 19 de julio de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "19 de enero de 2020",
+    "cobertura_territorial": "Comuna de Colina",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_122",
+    "decreto": "N°116 de de 3 de octubre de 2019",
+    "ano": 2019,
+    "region": "O´higgins",
+    "fecha_caducidad": "3 de abril de 2020",
+    "cobertura_territorial": "Región de O´higgins",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_123",
+    "decreto": "N°107 de 16 de septiembre de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "16 de marzo de 2020",
+    "cobertura_territorial": "Provincia de Marga Marga",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_124",
+    "decreto": "N°124 de 17 de octubre de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de abril de 2020",
+    "cobertura_territorial": "Comunas de lo Barnechea, Las Condes y Vitacura",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_125",
+    "decreto": "N°114 de 1 de octubre de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "1 de abril de 2020",
+    "cobertura_territorial": "Comuna de Paine",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_126",
+    "decreto": "N°105 de 10 de septiembre de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "6 de marzo de 2020",
+    "cobertura_territorial": "Comunas de San José de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_127",
+    "decreto": "N°102 de 6 de septiembre de 2019",
+    "ano": 2019,
+    "region": "Maule",
+    "fecha_caducidad": "6 de marzo de 2020",
+    "cobertura_territorial": "Región del Maule",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_128",
+    "decreto": "N°99 de 2 septiembre de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "2 de marzo de 2020",
+    "cobertura_territorial": "Provincia de Los Andes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_129",
+    "decreto": "N°98 de 2 de septiembre de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "2 de marzo de 2020",
+    "cobertura_territorial": "Provincia de San Felipe de Aconcagua",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_130",
+    "decreto": "N°97 de 2 de septiembre de 2019",
+    "ano": 2019,
+    "region": "Valparaíso",
+    "fecha_caducidad": "2 de marzo de 2020",
+    "cobertura_territorial": "Provincia de Quillota",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_131",
+    "decreto": "N°94 de 26 de agosto de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "26 de febrero de 2020",
+    "cobertura_territorial": "Comunas de Alhué y San pedro",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_132",
+    "decreto": "N°156 de 31 de diciembre de 2019",
+    "ano": 2019,
+    "region": "Coquimbo",
+    "fecha_caducidad": "30 de junio de 2020",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2019_133",
+    "decreto": "N°157 de  31 de diciembre de 2019",
+    "ano": 2019,
+    "region": "Metropolitana",
+    "fecha_caducidad": "30 de junio de 2020",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto y Melipilla, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_135",
+    "decreto": "N° 9  de 04 de febrero de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "04 de agosto de 2020",
+    "cobertura_territorial": "Comuna de Colina, Provincia de Chacabuco, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_136",
+    "decreto": "N° 10  de 04 de febrero de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "04 de agosto de 2020",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_137",
+    "decreto": "N° 11 de 04 de febrero de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "04 de agosto de 2020",
+    "cobertura_territorial": "Provincia de Petorca, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_138",
+    "decreto": "N° 14 de 21 de febrero de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "21 de agosto de 2020",
+    "cobertura_territorial": "Provincias de San Antonio y Valparaiso, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_139",
+    "decreto": "N° 15 de 21 de febrero de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de agosto de 2020",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante y El Monte, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_140",
+    "decreto": "N° 17 de 27 de febrero de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "27 de agosto de 2020",
+    "cobertura_territorial": "Comunas de Alhué y San Pedro, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_141",
+    "decreto": "N° 18 de 03 de marzo de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "03 de septiembre de 2020",
+    "cobertura_territorial": "Provincia de San Felipe de Aconcagua, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_142",
+    "decreto": "N° 19 de 03 de marzo de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "03 de septiembre de 2020",
+    "cobertura_territorial": "Provincia de Quillota, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_143",
+    "decreto": "N° 20 de 03 de marzo de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "03 de septiembre de 2020",
+    "cobertura_territorial": "Provincia de Los Andes, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_144",
+    "decreto": "N° 33 de 09 de marzo de 2020",
+    "ano": 2020,
+    "region": "Maule",
+    "fecha_caducidad": "09 de septiembre de 2020",
+    "cobertura_territorial": "Región del Maule.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_145",
+    "decreto": "N° 34 de 11 de marzo de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "11 de septiembre de 2020",
+    "cobertura_territorial": "Comunas de San Jose de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_146",
+    "decreto": "N° 36 de 17 de marzo de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "17 de marzo de 2020",
+    "cobertura_territorial": "Provincia de Marga Marga, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_147",
+    "decreto": "N° 45 de 19 de marzo de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "19 de septiembre de 2020",
+    "cobertura_territorial": "Comunas de Pudahuel, Provincia de Santiago, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_148",
+    "decreto": "N° 52 de 02 de abril de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "02 de octubre de 2020",
+    "cobertura_territorial": "Comuna de Paine , Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_149",
+    "decreto": "N° 54 de 06 de abril de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "06 de octubre de 2020",
+    "cobertura_territorial": "Región de Libertador General Bernardo O´Higgins.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_150",
+    "decreto": "N° 58 de 20 de abril de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "20 de octubre de 2020",
+    "cobertura_territorial": "Comuna de lo Barnechea, Las Condes y Vitacura, Provincia de Santiago, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_151",
+    "decreto": "N° 61 de 30 de abril de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "30 de octubre de 2020",
+    "cobertura_territorial": "Comuna de Calera de Tango, Provincia de Maipo, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_152",
+    "decreto": "N° 72  de 01 de julio de 2020",
+    "ano": 2020,
+    "region": "Coquimbo",
+    "fecha_caducidad": "01 de enero de 2021",
+    "cobertura_territorial": "Región de Coquimbo.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_153",
+    "decreto": "N° 73 de 01 de julio de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "01 de enero de 2021",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto y Melipilla, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_154",
+    "decreto": "N° 81 de 05 de agosto de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "05 de febrero de 2021",
+    "cobertura_territorial": "Provincia de Petorca, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_155",
+    "decreto": "N° 82 de 05 de agosto de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "05 de febrero de 2021",
+    "cobertura_territorial": "Provincia de Chacabuco/Comunas de Colina y Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_156",
+    "decreto": "N° 85 de 21 de agosto de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de febrero de 2021",
+    "cobertura_territorial": "Comuna de Lampa, Provincia de Chacabuco, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_157",
+    "decreto": "N° 90  de 24 de agosto de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "24 de febrero de 2021",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante y El Monte, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_158",
+    "decreto": "N° 92 de 27 de agosto de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "27 de febrero de 2021",
+    "cobertura_territorial": "Provincias de San Antonio y Valparaiso, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_159",
+    "decreto": "N° 95  de 31 de agosto de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "28 de febrero de 2021",
+    "cobertura_territorial": "Comunas de San Pedro y Alhué, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_160",
+    "decreto": "N° 100  de 04 de septiembre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "04 de marzo de 2021",
+    "cobertura_territorial": "Provincias de San Felipe de Aconcagua, Quillota y Los Andes, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_161",
+    "decreto": "N° 102  de 14 de septiembre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "14 de marzo de 2021",
+    "cobertura_territorial": "Comunas de San Jose de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_162",
+    "decreto": "N° 108 de 21 de septiembre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de marzo de 2021",
+    "cobertura_territorial": "Comuna de Pudahuel, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_163",
+    "decreto": "N° 109  de 21 de septiembre de 2020",
+    "ano": 2020,
+    "region": "Valparaíso",
+    "fecha_caducidad": "21 de marzo de 2021",
+    "cobertura_territorial": "Provincia de Marga Marga, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_164",
+    "decreto": "N° 118 de 05 de octubre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "05 de abril de 2021",
+    "cobertura_territorial": "Comuna de Paine , Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_165",
+    "decreto": "N° 125 de 21 de octubre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de abril de 2021",
+    "cobertura_territorial": "Comunas de lo Barnechea, Las Condes y Vitacura",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_166",
+    "decreto": "N° 131 de 02 de noviembre de 2020",
+    "ano": 2020,
+    "region": "Metropolitana",
+    "fecha_caducidad": "02 de mayo de 2021",
+    "cobertura_territorial": "Comuna de Calera de Tango",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2020_167",
+    "decreto": "N° 132 de 02 de noviembre de 2020",
+    "ano": 2020,
+    "region": "Atacama",
+    "fecha_caducidad": "02 de mayo de 2021",
+    "cobertura_territorial": "Provincia de Copiapó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_169",
+    "decreto": "N° 1 de 04 enero de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "04 de julio de 2021",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto y Melipilla, Región Metropolitana.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_170",
+    "decreto": "N° 2 de 04 de enero de 2021",
+    "ano": 2021,
+    "region": "Coquimbo",
+    "fecha_caducidad": "04 de julio de 2021",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_171",
+    "decreto": "N° 27 de 08 de febrero de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "08 de agosto de 2021",
+    "cobertura_territorial": "Provincia de Chacabuco/Comunas de Colina y Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_172",
+    "decreto": "N° 28 de 08 de febrero de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "08 de agosto de 2021",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_173",
+    "decreto": "Nº 38 de 22 de febrero de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "22 de agosto de 2021",
+    "cobertura_territorial": "Comuna de Lampa, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_174",
+    "decreto": "Nº 40 de 25 de febrero de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "25 de agosto de 2021",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante, El Monte,  Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_175",
+    "decreto": "Nº 41 de 28 de febrero de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "28 de agosto de 2021",
+    "cobertura_territorial": "Provincias de San Antonio y Valparaíso, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_176",
+    "decreto": "Nº 43 de 8 de marzo de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "08 de septiembre de 2021",
+    "cobertura_territorial": "Provincias de San Felipe de Aconcagua, Quillota y Los Andes, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_177",
+    "decreto": "Nº 48 de 15 de marzo de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "15 de septiembre de 2021",
+    "cobertura_territorial": "Comunas de San José de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_178",
+    "decreto": "Nº 50 de 19 de marzo de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "18 de septiembre de 2021",
+    "cobertura_territorial": "Comuna de San Pedro, Provincia de Melipilla, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_179",
+    "decreto": "Nº 54 de 22 de marzo de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "22 de septiembre de 2021",
+    "cobertura_territorial": "Comunas de Quilpué, Limache, Olmué y Villa Alemana, Provincia de Marga Marga, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_180",
+    "decreto": "Nº 55 de 22 de marzo de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de septiembre de 2021",
+    "cobertura_territorial": "Comuna de Pudahuel, Provincia de Santiago, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_181",
+    "decreto": "Nº 61 de 05 de abril de 2021",
+    "ano": 2021,
+    "region": "Los Lagos",
+    "fecha_caducidad": "05 de octubre de 2021",
+    "cobertura_territorial": "Provincias de Osorno, Llanquihue y Chiloé , Región de Los Lagos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_182",
+    "decreto": "Nº 63 de 06 de abril de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "06 de octubre de 2021",
+    "cobertura_territorial": "Comuna de Paine , Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_183",
+    "decreto": "N° 80 de 03 de mayo de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "03 de noviembre de 2021",
+    "cobertura_territorial": "Comuna de Calera de Tango, Provincia de Maipo, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_184",
+    "decreto": "N° 81 de 05 de mayo de 2021",
+    "ano": 2021,
+    "region": "Atacama",
+    "fecha_caducidad": "05 de noviembre de 2021",
+    "cobertura_territorial": "Provincia de Copiapó, Región de Atacama",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_185",
+    "decreto": "N° 125 de 05 de julio de 2021",
+    "ano": 2021,
+    "region": "Coquimbo",
+    "fecha_caducidad": "05 de enero de 2022",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_186",
+    "decreto": "N° 126 de 05 de julio de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "05 de enero de 2022",
+    "cobertura_territorial": "Comunas de Lo Barnechea, Las Condes y Vitacura, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_187",
+    "decreto": "N° 128 del 05 de julio de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "05 de enero de 2022",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto, Melipilla, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_188",
+    "decreto": "N° 151 del 09 de agosto de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "09 de febrero de 2022",
+    "cobertura_territorial": "Provincia de Petorca, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_189",
+    "decreto": "N° 152 del 09 de agosto de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "09 de febrero de 2022",
+    "cobertura_territorial": "Provincia de Chacabuco/Comunas de Colina y Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_190",
+    "decreto": "N° 175 del 25 de agosto de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "25 de febrero de 2022",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante y El Monte, Provincia de Talagante, Región Metropolitana de Santiago",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_191",
+    "decreto": "N° 176 del 25 de agosto de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "01 de marzo de 2022",
+    "cobertura_territorial": "Provincia de San Antonio y Valparaíso, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_192",
+    "decreto": "N° 158 del 23 de agosto de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "23 de febrero de 2022",
+    "cobertura_territorial": "Provincia de Chacabuco: Lampa",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_193",
+    "decreto": "N° 159 del 23 de agosto de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "23 de febrero de 2022",
+    "cobertura_territorial": "Provinvia de Melipilla: Alhué",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_194",
+    "decreto": "Nº 177 del 25 de agosto de 2021",
+    "ano": 2021,
+    "region": "Maule",
+    "fecha_caducidad": "25 de febrero de 2022",
+    "cobertura_territorial": "Región del Maule, Provincias de Curicó, Talca, Linares y Cauquenes: Curicó, Romeral, Hualañe, Licantén, Rauco, Sagrada Familia, Teno, Vichuquén, Molina, San Clemente, Constitución, Talca, Pelarco, San Rafael, Pencahue, Maule, Río Claro, Curepto, Empedrado, Retiro, Linares, Longaví, Yerbas Buenas, Colbún, Parral, San Javier, Villa Alegre, Pelluhe, Chanco, Cauquenes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_195",
+    "decreto": "N° 179 del 31 de agosto de 2021",
+    "ano": 2021,
+    "region": "O' Higgins",
+    "fecha_caducidad": "01 de marzo de 2022",
+    "cobertura_territorial": "Región de O´Higgins, Provincias de Cachapoal, Cardenal Caro y Colchagua: Rancagua, Codegua, Coinco, Coltauco, Doñihue, Graneros, Las Cabras, Machalí, Malloa, Mostazal, Olivar, Peumo, Pichidegua, Quinta de Tilcoco, Requínoa, Rengo, San Vicente de Tagua Tagua, Pichilemu, La Estrella, Litueche, Marchigüe, Navidad, Paredones, San Fernando, Chépica, Chimbarongo, Lolol, Nancagua, Palmilla, Peralillo, Placilla, Pumanque, Santa Cruz",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_196",
+    "decreto": "Nº 190 de 09 de septiembre de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "09 de marzo de 2022",
+    "cobertura_territorial": "Provincias de San Felipe de Aconcagua, Quillota y Los Andes, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_197",
+    "decreto": "Nº 192 de 15 de septiembre de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "16 de marzo de 2022",
+    "cobertura_territorial": "Comunas de San José de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_198",
+    "decreto": "Nº  198 de 20 de septiembre de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "19 de marzo de 2022",
+    "cobertura_territorial": "Comuna de San Pedro, Provincia de Melipilla, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_199",
+    "decreto": "Nº 199 de 22 de septiembre de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "22 de marzo de 2022",
+    "cobertura_territorial": "Comuna de Pudahuel, Provincia de Santiago, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_200",
+    "decreto": "Nº 200 de 22 de septiembre de 2021",
+    "ano": 2021,
+    "region": "Valparaíso",
+    "fecha_caducidad": "23 de marzo de 2022",
+    "cobertura_territorial": "Comunas de Quilpué, Limache, Olmué y Villa Alemana, Provincia de Marga Marga, Región de Valparaíso.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_201",
+    "decreto": "Nº 205 de 07 de octubre de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "07 de abril de 2022",
+    "cobertura_territorial": "Comuna de Paine , Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_202",
+    "decreto": "Nº 213 de 07 de octubre de 2021",
+    "ano": 2021,
+    "region": "Los Lagos",
+    "fecha_caducidad": "07 de abril de 2022",
+    "cobertura_territorial": "Provincias de Osorno, Llanquihue, Chiloé y Palena, Región de Los Lagos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_203",
+    "decreto": "N° 222 de 04 de noviembre de 2021",
+    "ano": 2021,
+    "region": "Metropolitana",
+    "fecha_caducidad": "04 de mayo de 2022",
+    "cobertura_territorial": "Comuna de Calera de Tango, Provincia de Maipo, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_204",
+    "decreto": "N° 223 de 05 de noviembre de 2021",
+    "ano": 2021,
+    "region": "Atacama",
+    "fecha_caducidad": "05 de mayo de 2022",
+    "cobertura_territorial": "Provincia de Copiapó, Región de Atacama",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_205",
+    "decreto": "N° 233 de 25 de noviembre de 2021",
+    "ano": 2021,
+    "region": "Los Ríos",
+    "fecha_caducidad": "25 de mayo de 2022",
+    "cobertura_territorial": "Comunas de Valdivia, Corral, Lanco, Los Lagos, Máfil, Mariquina, Paillaco, Panguipulli de la Provincia de Valdivia; comunas de La Unión, Futrono, Lago Ranco y Río Bueno de la Provincia de Ranco, Región de Los Ríos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2021_206",
+    "decreto": "N° 257 de 24 de diciembre de 2021",
+    "ano": 2021,
+    "region": "Atacama",
+    "fecha_caducidad": "24 de junio de 2022",
+    "cobertura_territorial": "Comunas de Alto del Carmen de la Provincia de Huasco, Región de Atacama",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_208",
+    "decreto": "N° 3 del 05 de enero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "06 de julio de 2022",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto, Melipilla, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_209",
+    "decreto": "N° 4 del 05 de enero de 2022",
+    "ano": 2022,
+    "region": "Coquimbo",
+    "fecha_caducidad": "06 de julio de 2022",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_210",
+    "decreto": "N° 5 del 05 de enero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "06 de julio de 2022",
+    "cobertura_territorial": "Comunas de Lo Barnechea, Las Condes y Vitacura, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_211",
+    "decreto": "N° 19 del 08 de febrero de 2022",
+    "ano": 2022,
+    "region": "Aysén",
+    "fecha_caducidad": "08 de agosto de 2022",
+    "cobertura_territorial": "Localidad de Islas Huichas, comuna de Aysén, provincia de Aysén, Región de Aysén",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_212",
+    "decreto": "N° 20 del 08 de febrero de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "10 de agosto de 2022",
+    "cobertura_territorial": "Provincia de Petorca, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_213",
+    "decreto": "N° 21 del 08 de febrero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "10 de agosto de 2022",
+    "cobertura_territorial": "Provincia de Chacabuco/Comunas de Colina y Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_214",
+    "decreto": "N° 23 del 24 de febrero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "24 de agosto de 2022",
+    "cobertura_territorial": "Comuna de Lampa, Provincia de Chacabuco, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_215",
+    "decreto": "N° 24 del 24 de febrero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "24 de agosto de 2022",
+    "cobertura_territorial": "Comuna de Alhué, Provincia de Melipilla, Región Metropolitana",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_216",
+    "decreto": "N° 25 del  24 de febrero de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "27 de agosto de 2022",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante y El Monte, Provincia de Talagante, Región Metropolitana de Santiago",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_217",
+    "decreto": "Nº 26 del 25 de febrero de 2022",
+    "ano": 2022,
+    "region": "Maule",
+    "fecha_caducidad": "26 de agosto de 2022",
+    "cobertura_territorial": "Región del Maule, Provincias de Curicó, Talca, Linares y Cauquenes: Curicó, Romeral, Hualañe, Licantén, Rauco, Sagrada Familia, Teno, Vichuquén, Molina, San Clemente, Constitución, Talca, Pelarco, San Rafael, Pencahue, Maule, Río Claro, Curepto, Empedrado, Retiro, Linares, Longaví, Yerbas Buenas, Colbún, Parral, San Javier, Villa Alegre, Pelluhe, Chanco, Cauquenes",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_218",
+    "decreto": "N° 27 del 01 de marzo de 2022",
+    "ano": 2022,
+    "region": "O' Higgins",
+    "fecha_caducidad": "01 de septiembre de 2022",
+    "cobertura_territorial": "Región de O´Higgins, Provincias de Cachapoal, Cardenal Caro y Colchagua: Rancagua, Codegua, Coinco, Coltauco, Doñihue, Graneros, Las Cabras, Machalí, Malloa, Mostazal, Olivar, Peumo, Pichidegua, Quinta de Tilcoco, Requínoa, Rengo, San Vicente de Tagua Tagua, Pichilemu, La Estrella, Litueche, Marchigüe, Navidad, Paredones, San Fernando, Chépica, Chimbarongo, Lolol, Nancagua, Palmilla, Peralillo, Placilla, Pumanque, Santa Cruz",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_219",
+    "decreto": "N° 43 del 04 de marzo de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "01 de septiembre de 2022",
+    "cobertura_territorial": "Provincia de San Antonio y Valparaíso, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_220",
+    "decreto": "Nº 47 de 10 de marzo de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "10 de septiembre de 2022",
+    "cobertura_territorial": "Provincias de San Felipe de Aconcagua, Quillota y Los Andes, Región de Valparaíso",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_221",
+    "decreto": "N°63 de 17 de marzo de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de septiembre de 2022",
+    "cobertura_territorial": "Comunas de San José de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_222",
+    "decreto": "N°64 de 21 de marzo de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "21 de septiembre de 2022",
+    "cobertura_territorial": "Comuna de San Pedro, Provincia de Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_223",
+    "decreto": "N°65 de 23 de marzo de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "23 de septiembre de 2022",
+    "cobertura_territorial": "Comuna de Pudahuel",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_224",
+    "decreto": "N°66 de 24 de marzo de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "24 de septiembre de 2022",
+    "cobertura_territorial": "Provincia de Marga Marga",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_225",
+    "decreto": "N° 108 de 06 de julio de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "07 de julio de 2023",
+    "cobertura_territorial": "Comunas de Lo Barnechea, Las Condes y Vitacura",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_226",
+    "decreto": "N° 109  de 06 de julio  de 2022",
+    "ano": 2022,
+    "region": "Coquimbo",
+    "fecha_caducidad": "07 de julio de 2023",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_227",
+    "decreto": "N° 122  de 18 de julio  de 2022",
+    "ano": 2022,
+    "region": "Los Ríos",
+    "fecha_caducidad": "18 de julio de 2023",
+    "cobertura_territorial": "Provincias de Ranco y Valdivia",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_228",
+    "decreto": "N° 133 de 12 de agosto de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "12 de agosto de 2023",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_229",
+    "decreto": "N° 139 de 25 de agosto de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "25 de agosto de 2023",
+    "cobertura_territorial": "Comunas de Colina y Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_230",
+    "decreto": "N° 140 de 25 de agosto de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "25 de agosto de 2023",
+    "cobertura_territorial": "Comuna de Lampa",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_231",
+    "decreto": "N° 149 de 09 de septiembre de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "11 de septiembre de 2023",
+    "cobertura_territorial": "Provincias de Valparaiso, San Felipe de Aconcagua, Los Andes, Marga Marga y Quillota",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_232",
+    "decreto": "N° 150 de 09 de septiembre de 2022",
+    "ano": 2022,
+    "region": "Valparaíso",
+    "fecha_caducidad": "11 de septiembre de 2023",
+    "cobertura_territorial": "Provincia de San Antonio",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_233",
+    "decreto": "N° 152 de 20 de septiembre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "20 de septiembre de 2023",
+    "cobertura_territorial": "Comunas de Curacaví, María Pinto y Melipilla.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_234",
+    "decreto": "N° 160 de 22 de septiembre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "22 de septiembre de 2023",
+    "cobertura_territorial": "Comunas de San Jose de Maipo, Pirque, Puente Alto, San Bernardo, Isla de Maipo y Buin.",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_235",
+    "decreto": "N° 161 de 23 de septiembre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "23 de septiembre de 2023",
+    "cobertura_territorial": "Comunas de Padre Hurtado, Peñaflor, Talagante y El Monte, Provincia de Talagante",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_236",
+    "decreto": "N° 174 de 14 de octubre de 2022",
+    "ano": 2022,
+    "region": "Maule",
+    "fecha_caducidad": "14 de octubre de 2023",
+    "cobertura_territorial": "Provincia de Curicó",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_237",
+    "decreto": "N° 178 de 17 de octubre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de octubre de 2023",
+    "cobertura_territorial": "Comuna de Pudahuel, Provincia de Santiago",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_238",
+    "decreto": "N° 179 de 17 de octubre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de octubre de 2023",
+    "cobertura_territorial": "Comuna de Paine, Provincia de Maipo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_239",
+    "decreto": "N° 180 de 17 de octubre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "17 de octubre de 2023",
+    "cobertura_territorial": "Comuna de Calera de Tango, Provincia de Maipo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_240",
+    "decreto": "N° 206 de 16 de noviembre de 2022",
+    "ano": 2022,
+    "region": "Atacama",
+    "fecha_caducidad": "16 de noviembre de 2023",
+    "cobertura_territorial": "Provincia de Huasco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_241",
+    "decreto": "N° 207 de 16 de noviembre de 2022",
+    "ano": 2022,
+    "region": "Metropolitana",
+    "fecha_caducidad": "16 de noviembre de 2023",
+    "cobertura_territorial": "Comuna de San Pedro, Provincia de Melipilla",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2022_242",
+    "decreto": "N° 213 de 07 de diciembre de 2022",
+    "ano": 2022,
+    "region": "Magallanes y de la Antártica Chilena",
+    "fecha_caducidad": "07 de diciembre de 2023",
+    "cobertura_territorial": "Comuna de Cabo de Hornos",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_244",
+    "decreto": "N° 31 de 23 de febrero de 2023",
+    "ano": 2023,
+    "region": "Magallanes y de la Antártica Chilena",
+    "fecha_caducidad": "23 de febrero de 2024",
+    "cobertura_territorial": "Comunas de Timaukel, Porvenir, Torres del Paine, Laguna Blanca, Río Verde y San Gregorio",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_245",
+    "decreto": "N° 66 de 21 de abril de 2023",
+    "ano": 2023,
+    "region": "Ñuble",
+    "fecha_caducidad": "21 de abril de 2024",
+    "cobertura_territorial": "Región de Ñuble",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_246",
+    "decreto": "N° 123 de 06 de julio de 2023",
+    "ano": 2023,
+    "region": "Coquimbo",
+    "fecha_caducidad": "07 de julio de 2024",
+    "cobertura_territorial": "Región de Coquimbo",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_247",
+    "decreto": "N° 167 de 11 de agosto de 2023",
+    "ano": 2023,
+    "region": "Valparaíso",
+    "fecha_caducidad": "13 de agosto de 2024",
+    "cobertura_territorial": "Provincia de Petorca",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_248",
+    "decreto": "N° 205 de 27 de septiembre de 2023",
+    "ano": 2023,
+    "region": "Valparaíso",
+    "fecha_caducidad": "27 de septiembre de 2024",
+    "cobertura_territorial": "Provincia de San Antonio",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_249",
+    "decreto": "N° 261 de 28 de diciembre de 2023",
+    "ano": 2023,
+    "region": "Atacama",
+    "fecha_caducidad": "17 de noviembre de 2024",
+    "cobertura_territorial": "Provincia de Huasco",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2023_250",
+    "decreto": "N°251 de 20 de diciembre de 2023",
+    "ano": 2023,
+    "region": "Metropolitana",
+    "fecha_caducidad": "20 de diciembre de 2024",
+    "cobertura_territorial": "Provincia de Chacabuco/Comuna de Til Til",
+    "es_vigente": false
+  },
+  {
+    "id": "dec_escasez_2024_252",
+    "decreto": "N°24 de 14 de marzo de 2024",
+    "ano": 2024,
+    "region": "Los Lagos",
+    "fecha_caducidad": "14 de marzo de 2025",
+    "cobertura_territorial": "Puerto Montt,Calbuco, Los Muermos, Llanquihue, Maullín, Puerto Varas, Fresia y Cochamó",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2024_253",
+    "decreto": "N°25 de 14 de marzo de 2024",
+    "ano": 2024,
+    "region": "Los Lagos",
+    "fecha_caducidad": "14 de marzo de 2025",
+    "cobertura_territorial": "Provincia de Chiloé",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2024_254",
+    "decreto": "N°87 de 5 de julio de 2024",
+    "ano": 2024,
+    "region": "Coquimbo",
+    "fecha_caducidad": "8 de julio de 2025",
+    "cobertura_territorial": "Provincia de Limarí",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2024_255",
+    "decreto": "N° 89 de 11 de julio de 2024",
+    "ano": 2024,
+    "region": "Coquimbo",
+    "fecha_caducidad": "11 de julio de 2025",
+    "cobertura_territorial": "Provincia de Elqui",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2024_256",
+    "decreto": "N°94 de 26 de julio de 2024",
+    "ano": 2024,
+    "region": "Coquimbo",
+    "fecha_caducidad": "26 de julio de 2025",
+    "cobertura_territorial": "Provincia de Choapa",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_258",
+    "decreto": "N°17 de 22 de enero de 2025",
+    "ano": 2025,
+    "region": "Arica y Parinacota",
+    "fecha_caducidad": "22 de julio de 2025",
+    "cobertura_territorial": "Sector Hidrogeológico de Aprovechamiento Común Lluta Bajo",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_259",
+    "decreto": "N° 47 de 21 de marzo de 2025",
+    "ano": 2025,
+    "region": "Los Lagos",
+    "fecha_caducidad": "15 de marzo de 2026",
+    "cobertura_territorial": "Provincia de Chiloé",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_260",
+    "decreto": "N° 74 de 07 de julio de 2025",
+    "ano": 2025,
+    "region": "Coquimbo",
+    "fecha_caducidad": "07 de julio de 2026",
+    "cobertura_territorial": "Provincia de Limarí",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_261",
+    "decreto": "N° 75 de 11 de julio de 2025",
+    "ano": 2025,
+    "region": "Coquimbo",
+    "fecha_caducidad": "12 de julio de 2026",
+    "cobertura_territorial": "Provincia de Elqui",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_262",
+    "decreto": "N°77  de 21 de julio de 2025",
+    "ano": 2025,
+    "region": "Coquimbo",
+    "fecha_caducidad": "27 de julio de 2026",
+    "cobertura_territorial": "Provincia de Choapa",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2025_263",
+    "decreto": "N° 78 de 21 de julio de 2025",
+    "ano": 2025,
+    "region": "Arica y Parinacota",
+    "fecha_caducidad": "23 de julio de 2026",
+    "cobertura_territorial": "Sector Hidrogeológico de Aprovechamiento Común Lluta Bajo",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2026_265",
+    "decreto": "N° 93 de 16 de marzo de 2026",
+    "ano": 2026,
+    "region": "Los Lagos",
+    "fecha_caducidad": "2027-03-16 00:00:00",
+    "cobertura_territorial": "Provincia de Chiloé",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2026_266",
+    "decreto": "N° 179 de 10 de julio de 2026",
+    "ano": 2026,
+    "region": "Coquimbo",
+    "fecha_caducidad": "2027-07-10 00:00:00",
+    "cobertura_territorial": "Provincia de Elqui",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2026_267",
+    "decreto": "N° 184 de 24 de julio de 2026",
+    "ano": 2026,
+    "region": "Arica y Parinacota",
+    "fecha_caducidad": "2027-07-24 00:00:00",
+    "cobertura_territorial": "Sector Hidrogeológico de Aprovechamiento Común Lluta Bajo",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2026_268",
+    "decreto": "N° 185 de 24 de julio de 2026",
+    "ano": 2026,
+    "region": "Coquimbo",
+    "fecha_caducidad": "2027-07-24 00:00:00",
+    "cobertura_territorial": "Provincia de Choapa",
+    "es_vigente": true
+  },
+  {
+    "id": "dec_escasez_2026_269",
+    "decreto": "N° 177 de 09 de julio de 2026",
+    "ano": 2026,
+    "region": "Coquimbo",
+    "fecha_caducidad": "2027-07-10 00:00:00",
+    "cobertura_territorial": "Provincia de Limarí",
+    "es_vigente": true
+  }
+]

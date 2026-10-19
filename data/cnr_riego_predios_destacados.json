@@ -1,0 +1,98 @@
+[
+  {
+    "id": "RIEGO-054-01",
+    "nombre_valle": "Valle de Panquehue - Viñas y Frutales",
+    "comuna": "Panquehue",
+    "cuenca_codigo": "054",
+    "superficie_ha": 3400.0,
+    "sistema_riego": "Goteo Tecnificado",
+    "cultivo": "Viñas finas y Nogales",
+    "fuente": "Río Aconcagua (Canal Rinconada)",
+    "lat": -32.765,
+    "lon": -70.835
+  },
+  {
+    "id": "RIEGO-057-02",
+    "nombre_valle": "Valle de Mallarauco - Frutales de Exportación",
+    "comuna": "Melipilla",
+    "cuenca_codigo": "057",
+    "superficie_ha": 5800.0,
+    "sistema_riego": "Microaspersión y Goteo",
+    "cultivo": "Cerezos y Cítricos",
+    "fuente": "Canal Mallarauco (Río Mapocho / Maipo)",
+    "lat": -33.61,
+    "lon": -71.215
+  },
+  {
+    "id": "RIEGO-057-03",
+    "nombre_valle": "Valle de Pirque y Buin",
+    "comuna": "Pirque",
+    "cuenca_codigo": "057",
+    "superficie_ha": 6200.0,
+    "sistema_riego": "Mixto (Goteo y Tendido)",
+    "cultivo": "Viñedos y Almendros",
+    "fuente": "Canal Pirque (Río Maipo)",
+    "lat": -33.68,
+    "lon": -70.58
+  },
+  {
+    "id": "RIEGO-060-04",
+    "nombre_valle": "Valle de Colchagua - Chimbarongo",
+    "comuna": "Chimbarongo",
+    "cuenca_codigo": "060",
+    "superficie_ha": 8900.0,
+    "sistema_riego": "Tecnificado 75%",
+    "cultivo": "Frutales de carozo y Viñas",
+    "fuente": "Embalse Convento Viejo (Río Tinguiririca)",
+    "lat": -34.71,
+    "lon": -71.045
+  },
+  {
+    "id": "RIEGO-073-05",
+    "nombre_valle": "Regadío Canal Maule Norte",
+    "comuna": "San Clemente",
+    "cuenca_codigo": "073",
+    "superficie_ha": 14500.0,
+    "sistema_riego": "Surco y Pivote Central",
+    "cultivo": "Manzanos, Kiwis y Arroz",
+    "fuente": "Canal Maule Norte (Laguna del Maule)",
+    "lat": -35.53,
+    "lon": -71.49
+  },
+  {
+    "id": "RIEGO-083-06",
+    "nombre_valle": "Sistema Laja - Diguillín",
+    "comuna": "San Ignacio / El Carmen",
+    "cuenca_codigo": "083",
+    "superficie_ha": 22000.0,
+    "sistema_riego": "Pivote, Aspersión y Canales Matrices",
+    "cultivo": "Remolacha, Cereales y Berries",
+    "fuente": "Canal Laja-Diguillín (Lago Laja)",
+    "lat": -36.85,
+    "lon": -72.05
+  },
+  {
+    "id": "RIEGO-043-07",
+    "nombre_valle": "Valle de Elqui - Vicuña",
+    "comuna": "Vicuña",
+    "cuenca_codigo": "043",
+    "superficie_ha": 4200.0,
+    "sistema_riego": "Goteo Alta Eficiencia (95%)",
+    "cultivo": "Uva Pisquera y Cítricos",
+    "fuente": "Embalse Puclaro (Río Elqui)",
+    "lat": -30.035,
+    "lon": -70.71
+  },
+  {
+    "id": "RIEGO-045-08",
+    "nombre_valle": "Valle de Limarí - Monte Patria",
+    "comuna": "Monte Patria",
+    "cuenca_codigo": "045",
+    "superficie_ha": 9800.0,
+    "sistema_riego": "Microgoteo computarizado",
+    "cultivo": "Paltos y Clementinas",
+    "fuente": "Embalses La Paloma y Cogotí",
+    "lat": -30.7,
+    "lon": -70.95
+  }
+]

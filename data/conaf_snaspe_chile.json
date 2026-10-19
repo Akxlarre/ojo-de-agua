@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "conaf_snaspe_1443404_1",
+    "id_catastro": "1443404",
+    "nombre": "Parque Nacional Glaciares de Santiago",
+    "unidad": "Glaciares de Santiago",
+    "categoria": "Parque Nacional",
+    "region": "Metropolitana",
+    "superficie_ha": 75114.63,
+    "superficie_km2": 751.15,
+    "decreto_creacion": "N25 02-05-2023",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas_centroide": {
+      "latitud": -33.352231,
+      "longitud": -70.044239
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1437411_2",
+    "id_catastro": "1437411",
+    "nombre": "Parque Nacional Desierto Florido",
+    "unidad": "Desierto Florido",
+    "categoria": "Parque Nacional",
+    "region": "Atacama",
+    "superficie_ha": 57108.4,
+    "superficie_km2": 571.08,
+    "decreto_creacion": "N12 08-03-2023 MBN",
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "coordenadas_centroide": {
+      "latitud": -27.620771,
+      "longitud": -70.496291
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345944_3",
+    "id_catastro": "1345944",
+    "nombre": "Parque Nacional Puyehue",
+    "unidad": "Puyehue",
+    "categoria": "Parque Nacional",
+    "region": "Los Rios - Los Lagos",
+    "superficie_ha": 102521.7,
+    "superficie_km2": 1025.22,
+    "decreto_creacion": "N145 21122017 MBN",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas_centroide": {
+      "latitud": -40.665443,
+      "longitud": -72.085543
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1434535_4",
+    "id_catastro": "1434535",
+    "nombre": "Reserva Nacional Kaweskar",
+    "unidad": "Kaweskar",
+    "categoria": "Reserva Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 2628429.2,
+    "superficie_km2": 26284.29,
+    "decreto_creacion": "N6 26.01.2018 MBN",
+    "cuenca_codigo": "123",
+    "cuenca_nombre": "Cuencas Costeras Seno Unión a Estrecho de Magallanes",
+    "coordenadas_centroide": {
+      "latitud": -52.447382,
+      "longitud": -73.822677
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1429709_5",
+    "id_catastro": "1429709",
+    "nombre": "Parque Nacional Salar del Huasco",
+    "unidad": "Salar del Huasco",
+    "categoria": "Parque Nacional",
+    "region": "Tarapaca",
+    "superficie_ha": 110049.47,
+    "superficie_km2": 1100.49,
+    "decreto_creacion": "N 66 01 03 2023 MBN",
+    "cuenca_codigo": "020",
+    "cuenca_nombre": "Cuenca Altiplánica Salar de Huasco",
+    "coordenadas_centroide": {
+      "latitud": -20.224189,
+      "longitud": -68.801885
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345877_6",
+    "id_catastro": "1345877",
+    "nombre": "Reserva Nacional Katalalixar",
+    "unidad": "Katalalixar",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 674500.0,
+    "superficie_km2": 6745.0,
+    "decreto_creacion": "N780 21121983 MBN",
+    "cuenca_codigo": "119",
+    "cuenca_nombre": "Cuenca Archipiélago de Guayaneco",
+    "coordenadas_centroide": {
+      "latitud": -48.08205,
+      "longitud": -74.892128
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345877_7",
+    "id_catastro": "1345877",
+    "nombre": "Reserva Nacional Katalalixar",
+    "unidad": "Katalalixar",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 674500.0,
+    "superficie_km2": 6745.0,
+    "decreto_creacion": "N780 21121983 MBN",
+    "cuenca_codigo": "119",
+    "cuenca_nombre": "Cuenca Archipiélago de Guayaneco",
+    "coordenadas_centroide": {
+      "latitud": -48.080494,
+      "longitud": -74.891408
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345896_8",
+    "id_catastro": "1345896",
+    "nombre": "Reserva Nacional Las Guaitecas",
+    "unidad": "Las Guaitecas",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 1097975.0,
+    "superficie_km2": 10979.75,
+    "decreto_creacion": "N420 13071983 MBN",
+    "cuenca_codigo": "114",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aysén y Río Baker",
+    "coordenadas_centroide": {
+      "latitud": -45.269291,
+      "longitud": -74.256851
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345896_9",
+    "id_catastro": "1345896",
+    "nombre": "Reserva Nacional Las Guaitecas",
+    "unidad": "Las Guaitecas",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 1097975.0,
+    "superficie_km2": 10979.75,
+    "decreto_creacion": "N420 13071983 MBN",
+    "cuenca_codigo": "114",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aysén y Río Baker",
+    "coordenadas_centroide": {
+      "latitud": -45.265155,
+      "longitud": -74.256388
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345927_10",
+    "id_catastro": "1345927",
+    "nombre": "Parque Nacional Bernardo OHiggins",
+    "unidad": "Bernardo Ohiggins",
+    "categoria": "Parque Nacional",
+    "region": "Aysen - Magallanes",
+    "superficie_ha": 1460000.0,
+    "superficie_km2": 14600.0,
+    "decreto_creacion": "N392 14061989 MBN",
+    "cuenca_codigo": "120",
+    "cuenca_nombre": "Cuencas Costeras e Islas Seno Andrew",
+    "coordenadas_centroide": {
+      "latitud": -49.483203,
+      "longitud": -74.58987
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345927_11",
+    "id_catastro": "1345927",
+    "nombre": "Parque Nacional Bernardo OHiggins",
+    "unidad": "Bernardo Ohiggins",
+    "categoria": "Parque Nacional",
+    "region": "Aysen - Magallanes",
+    "superficie_ha": 1460000.0,
+    "superficie_km2": 14600.0,
+    "decreto_creacion": "N392 14061989 MBN",
+    "cuenca_codigo": "120",
+    "cuenca_nombre": "Cuencas Costeras e Islas Seno Andrew",
+    "coordenadas_centroide": {
+      "latitud": -49.479544,
+      "longitud": -74.629802
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345932_12",
+    "id_catastro": "1345932",
+    "nombre": "Parque Nacional Alberto D Agostini",
+    "unidad": "Alberto D Agostini",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 1460000.0,
+    "superficie_km2": 14600.0,
+    "decreto_creacion": "N136 24041985 MBN",
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "coordenadas_centroide": {
+      "latitud": -54.836197,
+      "longitud": -70.539892
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345932_13",
+    "id_catastro": "1345932",
+    "nombre": "Parque Nacional Alberto D Agostini",
+    "unidad": "Alberto D Agostini",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 1460000.0,
+    "superficie_km2": 14600.0,
+    "decreto_creacion": "N136 24041985 MBN",
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "coordenadas_centroide": {
+      "latitud": -54.834557,
+      "longitud": -70.541866
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345912_14",
+    "id_catastro": "1345912",
+    "nombre": "Reserva Nacional Pampa Del Tamarugal",
+    "unidad": "Pampa Del Tamarugal",
+    "categoria": "Reserva Nacional",
+    "region": "Tarapaca",
+    "superficie_ha": 128763.2,
+    "superficie_km2": 1287.63,
+    "decreto_creacion": "N207 181287 - N310 260994 MA - N59 07062013 MBN",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas_centroide": {
+      "latitud": -20.360231,
+      "longitud": -69.721454
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345909_15",
+    "id_catastro": "1345909",
+    "nombre": "Monumento Natural Cerro Nielol",
+    "unidad": "Cerro  Nielol",
+    "categoria": "Monumento Natural",
+    "region": "Araucania",
+    "superficie_ha": 89.5,
+    "superficie_km2": 0.9,
+    "decreto_creacion": "N617 03121987 MBN",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas_centroide": {
+      "latitud": -38.724282,
+      "longitud": -72.588051
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345897_16",
+    "id_catastro": "1345897",
+    "nombre": "Monumento Natural Cinco Hermanas",
+    "unidad": "Cinco Hermanas",
+    "categoria": "Monumento Natural",
+    "region": "Aysen",
+    "superficie_ha": 228.0,
+    "superficie_km2": 2.28,
+    "decreto_creacion": "N160 13101982 MA",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.270768,
+      "longitud": -73.254585
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345880_17",
+    "id_catastro": "1345880",
+    "nombre": "Monumento Natural Contulmo",
+    "unidad": "Contulmo",
+    "categoria": "Monumento Natural",
+    "region": "Araucania",
+    "superficie_ha": 82.0,
+    "superficie_km2": 0.82,
+    "decreto_creacion": "N160 12101982 MA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -38.014833,
+      "longitud": -73.180028
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345891_18",
+    "id_catastro": "1345891",
+    "nombre": "Monumento Natural Isla de Cachagua",
+    "unidad": "Isla De Cachagua",
+    "categoria": "Monumento Natural",
+    "region": "Valparaiso",
+    "superficie_ha": 4.5,
+    "superficie_km2": 0.04,
+    "decreto_creacion": "N89 270689 MA",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas_centroide": {
+      "latitud": -32.586,
+      "longitud": -71.4575
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345868_19",
+    "id_catastro": "1345868",
+    "nombre": "Monumento Natural Islote de Punihuil",
+    "unidad": "Islote de Punihuil",
+    "categoria": "Monumento Natural",
+    "region": "Los Lagos",
+    "superficie_ha": 8.64,
+    "superficie_km2": 0.09,
+    "decreto_creacion": "N130 29091999 MA",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas_centroide": {
+      "latitud": -41.9242,
+      "longitud": -74.0383
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345940_20",
+    "id_catastro": "1345940",
+    "nombre": "Monumento Natural Los Pinguinos",
+    "unidad": "Los Pinguinos",
+    "categoria": "Monumento Natural",
+    "region": "Magallanes",
+    "superficie_ha": 97.0,
+    "superficie_km2": 0.97,
+    "decreto_creacion": "N160 13101982 MA",
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "coordenadas_centroide": {
+      "latitud": -52.905129,
+      "longitud": -70.577581
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345865_21",
+    "id_catastro": "1345865",
+    "nombre": "Monumento Natural Pichasca",
+    "unidad": "Pichasca",
+    "categoria": "Monumento Natural",
+    "region": "Coquimbo",
+    "superficie_ha": 128.0,
+    "superficie_km2": 1.28,
+    "decreto_creacion": "N123 171085 MA",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas_centroide": {
+      "latitud": -30.380042,
+      "longitud": -70.88125
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345885_22",
+    "id_catastro": "1345885",
+    "nombre": "Parque Nacional Alerce Andino",
+    "unidad": "Alerce Andino",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 39255.0,
+    "superficie_km2": 392.55,
+    "decreto_creacion": "N735 17111983 MBN",
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "coordenadas_centroide": {
+      "latitud": -41.569583,
+      "longitud": -72.523678
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345943_23",
+    "id_catastro": "1345943",
+    "nombre": "Parque Nacional Alerce Costero",
+    "unidad": "Alerce Costero",
+    "categoria": "Parque Nacional",
+    "region": "Los Rios",
+    "superficie_ha": 24694.21,
+    "superficie_km2": 246.94,
+    "decreto_creacion": "N9 07052010 MBN - N60 07062013 MBN",
+    "cuenca_codigo": "102",
+    "cuenca_nombre": "Cuencas Costeras entre Río Valdivia y Río Bueno",
+    "coordenadas_centroide": {
+      "latitud": -40.047693,
+      "longitud": -73.417898
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345861_24",
+    "id_catastro": "1345861",
+    "nombre": "Parque Nacional Archipielago Juan Fernandez",
+    "unidad": "Archipielago Juan Fernandez",
+    "categoria": "Parque Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 9570.55,
+    "superficie_km2": 95.71,
+    "decreto_creacion": "N606 160889 MBN",
+    "cuenca_codigo": "056",
+    "cuenca_nombre": "Cuencas Islas del Pacífico (Rapa Nui, Juan Fernández)",
+    "coordenadas_centroide": {
+      "latitud": -33.686745,
+      "longitud": -79.391871
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345930_25",
+    "id_catastro": "1345930",
+    "nombre": "Parque Nacional Cabo De Hornos",
+    "unidad": "Cabo De Hornos",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 63093.0,
+    "superficie_km2": 630.93,
+    "decreto_creacion": "N995 26041945 MT",
+    "cuenca_codigo": "127",
+    "cuenca_nombre": "Cuenca Isla Navarino y Canal Beagle",
+    "coordenadas_centroide": {
+      "latitud": -55.750073,
+      "longitud": -67.495966
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345936_26",
+    "id_catastro": "1345936",
+    "nombre": "Parque Nacional Conguillio",
+    "unidad": "Conguillio",
+    "categoria": "Parque Nacional",
+    "region": "Araucania",
+    "superficie_ha": 60832.8,
+    "superficie_km2": 608.33,
+    "decreto_creacion": "N131 15041987 MBN",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas_centroide": {
+      "latitud": -38.6716,
+      "longitud": -71.633619
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345921_27",
+    "id_catastro": "1345921",
+    "nombre": "Parque Nacional Fray Jorge",
+    "unidad": "Fray Jorge",
+    "categoria": "Parque Nacional",
+    "region": "Coquimbo",
+    "superficie_ha": 9959.0,
+    "superficie_km2": 99.59,
+    "decreto_creacion": "N867 301281 MBN",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas_centroide": {
+      "latitud": -30.697831,
+      "longitud": -71.66396
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345879_28",
+    "id_catastro": "1345879",
+    "nombre": "Parque Nacional Huerquehue",
+    "unidad": "Huerquehue",
+    "categoria": "Parque Nacional",
+    "region": "Araucania",
+    "superficie_ha": 12500.0,
+    "superficie_km2": 125.0,
+    "decreto_creacion": "N82 02031985 MBN",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas_centroide": {
+      "latitud": -39.139523,
+      "longitud": -71.679536
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345946_29",
+    "id_catastro": "1345946",
+    "nombre": "Parque Nacional Isla Guamblin",
+    "unidad": "Isla Guamblin",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 10625.0,
+    "superficie_km2": 106.25,
+    "decreto_creacion": "N321 01061967 MA",
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -44.853924,
+      "longitud": -75.116215
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345906_30",
+    "id_catastro": "1345906",
+    "nombre": "Parque Nacional La Campana",
+    "unidad": "La Campana",
+    "categoria": "Parque Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 8000.0,
+    "superficie_km2": 80.0,
+    "decreto_creacion": "N228 140685 MBN",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas_centroide": {
+      "latitud": -32.96885,
+      "longitud": -71.08743
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345866_31",
+    "id_catastro": "1345866",
+    "nombre": "Parque Nacional Laguna Del Laja",
+    "unidad": "Laguna Del Laja",
+    "categoria": "Parque Nacional",
+    "region": "Biobio",
+    "superficie_ha": 11600.0,
+    "superficie_km2": 116.0,
+    "decreto_creacion": "N652 250658 MA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -37.411355,
+      "longitud": -71.361391
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345872_32",
+    "id_catastro": "1345872",
+    "nombre": "Parque Nacional Llanos De Challe",
+    "unidad": "Llanos De Challe",
+    "categoria": "Parque Nacional",
+    "region": "Atacama",
+    "superficie_ha": 45708.0,
+    "superficie_km2": 457.08,
+    "decreto_creacion": "N946 290794 MBN",
+    "cuenca_codigo": "036",
+    "cuenca_nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "coordenadas_centroide": {
+      "latitud": -28.160877,
+      "longitud": -71.125407
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345863_33",
+    "id_catastro": "1345863",
+    "nombre": "Parque Nacional Morro Moreno",
+    "unidad": "Morro Moreno",
+    "categoria": "Parque Nacional",
+    "region": "Antofagasta",
+    "superficie_ha": 7313.89,
+    "superficie_km2": 73.14,
+    "decreto_creacion": "N5 28012010 MBN",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas_centroide": {
+      "latitud": -23.48497,
+      "longitud": -70.578042
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345935_34",
+    "id_catastro": "1345935",
+    "nombre": "Parque Nacional Nahuelbuta",
+    "unidad": "Nahuelbuta",
+    "categoria": "Parque Nacional",
+    "region": "Araucania",
+    "superficie_ha": 6831.9,
+    "superficie_km2": 68.32,
+    "decreto_creacion": "N882 19101988 MBN",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -37.782455,
+      "longitud": -73.005778
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345876_35",
+    "id_catastro": "1345876",
+    "nombre": "Parque Nacional Pali-Aike",
+    "unidad": "Pali-Aike",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 5030.0,
+    "superficie_km2": 50.3,
+    "decreto_creacion": "N900 21071994 MBN",
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "coordenadas_centroide": {
+      "latitud": -52.081459,
+      "longitud": -69.769973
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345922_36",
+    "id_catastro": "1345922",
+    "nombre": "Parque Nacional Pan De Azucar",
+    "unidad": "Pan De Azucar",
+    "categoria": "Parque Nacional",
+    "region": "Atacama - Coquimbo",
+    "superficie_ha": 43754.0,
+    "superficie_km2": 437.54,
+    "decreto_creacion": "N527 071085 MBN",
+    "cuenca_codigo": "031",
+    "cuenca_nombre": "Cuenca Quebrada Pan de Azúcar",
+    "coordenadas_centroide": {
+      "latitud": -26.053734,
+      "longitud": -70.633546
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345915_37",
+    "id_catastro": "1345915",
+    "nombre": "Parque Nacional Radal Siete Tazas",
+    "unidad": "Radal Siete Tazas",
+    "categoria": "Parque Nacional",
+    "region": "Maule",
+    "superficie_ha": 4138.24,
+    "superficie_km2": 41.38,
+    "decreto_creacion": "N15 27032008 MNB",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas_centroide": {
+      "latitud": -35.477178,
+      "longitud": -70.934712
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345910_38",
+    "id_catastro": "1345910",
+    "nombre": "Parque Nacional Villarrica",
+    "unidad": "Villarrica",
+    "categoria": "Parque Nacional",
+    "region": "Araucania - Los Rios",
+    "superficie_ha": 53158.0,
+    "superficie_km2": 531.58,
+    "decreto_creacion": "N2236 28111940 MTC - N2789 29051931 - N398 30061983 MBN",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas_centroide": {
+      "latitud": -39.466787,
+      "longitud": -71.750997
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345953_39",
+    "id_catastro": "1345953",
+    "nombre": "Parque Nacional Yendegaia",
+    "unidad": "Yendegaia",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 150587.3,
+    "superficie_km2": 1505.87,
+    "decreto_creacion": "N4 27012016 MBN",
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "coordenadas_centroide": {
+      "latitud": -54.677241,
+      "longitud": -68.903083
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345870_40",
+    "id_catastro": "1345870",
+    "nombre": "Reserva Nacional Mocho Choshuenco",
+    "unidad": "Mocho Choshuenco",
+    "categoria": "Reserva Nacional",
+    "region": "Los Rios",
+    "superficie_ha": 7536.5,
+    "superficie_km2": 75.36,
+    "decreto_creacion": "N55 02031994 MA",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas_centroide": {
+      "latitud": -39.931435,
+      "longitud": -72.038383
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345862_41",
+    "id_catastro": "1345862",
+    "nombre": "Reserva Nacional Alto Bio Bio",
+    "unidad": "Alto Bio Bio",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 31444.0,
+    "superficie_km2": 314.44,
+    "decreto_creacion": "N1935 06111912",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas_centroide": {
+      "latitud": -38.624333,
+      "longitud": -70.938037
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345941_42",
+    "id_catastro": "1345941",
+    "nombre": "Reserva Nacional China Muerta",
+    "unidad": "China Muerta",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 9887.0,
+    "superficie_km2": 98.87,
+    "decreto_creacion": "N330 28061968 MA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas_centroide": {
+      "latitud": -38.797127,
+      "longitud": -71.515325
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345947_43",
+    "id_catastro": "1345947",
+    "nombre": "Reserva Nacional Coihaique",
+    "unidad": "Coihaique",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 2150.0,
+    "superficie_km2": 21.5,
+    "decreto_creacion": "N112 17041980 MBN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.516773,
+      "longitud": -72.015303
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345890_44",
+    "id_catastro": "1345890",
+    "nombre": "Reserva Nacional El Yali",
+    "unidad": "El Yali",
+    "categoria": "Reserva Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 520.37,
+    "superficie_km2": 5.2,
+    "decreto_creacion": "N41 230596 MA",
+    "cuenca_codigo": "058",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maipo y Río Rapel",
+    "coordenadas_centroide": {
+      "latitud": -33.760813,
+      "longitud": -71.698901
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345882_45",
+    "id_catastro": "1345882",
+    "nombre": "Reserva Nacional Futaleufu",
+    "unidad": "Futaleufu",
+    "categoria": "Reserva Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 12065.0,
+    "superficie_km2": 120.65,
+    "decreto_creacion": "N602 08091998 MBN",
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "coordenadas_centroide": {
+      "latitud": -43.264994,
+      "longitud": -71.80096
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345924_46",
+    "id_catastro": "1345924",
+    "nombre": "Reserva Nacional La Chimba",
+    "unidad": "La Chimba",
+    "categoria": "Reserva Nacional",
+    "region": "Antofagasta",
+    "superficie_ha": 2583.0,
+    "superficie_km2": 25.83,
+    "decreto_creacion": "N71 120588 MA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas_centroide": {
+      "latitud": -23.535364,
+      "longitud": -70.336818
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345904_47",
+    "id_catastro": "1345904",
+    "nombre": "Reserva Nacional Lago Carlota",
+    "unidad": "Lago Carlota",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 27110.0,
+    "superficie_km2": 271.1,
+    "decreto_creacion": "N204 23061970 MA - N391 08061965 MA - N329 01061967 MA",
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "Cuenca Río Cisnes",
+    "coordenadas_centroide": {
+      "latitud": -44.578891,
+      "longitud": -71.555572
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345949_48",
+    "id_catastro": "1345949",
+    "nombre": "Reserva Nacional Lago Penuelas",
+    "unidad": "Lago Penuelas",
+    "categoria": "Reserva Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 9093.8,
+    "superficie_km2": 90.94,
+    "decreto_creacion": "N859 040652 MTC - N284 200870 MA - N7 100185 MBN - N133 280889 MA",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas_centroide": {
+      "latitud": -33.171614,
+      "longitud": -71.455509
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345899_49",
+    "id_catastro": "1345899",
+    "nombre": "Reserva Nacional Lago Rosselot",
+    "unidad": "Lago Rosselot",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 12725.0,
+    "superficie_km2": 127.25,
+    "decreto_creacion": "N640 13101983 MBN",
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "coordenadas_centroide": {
+      "latitud": -44.062278,
+      "longitud": -72.35054
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345895_50",
+    "id_catastro": "1345895",
+    "nombre": "Reserva Nacional Laguna De Torca",
+    "unidad": "Laguna De Torca",
+    "categoria": "Reserva Nacional",
+    "region": "Maule",
+    "superficie_ha": 604.0,
+    "superficie_km2": 6.04,
+    "decreto_creacion": "N128 17101985 MA",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas_centroide": {
+      "latitud": -34.773284,
+      "longitud": -72.053386
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345929_51",
+    "id_catastro": "1345929",
+    "nombre": "Reserva Nacional Laguna Parrillar",
+    "unidad": "Laguna Parrillar",
+    "categoria": "Reserva Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 18414.0,
+    "superficie_km2": 184.14,
+    "decreto_creacion": "N245 22041977 MA - N423 220682 MBN - N19 11031993 MBN",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas_centroide": {
+      "latitud": -53.330311,
+      "longitud": -71.291754
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345913_52",
+    "id_catastro": "1345913",
+    "nombre": "Reserva Nacional Las Chinchillas",
+    "unidad": "Las Chinchillas",
+    "categoria": "Reserva Nacional",
+    "region": "Coquimbo",
+    "superficie_ha": 4229.0,
+    "superficie_km2": 42.29,
+    "decreto_creacion": "N153 301183 MA",
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "coordenadas_centroide": {
+      "latitud": -31.513424,
+      "longitud": -71.097264
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345889_53",
+    "id_catastro": "1345889",
+    "nombre": "Reserva Nacional Las Vicunas",
+    "unidad": "Las Vicunas",
+    "categoria": "Reserva Nacional",
+    "region": "Arica Y Parinacota",
+    "superficie_ha": 209131.0,
+    "superficie_km2": 2091.31,
+    "decreto_creacion": "N29 080383 MA",
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "coordenadas_centroide": {
+      "latitud": -18.639224,
+      "longitud": -69.175189
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345886_54",
+    "id_catastro": "1345886",
+    "nombre": "Reserva Nacional Llanquihue",
+    "unidad": "Llanquihue",
+    "categoria": "Reserva Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 33972.0,
+    "superficie_km2": 339.72,
+    "decreto_creacion": "N883 19101988 MBN",
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "Cuenca Río Petrohué",
+    "coordenadas_centroide": {
+      "latitud": -41.385264,
+      "longitud": -72.505682
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345931_55",
+    "id_catastro": "1345931",
+    "nombre": "Reserva Nacional Magallanes",
+    "unidad": "Magallanes",
+    "categoria": "Reserva Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 13500.0,
+    "superficie_km2": 135.0,
+    "decreto_creacion": "N2444 23111939 MT",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas_centroide": {
+      "latitud": -53.171861,
+      "longitud": -71.186873
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345938_56",
+    "id_catastro": "1345938",
+    "nombre": "Reserva Nacional Malalcahuello",
+    "unidad": "Malalcahuello",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 13882.0,
+    "superficie_km2": 138.82,
+    "decreto_creacion": "N131 15041987 MBN",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas_centroide": {
+      "latitud": -38.424587,
+      "longitud": -71.536797
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345867_57",
+    "id_catastro": "1345867",
+    "nombre": "Reserva Nacional Malleco",
+    "unidad": "Malleco",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 16438.0,
+    "superficie_km2": 164.38,
+    "decreto_creacion": "N1540 30091907 RE - N28 230185 MBN",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -38.155996,
+      "longitud": -71.796274
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345942_58",
+    "id_catastro": "1345942",
+    "nombre": "Reserva Nacional Nalcas",
+    "unidad": "Nalcas",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 13775.0,
+    "superficie_km2": 137.75,
+    "decreto_creacion": "N604 06101967 MA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -38.276574,
+      "longitud": -71.5381
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345919_59",
+    "id_catastro": "1345919",
+    "nombre": "Parque Nacional Nonguen",
+    "unidad": "Nonguen",
+    "categoria": "Parque Nacional",
+    "region": "Biobio",
+    "superficie_ha": 3036.9,
+    "superficie_km2": 30.37,
+    "decreto_creacion": "N7 05042021 MBN",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -36.894621,
+      "longitud": -72.975914
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345873_60",
+    "id_catastro": "1345873",
+    "nombre": "Reserva Nacional Nuble",
+    "unidad": "Nuble",
+    "categoria": "Reserva Nacional",
+    "region": "Nuble - Biobio",
+    "superficie_ha": 55948.0,
+    "superficie_km2": 559.48,
+    "decreto_creacion": "N384 241178 MA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -37.085847,
+      "longitud": -71.278811
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345955_61",
+    "id_catastro": "1345955",
+    "nombre": "Reserva Nacional Pinguino De Humbolt",
+    "unidad": "Pinguino De Humbolt",
+    "categoria": "Reserva Nacional",
+    "region": "Coquimbo - Atacama",
+    "superficie_ha": 859.3,
+    "superficie_km2": 8.59,
+    "decreto_creacion": "N4 030190 MM",
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "coordenadas_centroide": {
+      "latitud": -29.171628,
+      "longitud": -71.552416
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345893_62",
+    "id_catastro": "1345893",
+    "nombre": "Reserva Nacional Ralco",
+    "unidad": "Ralco",
+    "categoria": "Reserva Nacional",
+    "region": "Biobio",
+    "superficie_ha": 12421.2,
+    "superficie_km2": 124.21,
+    "decreto_creacion": "N249 190489 MBN",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -37.932283,
+      "longitud": -71.377369
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345920_63",
+    "id_catastro": "1345920",
+    "nombre": "Reserva Nacional Rio Los Cipreses",
+    "unidad": "Rios De Los Cipreses",
+    "categoria": "Reserva Nacional",
+    "region": "O Higgins",
+    "superficie_ha": 38582.0,
+    "superficie_km2": 385.82,
+    "decreto_creacion": "N127 171085 MA",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas_centroide": {
+      "latitud": -34.456349,
+      "longitud": -70.414917
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345902_64",
+    "id_catastro": "1345902",
+    "nombre": "Reserva Nacional Trapananda",
+    "unidad": "Trapananda",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 2305.0,
+    "superficie_km2": 23.05,
+    "decreto_creacion": "N357 27081992 MBN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.352623,
+      "longitud": -71.784491
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345925_65",
+    "id_catastro": "1345925",
+    "nombre": "Reserva Nacional Los Flamencos",
+    "unidad": "Los Flamencos",
+    "categoria": "Reserva Nacional",
+    "region": "Antofagasta",
+    "superficie_ha": 73986.5,
+    "superficie_km2": 739.87,
+    "decreto_creacion": "N50 020490 MA",
+    "cuenca_codigo": "025",
+    "cuenca_nombre": "Cuencas Altiplánicas Vertiente Pacífico (Tara, Quisquiro)",
+    "coordenadas_centroide": {
+      "latitud": -23.226871,
+      "longitud": -67.836318
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345958_66",
+    "id_catastro": "1345958",
+    "nombre": "Reserva Nacional Los Ruiles",
+    "unidad": "Los Ruiles",
+    "categoria": "Reserva Nacional",
+    "region": "Maule",
+    "superficie_ha": 89.06,
+    "superficie_km2": 0.89,
+    "decreto_creacion": "N94 130782 MA - N102 29092017 MBN",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas_centroide": {
+      "latitud": -35.777579,
+      "longitud": -72.467474
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345894_67",
+    "id_catastro": "1345894",
+    "nombre": "Monumento Natural El Morado",
+    "unidad": "El Morado",
+    "categoria": "Monumento Natural",
+    "region": "Metropolitana",
+    "superficie_ha": 2900.0,
+    "superficie_km2": 29.0,
+    "decreto_creacion": "N162 199774 MA - N121 04122017",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas_centroide": {
+      "latitud": -33.783373,
+      "longitud": -70.071036
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345960_68",
+    "id_catastro": "1345960",
+    "nombre": "Parque Nacional Pumalin",
+    "unidad": "Pumalin",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 402392.0,
+    "superficie_km2": 4023.92,
+    "decreto_creacion": "N28 28022018 MBN",
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "coordenadas_centroide": {
+      "latitud": -42.660354,
+      "longitud": -72.371429
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345875_69",
+    "id_catastro": "1345875",
+    "nombre": "Monumento Natural Canquen Colorado",
+    "unidad": "Canquen Colorado",
+    "categoria": "Monumento Natural",
+    "region": "Magallanes",
+    "superficie_ha": 26.16,
+    "superficie_km2": 0.26,
+    "decreto_creacion": "N41 04102017 MMA",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas_centroide": {
+      "latitud": -53.656708,
+      "longitud": -70.948875
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345883_70",
+    "id_catastro": "1345883",
+    "nombre": "Parque Nacional Hornopiren",
+    "unidad": "Hornopiren",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 66195.78,
+    "superficie_km2": 661.96,
+    "decreto_creacion": "N2 15012018 MBN",
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "Cuenca Río Puelo",
+    "coordenadas_centroide": {
+      "latitud": -41.871624,
+      "longitud": -72.316679
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345911_71",
+    "id_catastro": "1345911",
+    "nombre": "Parque Nacional Corcovado",
+    "unidad": "Corcovado",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos - Aysen",
+    "superficie_ha": 400010.93,
+    "superficie_km2": 4000.11,
+    "decreto_creacion": "N4 06012018 MBN",
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "coordenadas_centroide": {
+      "latitud": -43.609534,
+      "longitud": -72.736146
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345905_72",
+    "id_catastro": "1345905",
+    "nombre": "Parque Nacional Cerro Castillo",
+    "unidad": "Cerro Castillo",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 143502.0,
+    "superficie_km2": 1435.02,
+    "decreto_creacion": "N88 27072017 MBN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.999696,
+      "longitud": -72.096069
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345901_73",
+    "id_catastro": "1345901",
+    "nombre": "Parque Nacional Isla Magdalena",
+    "unidad": "Isla Magdalena",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 249712.05,
+    "superficie_km2": 2497.12,
+    "decreto_creacion": "N101 27092017 MBN",
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -44.612246,
+      "longitud": -73.052594
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345957_74",
+    "id_catastro": "1345957",
+    "nombre": "Parque Nacional Melimoyu",
+    "unidad": "Melimoyu",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 105499.78,
+    "superficie_km2": 1055.0,
+    "decreto_creacion": "N5 26012018 MBN",
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "coordenadas_centroide": {
+      "latitud": -44.092284,
+      "longitud": -72.975033
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345939_75",
+    "id_catastro": "1345939",
+    "nombre": "Parque Nacional Kawesqar",
+    "unidad": "Kawesqar",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 2842329.1,
+    "superficie_km2": 28423.29,
+    "decreto_creacion": "N6 26012018 MBN",
+    "cuenca_codigo": "123",
+    "cuenca_nombre": "Cuencas Costeras Seno Unión a Estrecho de Magallanes",
+    "coordenadas_centroide": {
+      "latitud": -52.47689,
+      "longitud": -73.746134
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345869_76",
+    "id_catastro": "1345869",
+    "nombre": "Parque Nacional Patagonia",
+    "unidad": "Patagonia",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 304527.75,
+    "superficie_km2": 3045.28,
+    "decreto_creacion": "N98 25102018 MBN",
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "coordenadas_centroide": {
+      "latitud": -46.935754,
+      "longitud": -72.163899
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345892_77",
+    "id_catastro": "1345892",
+    "nombre": "Reserva Nacional Los Huemules Del Niblinto",
+    "unidad": "Los Huemules Del Niblinto",
+    "categoria": "Reserva Nacional",
+    "region": "Nuble",
+    "superficie_ha": 2022.8,
+    "superficie_km2": 20.23,
+    "decreto_creacion": "N32 230299 MA",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas_centroide": {
+      "latitud": -36.766894,
+      "longitud": -71.490494
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345951_78",
+    "id_catastro": "1345951",
+    "nombre": "Monumento Natural Picaflor de Arica",
+    "unidad": "Picaflor de Arica",
+    "categoria": "Monumento Natural",
+    "region": "Arica Y Parinacota",
+    "superficie_ha": 10.8,
+    "superficie_km2": 0.11,
+    "decreto_creacion": "N91 25102018 MMA",
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "coordenadas_centroide": {
+      "latitud": -18.8014,
+      "longitud": -70.1694
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345884_79",
+    "id_catastro": "1345884",
+    "nombre": "Reserva Nacional Lago Palena",
+    "unidad": "Lago Palena",
+    "categoria": "Reserva Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 49415.0,
+    "superficie_km2": 494.15,
+    "decreto_creacion": "N159 26021965 MA",
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "coordenadas_centroide": {
+      "latitud": -43.931578,
+      "longitud": -71.808367
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345878_80",
+    "id_catastro": "1345878",
+    "nombre": "Reserva Nacional Villarrica",
+    "unidad": "Villarrica",
+    "categoria": "Reserva Nacional",
+    "region": "Araucania",
+    "superficie_ha": 61352.0,
+    "superficie_km2": 613.52,
+    "decreto_creacion": "N8129 12081929 MTC",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas_centroide": {
+      "latitud": -39.20089,
+      "longitud": -71.556849
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345945_81",
+    "id_catastro": "1345945",
+    "nombre": "Parque Nacional Vicente Perez Rosales",
+    "unidad": "Vicente Perez Rosales",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 253568.0,
+    "superficie_km2": 2535.68,
+    "decreto_creacion": "N369 07031994 - N92 22082017 MBN",
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "Cuenca Río Petrohué",
+    "coordenadas_centroide": {
+      "latitud": -41.10973,
+      "longitud": -72.116056
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345917_82",
+    "id_catastro": "1345917",
+    "nombre": "Reserva Nacional Federico Albert",
+    "unidad": "Federico Albert",
+    "categoria": "Reserva Nacional",
+    "region": "Maule",
+    "superficie_ha": 145.0,
+    "superficie_km2": 1.45,
+    "decreto_creacion": "N257 250581 MBN",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas_centroide": {
+      "latitud": -35.734667,
+      "longitud": -72.542061
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345907_83",
+    "id_catastro": "1345907",
+    "nombre": "Parque Nacional Rapa Nui",
+    "unidad": "Rapa Nui",
+    "categoria": "Parque Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 7150.3,
+    "superficie_km2": 71.5,
+    "decreto_creacion": "N16 2020 MBN",
+    "cuenca_codigo": "056",
+    "cuenca_nombre": "Cuencas Islas del Pacífico (Rapa Nui, Juan Fernández)",
+    "coordenadas_centroide": {
+      "latitud": -27.122423,
+      "longitud": -109.361969
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345923_84",
+    "id_catastro": "1345923",
+    "nombre": "Parque Nacional Nevado Tres Cruces",
+    "unidad": "Nevado Tres Cruces",
+    "categoria": "Parque Nacional",
+    "region": "Atacama",
+    "superficie_ha": 59081.87,
+    "superficie_km2": 590.82,
+    "decreto_creacion": "N947 280794 MBN",
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "coordenadas_centroide": {
+      "latitud": -27.156108,
+      "longitud": -69.105378
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345881_85",
+    "id_catastro": "1345881",
+    "nombre": "Parque Nacional Chiloe",
+    "unidad": "Chiloe",
+    "categoria": "Parque Nacional",
+    "region": "Los Lagos",
+    "superficie_ha": 42567.78,
+    "superficie_km2": 425.68,
+    "decreto_creacion": "N368 27122000 MBN",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas_centroide": {
+      "latitud": -42.363923,
+      "longitud": -74.077023
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345948_86",
+    "id_catastro": "1345948",
+    "nombre": "Monumento Natural Dos Lagunas",
+    "unidad": "Dos Lagunas",
+    "categoria": "Monumento Natural",
+    "region": "Aysen",
+    "superficie_ha": 181.0,
+    "superficie_km2": 1.81,
+    "decreto_creacion": "N160 13101982 MA",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.528393,
+      "longitud": -71.834875
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345914_87",
+    "id_catastro": "1345914",
+    "nombre": "Monumento Natural La Portada",
+    "unidad": "La Portada",
+    "categoria": "Monumento Natural",
+    "region": "Antofagasta",
+    "superficie_ha": 31.27,
+    "superficie_km2": 0.31,
+    "decreto_creacion": "N51 030490 MA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas_centroide": {
+      "latitud": -23.501545,
+      "longitud": -70.426455
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345937_88",
+    "id_catastro": "1345937",
+    "nombre": "Parque Nacional Tolhuaca",
+    "unidad": "Tolhuaca",
+    "categoria": "Parque Nacional",
+    "region": "Araucania",
+    "superficie_ha": 6374.0,
+    "superficie_km2": 63.74,
+    "decreto_creacion": "N28 23011985 MNB",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -38.208386,
+      "longitud": -71.811542
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345934_89",
+    "id_catastro": "1345934",
+    "nombre": "Reserva Nacional Rio Simpson",
+    "unidad": "Rio Simpson",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 41620.5,
+    "superficie_km2": 416.2,
+    "decreto_creacion": "N1060 01121999 MBN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas_centroide": {
+      "latitud": -45.502498,
+      "longitud": -72.297287
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345952_90",
+    "id_catastro": "1345952",
+    "nombre": "Reserva Nacional Los Bellotos Del Melado",
+    "unidad": "Los Bellotos Del Melado",
+    "categoria": "Reserva Nacional",
+    "region": "Maule",
+    "superficie_ha": 717.0,
+    "superficie_km2": 7.17,
+    "decreto_creacion": "N18 200195 MA - N43 19122016 MMA",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas_centroide": {
+      "latitud": -35.873398,
+      "longitud": -71.11047
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345928_91",
+    "id_catastro": "1345928",
+    "nombre": "Monumento Natural Laguna De Los Cisnes",
+    "unidad": "Laguna De Los Cisnes",
+    "categoria": "Monumento Natural",
+    "region": "Magallanes",
+    "superficie_ha": 25.0,
+    "superficie_km2": 0.25,
+    "decreto_creacion": "N160 13101982 MA",
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "coordenadas_centroide": {
+      "latitud": -53.239489,
+      "longitud": -70.374089
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345900_92",
+    "id_catastro": "1345900",
+    "nombre": "Parque Nacional Queulat",
+    "unidad": "Queulat",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 154093.0,
+    "superficie_km2": 1540.93,
+    "decreto_creacion": "N640 13101983 MBN",
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "Cuenca Río Cisnes",
+    "coordenadas_centroide": {
+      "latitud": -44.316804,
+      "longitud": -72.459447
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345950_93",
+    "id_catastro": "1345950",
+    "nombre": "Reserva Nacional Rio Blanco",
+    "unidad": "Rio Blanco",
+    "categoria": "Reserva Nacional",
+    "region": "Valparaiso",
+    "superficie_ha": 10175.0,
+    "superficie_km2": 101.75,
+    "decreto_creacion": "N871 141157 MA - N66 100277 MTC",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas_centroide": {
+      "latitud": -32.952182,
+      "longitud": -70.313932
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345898_94",
+    "id_catastro": "1345898",
+    "nombre": "Parque Nacional Laguna San Rafael",
+    "unidad": "Laguna San Rafael",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 1742000.0,
+    "superficie_km2": 17420.0,
+    "decreto_creacion": "N737 30111983 MBN",
+    "cuenca_codigo": "119",
+    "cuenca_nombre": "Cuenca Archipiélago de Guayaneco",
+    "coordenadas_centroide": {
+      "latitud": -46.864569,
+      "longitud": -74.603672
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345898_95",
+    "id_catastro": "1345898",
+    "nombre": "Parque Nacional Laguna San Rafael",
+    "unidad": "Laguna San Rafael",
+    "categoria": "Parque Nacional",
+    "region": "Aysen",
+    "superficie_ha": 1742000.0,
+    "superficie_km2": 17420.0,
+    "decreto_creacion": "N737 30111983 MBN",
+    "cuenca_codigo": "119",
+    "cuenca_nombre": "Cuenca Archipiélago de Guayaneco",
+    "coordenadas_centroide": {
+      "latitud": -46.859333,
+      "longitud": -74.716678
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345954_96",
+    "id_catastro": "1345954",
+    "nombre": "Monumento Natural Paposo Norte",
+    "unidad": "Paposo Norte",
+    "categoria": "Monumento Natural",
+    "region": "Antofagasta",
+    "superficie_ha": 7532.56,
+    "superficie_km2": 75.33,
+    "decreto_creacion": "N7 030214 MMA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas_centroide": {
+      "latitud": -24.47676,
+      "longitud": -70.552657
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345888_97",
+    "id_catastro": "1345888",
+    "nombre": "Monumento Natural Salar De Surire",
+    "unidad": "Salar De Surire",
+    "categoria": "Monumento Natural",
+    "region": "Arica Y Parinacota",
+    "superficie_ha": 11298.0,
+    "superficie_km2": 112.98,
+    "decreto_creacion": "N29 080383 MA",
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "coordenadas_centroide": {
+      "latitud": -18.857467,
+      "longitud": -69.006653
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345926_98",
+    "id_catastro": "1345926",
+    "nombre": "Monumento Natural Quebrada De Cardones",
+    "unidad": "Quebrada De Cardones",
+    "categoria": "Monumento Natural",
+    "region": "Arica Y Parinacota",
+    "superficie_ha": 11325.71,
+    "superficie_km2": 113.26,
+    "decreto_creacion": "N64 010709 MBN",
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "coordenadas_centroide": {
+      "latitud": -18.444024,
+      "longitud": -69.749307
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345887_99",
+    "id_catastro": "1345887",
+    "nombre": "Parque Nacional Lauca",
+    "unidad": "Lauca",
+    "categoria": "Parque Nacional",
+    "region": "Arica Y Parinacota",
+    "superficie_ha": 137883.0,
+    "superficie_km2": 1378.83,
+    "decreto_creacion": "N29 080383 MA",
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "coordenadas_centroide": {
+      "latitud": -18.251848,
+      "longitud": -69.328985
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345864_100",
+    "id_catastro": "1345864",
+    "nombre": "Parque Nacional Volcan Isluga",
+    "unidad": "Volcan Isluga",
+    "categoria": "Parque Nacional",
+    "region": "Tarapaca",
+    "superficie_ha": 174744.0,
+    "superficie_km2": 1747.44,
+    "decreto_creacion": "N151 261185 MA",
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "coordenadas_centroide": {
+      "latitud": -19.3253,
+      "longitud": -69.066306
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345959_101",
+    "id_catastro": "1345959",
+    "nombre": "Parque Nacional Rio Clarillo",
+    "unidad": "Rio Clarillo",
+    "categoria": "Parque Nacional",
+    "region": "Metropolitana",
+    "superficie_ha": 13134.15,
+    "superficie_km2": 131.34,
+    "decreto_creacion": "N30 17102020 MBN",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas_centroide": {
+      "latitud": -33.774604,
+      "longitud": -70.445967
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345916_102",
+    "id_catastro": "1345916",
+    "nombre": "Reserva Nacional Radal Siete Tazas",
+    "unidad": "Radal Siete Tazas",
+    "categoria": "Reserva Nacional",
+    "region": "Maule",
+    "superficie_ha": 1009.34,
+    "superficie_km2": 10.09,
+    "decreto_creacion": "N89 200396 MBN - N15 27032008 MNB",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas_centroide": {
+      "latitud": -35.444589,
+      "longitud": -71.024933
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345908_103",
+    "id_catastro": "1345908",
+    "nombre": "Reserva Nacional Isla Mocha",
+    "unidad": "Isla Mocha",
+    "categoria": "Reserva Nacional",
+    "region": "Biobio",
+    "superficie_ha": 2181.66,
+    "superficie_km2": 21.82,
+    "decreto_creacion": "N172 30122010 MBN",
+    "cuenca_codigo": "092",
+    "cuenca_nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "coordenadas_centroide": {
+      "latitud": -38.368603,
+      "longitud": -73.916179
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345918_104",
+    "id_catastro": "1345918",
+    "nombre": "Reserva Nacional Altos De Pemehue",
+    "unidad": "Altos De Pemehue",
+    "categoria": "Reserva Nacional",
+    "region": "Biobio",
+    "superficie_ha": 18855.71,
+    "superficie_km2": 188.56,
+    "decreto_creacion": "N80 17082009 MBN",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas_centroide": {
+      "latitud": -37.975758,
+      "longitud": -71.636777
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345874_105",
+    "id_catastro": "1345874",
+    "nombre": "Parque Nacional Llullaillaco",
+    "unidad": "Llullaillaco",
+    "categoria": "Parque Nacional",
+    "region": "Antofagasta",
+    "superficie_ha": 268670.61,
+    "superficie_km2": 2686.71,
+    "decreto_creacion": "N856 030895 MBN",
+    "cuenca_codigo": "028",
+    "cuenca_nombre": "Cuenca Salar de Pajonales",
+    "coordenadas_centroide": {
+      "latitud": -24.854638,
+      "longitud": -68.742201
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345933_106",
+    "id_catastro": "1345933",
+    "nombre": "Parque Nacional Torres Del Paine",
+    "unidad": "Torres Del Paine",
+    "categoria": "Parque Nacional",
+    "region": "Magallanes",
+    "superficie_ha": 170974.0,
+    "superficie_km2": 1709.74,
+    "decreto_creacion": "N315 05111979 MA",
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "coordenadas_centroide": {
+      "latitud": -51.083027,
+      "longitud": -72.974377
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  },
+  {
+    "id": "conaf_snaspe_1345903_107",
+    "id_catastro": "1345903",
+    "nombre": "Reserva Nacional Lago Las Torres",
+    "unidad": "Lago Las Torres",
+    "categoria": "Reserva Nacional",
+    "region": "Aysen",
+    "superficie_ha": 16516.0,
+    "superficie_km2": 165.16,
+    "decreto_creacion": "N632 29091982 MBN",
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "Cuenca Río Cisnes",
+    "coordenadas_centroide": {
+      "latitud": -44.790891,
+      "longitud": -72.108195
+    },
+    "es_reserva_cabecera": true,
+    "fuente_oficial": "CONAF (Sistema Nacional de Áreas Silvestres Protegidas del Estado - SNASPE)"
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/session-start.js"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/sdd/spec-gate.js"
+          },
+          {
+            "type": "command",
+            "command": "node .claude/hooks/pre-write-guard.js"
+          },
+          {
+            "type": "command",
+            "command": "node .claude/hooks/sdd/plan-injector.js"
+          }
+        ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/bash-guard.js"
+          },
+          {
+            "type": "command",
+            "command": "node .claude/hooks/spec-diff-check.js"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/discovery-tracker.js"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/write-tracker.js"
+          },
+          {
+            "type": "command",
+            "command": "node .claude/scripts/post-edit.js"
+          }
+        ]
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/failure-tracker.js"
+          }
+        ]
+      }
+    ],
+    "PostCompact": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/compact-recovery.js"
+          },
+          {
+            "type": "command",
+            "command": "node scripts/error-learning-hook.js"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/error-browser-detector.js"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node -e \"const fs=require('fs'),p=require('path'),t=p.join(process.cwd(),'.claude','temp','session-writes.json');if(!fs.existsSync(t))process.exit(0);try{const w=JSON.parse(fs.readFileSync(t,'utf-8'));if(w.length===0)process.exit(0)}catch{process.exit(0)};require('child_process').execSync('npm run indices:sync --silent',{cwd:process.cwd(),stdio:'pipe'})\""
+          },
+          {
+            "type": "prompt",
+            "prompt": "You are a sync-check auditor. Review the conversation above. If .ts, .html, or .scss files inside src/app/ were CREATED (new files) or significantly modified during this session, check: Were the project indices (indices/COMPONENTS.md, indices/SERVICES.md, indices/DIRECTIVES.md, indices/DATABASE.md, indices/USAGE-MAP.md) also updated to reflect those new or changed items? If no source code was created/modified, or indices are already up to date, respond {\"ok\": true}. If new components/services/directives were created but indices were NOT updated, respond {\"ok\": false, \"reason\": \"Actualiza los indices del proyecto: agrega los nuevos componentes a indices/COMPONENTS.md o indices/SERVICES.md segun corresponda. USAGE-MAP.md ya se regenero automaticamente.\"}. IMPORTANT: If stop_hook_active is true in the input JSON, always respond {\"ok\": true} to prevent infinite loops."
+          },
+          {
+            "type": "prompt",
+            "prompt": "You are the SDD Acceptance Criteria Verifier.\n\nCONTEXT:\n- This project uses Spec-Driven Development with three tracks: spec track (NNNN-slug), fix track (fix-NNN-slug), and hotfix track (hotfix-NNN-slug).\n- The active track ID is stored in `specs/.active`.\n- For SPEC track: the contract is at `specs/<id>/spec.md` with ACs labeled AC1, AC2, etc.\n- For FIX track: the contract is at `specs/<id>/fix.md` with sections \"ACs Afectados\" and \"Test de Regresion\".\n\nYOUR JOB:\nDetermine whether the active track contract was satisfied in this session.\n\nPROCEDURE:\n1. Read `specs/.active`. If empty or missing -> respond `{\"ok\": true}` (nothing to verify).\n2. If the ID starts with `--bypass` -> respond `{\"ok\": true}`.\n3. If the ID starts with `hotfix-` -> respond `{\"ok\": true}` (hotfix tracks are auto-closed by the global hook — no AC verification needed).\n4. If the ID starts with `fix-` (FIX TRACK):\n   a. Read `specs/<id>/fix.md`.\n   b. If no production files were touched this session -> respond `{\"ok\": true}`.\n   c. If production files were modified AND the regression test was verified green in the session -> respond `{\"ok\": true}`.\n   d. If production files were modified BUT regression test was NOT verified -> respond `{\"ok\": false, \"reason\": \"Fix <id>: falta verificar test de regresion. Corre el test listado en fix.md y luego /fix-close.\"}.\n5. If the ID is a SPEC track (NNNN-slug):\n   a. Read `specs/<id>/spec.md`. Extract every AC.\n   b. For EACH AC decide: Cumplido / Parcial / No abordado.\n   c. If ALL cumplidos -> `{\"ok\": true}`.\n   d. If ANY no abordado AND production files were modified -> `{\"ok\": false, \"reason\": \"Faltan ACs por cumplir. Verifica tu progreso con el Plan.\"}.\n\nDECISION RULES:\n- If `stop_hook_active` is true -> respond `{\"ok\": true}`.\n- If the user said \"estamos en draft\" or similar -> respond `{\"ok\": true}`.\n\nOUTPUT FORMAT (strict JSON):\n- `{\"ok\": true}`\n- `{\"ok\": false, \"reason\": \"...\"}`"
+          },
+          {
+            "type": "command",
+            "command": "node .claude/hooks/context-guardian.js"
+          },
+          {
+            "type": "command",
+            "command": "node scripts/error-reminder-hook.js"
+          }
+        ]
+      }
+    ]
+  }
+}

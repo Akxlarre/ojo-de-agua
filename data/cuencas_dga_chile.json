@@ -1,0 +1,1573 @@
+[
+  {
+    "codigo_dga": "010",
+    "nombre": "Cuenca Río Lluta",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 3378.0,
+    "rios_principales": [
+      "Río Lluta",
+      "Río Azufre",
+      "Río Caracarani"
+    ],
+    "bbox": {
+      "lat_min": -18.5,
+      "lat_max": -17.9,
+      "lon_min": -70.35,
+      "lon_max": -69.4
+    }
+  },
+  {
+    "codigo_dga": "011",
+    "nombre": "Cuencas Costeras entre Río Lluta y Quebrada de La Concordia",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 212.0,
+    "rios_principales": [
+      "Quebrada de La Concordia"
+    ],
+    "bbox": {
+      "lat_min": -18.4,
+      "lat_max": -18.2,
+      "lon_min": -70.4,
+      "lon_max": -70.0
+    }
+  },
+  {
+    "codigo_dga": "012",
+    "nombre": "Cuenca Quebrada de La Concordia",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 185.0,
+    "rios_principales": [
+      "Quebrada Escritos"
+    ],
+    "bbox": {
+      "lat_min": -18.3,
+      "lat_max": -18.1,
+      "lon_min": -70.3,
+      "lon_max": -70.0
+    }
+  },
+  {
+    "codigo_dga": "013",
+    "nombre": "Cuenca Río San José",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 3070.0,
+    "rios_principales": [
+      "Río San José",
+      "Río Seco",
+      "Río Tignamar"
+    ],
+    "bbox": {
+      "lat_min": -18.7,
+      "lat_max": -18.3,
+      "lon_min": -70.35,
+      "lon_max": -69.5
+    }
+  },
+  {
+    "codigo_dga": "014",
+    "nombre": "Cuenca Quebrada de Vitor",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 1590.0,
+    "rios_principales": [
+      "Quebrada de Vitor",
+      "Quebrada de Chaca",
+      "Quebrada Garza"
+    ],
+    "bbox": {
+      "lat_min": -18.9,
+      "lat_max": -18.5,
+      "lon_min": -70.4,
+      "lon_max": -69.6
+    }
+  },
+  {
+    "codigo_dga": "015",
+    "nombre": "Cuenca Quebrada de Camarones",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 4680.0,
+    "rios_principales": [
+      "Río Camarones",
+      "Quebrada de Chiza"
+    ],
+    "bbox": {
+      "lat_min": -19.3,
+      "lat_max": -18.8,
+      "lon_min": -70.3,
+      "lon_max": -69.2
+    }
+  },
+  {
+    "codigo_dga": "016",
+    "nombre": "Cuenca Altiplánica Río Lauca",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 2350.0,
+    "rios_principales": [
+      "Río Lauca",
+      "Río Guallatire"
+    ],
+    "bbox": {
+      "lat_min": -18.9,
+      "lat_max": -18.1,
+      "lon_min": -69.6,
+      "lon_max": -69.0
+    }
+  },
+  {
+    "codigo_dga": "017",
+    "nombre": "Cuenca Altiplánica Río Caquena",
+    "region": "Arica y Parinacota",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 770.0,
+    "rios_principales": [
+      "Río Caquena",
+      "Río Cosapilla"
+    ],
+    "bbox": {
+      "lat_min": -18.2,
+      "lat_max": -17.8,
+      "lon_min": -69.5,
+      "lon_max": -69.1
+    }
+  },
+  {
+    "codigo_dga": "018",
+    "nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "region": "Tarapacá",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 10500.0,
+    "rios_principales": [
+      "Quebrada de Tiliviche",
+      "Quebrada de Tana"
+    ],
+    "bbox": {
+      "lat_min": -21.4,
+      "lat_max": -19.2,
+      "lon_min": -70.2,
+      "lon_max": -69.7
+    }
+  },
+  {
+    "codigo_dga": "019",
+    "nombre": "Cuenca Pampa del Tamarugal",
+    "region": "Tarapacá",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 18080.0,
+    "rios_principales": [
+      "Quebrada de Tarapacá",
+      "Quebrada de Quisma",
+      "Quebrada de Chintaguay"
+    ],
+    "bbox": {
+      "lat_min": -21.5,
+      "lat_max": -19.0,
+      "lon_min": -70.0,
+      "lon_max": -68.8
+    }
+  },
+  {
+    "codigo_dga": "020",
+    "nombre": "Cuenca Altiplánica Salar de Huasco",
+    "region": "Tarapacá",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 1480.0,
+    "rios_principales": [
+      "Río Piga",
+      "Salar de Huasco"
+    ],
+    "bbox": {
+      "lat_min": -20.6,
+      "lat_max": -20.1,
+      "lon_min": -69.0,
+      "lon_max": -68.6
+    }
+  },
+  {
+    "codigo_dga": "022",
+    "nombre": "Cuenca Altiplánica Salar de Coposa",
+    "region": "Tarapacá",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 1100.0,
+    "rios_principales": [
+      "Salar de Coposa"
+    ],
+    "bbox": {
+      "lat_min": -21.0,
+      "lat_max": -20.6,
+      "lon_min": -69.0,
+      "lon_max": -68.5
+    }
+  },
+  {
+    "codigo_dga": "021",
+    "nombre": "Cuenca Río Loa",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 33570.0,
+    "rios_principales": [
+      "Río Loa",
+      "Río San Salvador",
+      "Río Salado",
+      "Río San Pedro"
+    ],
+    "bbox": {
+      "lat_min": -23.1,
+      "lat_max": -21.2,
+      "lon_min": -70.1,
+      "lon_max": -68.3
+    }
+  },
+  {
+    "codigo_dga": "023",
+    "nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 16100.0,
+    "rios_principales": [
+      "Quebrada La Chimba",
+      "Quebrada de Mateo"
+    ],
+    "bbox": {
+      "lat_min": -25.5,
+      "lat_max": -21.4,
+      "lon_min": -70.6,
+      "lon_max": -69.8
+    }
+  },
+  {
+    "codigo_dga": "024",
+    "nombre": "Cuenca Salar de Atacama",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 15620.0,
+    "rios_principales": [
+      "Río San Pedro de Atacama",
+      "Río Vilama"
+    ],
+    "bbox": {
+      "lat_min": -24.1,
+      "lat_max": -22.5,
+      "lon_min": -68.7,
+      "lon_max": -67.8
+    }
+  },
+  {
+    "codigo_dga": "025",
+    "nombre": "Cuencas Altiplánicas Vertiente Pacífico (Tara, Quisquiro)",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 5800.0,
+    "rios_principales": [
+      "Salar de Tara",
+      "Salar de Quisquiro",
+      "Salar de Aguas Calientes"
+    ],
+    "bbox": {
+      "lat_min": -23.8,
+      "lat_max": -22.8,
+      "lon_min": -67.9,
+      "lon_max": -67.0
+    }
+  },
+  {
+    "codigo_dga": "026",
+    "nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 14200.0,
+    "rios_principales": [
+      "Quebrada de Taltal",
+      "Quebrada Cascabeles"
+    ],
+    "bbox": {
+      "lat_min": -26.0,
+      "lat_max": -24.8,
+      "lon_min": -70.6,
+      "lon_max": -69.5
+    }
+  },
+  {
+    "codigo_dga": "027",
+    "nombre": "Cuenca Salar de Punta Negra",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 4260.0,
+    "rios_principales": [
+      "Salar de Punta Negra"
+    ],
+    "bbox": {
+      "lat_min": -24.8,
+      "lat_max": -24.1,
+      "lon_min": -69.2,
+      "lon_max": -68.7
+    }
+  },
+  {
+    "codigo_dga": "028",
+    "nombre": "Cuenca Salar de Pajonales",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 1980.0,
+    "rios_principales": [
+      "Salar de Pajonales"
+    ],
+    "bbox": {
+      "lat_min": -25.3,
+      "lat_max": -24.9,
+      "lon_min": -69.0,
+      "lon_max": -68.6
+    }
+  },
+  {
+    "codigo_dga": "029",
+    "nombre": "Cuenca Salar de Navidad",
+    "region": "Antofagasta",
+    "zona_hidrografica": "Norte Grande",
+    "superficie_km2": 1200.0,
+    "rios_principales": [
+      "Salar de Navidad"
+    ],
+    "bbox": {
+      "lat_min": -24.2,
+      "lat_max": -23.8,
+      "lon_min": -69.6,
+      "lon_max": -69.1
+    }
+  },
+  {
+    "codigo_dga": "030",
+    "nombre": "Cuenca Río Copiapó",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 18407.0,
+    "rios_principales": [
+      "Río Copiapó",
+      "Río Jorquera",
+      "Río Pulido",
+      "Río Manflas"
+    ],
+    "bbox": {
+      "lat_min": -28.3,
+      "lat_max": -27.0,
+      "lon_min": -71.1,
+      "lon_max": -69.0
+    }
+  },
+  {
+    "codigo_dga": "031",
+    "nombre": "Cuenca Quebrada Pan de Azúcar",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 1250.0,
+    "rios_principales": [
+      "Quebrada Pan de Azúcar"
+    ],
+    "bbox": {
+      "lat_min": -26.3,
+      "lat_max": -25.9,
+      "lon_min": -70.7,
+      "lon_max": -70.3
+    }
+  },
+  {
+    "codigo_dga": "032",
+    "nombre": "Cuenca Río Salado de Chañaral",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 7570.0,
+    "rios_principales": [
+      "Río Salado",
+      "Río Saladito"
+    ],
+    "bbox": {
+      "lat_min": -26.8,
+      "lat_max": -26.1,
+      "lon_min": -70.7,
+      "lon_max": -69.1
+    }
+  },
+  {
+    "codigo_dga": "033",
+    "nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 3820.0,
+    "rios_principales": [
+      "Quebrada Flamenco",
+      "Quebrada del Chañar"
+    ],
+    "bbox": {
+      "lat_min": -27.2,
+      "lat_max": -26.4,
+      "lon_min": -70.9,
+      "lon_max": -70.2
+    }
+  },
+  {
+    "codigo_dga": "034",
+    "nombre": "Cuenca Río Huasco",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 9850.0,
+    "rios_principales": [
+      "Río Huasco",
+      "Río El Carmen",
+      "Río El Tránsito"
+    ],
+    "bbox": {
+      "lat_min": -29.2,
+      "lat_max": -28.2,
+      "lon_min": -71.3,
+      "lon_max": -69.5
+    }
+  },
+  {
+    "codigo_dga": "035",
+    "nombre": "Cuencas Costeras entre Río Copiapó y Quebrada Totoral",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 2180.0,
+    "rios_principales": [
+      "Quebrada de Totoral"
+    ],
+    "bbox": {
+      "lat_min": -28.0,
+      "lat_max": -27.3,
+      "lon_min": -71.1,
+      "lon_max": -70.5
+    }
+  },
+  {
+    "codigo_dga": "036",
+    "nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 4780.0,
+    "rios_principales": [
+      "Quebrada de Carrizal Bajo"
+    ],
+    "bbox": {
+      "lat_min": -28.4,
+      "lat_max": -27.8,
+      "lon_min": -71.3,
+      "lon_max": -70.4
+    }
+  },
+  {
+    "codigo_dga": "037",
+    "nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 2400.0,
+    "rios_principales": [
+      "Quebrada Honda de Huasco"
+    ],
+    "bbox": {
+      "lat_min": -29.0,
+      "lat_max": -28.5,
+      "lon_min": -71.5,
+      "lon_max": -70.9
+    }
+  },
+  {
+    "codigo_dga": "038",
+    "nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 5940.0,
+    "rios_principales": [
+      "Salar de Maricunga",
+      "Salar de Pedernales"
+    ],
+    "bbox": {
+      "lat_min": -27.4,
+      "lat_max": -26.1,
+      "lon_min": -69.4,
+      "lon_max": -68.8
+    }
+  },
+  {
+    "codigo_dga": "039",
+    "nombre": "Cuenca Laguna del Negro Francisco",
+    "region": "Atacama",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 980.0,
+    "rios_principales": [
+      "Laguna del Negro Francisco"
+    ],
+    "bbox": {
+      "lat_min": -27.6,
+      "lat_max": -27.3,
+      "lon_min": -69.4,
+      "lon_max": -69.1
+    }
+  },
+  {
+    "codigo_dga": "041",
+    "nombre": "Cuenca Quebrada Los Choros",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 4180.0,
+    "rios_principales": [
+      "Quebrada Los Choros"
+    ],
+    "bbox": {
+      "lat_min": -29.6,
+      "lat_max": -29.1,
+      "lon_min": -71.4,
+      "lon_max": -70.6
+    }
+  },
+  {
+    "codigo_dga": "042",
+    "nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 820.0,
+    "rios_principales": [
+      "Quebrada Honda de Coquimbo"
+    ],
+    "bbox": {
+      "lat_min": -29.8,
+      "lat_max": -29.4,
+      "lon_min": -71.4,
+      "lon_max": -71.1
+    }
+  },
+  {
+    "codigo_dga": "043",
+    "nombre": "Cuenca Río Elqui",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 9657.0,
+    "rios_principales": [
+      "Río Elqui",
+      "Río Claro",
+      "Río Turbio"
+    ],
+    "bbox": {
+      "lat_min": -30.4,
+      "lat_max": -29.6,
+      "lon_min": -71.4,
+      "lon_max": -69.8
+    }
+  },
+  {
+    "codigo_dga": "044",
+    "nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 1220.0,
+    "rios_principales": [
+      "Estero Culebrón",
+      "Estero Tongoy"
+    ],
+    "bbox": {
+      "lat_min": -30.4,
+      "lat_max": -29.9,
+      "lon_min": -71.6,
+      "lon_max": -71.2
+    }
+  },
+  {
+    "codigo_dga": "045",
+    "nombre": "Cuenca Río Limarí",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 11760.0,
+    "rios_principales": [
+      "Río Limarí",
+      "Río Hurtado",
+      "Río Grande",
+      "Río Mostazal"
+    ],
+    "bbox": {
+      "lat_min": -31.3,
+      "lat_max": -30.2,
+      "lon_min": -71.7,
+      "lon_max": -70.2
+    }
+  },
+  {
+    "codigo_dga": "046",
+    "nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 2140.0,
+    "rios_principales": [
+      "Estero Teniente",
+      "Estero Mincha"
+    ],
+    "bbox": {
+      "lat_min": -31.5,
+      "lat_max": -30.7,
+      "lon_min": -71.7,
+      "lon_max": -71.3
+    }
+  },
+  {
+    "codigo_dga": "047",
+    "nombre": "Cuenca Río Choapa",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 7600.0,
+    "rios_principales": [
+      "Río Choapa",
+      "Río Illapel",
+      "Río Chalinga"
+    ],
+    "bbox": {
+      "lat_min": -32.1,
+      "lat_max": -31.3,
+      "lon_min": -71.6,
+      "lon_max": -70.2
+    }
+  },
+  {
+    "codigo_dga": "048",
+    "nombre": "Cuenca Estero Quilimarí y Costeras",
+    "region": "Coquimbo",
+    "zona_hidrografica": "Norte Chico",
+    "superficie_km2": 1480.0,
+    "rios_principales": [
+      "Estero Quilimarí",
+      "Estero Pupío"
+    ],
+    "bbox": {
+      "lat_min": -32.2,
+      "lat_max": -31.8,
+      "lon_min": -71.6,
+      "lon_max": -71.1
+    }
+  },
+  {
+    "codigo_dga": "051",
+    "nombre": "Cuenca Río Petorca",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1960.0,
+    "rios_principales": [
+      "Río Petorca",
+      "Río Sobrante"
+    ],
+    "bbox": {
+      "lat_min": -32.4,
+      "lat_max": -32.0,
+      "lon_min": -71.5,
+      "lon_max": -70.6
+    }
+  },
+  {
+    "codigo_dga": "052",
+    "nombre": "Cuenca Río La Ligua",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 2049.0,
+    "rios_principales": [
+      "Río La Ligua",
+      "Estero Alicahue"
+    ],
+    "bbox": {
+      "lat_min": -32.6,
+      "lat_max": -32.2,
+      "lon_min": -71.5,
+      "lon_max": -70.7
+    }
+  },
+  {
+    "codigo_dga": "053",
+    "nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1180.0,
+    "rios_principales": [
+      "Estero Catapilco",
+      "Estero Puchuncaví"
+    ],
+    "bbox": {
+      "lat_min": -32.8,
+      "lat_max": -32.3,
+      "lon_min": -71.5,
+      "lon_max": -71.2
+    }
+  },
+  {
+    "codigo_dga": "054",
+    "nombre": "Cuenca Río Aconcagua",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 7340.0,
+    "rios_principales": [
+      "Río Aconcagua",
+      "Río Juncal",
+      "Río Blanco",
+      "Río Putaendo"
+    ],
+    "bbox": {
+      "lat_min": -33.1,
+      "lat_max": -32.5,
+      "lon_min": -71.6,
+      "lon_max": -70.0
+    }
+  },
+  {
+    "codigo_dga": "055",
+    "nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1890.0,
+    "rios_principales": [
+      "Estero Marga Marga",
+      "Estero Casablanca",
+      "Estero El Sauce"
+    ],
+    "bbox": {
+      "lat_min": -33.5,
+      "lat_max": -32.9,
+      "lon_min": -71.7,
+      "lon_max": -71.2
+    }
+  },
+  {
+    "codigo_dga": "056",
+    "nombre": "Cuencas Islas del Pacífico (Rapa Nui, Juan Fernández)",
+    "region": "Valparaíso",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 380.0,
+    "rios_principales": [
+      "Quebradas de Rapa Nui",
+      "Rano Kau"
+    ],
+    "bbox": {
+      "lat_min": -33.8,
+      "lat_max": -27.1,
+      "lon_min": -109.5,
+      "lon_max": -78.8
+    }
+  },
+  {
+    "codigo_dga": "057",
+    "nombre": "Cuenca Río Maipo",
+    "region": "Metropolitana",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 15380.0,
+    "rios_principales": [
+      "Río Maipo",
+      "Río Mapocho",
+      "Río Yeso",
+      "Río Colorado",
+      "Río Volcán",
+      "Río Angostura"
+    ],
+    "bbox": {
+      "lat_min": -34.0,
+      "lat_max": -33.0,
+      "lon_min": -71.8,
+      "lon_max": -69.8
+    }
+  },
+  {
+    "codigo_dga": "058",
+    "nombre": "Cuencas Costeras entre Río Maipo y Río Rapel",
+    "region": "O'Higgins",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1140.0,
+    "rios_principales": [
+      "Estero Navidad",
+      "Estero Yali"
+    ],
+    "bbox": {
+      "lat_min": -34.0,
+      "lat_max": -33.7,
+      "lon_min": -71.8,
+      "lon_max": -71.5
+    }
+  },
+  {
+    "codigo_dga": "060",
+    "nombre": "Cuenca Río Rapel",
+    "region": "O'Higgins",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 13735.0,
+    "rios_principales": [
+      "Río Rapel",
+      "Río Cachapoal",
+      "Río Tinguiririca",
+      "Río Claro de Rengo"
+    ],
+    "bbox": {
+      "lat_min": -34.8,
+      "lat_max": -33.9,
+      "lon_min": -71.9,
+      "lon_max": -70.1
+    }
+  },
+  {
+    "codigo_dga": "061",
+    "nombre": "Cuenca Estero Nilahue y Costeras",
+    "region": "O'Higgins",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 2140.0,
+    "rios_principales": [
+      "Estero Nilahue",
+      "Laguna de Cahuil"
+    ],
+    "bbox": {
+      "lat_min": -34.8,
+      "lat_max": -34.3,
+      "lon_min": -72.0,
+      "lon_max": -71.5
+    }
+  },
+  {
+    "codigo_dga": "071",
+    "nombre": "Cuenca Río Mataquito",
+    "region": "Maule",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 6190.0,
+    "rios_principales": [
+      "Río Mataquito",
+      "Río Teno",
+      "Río Lontué"
+    ],
+    "bbox": {
+      "lat_min": -35.3,
+      "lat_max": -34.7,
+      "lon_min": -72.2,
+      "lon_max": -70.4
+    }
+  },
+  {
+    "codigo_dga": "072",
+    "nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "region": "Maule",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1380.0,
+    "rios_principales": [
+      "Estero Huenchullamí",
+      "Estero Iloca"
+    ],
+    "bbox": {
+      "lat_min": -35.4,
+      "lat_max": -35.0,
+      "lon_min": -72.3,
+      "lon_max": -71.9
+    }
+  },
+  {
+    "codigo_dga": "073",
+    "nombre": "Cuenca Río Maule",
+    "region": "Maule",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 20295.0,
+    "rios_principales": [
+      "Río Maule",
+      "Río Melado",
+      "Río Claro de Talca",
+      "Río Loncomilla",
+      "Río Achibueno",
+      "Río Ancoa",
+      "Río Perquilauquén"
+    ],
+    "bbox": {
+      "lat_min": -36.3,
+      "lat_max": -35.1,
+      "lon_min": -72.5,
+      "lon_max": -70.3
+    }
+  },
+  {
+    "codigo_dga": "074",
+    "nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "region": "Maule",
+    "zona_hidrografica": "Zona Central",
+    "superficie_km2": 1850.0,
+    "rios_principales": [
+      "Río Chovellén",
+      "Estero Pelluhue"
+    ],
+    "bbox": {
+      "lat_min": -36.1,
+      "lat_max": -35.6,
+      "lon_min": -72.8,
+      "lon_max": -72.3
+    }
+  },
+  {
+    "codigo_dga": "081",
+    "nombre": "Cuenca Río Itata",
+    "region": "Ñuble",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 11294.0,
+    "rios_principales": [
+      "Río Itata",
+      "Río Diguillín",
+      "Río Ñuble",
+      "Río Cholguán"
+    ],
+    "bbox": {
+      "lat_min": -37.0,
+      "lat_max": -36.2,
+      "lon_min": -73.0,
+      "lon_max": -71.2
+    }
+  },
+  {
+    "codigo_dga": "082",
+    "nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "region": "Biobío",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 1650.0,
+    "rios_principales": [
+      "Río Andalién",
+      "Estero Dichato"
+    ],
+    "bbox": {
+      "lat_min": -36.9,
+      "lat_max": -36.4,
+      "lon_min": -73.1,
+      "lon_max": -72.8
+    }
+  },
+  {
+    "codigo_dga": "083",
+    "nombre": "Cuenca Río Biobío",
+    "region": "Biobío",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 24264.0,
+    "rios_principales": [
+      "Río Biobío",
+      "Río Laja",
+      "Río Duqueco",
+      "Río Renaico",
+      "Río Malleco"
+    ],
+    "bbox": {
+      "lat_min": -38.4,
+      "lat_max": -36.7,
+      "lon_min": -73.2,
+      "lon_max": -71.1
+    }
+  },
+  {
+    "codigo_dga": "084",
+    "nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "region": "Biobío",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 1480.0,
+    "rios_principales": [
+      "Río Coronel",
+      "Río Laraquete"
+    ],
+    "bbox": {
+      "lat_min": -37.2,
+      "lat_max": -36.8,
+      "lon_min": -73.2,
+      "lon_max": -73.0
+    }
+  },
+  {
+    "codigo_dga": "085",
+    "nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "region": "Biobío",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 4280.0,
+    "rios_principales": [
+      "Río Lebu",
+      "Río Paicaví",
+      "Río Carampangue"
+    ],
+    "bbox": {
+      "lat_min": -38.0,
+      "lat_max": -37.1,
+      "lon_min": -73.5,
+      "lon_max": -73.1
+    }
+  },
+  {
+    "codigo_dga": "091",
+    "nombre": "Cuenca Río Imperial",
+    "region": "La Araucanía",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 12054.0,
+    "rios_principales": [
+      "Río Imperial",
+      "Río Cautín",
+      "Río Cholchol",
+      "Río Quepe"
+    ],
+    "bbox": {
+      "lat_min": -39.0,
+      "lat_max": -38.2,
+      "lon_min": -73.5,
+      "lon_max": -71.5
+    }
+  },
+  {
+    "codigo_dga": "092",
+    "nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "region": "La Araucanía",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 940.0,
+    "rios_principales": [
+      "Río Tirúa",
+      "Estero Trovolhue"
+    ],
+    "bbox": {
+      "lat_min": -38.5,
+      "lat_max": -38.2,
+      "lon_min": -73.6,
+      "lon_max": -73.3
+    }
+  },
+  {
+    "codigo_dga": "093",
+    "nombre": "Cuenca Lago Budi y Costeras entre Imperial y Toltén",
+    "region": "La Araucanía",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 780.0,
+    "rios_principales": [
+      "Lago Budi",
+      "Estero Allipén Costero"
+    ],
+    "bbox": {
+      "lat_min": -39.1,
+      "lat_max": -38.8,
+      "lon_min": -73.4,
+      "lon_max": -73.2
+    }
+  },
+  {
+    "codigo_dga": "094",
+    "nombre": "Cuenca Río Toltén",
+    "region": "La Araucanía",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 8398.0,
+    "rios_principales": [
+      "Río Toltén",
+      "Río Trancura",
+      "Río Allipén",
+      "Río Liucura",
+      "Lago Villarrica"
+    ],
+    "bbox": {
+      "lat_min": -39.5,
+      "lat_max": -38.8,
+      "lon_min": -73.4,
+      "lon_max": -71.4
+    }
+  },
+  {
+    "codigo_dga": "101",
+    "nombre": "Cuenca Río Valdivia",
+    "region": "Los Ríos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 10275.0,
+    "rios_principales": [
+      "Río Valdivia",
+      "Río Calle-Calle",
+      "Río San Pedro",
+      "Río Enco",
+      "Lago Riñihue"
+    ],
+    "bbox": {
+      "lat_min": -40.1,
+      "lat_max": -39.4,
+      "lon_min": -73.5,
+      "lon_max": -71.6
+    }
+  },
+  {
+    "codigo_dga": "102",
+    "nombre": "Cuencas Costeras entre Río Valdivia y Río Bueno",
+    "region": "Los Ríos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 1420.0,
+    "rios_principales": [
+      "Río Chaihuín",
+      "Río Colún"
+    ],
+    "bbox": {
+      "lat_min": -40.3,
+      "lat_max": -39.9,
+      "lon_min": -73.7,
+      "lon_max": -73.4
+    }
+  },
+  {
+    "codigo_dga": "103",
+    "nombre": "Cuenca Río Bueno",
+    "region": "Los Ríos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 15367.0,
+    "rios_principales": [
+      "Río Bueno",
+      "Río Rahue",
+      "Río Damas",
+      "Río Pilmaiquén",
+      "Lago Ranco",
+      "Lago Puyehue"
+    ],
+    "bbox": {
+      "lat_min": -41.0,
+      "lat_max": -40.1,
+      "lon_min": -73.8,
+      "lon_max": -71.8
+    }
+  },
+  {
+    "codigo_dga": "104",
+    "nombre": "Cuenca Río Maullín",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 4738.0,
+    "rios_principales": [
+      "Río Maullín",
+      "Lago Llanquihue",
+      "Río Calbuco"
+    ],
+    "bbox": {
+      "lat_min": -41.7,
+      "lat_max": -41.1,
+      "lon_min": -73.8,
+      "lon_max": -72.7
+    }
+  },
+  {
+    "codigo_dga": "105",
+    "nombre": "Cuenca Río Petrohué",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 2868.0,
+    "rios_principales": [
+      "Río Petrohué",
+      "Lago Todos Los Santos"
+    ],
+    "bbox": {
+      "lat_min": -41.6,
+      "lat_max": -41.0,
+      "lon_min": -72.6,
+      "lon_max": -71.8
+    }
+  },
+  {
+    "codigo_dga": "106",
+    "nombre": "Cuenca Río Chamiza",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 780.0,
+    "rios_principales": [
+      "Río Chamiza",
+      "Lago Chapo"
+    ],
+    "bbox": {
+      "lat_min": -41.6,
+      "lat_max": -41.4,
+      "lon_min": -72.9,
+      "lon_max": -72.5
+    }
+  },
+  {
+    "codigo_dga": "107",
+    "nombre": "Cuenca Río Puelo",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 8800.0,
+    "rios_principales": [
+      "Río Puelo",
+      "Río Manso",
+      "Lago Tagua Tagua"
+    ],
+    "bbox": {
+      "lat_min": -42.0,
+      "lat_max": -41.5,
+      "lon_min": -72.4,
+      "lon_max": -71.6
+    }
+  },
+  {
+    "codigo_dga": "108",
+    "nombre": "Cuenca Río Yelcho",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 11000.0,
+    "rios_principales": [
+      "Río Yelcho",
+      "Río Futaleufú",
+      "Lago Yelcho"
+    ],
+    "bbox": {
+      "lat_min": -43.6,
+      "lat_max": -42.9,
+      "lon_min": -72.6,
+      "lon_max": -71.5
+    }
+  },
+  {
+    "codigo_dga": "109",
+    "nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "region": "Los Lagos",
+    "zona_hidrografica": "Zona Sur",
+    "superficie_km2": 9180.0,
+    "rios_principales": [
+      "Río Pudeto",
+      "Río Gamboa",
+      "Río Medina"
+    ],
+    "bbox": {
+      "lat_min": -43.5,
+      "lat_max": -41.7,
+      "lon_min": -74.3,
+      "lon_max": -73.3
+    }
+  },
+  {
+    "codigo_dga": "110",
+    "nombre": "Cuenca Río Palena",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 12887.0,
+    "rios_principales": [
+      "Río Palena",
+      "Río Frío",
+      "Río Rosselot"
+    ],
+    "bbox": {
+      "lat_min": -44.2,
+      "lat_max": -43.3,
+      "lon_min": -73.2,
+      "lon_max": -71.7
+    }
+  },
+  {
+    "codigo_dga": "111",
+    "nombre": "Cuenca Río Cisnes",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 5196.0,
+    "rios_principales": [
+      "Río Cisnes",
+      "Río Picacho"
+    ],
+    "bbox": {
+      "lat_min": -44.8,
+      "lat_max": -44.2,
+      "lon_min": -73.1,
+      "lon_max": -71.3
+    }
+  },
+  {
+    "codigo_dga": "112",
+    "nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 6750.0,
+    "rios_principales": [
+      "Río Queulat",
+      "Río Ventisquero"
+    ],
+    "bbox": {
+      "lat_min": -45.0,
+      "lat_max": -44.1,
+      "lon_min": -73.5,
+      "lon_max": -72.4
+    }
+  },
+  {
+    "codigo_dga": "113",
+    "nombre": "Cuenca Río Aysén",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 11674.0,
+    "rios_principales": [
+      "Río Aysén",
+      "Río Simpson",
+      "Río Mañihuales",
+      "Río Coyhaique"
+    ],
+    "bbox": {
+      "lat_min": -46.0,
+      "lat_max": -45.0,
+      "lon_min": -73.4,
+      "lon_max": -71.3
+    }
+  },
+  {
+    "codigo_dga": "114",
+    "nombre": "Cuencas Costeras entre Río Aysén y Río Baker",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 8920.0,
+    "rios_principales": [
+      "Río Exploradores",
+      "Río Murta"
+    ],
+    "bbox": {
+      "lat_min": -46.8,
+      "lat_max": -45.5,
+      "lon_min": -74.1,
+      "lon_max": -72.6
+    }
+  },
+  {
+    "codigo_dga": "115",
+    "nombre": "Cuenca Río Baker",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 26700.0,
+    "rios_principales": [
+      "Río Baker",
+      "Río Chacabuco",
+      "Río Nef",
+      "Río Colonia",
+      "Lago General Carrera"
+    ],
+    "bbox": {
+      "lat_min": -48.0,
+      "lat_max": -46.5,
+      "lon_min": -74.0,
+      "lon_max": -71.5
+    }
+  },
+  {
+    "codigo_dga": "116",
+    "nombre": "Cuenca Río Bravo",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 1560.0,
+    "rios_principales": [
+      "Río Bravo",
+      "Lago Vargas"
+    ],
+    "bbox": {
+      "lat_min": -48.2,
+      "lat_max": -47.8,
+      "lon_min": -73.5,
+      "lon_max": -72.7
+    }
+  },
+  {
+    "codigo_dga": "117",
+    "nombre": "Cuenca Río Pascua",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 14760.0,
+    "rios_principales": [
+      "Río Pascua",
+      "Río Mayer",
+      "Lago O'Higgins"
+    ],
+    "bbox": {
+      "lat_min": -49.1,
+      "lat_max": -48.0,
+      "lon_min": -73.6,
+      "lon_max": -72.0
+    }
+  },
+  {
+    "codigo_dga": "118",
+    "nombre": "Cuencas Costeras entre Pascua y Límite Regional",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 7500.0,
+    "rios_principales": [
+      "Río Steffen"
+    ],
+    "bbox": {
+      "lat_min": -49.2,
+      "lat_max": -48.3,
+      "lon_min": -74.5,
+      "lon_max": -73.4
+    }
+  },
+  {
+    "codigo_dga": "119",
+    "nombre": "Cuenca Archipiélago de Guayaneco",
+    "region": "Aysén",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 3200.0,
+    "rios_principales": [
+      "Ríos Insulares Guayaneco"
+    ],
+    "bbox": {
+      "lat_min": -48.0,
+      "lat_max": -47.4,
+      "lon_min": -75.4,
+      "lon_max": -74.3
+    }
+  },
+  {
+    "codigo_dga": "120",
+    "nombre": "Cuencas Costeras e Islas Seno Andrew",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 10800.0,
+    "rios_principales": [
+      "Ríos Glaciar Bernardo O'Higgins"
+    ],
+    "bbox": {
+      "lat_min": -50.2,
+      "lat_max": -49.0,
+      "lon_min": -75.2,
+      "lon_max": -73.8
+    }
+  },
+  {
+    "codigo_dga": "121",
+    "nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 7347.0,
+    "rios_principales": [
+      "Río Serrano",
+      "Río Paine",
+      "Río Grey",
+      "Lago Pehoe"
+    ],
+    "bbox": {
+      "lat_min": -51.5,
+      "lat_max": -50.7,
+      "lon_min": -73.5,
+      "lon_max": -72.4
+    }
+  },
+  {
+    "codigo_dga": "122",
+    "nombre": "Cuencas Costeras entre Seno Andrew y Seno Unión",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 6400.0,
+    "rios_principales": [
+      "Ríos Canal Sarmiento"
+    ],
+    "bbox": {
+      "lat_min": -51.6,
+      "lat_max": -50.5,
+      "lon_min": -75.3,
+      "lon_max": -74.0
+    }
+  },
+  {
+    "codigo_dga": "123",
+    "nombre": "Cuencas Costeras Seno Unión a Estrecho de Magallanes",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 7100.0,
+    "rios_principales": [
+      "Río Hollemberg"
+    ],
+    "bbox": {
+      "lat_min": -52.6,
+      "lat_max": -51.6,
+      "lon_min": -74.8,
+      "lon_max": -73.2
+    }
+  },
+  {
+    "codigo_dga": "124",
+    "nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 9400.0,
+    "rios_principales": [
+      "Río San Juan de Magallanes",
+      "Río de las Minas"
+    ],
+    "bbox": {
+      "lat_min": -53.9,
+      "lat_max": -52.6,
+      "lon_min": -72.4,
+      "lon_max": -70.8
+    }
+  },
+  {
+    "codigo_dga": "125",
+    "nombre": "Cuenca Río Grande de Tierra del Fuego",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 10580.0,
+    "rios_principales": [
+      "Río Grande",
+      "Río Bellavista",
+      "Río Rasmussen"
+    ],
+    "bbox": {
+      "lat_min": -54.3,
+      "lat_max": -53.2,
+      "lon_min": -70.2,
+      "lon_max": -68.6
+    }
+  },
+  {
+    "codigo_dga": "126",
+    "nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 12400.0,
+    "rios_principales": [
+      "Río Azopardo",
+      "Lago Fagnano"
+    ],
+    "bbox": {
+      "lat_min": -55.0,
+      "lat_max": -53.8,
+      "lon_min": -71.5,
+      "lon_max": -68.7
+    }
+  },
+  {
+    "codigo_dga": "127",
+    "nombre": "Cuenca Isla Navarino y Canal Beagle",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 5100.0,
+    "rios_principales": [
+      "Río Róbalo",
+      "Río Douglas"
+    ],
+    "bbox": {
+      "lat_min": -55.8,
+      "lat_max": -54.8,
+      "lon_min": -68.5,
+      "lon_max": -67.0
+    }
+  },
+  {
+    "codigo_dga": "128",
+    "nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 1900.0,
+    "rios_principales": [
+      "Río Gallegos Chico"
+    ],
+    "bbox": {
+      "lat_min": -52.5,
+      "lat_max": -52.0,
+      "lon_min": -70.5,
+      "lon_max": -69.8
+    }
+  },
+  {
+    "codigo_dga": "129",
+    "nombre": "Territorio Chileno Antártico",
+    "region": "Magallanes",
+    "zona_hidrografica": "Zona Austral",
+    "superficie_km2": 1250000.0,
+    "rios_principales": [
+      "Glaciares Península Antártica"
+    ],
+    "bbox": {
+      "lat_min": -56.0,
+      "lat_max": -56.0,
+      "lon_min": -70.0,
+      "lon_max": -70.0
+    }
+  }
+]

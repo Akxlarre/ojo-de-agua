@@ -1,0 +1,5882 @@
+[
+  {
+    "id": "siss_ptas_117",
+    "codigo_obra": "117",
+    "nombre": "PTAS - PICA",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "PICA - MATILLA",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "coordenadas": {
+      "latitud": -20.500821,
+      "longitud": -69.336282
+    }
+  },
+  {
+    "id": "siss_ptas_151",
+    "codigo_obra": "151",
+    "nombre": "PTAS - LA TIRANA",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "LA TIRANA",
+    "ano_construccion": 2013,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "coordenadas": {
+      "latitud": -20.35976,
+      "longitud": -69.640163
+    }
+  },
+  {
+    "id": "siss_ptas_121",
+    "codigo_obra": "121",
+    "nombre": "PTAS - HUARA",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "HUARA",
+    "ano_construccion": 2013,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.278365,
+      "longitud": -69.772132
+    }
+  },
+  {
+    "id": "siss_ptas_103",
+    "codigo_obra": "103",
+    "nombre": "ES - PLAYA BRAVA",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.237351,
+      "longitud": -70.147869
+    }
+  },
+  {
+    "id": "siss_ptas_114",
+    "codigo_obra": "114",
+    "nombre": "PTAS - POZO ALMONTE",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.250482,
+      "longitud": -69.769311
+    }
+  },
+  {
+    "id": "siss_ptas_102",
+    "codigo_obra": "102",
+    "nombre": "ES - BARRIO INDUSTRIAL (PUNTA NEGRA)",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+    "ano_construccion": 1996,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.200904,
+      "longitud": -70.138294
+    }
+  },
+  {
+    "id": "siss_ptas_101",
+    "codigo_obra": "101",
+    "nombre": "PTAS - ALTO HOSPICIO",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE TARAPACA",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.253375,
+      "longitud": -70.098334
+    }
+  },
+  {
+    "id": "siss_ptas_1000",
+    "codigo_obra": "1000",
+    "nombre": "ES - GRAN ANTOFAGASTA",
+    "empresa_concesionaria": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+    "rut_empresa": "96579410.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 1973,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.611816,
+      "longitud": -70.390661
+    }
+  },
+  {
+    "id": "siss_ptas_8000",
+    "codigo_obra": "8000",
+    "nombre": "PTAS - BAQUEDANO",
+    "empresa_concesionaria": "AGUAS ANTOFAGASTA S.A.",
+    "rut_empresa": "99540870.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 2014,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.335705,
+      "longitud": -69.854039
+    }
+  },
+  {
+    "id": "siss_ptas_9000",
+    "codigo_obra": "9000",
+    "nombre": "PTAS - SIERRA GORDA",
+    "empresa_concesionaria": "AGUAS ANTOFAGASTA S.A.",
+    "rut_empresa": "99540870.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 2014,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "coordenadas": {
+      "latitud": -22.895959,
+      "longitud": -69.32442
+    }
+  },
+  {
+    "id": "siss_ptas_2000",
+    "codigo_obra": "2000",
+    "nombre": "PTAS - SAN PEDRO COLOSO",
+    "empresa_concesionaria": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+    "rut_empresa": "96579410.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 2014,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.761012,
+      "longitud": -70.458648
+    }
+  },
+  {
+    "id": "siss_ptas_6000",
+    "codigo_obra": "6000",
+    "nombre": "ES - TAL TAL",
+    "empresa_concesionaria": "AGUAS ANTOFAGASTA S.A.",
+    "rut_empresa": "99540870.0",
+    "sistema_urbano": "TAL TAL",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.390343,
+      "longitud": -70.434231
+    }
+  },
+  {
+    "id": "siss_ptas_5000",
+    "codigo_obra": "5000",
+    "nombre": "ES - TOCOPILLA",
+    "empresa_concesionaria": "AGUAS ANTOFAGASTA S.A.",
+    "rut_empresa": "99540870.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.08098,
+      "longitud": -70.195308
+    }
+  },
+  {
+    "id": "siss_ptas_7000",
+    "codigo_obra": "7000",
+    "nombre": "ES - MEJILLONES",
+    "empresa_concesionaria": "AGUAS ANTOFAGASTA S.A.",
+    "rut_empresa": "99540870.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.997778,
+      "longitud": -70.456314
+    }
+  },
+  {
+    "id": "siss_ptas_8000",
+    "codigo_obra": "8000",
+    "nombre": "PTAS - LODOS ANTOFAGASTA",
+    "empresa_concesionaria": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+    "rut_empresa": "96579410.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 1971,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "CLIENTES INDUSTRIALES",
+    "tipo_receptor": "CLIENTES INDUSTRIALES",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.610207,
+      "longitud": -70.391425
+    }
+  },
+  {
+    "id": "siss_ptas_3000",
+    "codigo_obra": "3000",
+    "nombre": "PTAS - CALAMA",
+    "empresa_concesionaria": "TRATACAL S.A.",
+    "rut_empresa": "76741450.0",
+    "sistema_urbano": "GRAN SISTEMA NORTE",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ANTOFAGASTA",
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "coordenadas": {
+      "latitud": -22.452351,
+      "longitud": -68.954777
+    }
+  },
+  {
+    "id": "siss_ptas_7",
+    "codigo_obra": "7",
+    "nombre": "ES - HUASCO",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "HUASCO - FREIRINA",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "coordenadas": {
+      "latitud": -28.46278,
+      "longitud": -71.236946
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - COPIAPO",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "COPIAPO - TIERRA AMARILLA",
+    "ano_construccion": 1996,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.34097,
+      "longitud": -70.37282
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - VALLENAR",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "VALLENAR",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "coordenadas": {
+      "latitud": -28.562476,
+      "longitud": -70.79534
+    }
+  },
+  {
+    "id": "siss_ptas_3",
+    "codigo_obra": "3",
+    "nombre": "PTAS - TIERRA AMARILLA",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "COPIAPO - TIERRA AMARILLA",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.446254,
+      "longitud": -70.269241
+    }
+  },
+  {
+    "id": "siss_ptas_4",
+    "codigo_obra": "4",
+    "nombre": "PTAS - FREIRINA",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "HUASCO - FREIRINA",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "coordenadas": {
+      "latitud": -28.504319,
+      "longitud": -71.093879
+    }
+  },
+  {
+    "id": "siss_ptas_6",
+    "codigo_obra": "6",
+    "nombre": "PTAS - DIEGO DE ALMAGRO",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "DIEGO DE ALMAGRO - EL SALADO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "032",
+    "cuenca_nombre": "Cuenca Río Salado de Chañaral",
+    "coordenadas": {
+      "latitud": -26.397946,
+      "longitud": -70.067438
+    }
+  },
+  {
+    "id": "siss_ptas_80",
+    "codigo_obra": "80",
+    "nombre": "PTAS - EL SALADO",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "DIEGO DE ALMAGRO - EL SALADO",
+    "ano_construccion": 2016,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -26.416544,
+      "longitud": -70.346627
+    }
+  },
+  {
+    "id": "siss_ptas_5",
+    "codigo_obra": "5",
+    "nombre": "PTAS - CALDERA",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "CALDERA - CHAÑARAL",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "LAGO",
+    "tipo_receptor": "LAGO",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.058862,
+      "longitud": -70.797413
+    }
+  },
+  {
+    "id": "siss_ptas_90",
+    "codigo_obra": "90",
+    "nombre": "ES - CHAÑARAL",
+    "empresa_concesionaria": "AGUAS CHAÑAR S.A.",
+    "rut_empresa": "99542570.0",
+    "sistema_urbano": "CALDERA - CHAÑARAL",
+    "ano_construccion": 2016,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ATACAMA",
+    "cuenca_codigo": "032",
+    "cuenca_nombre": "Cuenca Río Salado de Chañaral",
+    "coordenadas": {
+      "latitud": -26.341742,
+      "longitud": -70.641551
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "ES - LA SERENA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "LA SERENA - COQUIMBO",
+    "ano_construccion": 1987,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -29.898239,
+      "longitud": -71.257443
+    }
+  },
+  {
+    "id": "siss_ptas_16",
+    "codigo_obra": "16",
+    "nombre": "PTAS - TONGOY",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "ANDACOLLO",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -30.276299,
+      "longitud": -71.482199
+    }
+  },
+  {
+    "id": "siss_ptas_17",
+    "codigo_obra": "17",
+    "nombre": "PTAS - ANDACOLLO",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "ANDACOLLO",
+    "ano_construccion": 1995,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Estero S/dilución",
+    "tipo_receptor": "Estero S/dilución",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -30.230048,
+      "longitud": -71.071344
+    }
+  },
+  {
+    "id": "siss_ptas_9",
+    "codigo_obra": "9",
+    "nombre": "PTAS - ILLAPEL",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "ILLAPEL",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "coordenadas": {
+      "latitud": -31.64747,
+      "longitud": -71.189652
+    }
+  },
+  {
+    "id": "siss_ptas_7",
+    "codigo_obra": "7",
+    "nombre": "PTAS - CANELA ALTA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "CANELA ALTA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "coordenadas": {
+      "latitud": -31.390526,
+      "longitud": -71.391276
+    }
+  },
+  {
+    "id": "siss_ptas_8",
+    "codigo_obra": "8",
+    "nombre": "PTAS - CANELA BAJA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "CANELA BAJA",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "coordenadas": {
+      "latitud": -31.401704,
+      "longitud": -71.459371
+    }
+  },
+  {
+    "id": "siss_ptas_12",
+    "codigo_obra": "12",
+    "nombre": "PTAS - OVALLE",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "OVALLE - HUAMALATA",
+    "ano_construccion": 1982,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.626398,
+      "longitud": -71.235887
+    }
+  },
+  {
+    "id": "siss_ptas_13",
+    "codigo_obra": "13",
+    "nombre": "PTAS - SOTAQUI",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "SOTAQUI",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.629957,
+      "longitud": -71.131517
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - CHAÑARAL ALTO",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "CHAÑARAL ALTO",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.875766,
+      "longitud": -71.004067
+    }
+  },
+  {
+    "id": "siss_ptas_19",
+    "codigo_obra": "19",
+    "nombre": "PTAS - VICUÑA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "VICUÑA",
+    "ano_construccion": 1971,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -30.03631,
+      "longitud": -70.721084
+    }
+  },
+  {
+    "id": "siss_ptas_11",
+    "codigo_obra": "11",
+    "nombre": "PTAS - EL PALQUI",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "EL PALQUI",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.77291,
+      "longitud": -70.948936
+    }
+  },
+  {
+    "id": "siss_ptas_6",
+    "codigo_obra": "6",
+    "nombre": "PTAS - COMBARBALA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "COMBARBALA",
+    "ano_construccion": 1979,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -31.172424,
+      "longitud": -71.007805
+    }
+  },
+  {
+    "id": "siss_ptas_21",
+    "codigo_obra": "21",
+    "nombre": "PTAS - PAIHUANO",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "PAIHUANO",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -30.027518,
+      "longitud": -70.520215
+    }
+  },
+  {
+    "id": "siss_ptas_4",
+    "codigo_obra": "4",
+    "nombre": "PTAS - SALAMANCA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "SALAMANCA",
+    "ano_construccion": 1979,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "coordenadas": {
+      "latitud": -31.77719,
+      "longitud": -70.975303
+    }
+  },
+  {
+    "id": "siss_ptas_14",
+    "codigo_obra": "14",
+    "nombre": "PTAS - PUNITAQUI",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "PUNITAQUI",
+    "ano_construccion": 1994,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.817098,
+      "longitud": -71.265021
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "ES - COQUIMBO",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "LA SERENA - COQUIMBO",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -29.952829,
+      "longitud": -71.359852
+    }
+  },
+  {
+    "id": "siss_ptas_22",
+    "codigo_obra": "22",
+    "nombre": "PTAS - MONTEPATRIA",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "MONTE PATRIA",
+    "ano_construccion": 1990,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "coordenadas": {
+      "latitud": -30.696954,
+      "longitud": -70.9566
+    }
+  },
+  {
+    "id": "siss_ptas_20",
+    "codigo_obra": "20",
+    "nombre": "PTAS - PERALILLO IV",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "PERALILLO DE VICUÑA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -30.035427,
+      "longitud": -70.684038
+    }
+  },
+  {
+    "id": "siss_ptas_23",
+    "codigo_obra": "23",
+    "nombre": "PTAS - GUANAQUEROS",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "ANDACOLLO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -30.199327,
+      "longitud": -71.400955
+    }
+  },
+  {
+    "id": "siss_ptas_3",
+    "codigo_obra": "3",
+    "nombre": "ES - LOS VILOS",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "LOS VILOS",
+    "ano_construccion": 1992,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "coordenadas": {
+      "latitud": -31.909713,
+      "longitud": -71.517067
+    }
+  },
+  {
+    "id": "siss_ptas_103",
+    "codigo_obra": "103",
+    "nombre": "PTAS - PICHIDANGUI",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+    "rut_empresa": "96889730.0",
+    "sistema_urbano": "PICHIDANGUI",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "coordenadas": {
+      "latitud": -32.136142,
+      "longitud": -71.500472
+    }
+  },
+  {
+    "id": "siss_ptas_18",
+    "codigo_obra": "18",
+    "nombre": "PTAS - ALGARROBITO",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "LA SERENA - COQUIMBO",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "coordenadas": {
+      "latitud": -29.938572,
+      "longitud": -71.14275
+    }
+  },
+  {
+    "id": "siss_ptas_15",
+    "codigo_obra": "15",
+    "nombre": "PTAS - EL PEÑON",
+    "empresa_concesionaria": "AGUAS DEL VALLE S.A.",
+    "rut_empresa": "99541380.0",
+    "sistema_urbano": "ANDACOLLO",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE COQUIMBO",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -30.130796,
+      "longitud": -71.228655
+    }
+  },
+  {
+    "id": "siss_ptas_26",
+    "codigo_obra": "26",
+    "nombre": "ES - QUINTERO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.768483,
+      "longitud": -71.532072
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - CABILDO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "CABILDO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "coordenadas": {
+      "latitud": -32.43998,
+      "longitud": -71.088872
+    }
+  },
+  {
+    "id": "siss_ptas_24",
+    "codigo_obra": "24",
+    "nombre": "PTAS - PAPUDO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.506053,
+      "longitud": -71.431851
+    }
+  },
+  {
+    "id": "siss_ptas_9",
+    "codigo_obra": "9",
+    "nombre": "PTAS - PETORCA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "PETORCA",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "Cuenca Río Petorca",
+    "coordenadas": {
+      "latitud": -32.255456,
+      "longitud": -70.950035
+    }
+  },
+  {
+    "id": "siss_ptas_22",
+    "codigo_obra": "22",
+    "nombre": "PTAS - CACHAGUA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.586264,
+      "longitud": -71.441143
+    }
+  },
+  {
+    "id": "siss_ptas_23",
+    "codigo_obra": "23",
+    "nombre": "PTAS - LA LAGUNA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.624197,
+      "longitud": -71.41941
+    }
+  },
+  {
+    "id": "siss_ptas_25",
+    "codigo_obra": "25",
+    "nombre": "PTAS - ZAPALLAR",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.55229,
+      "longitud": -71.449832
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - SANTO DOMINGO",
+    "empresa_concesionaria": "COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA.",
+    "rut_empresa": "70011730.0",
+    "sistema_urbano": "COOPAGUA",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.637509,
+      "longitud": -71.609935
+    }
+  },
+  {
+    "id": "siss_ptas_6",
+    "codigo_obra": "6",
+    "nombre": "PTAS - LLAY - LLAY",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LLAY LLAY",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.841253,
+      "longitud": -70.986904
+    }
+  },
+  {
+    "id": "siss_ptas_15",
+    "codigo_obra": "15",
+    "nombre": "ES - CONCON",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.928794,
+      "longitud": -71.509734
+    }
+  },
+  {
+    "id": "siss_ptas_13",
+    "codigo_obra": "13",
+    "nombre": "PTAS - SAN ESTEBAN",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "SAN ESTEBAN",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.811745,
+      "longitud": -70.607898
+    }
+  },
+  {
+    "id": "siss_ptas_12",
+    "codigo_obra": "12",
+    "nombre": "PTAS - PUTAENDO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "PUTAENDO",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.636158,
+      "longitud": -70.721714
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - SANTA MARIA DEL MAR",
+    "empresa_concesionaria": "COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA.",
+    "rut_empresa": "70011730.0",
+    "sistema_urbano": "COOPAGUA",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "INFILTRACION",
+    "tipo_receptor": "INFILTRACION",
+    "categoria_receptor": "Infiltración al Suelo",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.661907,
+      "longitud": -71.63824
+    }
+  },
+  {
+    "id": "siss_ptas_29",
+    "codigo_obra": "29",
+    "nombre": "ES - SAN ANTONIO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LITORAL SUR",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.572901,
+      "longitud": -71.62306
+    }
+  },
+  {
+    "id": "siss_ptas_31",
+    "codigo_obra": "31",
+    "nombre": "PTAS CHINCOLCO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "CHINCOLCO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "Cuenca Río Petorca",
+    "coordenadas": {
+      "latitud": -32.228546,
+      "longitud": -70.866668
+    }
+  },
+  {
+    "id": "siss_ptas_105",
+    "codigo_obra": "105",
+    "nombre": "PTAS LOS MOLLES",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+    "rut_empresa": "96889730.0",
+    "sistema_urbano": "LOS MOLLES",
+    "ano_construccion": 2017,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "coordenadas": {
+      "latitud": -32.229165,
+      "longitud": -71.50847
+    }
+  },
+  {
+    "id": "siss_ptas_14",
+    "codigo_obra": "14",
+    "nombre": "PTAS - SANTA MARIA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.740647,
+      "longitud": -70.663614
+    }
+  },
+  {
+    "id": "siss_ptas_27",
+    "codigo_obra": "27",
+    "nombre": "PTAS - CURIMON",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.772384,
+      "longitud": -70.708753
+    }
+  },
+  {
+    "id": "siss_ptas_28",
+    "codigo_obra": "28",
+    "nombre": "PTAS - RINCONADA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.833327,
+      "longitud": -70.70673
+    }
+  },
+  {
+    "id": "siss_ptas_18",
+    "codigo_obra": "18",
+    "nombre": "PTAS - LOS ANDES",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.807041,
+      "longitud": -70.632781
+    }
+  },
+  {
+    "id": "siss_ptas_19",
+    "codigo_obra": "19",
+    "nombre": "PTAS - SAN FELIPE",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.748098,
+      "longitud": -70.740216
+    }
+  },
+  {
+    "id": "siss_ptas_21",
+    "codigo_obra": "21",
+    "nombre": "ES - EL TABO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LITORAL SUR",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.463809,
+      "longitud": -71.654938
+    }
+  },
+  {
+    "id": "siss_ptas_3",
+    "codigo_obra": "3",
+    "nombre": "ES - CARTAGENA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LITORAL SUR",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.538248,
+      "longitud": -71.60282
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "ES - ALGARROBO",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LITORAL SUR",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.356015,
+      "longitud": -71.657732
+    }
+  },
+  {
+    "id": "siss_ptas_11",
+    "codigo_obra": "11",
+    "nombre": "PTAS - PUCHUNCAVI",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.736198,
+      "longitud": -71.421256
+    }
+  },
+  {
+    "id": "siss_ptas_17",
+    "codigo_obra": "17",
+    "nombre": "PTAS - LA LIGUA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "coordenadas": {
+      "latitud": -32.442365,
+      "longitud": -71.236742
+    }
+  },
+  {
+    "id": "siss_ptas_20",
+    "codigo_obra": "20",
+    "nombre": "PTAS - QUILLOTA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.903638,
+      "longitud": -71.278759
+    }
+  },
+  {
+    "id": "siss_ptas_16",
+    "codigo_obra": "16",
+    "nombre": "ES - HIGUERILLAS",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.927674,
+      "longitud": -71.542452
+    }
+  },
+  {
+    "id": "siss_ptas_30",
+    "codigo_obra": "30",
+    "nombre": "ES - DOS NORTE",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.021499,
+      "longitud": -71.556591
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - PLACILLA V",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 1990,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.11146,
+      "longitud": -71.578139
+    }
+  },
+  {
+    "id": "siss_ptas_7",
+    "codigo_obra": "7",
+    "nombre": "ES - LOMA LARGA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.04314,
+      "longitud": -71.65692
+    }
+  },
+  {
+    "id": "siss_ptas_5",
+    "codigo_obra": "5",
+    "nombre": "PTAS - CATEMU",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "CATEMU",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.781594,
+      "longitud": -70.97255
+    }
+  },
+  {
+    "id": "siss_ptas_4",
+    "codigo_obra": "4",
+    "nombre": "PTAS - CASABLANCA",
+    "empresa_concesionaria": "ESVAL S.A.",
+    "rut_empresa": "89900400.0",
+    "sistema_urbano": "CASABLANCA",
+    "ano_construccion": 1978,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE VALPARAISO",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.305906,
+      "longitud": -71.4221
+    }
+  },
+  {
+    "id": "siss_ptas_202",
+    "codigo_obra": "202",
+    "nombre": "PTAS - CHIMBARONGO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CHIMBARONGO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.725064,
+      "longitud": -71.062745
+    }
+  },
+  {
+    "id": "siss_ptas_203",
+    "codigo_obra": "203",
+    "nombre": "PTAS - NANCAGUA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "NANCAGUA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.643717,
+      "longitud": -71.21281
+    }
+  },
+  {
+    "id": "siss_ptas_209",
+    "codigo_obra": "209",
+    "nombre": "PTAS - SANTA CRUZ",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SANTA CRUZ - PALMILLA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.619981,
+      "longitud": -71.360219
+    }
+  },
+  {
+    "id": "siss_ptas_119",
+    "codigo_obra": "119",
+    "nombre": "PTAS - PICHIDEGUA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PICHIDEGUA",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.34582,
+      "longitud": -71.27984
+    }
+  },
+  {
+    "id": "siss_ptas_110",
+    "codigo_obra": "110",
+    "nombre": "PTAS - OLIVAR ALTO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "OLIVAR ALTO",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.197305,
+      "longitud": -70.843972
+    }
+  },
+  {
+    "id": "siss_ptas_208",
+    "codigo_obra": "208",
+    "nombre": "PTAS - PERALILLO VI",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PERALILLO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.478988,
+      "longitud": -71.486367
+    }
+  },
+  {
+    "id": "siss_ptas_121",
+    "codigo_obra": "121",
+    "nombre": "PTAS - LAS CABRAS",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LAS CABRAS",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.29543,
+      "longitud": -71.320374
+    }
+  },
+  {
+    "id": "siss_ptas_212",
+    "codigo_obra": "212",
+    "nombre": "PTAS - PICHILEMU",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PICHILEMU",
+    "ano_construccion": 2010,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "ESTERO",
+    "tipo_receptor": "ESTERO",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.387486,
+      "longitud": -71.980591
+    }
+  },
+  {
+    "id": "siss_ptas_933",
+    "codigo_obra": "933",
+    "nombre": "PTAS - QUINTA DE TILCOCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "QUINTA DE TILCOCO",
+    "ano_construccion": 2011,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.352933,
+      "longitud": -70.995763
+    }
+  },
+  {
+    "id": "siss_ptas_117",
+    "codigo_obra": "117",
+    "nombre": "PTAS - SAN VICENTE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN VICENTE DE TAGUA TAGUA",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.449643,
+      "longitud": -71.097453
+    }
+  },
+  {
+    "id": "siss_ptas_102",
+    "codigo_obra": "102",
+    "nombre": "PTAS - SAN FRANCISCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN FRANCISCO DE MOSTAZAL",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.952138,
+      "longitud": -70.715805
+    }
+  },
+  {
+    "id": "siss_ptas_201",
+    "codigo_obra": "201",
+    "nombre": "PTAS - SAN FERNANDO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN FERNANDO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.548349,
+      "longitud": -70.99762
+    }
+  },
+  {
+    "id": "siss_ptas_111",
+    "codigo_obra": "111",
+    "nombre": "PTAS - REQUINOA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "REQUINOA",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.297355,
+      "longitud": -70.835947
+    }
+  },
+  {
+    "id": "siss_ptas_114",
+    "codigo_obra": "114",
+    "nombre": "PTAS - RENGO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "RENGO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.429655,
+      "longitud": -70.872822
+    }
+  },
+  {
+    "id": "siss_ptas_205",
+    "codigo_obra": "205",
+    "nombre": "PTAS - POBLACION",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "POBLACION",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.451678,
+      "longitud": -71.544896
+    }
+  },
+  {
+    "id": "siss_ptas_204",
+    "codigo_obra": "204",
+    "nombre": "PTAS - PLACILLA VI",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PLACILLA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.657098,
+      "longitud": -71.125638
+    }
+  },
+  {
+    "id": "siss_ptas_930",
+    "codigo_obra": "930",
+    "nombre": "PTAS - PEUMO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PEUMO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.399084,
+      "longitud": -71.199926
+    }
+  },
+  {
+    "id": "siss_ptas_932",
+    "codigo_obra": "932",
+    "nombre": "PTAS - MALLOA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "MALLOA",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.453991,
+      "longitud": -70.955221
+    }
+  },
+  {
+    "id": "siss_ptas_101",
+    "codigo_obra": "101",
+    "nombre": "PTAS - RANCAGUA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "RANCAGUA - MACHALI",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.114605,
+      "longitud": -70.786385
+    }
+  },
+  {
+    "id": "siss_ptas_206",
+    "codigo_obra": "206",
+    "nombre": "PTAS - LOLOL",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LOLOL",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.721118,
+      "longitud": -71.666179
+    }
+  },
+  {
+    "id": "siss_ptas_109",
+    "codigo_obra": "109",
+    "nombre": "PTAS - DOÑIHUE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "DOÑIHUE",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.25389,
+      "longitud": -70.986518
+    }
+  },
+  {
+    "id": "siss_ptas_211",
+    "codigo_obra": "211",
+    "nombre": "PTAS - COLTAUCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "COLTAUCO",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.290831,
+      "longitud": -71.091844
+    }
+  },
+  {
+    "id": "siss_ptas_210",
+    "codigo_obra": "210",
+    "nombre": "PTAS - COINCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "COINCO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.270549,
+      "longitud": -70.976837
+    }
+  },
+  {
+    "id": "siss_ptas_207",
+    "codigo_obra": "207",
+    "nombre": "PTAS - CHEPICA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CHEPICA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL LIBERTADOR B. OHIGGINS",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.732861,
+      "longitud": -71.286017
+    }
+  },
+  {
+    "id": "siss_ptas_1006",
+    "codigo_obra": "1006",
+    "nombre": "PTAS - SAN RAFAEL",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "SAN RAFAEL",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.304587,
+      "longitud": -71.527095
+    }
+  },
+  {
+    "id": "siss_ptas_1026",
+    "codigo_obra": "1026",
+    "nombre": "PTAS - CAUQUENES",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CAUQUENES",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas": {
+      "latitud": -35.970536,
+      "longitud": -72.301867
+    }
+  },
+  {
+    "id": "siss_ptas_1029",
+    "codigo_obra": "1029",
+    "nombre": "PTAS - PELLUHUE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "PELLUHUE",
+    "ano_construccion": 1995,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas": {
+      "latitud": -35.808887,
+      "longitud": -72.560599
+    }
+  },
+  {
+    "id": "siss_ptas_1028",
+    "codigo_obra": "1028",
+    "nombre": "PTAS - CURANIPE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CURANIPE",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas": {
+      "latitud": -35.847825,
+      "longitud": -72.639307
+    }
+  },
+  {
+    "id": "siss_ptas_1004",
+    "codigo_obra": "1004",
+    "nombre": "PTAS - CUREPTO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CUREPTO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "072",
+    "cuenca_nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "coordenadas": {
+      "latitud": -35.084941,
+      "longitud": -72.029473
+    }
+  },
+  {
+    "id": "siss_ptas_1015",
+    "codigo_obra": "1015",
+    "nombre": "PTAS - TENO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "TENO",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.851726,
+      "longitud": -71.183004
+    }
+  },
+  {
+    "id": "siss_ptas_1024",
+    "codigo_obra": "1024",
+    "nombre": "PTAS - RETIRO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "RETIRO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -36.034898,
+      "longitud": -71.74416
+    }
+  },
+  {
+    "id": "siss_ptas_1025",
+    "codigo_obra": "1025",
+    "nombre": "PTAS - PARRAL",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "PARRAL",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -36.118361,
+      "longitud": -71.840583
+    }
+  },
+  {
+    "id": "siss_ptas_1023",
+    "codigo_obra": "1023",
+    "nombre": "PTAS - LONGAVI",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "LONGAVI",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.947249,
+      "longitud": -71.695553
+    }
+  },
+  {
+    "id": "siss_ptas_1010",
+    "codigo_obra": "1010",
+    "nombre": "PTAS - PUTU",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "PUTU",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "072",
+    "cuenca_nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "coordenadas": {
+      "latitud": -35.205656,
+      "longitud": -72.286809
+    }
+  },
+  {
+    "id": "siss_ptas_1016",
+    "codigo_obra": "1016",
+    "nombre": "PTAS - HUALAÑE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "HUALAÑE",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.974999,
+      "longitud": -71.813265
+    }
+  },
+  {
+    "id": "siss_ptas_1001",
+    "codigo_obra": "1001",
+    "nombre": "PTAS - TALCA",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "TALCA",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.45158,
+      "longitud": -71.731353
+    }
+  },
+  {
+    "id": "siss_ptas_1030",
+    "codigo_obra": "1030",
+    "nombre": "PTAS - LICANTEN",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "LICANTEN",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.984023,
+      "longitud": -71.993029
+    }
+  },
+  {
+    "id": "siss_ptas_1031",
+    "codigo_obra": "1031",
+    "nombre": "PTAS - CONSTITUCION",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CONSTITUCION",
+    "ano_construccion": 2010,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.362507,
+      "longitud": -72.38062
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - MAULE",
+    "empresa_concesionaria": "COOP. DE SERVICIO DE ABASTECIMIENTO DE AP Y SANEAMIENTO AMBIENTAL DE LA COMUNIDAD DE MAULE LTDA",
+    "rut_empresa": "84865800.0",
+    "sistema_urbano": "COOPERATIVA MAULE",
+    "ano_construccion": 1996,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.514591,
+      "longitud": -71.692506
+    }
+  },
+  {
+    "id": "siss_ptas_1007",
+    "codigo_obra": "1007",
+    "nombre": "PTAS - ZAPALLAR",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "ALTO DE ZAPALLAR",
+    "ano_construccion": 2015,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.997655,
+      "longitud": -71.23089
+    }
+  },
+  {
+    "id": "siss_ptas_123456",
+    "codigo_obra": "123456",
+    "nombre": "PTAS - SARMIENTO",
+    "empresa_concesionaria": "COOP. DE SERVICIO DE ABASTECIMIENTO DE AP Y SANEAMIENTO AMBIENTAL DE LA COMUNIDAD DE SARMIENTO LTDA",
+    "rut_empresa": "70240900.0",
+    "sistema_urbano": "COOPERATIVA SARMIENTO",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "ESTERO CON DILUCIÓN",
+    "tipo_receptor": "ESTERO CON DILUCIÓN",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.943362,
+      "longitud": -71.215361
+    }
+  },
+  {
+    "id": "siss_ptas_1022",
+    "codigo_obra": "1022",
+    "nombre": "PTAS - YERBAS BUENAS",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "YERBAS BUENAS",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.763011,
+      "longitud": -71.598484
+    }
+  },
+  {
+    "id": "siss_ptas_1007",
+    "codigo_obra": "1007",
+    "nombre": "PTAS - VILLA ALEGRE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "VILLA ALEGRE",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.667476,
+      "longitud": -71.762929
+    }
+  },
+  {
+    "id": "siss_ptas_1008",
+    "codigo_obra": "1008",
+    "nombre": "PTAS - SAN JAVIER",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "SAN JAVIER",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.590963,
+      "longitud": -71.752726
+    }
+  },
+  {
+    "id": "siss_ptas_1002",
+    "codigo_obra": "1002",
+    "nombre": "PTAS - SAN CLEMENTE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "SAN CLEMENTE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.52251,
+      "longitud": -71.522292
+    }
+  },
+  {
+    "id": "siss_ptas_1018",
+    "codigo_obra": "1018",
+    "nombre": "PTAS - RAUCO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "RAUCO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.925995,
+      "longitud": -71.32588
+    }
+  },
+  {
+    "id": "siss_ptas_1003",
+    "codigo_obra": "1003",
+    "nombre": "PTAS - PELARCO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "PELARCO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.385851,
+      "longitud": -71.452702
+    }
+  },
+  {
+    "id": "siss_ptas_1013",
+    "codigo_obra": "1013",
+    "nombre": "PTAS - MOLINA-LONTUE",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "MOLINA",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -35.092025,
+      "longitud": -71.313311
+    }
+  },
+  {
+    "id": "siss_ptas_1020",
+    "codigo_obra": "1020",
+    "nombre": "PTAS - LOS QUEÑES",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "LOS QUEÑES",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.997032,
+      "longitud": -70.814784
+    }
+  },
+  {
+    "id": "siss_ptas_1021",
+    "codigo_obra": "1021",
+    "nombre": "PTAS - LINARES",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "LINARES",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.797697,
+      "longitud": -71.623602
+    }
+  },
+  {
+    "id": "siss_ptas_1005",
+    "codigo_obra": "1005",
+    "nombre": "PTAS - GUALLECO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "GUALLECO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "072",
+    "cuenca_nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "coordenadas": {
+      "latitud": -35.240125,
+      "longitud": -71.985123
+    }
+  },
+  {
+    "id": "siss_ptas_1011",
+    "codigo_obra": "1011",
+    "nombre": "PTAS - EMPEDRADO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "EMPEDRADO",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "coordenadas": {
+      "latitud": -35.587372,
+      "longitud": -72.282797
+    }
+  },
+  {
+    "id": "siss_ptas_1012",
+    "codigo_obra": "1012",
+    "nombre": "PTAS - CURICO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CURICO",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "coordenadas": {
+      "latitud": -34.986162,
+      "longitud": -71.287003
+    }
+  },
+  {
+    "id": "siss_ptas_1027",
+    "codigo_obra": "1027",
+    "nombre": "PTAS - CHANCO",
+    "empresa_concesionaria": "AGUAS NUEVO SUR MAULE S.A.",
+    "rut_empresa": "96963440.0",
+    "sistema_urbano": "CHANCO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL MAULE",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas": {
+      "latitud": -35.740554,
+      "longitud": -72.539469
+    }
+  },
+  {
+    "id": "siss_ptas_3332",
+    "codigo_obra": "3332",
+    "nombre": "ES - PENCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CONCEPCION",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.716096,
+      "longitud": -73.000925
+    }
+  },
+  {
+    "id": "siss_ptas_3971",
+    "codigo_obra": "3971",
+    "nombre": "PTAS - SANTA JUANA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SANTA JUANA",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.164339,
+      "longitud": -72.949017
+    }
+  },
+  {
+    "id": "siss_ptas_3465",
+    "codigo_obra": "3465",
+    "nombre": "ES - SAN VICENTE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CONCEPCION",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -36.731442,
+      "longitud": -73.162806
+    }
+  },
+  {
+    "id": "siss_ptas_4106",
+    "codigo_obra": "4106",
+    "nombre": "ES - TOME",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "TOME",
+    "ano_construccion": 1994,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.627416,
+      "longitud": -72.970042
+    }
+  },
+  {
+    "id": "siss_ptas_8831",
+    "codigo_obra": "8831",
+    "nombre": "PTAS - LOS ALAMOS",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LOS ALAMOS - CERRO ALTO - TRES PINOS",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.632581,
+      "longitud": -73.448804
+    }
+  },
+  {
+    "id": "siss_ptas_9091",
+    "codigo_obra": "9091",
+    "nombre": "PTAS - CONTULMO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CONTULMO",
+    "ano_construccion": 1996,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "092",
+    "cuenca_nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "coordenadas": {
+      "latitud": -38.008528,
+      "longitud": -73.231311
+    }
+  },
+  {
+    "id": "siss_ptas_8962",
+    "codigo_obra": "8962",
+    "nombre": "PTAS - CAÑETE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CAÑETE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.805667,
+      "longitud": -73.38943
+    }
+  },
+  {
+    "id": "siss_ptas_6231",
+    "codigo_obra": "6231",
+    "nombre": "PTAS - SANTA CLARA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SANTA CLARA",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.833378,
+      "longitud": -72.351152
+    }
+  },
+  {
+    "id": "siss_ptas_9871",
+    "codigo_obra": "9871",
+    "nombre": "ES - LOTA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LOTA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.074838,
+      "longitud": -73.183909
+    }
+  },
+  {
+    "id": "siss_ptas_9351",
+    "codigo_obra": "9351",
+    "nombre": "PTAS - CURANILAHUE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CURANILAHUE",
+    "ano_construccion": 1996,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.465474,
+      "longitud": -73.36392
+    }
+  },
+  {
+    "id": "siss_ptas_5711",
+    "codigo_obra": "5711",
+    "nombre": "PTAS - BULNES",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "BULNES",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.744069,
+      "longitud": -72.305118
+    }
+  },
+  {
+    "id": "siss_ptas_7572",
+    "codigo_obra": "7572",
+    "nombre": "PTAS - CABRERO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CABRERO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.053945,
+      "longitud": -72.438677
+    }
+  },
+  {
+    "id": "siss_ptas_8352",
+    "codigo_obra": "8352",
+    "nombre": "PTAS - PEMUCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PEMUCO",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.968402,
+      "longitud": -72.101911
+    }
+  },
+  {
+    "id": "siss_ptas_4490",
+    "codigo_obra": "4490",
+    "nombre": "PTAS - COELEMU",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "COELEMU",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.470578,
+      "longitud": -72.699236
+    }
+  },
+  {
+    "id": "siss_ptas_6661",
+    "codigo_obra": "6661",
+    "nombre": "PTAS - QUILLECO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "QUILLECO",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.479743,
+      "longitud": -71.987435
+    }
+  },
+  {
+    "id": "siss_ptas_5322",
+    "codigo_obra": "5322",
+    "nombre": "PTAS - QUIRIHUE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "QUIRIHUE",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.269712,
+      "longitud": -72.546263
+    }
+  },
+  {
+    "id": "siss_ptas_9744",
+    "codigo_obra": "9744",
+    "nombre": "ES - CORONEL SUR",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CORONEL",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.036942,
+      "longitud": -73.153
+    }
+  },
+  {
+    "id": "siss_ptas_3821",
+    "codigo_obra": "3821",
+    "nombre": "ES - SAN PEDRO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN PEDRO DE LA PAZ",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.843745,
+      "longitud": -73.171883
+    }
+  },
+  {
+    "id": "siss_ptas_5581",
+    "codigo_obra": "5581",
+    "nombre": "PTAS - COBQUECURA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "COBQUECURA",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "coordenadas": {
+      "latitud": -36.124885,
+      "longitud": -72.79784
+    }
+  },
+  {
+    "id": "siss_ptas_5842",
+    "codigo_obra": "5842",
+    "nombre": "PTAS - QUILLÓN",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "QUILLON",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.733162,
+      "longitud": -72.472971
+    }
+  },
+  {
+    "id": "siss_ptas_6530",
+    "codigo_obra": "6530",
+    "nombre": "PTAS - NACIMIENTO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "NACIMIENTO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.483175,
+      "longitud": -72.68909
+    }
+  },
+  {
+    "id": "siss_ptas_9220",
+    "codigo_obra": "9220",
+    "nombre": "PTAS - ARAUCO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "ARAUCO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.238773,
+      "longitud": -73.27055
+    }
+  },
+  {
+    "id": "siss_ptas_3711",
+    "codigo_obra": "3711",
+    "nombre": "PTAS - HUALQUI",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "HUALQUI",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.983028,
+      "longitud": -72.94003
+    }
+  },
+  {
+    "id": "siss_ptas_8682",
+    "codigo_obra": "8682",
+    "nombre": "ES - LEBU",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LEBU",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.584088,
+      "longitud": -73.655891
+    }
+  },
+  {
+    "id": "siss_ptas_6791",
+    "codigo_obra": "6791",
+    "nombre": "PTAS - NEGRETE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "NEGRETE",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.58231,
+      "longitud": -72.55337
+    }
+  },
+  {
+    "id": "siss_ptas_9730",
+    "codigo_obra": "9730",
+    "nombre": "ES - CORONEL NORTE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CORONEL",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.979384,
+      "longitud": -73.19866
+    }
+  },
+  {
+    "id": "siss_ptas_5972",
+    "codigo_obra": "5972",
+    "nombre": "PTAS - FLORIDA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "FLORIDA",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.818269,
+      "longitud": -72.6603
+    }
+  },
+  {
+    "id": "siss_ptas_8092",
+    "codigo_obra": "8092",
+    "nombre": "PTAS - EL CARMEN",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "EL CARMEN",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.892116,
+      "longitud": -72.03616
+    }
+  },
+  {
+    "id": "siss_ptas_5452",
+    "codigo_obra": "5452",
+    "nombre": "PTAS - NINHUE",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "NINHUE",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.398578,
+      "longitud": -72.391044
+    }
+  },
+  {
+    "id": "siss_ptas_7050",
+    "codigo_obra": "7050",
+    "nombre": "PTAS - SANTA BARBARA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SANTA BARBARA",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.671191,
+      "longitud": -72.047173
+    }
+  },
+  {
+    "id": "siss_ptas_1001",
+    "codigo_obra": "1001",
+    "nombre": "PTAS - PARQUE INDUSTRIAL CORONEL",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "PARQUE INDUSTRIAL CORONEL",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_DENTRO_ZPL",
+    "tipo_receptor": "MAR_DENTRO_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.974422,
+      "longitud": -73.1787
+    }
+  },
+  {
+    "id": "siss_ptas_4230",
+    "codigo_obra": "4230",
+    "nombre": "PTAS - DICHATO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "DICHATO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.544841,
+      "longitud": -72.932373
+    }
+  },
+  {
+    "id": "siss_ptas_2000",
+    "codigo_obra": "2000",
+    "nombre": "PTAS - PUNTA PARRA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "TOME",
+    "ano_construccion": 2016,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.675414,
+      "longitud": -72.969938
+    }
+  },
+  {
+    "id": "siss_ptas_1006",
+    "codigo_obra": "1006",
+    "nombre": "PTAS - LAS MARIPOSAS",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "SECTOR LAS MARIPOSAS",
+    "ano_construccion": 2015,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.637368,
+      "longitud": -72.051994
+    }
+  },
+  {
+    "id": "siss_ptas_4810",
+    "codigo_obra": "4810",
+    "nombre": "PTAS - PINTO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "PINTO",
+    "ano_construccion": 2008,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.708007,
+      "longitud": -71.909676
+    }
+  },
+  {
+    "id": "siss_ptas_7962",
+    "codigo_obra": "7962",
+    "nombre": "PTAS - YUNGAY",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "YUNGAY",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.115524,
+      "longitud": -72.026044
+    }
+  },
+  {
+    "id": "siss_ptas_7311",
+    "codigo_obra": "7311",
+    "nombre": "PTAS - YUMBEL",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "YUMBEL",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.133661,
+      "longitud": -72.55677
+    }
+  },
+  {
+    "id": "siss_ptas_5062",
+    "codigo_obra": "5062",
+    "nombre": "PTAS - SAN IGNACIO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN IGNACIO",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.808065,
+      "longitud": -72.044842
+    }
+  },
+  {
+    "id": "siss_ptas_5190",
+    "codigo_obra": "5190",
+    "nombre": "PTAS - SAN CARLOS",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "SAN CARLOS",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.42033,
+      "longitud": -71.989206
+    }
+  },
+  {
+    "id": "siss_ptas_3041",
+    "codigo_obra": "3041",
+    "nombre": "PTAS - QUILACO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "QUILACO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.680667,
+      "longitud": -72.029222
+    }
+  },
+  {
+    "id": "siss_ptas_6062",
+    "codigo_obra": "6062",
+    "nombre": "PTAS - ÑIPAS",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "ÑIPAS",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.597752,
+      "longitud": -72.547051
+    }
+  },
+  {
+    "id": "siss_ptas_6920",
+    "codigo_obra": "6920",
+    "nombre": "PTAS - MULCHÉN",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "MULCHEN",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.719136,
+      "longitud": -72.261916
+    }
+  },
+  {
+    "id": "siss_ptas_7702",
+    "codigo_obra": "7702",
+    "nombre": "PTAS - MONTE AGUILA",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "MONTE AGUILA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.086883,
+      "longitud": -72.444571
+    }
+  },
+  {
+    "id": "siss_ptas_6402",
+    "codigo_obra": "6402",
+    "nombre": "PTAS - LOS ANGELES",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LOS ANGELES",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.473629,
+      "longitud": -72.389794
+    }
+  },
+  {
+    "id": "siss_ptas_7442",
+    "codigo_obra": "7442",
+    "nombre": "PTAS - SAN ROSENDO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "LAJA",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.286067,
+      "longitud": -72.715816
+    }
+  },
+  {
+    "id": "siss_ptas_8222",
+    "codigo_obra": "8222",
+    "nombre": "PTAS - HUEPIL",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "HUEPIL",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.236821,
+      "longitud": -71.959835
+    }
+  },
+  {
+    "id": "siss_ptas_4931",
+    "codigo_obra": "4931",
+    "nombre": "PTAS - COIHUECO",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "COIHUECO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.61645,
+      "longitud": -71.844346
+    }
+  },
+  {
+    "id": "siss_ptas_4803",
+    "codigo_obra": "4803",
+    "nombre": "PTAS - CHILLÁN",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CHILLAN",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.630004,
+      "longitud": -72.160768
+    }
+  },
+  {
+    "id": "siss_ptas_5502",
+    "codigo_obra": "5502",
+    "nombre": "PTAS - GRAN CONCEPCION",
+    "empresa_concesionaria": "ESSBIO S.A.",
+    "rut_empresa": "96579330.0",
+    "sistema_urbano": "CONCEPCION",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DEL BIOBIO",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.806509,
+      "longitud": -73.107268
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - LASTARRIA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LASTARRIA",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.229719,
+      "longitud": -72.670401
+    }
+  },
+  {
+    "id": "siss_ptas_4",
+    "codigo_obra": "4",
+    "nombre": "PTAS - MININCO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "MININCO",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.789893,
+      "longitud": -72.46627
+    }
+  },
+  {
+    "id": "siss_ptas_3",
+    "codigo_obra": "3",
+    "nombre": "PTAS - ERCILLA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "ERCILLA",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -38.067322,
+      "longitud": -72.384766
+    }
+  },
+  {
+    "id": "siss_ptas_5",
+    "codigo_obra": "5",
+    "nombre": "PTAS - LOS SAUCES",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LOS SAUCES",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.967356,
+      "longitud": -72.827026
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - PUREN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "PUREN",
+    "ano_construccion": 1998,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -38.021221,
+      "longitud": -73.060094
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - CAPITAN PASTENE",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CAPITAN PASTENE",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -38.191321,
+      "longitud": -72.976651
+    }
+  },
+  {
+    "id": "siss_ptas_6",
+    "codigo_obra": "6",
+    "nombre": "PTAS - GALVARINO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "GALVARINO",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.40603,
+      "longitud": -72.792752
+    }
+  },
+  {
+    "id": "siss_ptas_102",
+    "codigo_obra": "102",
+    "nombre": "PTAS - PILLANLELBUN",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+    "rut_empresa": "96889730.0",
+    "sistema_urbano": "PILLANLELBUN",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.63858,
+      "longitud": -72.446981
+    }
+  },
+  {
+    "id": "siss_ptas_9",
+    "codigo_obra": "9",
+    "nombre": "PTAS - CHERQUENCO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CHERQUENCO",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.692027,
+      "longitud": -72.018634
+    }
+  },
+  {
+    "id": "siss_ptas_7",
+    "codigo_obra": "7",
+    "nombre": "PTAS - PUCON",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "PUCON",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "LAGO",
+    "tipo_receptor": "LAGO",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.263611,
+      "longitud": -71.960441
+    }
+  },
+  {
+    "id": "siss_ptas_11",
+    "codigo_obra": "11",
+    "nombre": "PTAS - LUMACO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LUMACO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -38.173271,
+      "longitud": -72.906973
+    }
+  },
+  {
+    "id": "siss_ptas_8",
+    "codigo_obra": "8",
+    "nombre": "PTAS - VICTORIA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "VICTORIA",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.213391,
+      "longitud": -72.359942
+    }
+  },
+  {
+    "id": "siss_ptas_14",
+    "codigo_obra": "14",
+    "nombre": "PTAS - QUITRATUÉ",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "QUITRATUE",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.152019,
+      "longitud": -72.6568
+    }
+  },
+  {
+    "id": "siss_ptas_17",
+    "codigo_obra": "17",
+    "nombre": "PTAS - GORBEA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "GORBEA",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.087376,
+      "longitud": -72.693359
+    }
+  },
+  {
+    "id": "siss_ptas_15",
+    "codigo_obra": "15",
+    "nombre": "PTAS - CHOLCHOL",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CHOL CHOL",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.612692,
+      "longitud": -72.83518
+    }
+  },
+  {
+    "id": "siss_ptas_21",
+    "codigo_obra": "21",
+    "nombre": "PTAS - LAUTARO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LAUTARO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.561936,
+      "longitud": -72.442105
+    }
+  },
+  {
+    "id": "siss_ptas_23",
+    "codigo_obra": "23",
+    "nombre": "PTAS - LONCOCHE",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LONCOCHE",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.377273,
+      "longitud": -72.649427
+    }
+  },
+  {
+    "id": "siss_ptas_24",
+    "codigo_obra": "24",
+    "nombre": "PTAS - ANGOL",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "ANGOL",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.785284,
+      "longitud": -72.694269
+    }
+  },
+  {
+    "id": "siss_ptas_25",
+    "codigo_obra": "25",
+    "nombre": "PTAS - COLLIPULLI",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "COLLIPULLI",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.948986,
+      "longitud": -72.45318
+    }
+  },
+  {
+    "id": "siss_ptas_28",
+    "codigo_obra": "28",
+    "nombre": "PTAS - CARAHUE",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CARAHUE",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.720774,
+      "longitud": -73.168144
+    }
+  },
+  {
+    "id": "siss_ptas_18",
+    "codigo_obra": "18",
+    "nombre": "PTAS - PUERTO SAAVEDRA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "PUERTO SAAVEDRA",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.774567,
+      "longitud": -73.395784
+    }
+  },
+  {
+    "id": "siss_ptas_29",
+    "codigo_obra": "29",
+    "nombre": "PTAS - NUEVA IMPERIAL",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "NUEVA IMPERIAL",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.74792,
+      "longitud": -72.973079
+    }
+  },
+  {
+    "id": "siss_ptas_30",
+    "codigo_obra": "30",
+    "nombre": "PTAS - VILLARRICA",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "VILLARRICA",
+    "ano_construccion": 2008,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.257706,
+      "longitud": -72.262773
+    }
+  },
+  {
+    "id": "siss_ptas_31",
+    "codigo_obra": "31",
+    "nombre": "PTAS - LONQUIMAY",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "LONQUIMAY",
+    "ano_construccion": 2010,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.461591,
+      "longitud": -71.357089
+    }
+  },
+  {
+    "id": "siss_ptas_104",
+    "codigo_obra": "104",
+    "nombre": "PTAS - NUEVA LABRANZA",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+    "rut_empresa": "96889730.0",
+    "sistema_urbano": "LABRANZA",
+    "ano_construccion": 2016,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.779188,
+      "longitud": -72.772388
+    }
+  },
+  {
+    "id": "siss_ptas_13",
+    "codigo_obra": "13",
+    "nombre": "PTAS - VILCUN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "VILCUN",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.672137,
+      "longitud": -72.236455
+    }
+  },
+  {
+    "id": "siss_ptas_12",
+    "codigo_obra": "12",
+    "nombre": "PTAS - TRAIGUEN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "TRAIGUEN",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.262249,
+      "longitud": -72.686444
+    }
+  },
+  {
+    "id": "siss_ptas_16",
+    "codigo_obra": "16",
+    "nombre": "PTAS - RENAICO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "RENAICO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.671676,
+      "longitud": -72.602364
+    }
+  },
+  {
+    "id": "siss_ptas_22",
+    "codigo_obra": "22",
+    "nombre": "PTAS - PITRUFQUEN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "PITRUFQUEN",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -38.974229,
+      "longitud": -72.64603
+    }
+  },
+  {
+    "id": "siss_ptas_27",
+    "codigo_obra": "27",
+    "nombre": "PTAS - TEMUCO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "TEMUCO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.7601,
+      "longitud": -72.705344
+    }
+  },
+  {
+    "id": "siss_ptas_19",
+    "codigo_obra": "19",
+    "nombre": "PTAS - NUEVA TOLTEN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "NUEVA TOLTEN",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.183607,
+      "longitud": -73.16884
+    }
+  },
+  {
+    "id": "siss_ptas_26",
+    "codigo_obra": "26",
+    "nombre": "PTAS - CURACAUTÍN",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CURACAUTIN",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.435623,
+      "longitud": -71.908729
+    }
+  },
+  {
+    "id": "siss_ptas_20",
+    "codigo_obra": "20",
+    "nombre": "PTAS - CUNCO",
+    "empresa_concesionaria": "AGUAS ARAUCANIA S.A.",
+    "rut_empresa": "99561030.0",
+    "sistema_urbano": "CUNCO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LA ARAUCANIA",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -38.953794,
+      "longitud": -72.049871
+    }
+  },
+  {
+    "id": "siss_ptas_19",
+    "codigo_obra": "19",
+    "nombre": "ES - PUERTO MONTT",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "PUERTO MONTT",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.485487,
+      "longitud": -72.921186
+    }
+  },
+  {
+    "id": "siss_ptas_20",
+    "codigo_obra": "20",
+    "nombre": "PTAS - CALBUCO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "CALBUCO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_DENTRO_ZPL",
+    "tipo_receptor": "MAR_DENTRO_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.762969,
+      "longitud": -73.121357
+    }
+  },
+  {
+    "id": "siss_ptas_17",
+    "codigo_obra": "17",
+    "nombre": "PTAS - FRESIA",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "FRESIA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.138554,
+      "longitud": -73.408288
+    }
+  },
+  {
+    "id": "siss_ptas_16",
+    "codigo_obra": "16",
+    "nombre": "PTAS - FRUTILLAR",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "FRUTILLAR",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.059115,
+      "longitud": -73.094849
+    }
+  },
+  {
+    "id": "siss_ptas_18",
+    "codigo_obra": "18",
+    "nombre": "PTAS - LOS MUERMOS",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "LOS MUERMOS",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.399822,
+      "longitud": -73.45119
+    }
+  },
+  {
+    "id": "siss_ptas_3",
+    "codigo_obra": "3",
+    "nombre": "PTAS - LLANQUIHUE",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "PUERTO VARAS - LLANQUIHUE",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.277207,
+      "longitud": -73.024188
+    }
+  },
+  {
+    "id": "siss_ptas_29",
+    "codigo_obra": "29",
+    "nombre": "PTAS - OSORNO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "OSORNO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.541253,
+      "longitud": -73.17274
+    }
+  },
+  {
+    "id": "siss_ptas_15",
+    "codigo_obra": "15",
+    "nombre": "PTAS - PURRANQUE",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "PURRANQUE - CORTE ALTO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.909019,
+      "longitud": -73.187941
+    }
+  },
+  {
+    "id": "siss_ptas_12",
+    "codigo_obra": "12",
+    "nombre": "PTAS - SAN PABLO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "SAN PABLO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.384414,
+      "longitud": -73.029378
+    }
+  },
+  {
+    "id": "siss_ptas_22",
+    "codigo_obra": "22",
+    "nombre": "PTAS - ANCUD",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "ANCUD",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_DENTRO_ZPL",
+    "tipo_receptor": "MAR_DENTRO_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -41.880706,
+      "longitud": -73.841535
+    }
+  },
+  {
+    "id": "siss_ptas_27",
+    "codigo_obra": "27",
+    "nombre": "PTAS - CHONCHI",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "CHONCHI",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.620078,
+      "longitud": -73.784101
+    }
+  },
+  {
+    "id": "siss_ptas_26",
+    "codigo_obra": "26",
+    "nombre": "PTAS - QUELLON",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "QUELLON",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -43.116981,
+      "longitud": -73.609339
+    }
+  },
+  {
+    "id": "siss_ptas_25",
+    "codigo_obra": "25",
+    "nombre": "PTAS - CASTRO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "CASTRO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.459562,
+      "longitud": -73.767302
+    }
+  },
+  {
+    "id": "siss_ptas_23",
+    "codigo_obra": "23",
+    "nombre": "PTAS - DALCAHUE",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "DALCAHUE",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.387112,
+      "longitud": -73.669177
+    }
+  },
+  {
+    "id": "siss_ptas_24",
+    "codigo_obra": "24",
+    "nombre": "ES - ACHAO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "ACHAO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.465014,
+      "longitud": -73.475639
+    }
+  },
+  {
+    "id": "siss_ptas_14",
+    "codigo_obra": "14",
+    "nombre": "PTAS - RIO NEGRO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "RIO NEGRO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.786321,
+      "longitud": -73.192976
+    }
+  },
+  {
+    "id": "siss_ptas_13",
+    "codigo_obra": "13",
+    "nombre": "PTAS - FUTALEUFU",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "FUTALEUFU",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "coordenadas": {
+      "latitud": -43.19305,
+      "longitud": -71.871405
+    }
+  },
+  {
+    "id": "siss_ptas_32",
+    "codigo_obra": "32",
+    "nombre": "PTAS - MAULLÍN",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "MAULLIN",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.65157,
+      "longitud": -73.594313
+    }
+  },
+  {
+    "id": "siss_ptas_1000",
+    "codigo_obra": "1000",
+    "nombre": "PTAS - CHAITEN",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "CHAITEN",
+    "ano_construccion": 2014,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "coordenadas": {
+      "latitud": -42.925721,
+      "longitud": -72.700338
+    }
+  },
+  {
+    "id": "siss_ptas_1003",
+    "codigo_obra": "1003",
+    "nombre": "PTAS - LA VARA",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "ALERCE SUR",
+    "ano_construccion": 2008,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS LAGOS",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.416531,
+      "longitud": -72.90361
+    }
+  },
+  {
+    "id": "siss_ptas_201",
+    "codigo_obra": "201",
+    "nombre": "PTAS - CHILE CHICO",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "CHILE CHICO",
+    "ano_construccion": 1994,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "coordenadas": {
+      "latitud": -46.546815,
+      "longitud": -71.718401
+    }
+  },
+  {
+    "id": "siss_ptas_401",
+    "codigo_obra": "401",
+    "nombre": "PTAS - COYHAIQUE",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "COYHAIQUE",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -45.555612,
+      "longitud": -72.072042
+    }
+  },
+  {
+    "id": "siss_ptas_701",
+    "codigo_obra": "701",
+    "nombre": "PTAS - PUERTO CISNES",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "PUERTO CISNES",
+    "ano_construccion": 1995,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_DENTRO_ZPL",
+    "tipo_receptor": "MAR_DENTRO_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -46.299398,
+      "longitud": -71.946779
+    }
+  },
+  {
+    "id": "siss_ptas_501",
+    "codigo_obra": "501",
+    "nombre": "PTAS - PUERTO AYSEN",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "PUERTO AYSEN",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -45.395044,
+      "longitud": -72.712336
+    }
+  },
+  {
+    "id": "siss_ptas_101",
+    "codigo_obra": "101",
+    "nombre": "PTAS - BALMACEDA",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "BALMACEDA",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -45.91589,
+      "longitud": -71.708694
+    }
+  },
+  {
+    "id": "siss_ptas_801",
+    "codigo_obra": "801",
+    "nombre": "PTAS - PUERTO ING. IBAÑEZ",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "PUERTO IBAÑEZ",
+    "ano_construccion": 2008,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "coordenadas": {
+      "latitud": -44.730272,
+      "longitud": -72.683546
+    }
+  },
+  {
+    "id": "siss_ptas_301",
+    "codigo_obra": "301",
+    "nombre": "PTAS - COCHRANE",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "COCHRANE",
+    "ano_construccion": 1993,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "coordenadas": {
+      "latitud": -47.258527,
+      "longitud": -72.5738
+    }
+  },
+  {
+    "id": "siss_ptas_601",
+    "codigo_obra": "601",
+    "nombre": "PTAS - PUERTO CHACABUCO",
+    "empresa_concesionaria": "AGUAS PATAGONIA DE AYSEN S.A.",
+    "rut_empresa": "99501280.0",
+    "sistema_urbano": "PUERTO CHACABUCO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE AYSEN",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -45.456787,
+      "longitud": -72.819195
+    }
+  },
+  {
+    "id": "siss_ptas_3333",
+    "codigo_obra": "3333",
+    "nombre": "ES - PORVENIR",
+    "empresa_concesionaria": "AGUAS MAGALLANES S.A.",
+    "rut_empresa": "99561040.0",
+    "sistema_urbano": "PORVENIR",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "coordenadas": {
+      "latitud": -53.2896,
+      "longitud": -70.465852
+    }
+  },
+  {
+    "id": "siss_ptas_2222",
+    "codigo_obra": "2222",
+    "nombre": "PTAS - PUERTO NATALES",
+    "empresa_concesionaria": "AGUAS MAGALLANES S.A.",
+    "rut_empresa": "99561040.0",
+    "sistema_urbano": "PUERTO NATALES",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_DENTRO_ZPL",
+    "tipo_receptor": "MAR_DENTRO_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "coordenadas": {
+      "latitud": -51.743067,
+      "longitud": -72.487275
+    }
+  },
+  {
+    "id": "siss_ptas_1111",
+    "codigo_obra": "1111",
+    "nombre": "ES - PUNTA ARENAS",
+    "empresa_concesionaria": "AGUAS MAGALLANES S.A.",
+    "rut_empresa": "99561040.0",
+    "sistema_urbano": "PUNTA ARENAS",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas": {
+      "latitud": -53.108322,
+      "longitud": -70.88344
+    }
+  },
+  {
+    "id": "siss_ptas_101",
+    "codigo_obra": "101",
+    "nombre": "PTAS - VILLA GALILEA",
+    "empresa_concesionaria": "EMPRESA DE AGUA POTABLE MELIPILLA NORTE S.A.",
+    "rut_empresa": "96577460.0",
+    "sistema_urbano": "MELIPILLA NORTE",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.685146,
+      "longitud": -71.197161
+    }
+  },
+  {
+    "id": "siss_ptas_1241",
+    "codigo_obra": "1241",
+    "nombre": "PTAS - POMAIRE",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "POMAIRE",
+    "ano_construccion": 1991,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.64925,
+      "longitud": -71.158076
+    }
+  },
+  {
+    "id": "siss_ptas_642",
+    "codigo_obra": "642",
+    "nombre": "PTAS - EL TREBAL",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "GRAN SANTIAGO",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.539044,
+      "longitud": -70.830393
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - EL MANZANO",
+    "empresa_concesionaria": "HUERTOS FAMILIARES S.A.",
+    "rut_empresa": "99531160.0",
+    "sistema_urbano": "HUERTOS FAMILIARES",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Quebrada seca",
+    "tipo_receptor": "Quebrada seca",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.153186,
+      "longitud": -70.792672
+    }
+  },
+  {
+    "id": "siss_ptas_2002",
+    "codigo_obra": "2002",
+    "nombre": "PTAS - SANTO TOMAS",
+    "empresa_concesionaria": "BCC S.A.",
+    "rut_empresa": "96919850.0",
+    "sistema_urbano": "LOTEO SANTO TOMAS",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Estero",
+    "tipo_receptor": "Estero",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.337678,
+      "longitud": -70.797894
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - SANTA ELENA",
+    "empresa_concesionaria": "AGUAS DE COLINA S.A.",
+    "rut_empresa": "96770130.0",
+    "sistema_urbano": "AGUAS COLINA",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.223278,
+      "longitud": -70.736009
+    }
+  },
+  {
+    "id": "siss_ptas_102",
+    "codigo_obra": "102",
+    "nombre": "PTAS - EL PARRONAL",
+    "empresa_concesionaria": "EMPRESA DE AGUA POTABLE MELIPILLA NORTE S.A.",
+    "rut_empresa": "96577460.0",
+    "sistema_urbano": "MELIPILLA NORTE",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Derrame",
+    "tipo_receptor": "Derrame",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.673762,
+      "longitud": -71.221611
+    }
+  },
+  {
+    "id": "siss_ptas_1200",
+    "codigo_obra": "1200",
+    "nombre": "PTAS - LA LEONERA",
+    "empresa_concesionaria": "EMPRESA PARTICULAR DE AGUA POTABLE Y ALCANTARILLADO LA LEONERA S.A.",
+    "rut_empresa": "94665000.0",
+    "sistema_urbano": "LA LEONERA",
+    "ano_construccion": 2013,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Estero",
+    "tipo_receptor": "Estero",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.330626,
+      "longitud": -70.29448
+    }
+  },
+  {
+    "id": "siss_ptas_1201",
+    "codigo_obra": "1201",
+    "nombre": "PTAS - JARDINES DE LA ESTACIÓN",
+    "empresa_concesionaria": "SERVICIOS SANITARIOS DE LA ESTACIÓN S.A.",
+    "rut_empresa": "76843720.0",
+    "sistema_urbano": "JARDINES DE LA ESTACION",
+    "ano_construccion": 2008,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.289406,
+      "longitud": -70.763164
+    }
+  },
+  {
+    "id": "siss_ptas_1005",
+    "codigo_obra": "1005",
+    "nombre": "PTAS - TRACHISA",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "SAN LUIS BRISAS NORTE",
+    "ano_construccion": 2015,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "ESTERO",
+    "tipo_receptor": "ESTERO",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.215301,
+      "longitud": -70.675812
+    }
+  },
+  {
+    "id": "siss_ptas_PTASCADELLADA",
+    "codigo_obra": "PTASCADELLADA",
+    "nombre": "NUEVA PLANTA LA CADELLADA",
+    "empresa_concesionaria": "SEMBCORP AGUAS CHACABUCO S.A.",
+    "rut_empresa": "86915400.0",
+    "sistema_urbano": "COLINA - ESMERALDA",
+    "ano_construccion": 2017,
+    "estado_operativo": "USO_FUTURO",
+    "cuerpo_receptor": "INFILTRACION",
+    "tipo_receptor": "INFILTRACION",
+    "categoria_receptor": "Infiltración al Suelo",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.199918,
+      "longitud": -70.787145
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - IZARRA DE LO AGUIRRE",
+    "empresa_concesionaria": "EMPRESA DE AGUA POTABLE IZARRA DE LO AGUIRRE S.A.",
+    "rut_empresa": "96826670.0",
+    "sistema_urbano": "IZARRA DE LO AGUIRRE",
+    "ano_construccion": 2010,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "LAGO",
+    "tipo_receptor": "LAGO",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.448473,
+      "longitud": -70.857869
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - IZARRA DE LO AGUIRRE 2",
+    "empresa_concesionaria": "EMPRESA DE AGUA POTABLE IZARRA DE LO AGUIRRE S.A.",
+    "rut_empresa": "96826670.0",
+    "sistema_urbano": "IZARRA DE LO AGUIRRE",
+    "ano_construccion": 2014,
+    "estado_operativo": "USO_FUTURO",
+    "cuerpo_receptor": "LAGO",
+    "tipo_receptor": "LAGO",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.449135,
+      "longitud": -70.858819
+    }
+  },
+  {
+    "id": "siss_ptas_1200",
+    "codigo_obra": "1200",
+    "nombre": "PTAS - HACIENDA BATUCO",
+    "empresa_concesionaria": "AGUAS SANTIAGO NORTE S.A.",
+    "rut_empresa": "76115834.0",
+    "sistema_urbano": "HACIENDA BATUCO",
+    "ano_construccion": 2015,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.243069,
+      "longitud": -70.823257
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - BARRANCAS",
+    "empresa_concesionaria": "AGUAS SANTIAGO PONIENTE S.A.",
+    "rut_empresa": "96773290.0",
+    "sistema_urbano": "BARRANCAS",
+    "ano_construccion": 1999,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.416724,
+      "longitud": -70.787144
+    }
+  },
+  {
+    "id": "siss_ptas_5",
+    "codigo_obra": "5",
+    "nombre": "PTAS - PUERTAS DE PADRE HURTADO",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+    "rut_empresa": "96889730.0",
+    "sistema_urbano": "PUERTAS DE PADRE HURTADO",
+    "ano_construccion": 2013,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.557861,
+      "longitud": -70.828693
+    }
+  },
+  {
+    "id": "siss_ptas_102500",
+    "codigo_obra": "102500",
+    "nombre": "PTAS - LARAPINTA",
+    "empresa_concesionaria": "SERVICIOS SANITARIOS LARAPINTA S.A.",
+    "rut_empresa": "96862350.0",
+    "sistema_urbano": "CIUDAD SATELITE LARAPINTA",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "ESTERO",
+    "tipo_receptor": "ESTERO",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.319221,
+      "longitud": -70.873902
+    }
+  },
+  {
+    "id": "siss_ptas_1004",
+    "codigo_obra": "1004",
+    "nombre": "PTAS - ESTACION BUIN",
+    "empresa_concesionaria": "AGUAS SAN PEDRO S.A.",
+    "rut_empresa": "99593190.0",
+    "sistema_urbano": "ESTACION BUIN",
+    "ano_construccion": 2010,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIEGO",
+    "tipo_receptor": "RIEGO",
+    "categoria_receptor": "Reúso en Riego Agrícola",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.729954,
+      "longitud": -70.724669
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - JARDIN LO PRADO",
+    "empresa_concesionaria": "EMPRESA DE SERVICIOS SANITARIOS LO PRADO S.A.",
+    "rut_empresa": "96669530.0",
+    "sistema_urbano": "LO PRADO",
+    "ano_construccion": 2005,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "LAGUNA",
+    "tipo_receptor": "LAGUNA",
+    "categoria_receptor": "Descarga Terrestre / Otros",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.444078,
+      "longitud": -70.840968
+    }
+  },
+  {
+    "id": "siss_ptas_52009",
+    "codigo_obra": "52009",
+    "nombre": "PTAS - LOMAS DE LO AGUIRRE",
+    "empresa_concesionaria": "EMPRESA DE AGUA POTABLE LO AGUIRRE S.A.",
+    "rut_empresa": "96553330.0",
+    "sistema_urbano": "LO AGUIRRE",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.153186,
+      "longitud": -70.792672
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - QUILICURA",
+    "empresa_concesionaria": "EXPLOTACIONES SANITARIAS S.A",
+    "rut_empresa": "96569390.0",
+    "sistema_urbano": "LOTEO INDUSTRIAL",
+    "ano_construccion": 1981,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "Estero sin dilución",
+    "tipo_receptor": "Estero sin dilución",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.345827,
+      "longitud": -70.721772
+    }
+  },
+  {
+    "id": "siss_ptas_101",
+    "codigo_obra": "101",
+    "nombre": "PTAS - SANTA LUZ",
+    "empresa_concesionaria": "SEMBCORP AGUAS SANTIAGO S.A.",
+    "rut_empresa": "96937580.0",
+    "sistema_urbano": "PAN DE AZUCAR SECTORES B1-C-D",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.292805,
+      "longitud": -70.697792
+    }
+  },
+  {
+    "id": "siss_ptas_142",
+    "codigo_obra": "142",
+    "nombre": "PTAS - BUIN MAIPO",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "BUIN - PAINE - LINDEROS - MAIPO - ALTO JAHUEL",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.750613,
+      "longitud": -70.807476
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - LAS HIGUERAS",
+    "empresa_concesionaria": "SEMBCORP AGUAS LAMPA S.A.",
+    "rut_empresa": "76303510.0",
+    "sistema_urbano": "LAMPA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.29154,
+      "longitud": -70.86043
+    }
+  },
+  {
+    "id": "siss_ptas_141",
+    "codigo_obra": "141",
+    "nombre": "PTAS - LOS TRAPENSES",
+    "empresa_concesionaria": "AGUAS MANQUEHUE S.A.",
+    "rut_empresa": "89221000.0",
+    "sistema_urbano": "LOS TRAPENSES",
+    "ano_construccion": 1997,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.342611,
+      "longitud": -70.544996
+    }
+  },
+  {
+    "id": "siss_ptas_342",
+    "codigo_obra": "342",
+    "nombre": "PTAS - TIL TIL",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "TIL TIL",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.103274,
+      "longitud": -70.929172
+    }
+  },
+  {
+    "id": "siss_ptas_1741",
+    "codigo_obra": "1741",
+    "nombre": "PTAS - VALDIVIA DE PAINE",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "VALDIVIA DE PAINE",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.810534,
+      "longitud": -70.86741
+    }
+  },
+  {
+    "id": "siss_ptas_141",
+    "codigo_obra": "141",
+    "nombre": "PTAS - PAINE",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "BUIN - PAINE - LINDEROS - MAIPO - ALTO JAHUEL",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.837504,
+      "longitud": -70.742745
+    }
+  },
+  {
+    "id": "siss_ptas_1441",
+    "codigo_obra": "1441",
+    "nombre": "PTAS - SAN JOSE DE MAIPO",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "SAN JOSE DE MAIPO - GUAYACAN - EL CAMPITO",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.635365,
+      "longitud": -70.35412
+    }
+  },
+  {
+    "id": "siss_ptas_541",
+    "codigo_obra": "541",
+    "nombre": "PTAS - EL MONTE",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "TALAGANTE - PADRE HURTADO - PEÑAFLOR - MALLOCO - CALERA DE TANGO - EL MONTE - EL PAICO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.70382,
+      "longitud": -71.057189
+    }
+  },
+  {
+    "id": "siss_ptas_1541",
+    "codigo_obra": "1541",
+    "nombre": "PTAS - TALAGANTE",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "TALAGANTE - PADRE HURTADO - PEÑAFLOR - MALLOCO - CALERA DE TANGO - EL MONTE - EL PAICO",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.68951,
+      "longitud": -70.973832
+    }
+  },
+  {
+    "id": "siss_ptas_341",
+    "codigo_obra": "341",
+    "nombre": "PTAS - CURACAVÍ",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "CURACAVI",
+    "ano_construccion": 2006,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.408282,
+      "longitud": -71.122109
+    }
+  },
+  {
+    "id": "siss_ptas_1841",
+    "codigo_obra": "1841",
+    "nombre": "PTAS - MELIPILLA",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "MELIPILLA",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.657506,
+      "longitud": -71.257111
+    }
+  },
+  {
+    "id": "siss_ptas_643",
+    "codigo_obra": "643",
+    "nombre": "PTAS - LA FARFANA",
+    "empresa_concesionaria": "AGUAS ANDINAS S.A.",
+    "rut_empresa": "61808000.0",
+    "sistema_urbano": "GRAN SANTIAGO",
+    "ano_construccion": 2003,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION METROPOLITANA",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.469053,
+      "longitud": -70.789506
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - VALDIVIA",
+    "empresa_concesionaria": "AGUAS DECIMA S.A.",
+    "rut_empresa": "96703230.0",
+    "sistema_urbano": "AGUAS DECIMA",
+    "ano_construccion": 2000,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.846402,
+      "longitud": -73.247664
+    }
+  },
+  {
+    "id": "siss_ptas_4",
+    "codigo_obra": "4",
+    "nombre": "PTAS - LANCO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "LANCO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.457104,
+      "longitud": -72.795631
+    }
+  },
+  {
+    "id": "siss_ptas_8",
+    "codigo_obra": "8",
+    "nombre": "PTAS - PAILLACO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "PAILLACO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -40.040986,
+      "longitud": -72.908956
+    }
+  },
+  {
+    "id": "siss_ptas_1",
+    "codigo_obra": "1",
+    "nombre": "PTAS - PANGUIPULLI",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "PANGUIPULLI",
+    "ano_construccion": 2002,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.614566,
+      "longitud": -72.355116
+    }
+  },
+  {
+    "id": "siss_ptas_5",
+    "codigo_obra": "5",
+    "nombre": "PTAS - MAFIL",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "MAFIL",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.667156,
+      "longitud": -72.961448
+    }
+  },
+  {
+    "id": "siss_ptas_6",
+    "codigo_obra": "6",
+    "nombre": "PTAS - LOS LAGOS",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "LOS LAGOS",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.847759,
+      "longitud": -72.830669
+    }
+  },
+  {
+    "id": "siss_ptas_2",
+    "codigo_obra": "2",
+    "nombre": "PTAS - SAN JOSE DE LA MARIQUINA",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "SAN JOSE DE LA MARIQUINA",
+    "ano_construccion": 2001,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.547534,
+      "longitud": -72.971413
+    }
+  },
+  {
+    "id": "siss_ptas_10",
+    "codigo_obra": "10",
+    "nombre": "PTAS - RIO BUENO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "LA UNION - RIO BUENO",
+    "ano_construccion": 2004,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_SIN_DILUCION",
+    "tipo_receptor": "RIO_SIN_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.324492,
+      "longitud": -73.052838
+    }
+  },
+  {
+    "id": "siss_ptas_7",
+    "codigo_obra": "7",
+    "nombre": "PTAS - CORRAL",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "CORRAL",
+    "ano_construccion": 2007,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.894744,
+      "longitud": -73.418436
+    }
+  },
+  {
+    "id": "siss_ptas_30",
+    "codigo_obra": "30",
+    "nombre": "PTAS - FUTRONO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "FUTRONO",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.328799,
+      "longitud": -72.541751
+    }
+  },
+  {
+    "id": "siss_ptas_31",
+    "codigo_obra": "31",
+    "nombre": "PTAS - LAGO RANCO",
+    "empresa_concesionaria": "ESSAL S.A.",
+    "rut_empresa": "96579800.0",
+    "sistema_urbano": "LAGO RANCO",
+    "ano_construccion": 2009,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "RIO_CON_DILUCION",
+    "tipo_receptor": "RIO_CON_DILUCION",
+    "categoria_receptor": "Cauce Natural Superficial (Río / Estero)",
+    "region": "REGION DE LOS RIOS",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.328799,
+      "longitud": -72.541751
+    }
+  },
+  {
+    "id": "siss_ptas_111",
+    "codigo_obra": "111",
+    "nombre": "ES - CHINCHORRO NORTE",
+    "empresa_concesionaria": "AGUAS DEL ALTIPLANO S.A.",
+    "rut_empresa": "99561010.0",
+    "sistema_urbano": "ARICA",
+    "ano_construccion": 1987,
+    "estado_operativo": "EN_OPERACION",
+    "cuerpo_receptor": "MAR_FUERA_ZPL",
+    "tipo_receptor": "MAR_FUERA_ZPL",
+    "categoria_receptor": "Emisario Submarino / Marino",
+    "region": "REGION DE ARICA Y PARINACOTA",
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "coordenadas": {
+      "latitud": -18.457324,
+      "longitud": -70.301512
+    }
+  }
+]

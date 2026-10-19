@@ -1,0 +1,3474 @@
+[
+  {
+    "cuenca_codigo": "120",
+    "cuenca_nombre": "COSTERAS ENTRE LIMITE REGION Y SENO ANDREW",
+    "glaciares_count": 1200,
+    "superficie_total_km2": 4106.29,
+    "volumen_total_km3": 872.088,
+    "equivalente_agua_total_km3": 741.275,
+    "tipos_desglose": {
+      "GLACIARETE": 960,
+      "GLACIAR EFLUENTE": 53,
+      "GLACIAR DE MONTAÑA": 182,
+      "GLACIAR DE VALLE": 5
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "GREVE",
+        "area_km2": 754.81,
+        "volumen_km3": 229.122,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.83,
+        "lon": -73.6211
+      },
+      {
+        "nombre": "PIO XI",
+        "area_km2": 678.55,
+        "volumen_km3": 198.291,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.1999,
+        "lon": -73.717
+      },
+      {
+        "nombre": "PENGUIN",
+        "area_km2": 460.71,
+        "volumen_km3": 117.252,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.0609,
+        "lon": -73.6516
+      },
+      {
+        "nombre": "EUROPA",
+        "area_km2": 392.67,
+        "volumen_km3": 94.394,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.2139,
+        "lon": -73.6605
+      },
+      {
+        "nombre": "OCCIDENTAL",
+        "area_km2": 292.86,
+        "volumen_km3": 63.401,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.7081,
+        "lon": -73.6345
+      },
+      {
+        "nombre": "HPS19",
+        "area_km2": 165.61,
+        "volumen_km3": 29.251,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.9599,
+        "lon": -73.7071
+      },
+      {
+        "nombre": "GUILARDI",
+        "area_km2": 144.3,
+        "volumen_km3": 24.263,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.3275,
+        "lon": -73.7513
+      },
+      {
+        "nombre": "HPS15",
+        "area_km2": 118.3,
+        "volumen_km3": 18.53,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.8403,
+        "lon": -73.6648
+      },
+      {
+        "nombre": "HPS13",
+        "area_km2": 100.32,
+        "volumen_km3": 14.815,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.8243,
+        "lon": -73.5508
+      },
+      {
+        "nombre": "Glaciar CL112020156@",
+        "area_km2": 63.73,
+        "volumen_km3": 8.004,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.4535,
+        "lon": -73.6829
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "114",
+    "cuenca_nombre": "COSTERAS E ISLAS ENTRE R AYSEN Y R BAKER Y CANAL",
+    "glaciares_count": 1213,
+    "superficie_total_km2": 3301.28,
+    "volumen_total_km3": 722.893,
+    "equivalente_agua_total_km3": 614.459,
+    "tipos_desglose": {
+      "GLACIAR EFLUENTE": 15,
+      "GLACIAR DE VALLE": 19,
+      "GLACIARETE": 930,
+      "GLACIAR DE MONTAÑA": 249
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "SAN QUINTIN",
+        "area_km2": 763.27,
+        "volumen_km3": 232.615,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.9055,
+        "lon": -73.6028
+      },
+      {
+        "nombre": "SAN RAFAEL A",
+        "area_km2": 710.98,
+        "volumen_km3": 211.26,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.7184,
+        "lon": -73.5105
+      },
+      {
+        "nombre": "STEFFEN",
+        "area_km2": 413.05,
+        "volumen_km3": 101.101,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.3226,
+        "lon": -73.5892
+      },
+      {
+        "nombre": "ACODADO",
+        "area_km2": 242.54,
+        "volumen_km3": 49.091,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.2332,
+        "lon": -73.6769
+      },
+      {
+        "nombre": "Glaciar CL111460007@",
+        "area_km2": 151.07,
+        "volumen_km3": 25.822,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.0521,
+        "lon": -73.6832
+      },
+      {
+        "nombre": "HPN1 A",
+        "area_km2": 133.24,
+        "volumen_km3": 21.776,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.1524,
+        "lon": -73.7199
+      },
+      {
+        "nombre": "GUALAS",
+        "area_km2": 111.29,
+        "volumen_km3": 17.056,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.5922,
+        "lon": -73.5097
+      },
+      {
+        "nombre": "EXPLORADORES",
+        "area_km2": 80.65,
+        "volumen_km3": 11.018,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.5714,
+        "lon": -73.247
+      },
+      {
+        "nombre": "VOLCAN HUDSON",
+        "area_km2": 79.1,
+        "volumen_km3": 10.732,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -45.9165,
+        "lon": -72.9734
+      },
+      {
+        "nombre": "REICHER A",
+        "area_km2": 63.71,
+        "volumen_km3": 8.001,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.5377,
+        "lon": -73.4629
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "TIERRA DEL FUEGO",
+    "glaciares_count": 1480,
+    "superficie_total_km2": 2480.46,
+    "volumen_total_km3": 212.862,
+    "equivalente_agua_total_km3": 180.936,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 464,
+      "GLACIARETE": 874,
+      "GLACIAR DE VALLE": 29,
+      "GLACIAR EFLUENTE": 45,
+      "GLACIAR ROCOSO": 68
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "MARINELLI",
+        "area_km2": 117.87,
+        "volumen_km3": 18.439,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.6016,
+        "lon": -69.6009
+      },
+      {
+        "nombre": "GRANDE",
+        "area_km2": 116.06,
+        "volumen_km3": 18.056,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.6596,
+        "lon": -70.0967
+      },
+      {
+        "nombre": "ALEMANIA",
+        "area_km2": 109.37,
+        "volumen_km3": 16.658,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.8255,
+        "lon": -69.2272
+      },
+      {
+        "nombre": "STOPPANI",
+        "area_km2": 99.74,
+        "volumen_km3": 14.699,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.7485,
+        "lon": -69.1097
+      },
+      {
+        "nombre": "GARIBALDI",
+        "area_km2": 64.75,
+        "volumen_km3": 8.179,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.6472,
+        "lon": -69.9226
+      },
+      {
+        "nombre": "DE LA VEDOVA",
+        "area_km2": 55.2,
+        "volumen_km3": 6.587,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.6863,
+        "lon": -69.1797
+      },
+      {
+        "nombre": "Glaciar CL112834050@",
+        "area_km2": 55.04,
+        "volumen_km3": 6.561,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.5167,
+        "lon": -70.0446
+      },
+      {
+        "nombre": "BAHIA BROKEN",
+        "area_km2": 53.04,
+        "volumen_km3": 6.239,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.5691,
+        "lon": -69.9329
+      },
+      {
+        "nombre": "Glaciar CL112834052@",
+        "area_km2": 52.79,
+        "volumen_km3": 6.199,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.5958,
+        "lon": -70.0217
+      },
+      {
+        "nombre": "Glaciar CL112850081@",
+        "area_km2": 49.21,
+        "volumen_km3": 5.636,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -54.6977,
+        "lon": -69.8338
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "122",
+    "cuenca_nombre": "COSTERAS ENTRE SENO ANDREW Y R. HOLLEMBERG E ISLAS AL ORIENTE",
+    "glaciares_count": 1440,
+    "superficie_total_km2": 2427.33,
+    "volumen_total_km3": 326.291,
+    "equivalente_agua_total_km3": 277.349,
+    "tipos_desglose": {
+      "GLACIAR EFLUENTE": 33,
+      "GLACIARETE": 1130,
+      "GLACIAR DE MONTAÑA": 225,
+      "GLACIAR DE VALLE": 42,
+      "GLACIAR ROCOSO": 10
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "TYNDALL A",
+        "area_km2": 298.55,
+        "volumen_km3": 65.08,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -51.1089,
+        "lon": -73.432
+      },
+      {
+        "nombre": "GREY",
+        "area_km2": 240.64,
+        "volumen_km3": 48.569,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.8567,
+        "lon": -73.3394
+      },
+      {
+        "nombre": "AMALIA A",
+        "area_km2": 166.01,
+        "volumen_km3": 29.346,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.9197,
+        "lon": -73.5262
+      },
+      {
+        "nombre": "HPS31",
+        "area_km2": 156.26,
+        "volumen_km3": 27.034,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.5904,
+        "lon": -73.4025
+      },
+      {
+        "nombre": "HPS34",
+        "area_km2": 148.98,
+        "volumen_km3": 25.339,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.77,
+        "lon": -73.4834
+      },
+      {
+        "nombre": "ASIA",
+        "area_km2": 116.09,
+        "volumen_km3": 18.063,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.8199,
+        "lon": -73.6111
+      },
+      {
+        "nombre": "CALVO",
+        "area_km2": 92.04,
+        "volumen_km3": 13.182,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.6957,
+        "lon": -73.2952
+      },
+      {
+        "nombre": "HPS29",
+        "area_km2": 83.16,
+        "volumen_km3": 11.486,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.5049,
+        "lon": -73.4625
+      },
+      {
+        "nombre": "HPS39 A",
+        "area_km2": 67.19,
+        "volumen_km3": 8.6,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -51.1455,
+        "lon": -73.5773
+      },
+      {
+        "nombre": "HPS28",
+        "area_km2": 61.99,
+        "volumen_km3": 7.709,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.4407,
+        "lon": -73.4711
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "RIO BAKER",
+    "glaciares_count": 4213,
+    "superficie_total_km2": 1927.21,
+    "volumen_total_km3": 160.388,
+    "equivalente_agua_total_km3": 136.34,
+    "tipos_desglose": {
+      "GLACIAR EFLUENTE": 17,
+      "GLACIAR DE MONTAÑA": 723,
+      "GLACIARETE": 3281,
+      "GLACIAR DE VALLE": 60,
+      "GLACIAR ROCOSO": 132
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "COLONIA",
+        "area_km2": 272.53,
+        "volumen_km3": 57.505,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.1676,
+        "lon": -73.4304
+      },
+      {
+        "nombre": "NEF",
+        "area_km2": 120.68,
+        "volumen_km3": 19.039,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.9745,
+        "lon": -73.3232
+      },
+      {
+        "nombre": "PARED NORTE",
+        "area_km2": 73.7,
+        "volumen_km3": 9.75,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.3726,
+        "lon": -73.3501
+      },
+      {
+        "nombre": "LEONES",
+        "area_km2": 59.76,
+        "volumen_km3": 7.335,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.7972,
+        "lon": -73.2624
+      },
+      {
+        "nombre": "SOLER A",
+        "area_km2": 47.61,
+        "volumen_km3": 5.389,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.8771,
+        "lon": -73.2611
+      },
+      {
+        "nombre": "CALLUQUEO",
+        "area_km2": 43.78,
+        "volumen_km3": 4.809,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -47.5902,
+        "lon": -72.3708
+      },
+      {
+        "nombre": "CACHET",
+        "area_km2": 35.32,
+        "volumen_km3": 3.594,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.0857,
+        "lon": -73.4145
+      },
+      {
+        "nombre": "FIERO",
+        "area_km2": 35.14,
+        "volumen_km3": 3.568,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -46.6638,
+        "lon": -73.2785
+      },
+      {
+        "nombre": "PARED SUR A",
+        "area_km2": 24.42,
+        "volumen_km3": 2.178,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.4219,
+        "lon": -73.4022
+      },
+      {
+        "nombre": "ARCO",
+        "area_km2": 23.87,
+        "volumen_km3": 2.112,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -47.2998,
+        "lon": -73.3761
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "117",
+    "cuenca_nombre": "RIO PASCUA",
+    "glaciares_count": 1178,
+    "superficie_total_km2": 1765.11,
+    "volumen_total_km3": 343.549,
+    "equivalente_agua_total_km3": 292.016,
+    "tipos_desglose": {
+      "GLACIARETE": 933,
+      "GLACIAR DE MONTAÑA": 228,
+      "GLACIAR DE VALLE": 7,
+      "GLACIAR EFLUENTE": 9,
+      "GLACIAR ROCOSO": 1
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "OHIGGINS A",
+        "area_km2": 772.51,
+        "volumen_km3": 236.446,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.9056,
+        "lon": -73.355
+      },
+      {
+        "nombre": "CHICO A",
+        "area_km2": 165.38,
+        "volumen_km3": 29.197,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.0877,
+        "lon": -73.1681
+      },
+      {
+        "nombre": "LUCIA",
+        "area_km2": 145.24,
+        "volumen_km3": 24.48,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4535,
+        "lon": -73.2967
+      },
+      {
+        "nombre": "BRAVO",
+        "area_km2": 100.81,
+        "volumen_km3": 14.913,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5879,
+        "lon": -73.2721
+      },
+      {
+        "nombre": "PASCUA",
+        "area_km2": 71.32,
+        "volumen_km3": 9.325,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4385,
+        "lon": -73.1821
+      },
+      {
+        "nombre": "ORIENTAL",
+        "area_km2": 43.47,
+        "volumen_km3": 4.764,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4969,
+        "lon": -73.0942
+      },
+      {
+        "nombre": "MELLIZO SUR",
+        "area_km2": 33.7,
+        "volumen_km3": 3.372,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5587,
+        "lon": -73.1719
+      },
+      {
+        "nombre": "Glaciar CL111706005@",
+        "area_km2": 30.94,
+        "volumen_km3": 3.003,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.985,
+        "lon": -73.2055
+      },
+      {
+        "nombre": "Glaciar CL111706041A",
+        "area_km2": 26.89,
+        "volumen_km3": 2.483,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -48.8211,
+        "lon": -73.124
+      },
+      {
+        "nombre": "Glaciar CL111707072@",
+        "area_km2": 26.45,
+        "volumen_km3": 2.427,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5388,
+        "lon": -73.1175
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "118",
+    "cuenca_nombre": "COSTERAS ENTRE R. PASCUA LIMITE REGION. ARCHIPIELAGO GUAYECO",
+    "glaciares_count": 356,
+    "superficie_total_km2": 1053.61,
+    "volumen_total_km3": 200.931,
+    "equivalente_agua_total_km3": 170.792,
+    "tipos_desglose": {
+      "GLACIARETE": 288,
+      "GLACIAR EFLUENTE": 13,
+      "GLACIAR DE MONTAÑA": 55
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "JORGE MONTT",
+        "area_km2": 433.02,
+        "volumen_km3": 107.792,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4808,
+        "lon": -73.5079
+      },
+      {
+        "nombre": "TEMPANO",
+        "area_km2": 204.07,
+        "volumen_km3": 38.834,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.7008,
+        "lon": -73.7231
+      },
+      {
+        "nombre": "BERNARDO A",
+        "area_km2": 189.28,
+        "volumen_km3": 35.065,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.6751,
+        "lon": -73.7358
+      },
+      {
+        "nombre": "OFHIDRO",
+        "area_km2": 75.83,
+        "volumen_km3": 10.135,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4816,
+        "lon": -73.6946
+      },
+      {
+        "nombre": "Glaciar CL111803056@",
+        "area_km2": 38.27,
+        "volumen_km3": 4.006,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5846,
+        "lon": -73.6713
+      },
+      {
+        "nombre": "Glaciar CL111800029A",
+        "area_km2": 12.67,
+        "volumen_km3": 0.894,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.3537,
+        "lon": -73.6096
+      },
+      {
+        "nombre": "Glaciar CL111803049@",
+        "area_km2": 12.06,
+        "volumen_km3": 0.836,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5123,
+        "lon": -73.7176
+      },
+      {
+        "nombre": "Glaciar CL111803052@",
+        "area_km2": 9.86,
+        "volumen_km3": 0.636,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.5388,
+        "lon": -73.6881
+      },
+      {
+        "nombre": "Glaciar CL111800034@",
+        "area_km2": 7.3,
+        "volumen_km3": 0.423,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.3764,
+        "lon": -73.6607
+      },
+      {
+        "nombre": "Glaciar CL111803102@",
+        "area_km2": 7.14,
+        "volumen_km3": 0.411,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -48.4461,
+        "lon": -73.6733
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "COSTERAS E ISLAS ENTRE R HOLLEMBERG, GOLFO ALTE. LAGUNA BLANCA",
+    "glaciares_count": 1090,
+    "superficie_total_km2": 458.94,
+    "volumen_total_km3": 25.402,
+    "equivalente_agua_total_km3": 21.591,
+    "tipos_desglose": {
+      "GLACIARETE": 892,
+      "GLACIAR DE MONTAÑA": 164,
+      "GLACIAR DE VALLE": 20,
+      "GLACIAR EFLUENTE": 14
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL112421008@",
+        "area_km2": 45.56,
+        "volumen_km3": 5.077,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.7668,
+        "lon": -73.1116
+      },
+      {
+        "nombre": "Glaciar CL112423033A",
+        "area_km2": 30.33,
+        "volumen_km3": 2.922,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.8372,
+        "lon": -73.0769
+      },
+      {
+        "nombre": "Glaciar CL112422005@",
+        "area_km2": 24.19,
+        "volumen_km3": 2.15,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.8129,
+        "lon": -73.1488
+      },
+      {
+        "nombre": "Glaciar CL112442010@",
+        "area_km2": 15.9,
+        "volumen_km3": 1.216,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -52.9438,
+        "lon": -72.5594
+      },
+      {
+        "nombre": "Glaciar CL112420037@",
+        "area_km2": 13.74,
+        "volumen_km3": 0.998,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.7905,
+        "lon": -73.0259
+      },
+      {
+        "nombre": "Glaciar CL112422014@",
+        "area_km2": 13.46,
+        "volumen_km3": 0.97,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.8855,
+        "lon": -73.0896
+      },
+      {
+        "nombre": "Glaciar CL112422007@",
+        "area_km2": 11.85,
+        "volumen_km3": 0.816,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -52.843,
+        "lon": -73.1742
+      },
+      {
+        "nombre": "Glaciar CL112442031A",
+        "area_km2": 10.41,
+        "volumen_km3": 0.685,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -52.994,
+        "lon": -72.704
+      },
+      {
+        "nombre": "Glaciar CL112445068@",
+        "area_km2": 8.62,
+        "volumen_km3": 0.53,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -53.3189,
+        "lon": -72.8686
+      },
+      {
+        "nombre": "Glaciar CL112447060@",
+        "area_km2": 7.93,
+        "volumen_km3": 0.474,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -53.0036,
+        "lon": -72.6547
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "RIO MAIPO",
+    "glaciares_count": 1272,
+    "superficie_total_km2": 450.96,
+    "volumen_total_km3": 16.364,
+    "equivalente_agua_total_km3": 14.032,
+    "tipos_desglose": {
+      "GLACIAR DE VALLE": 37,
+      "GLACIAR DE MONTAÑA": 105,
+      "GLACIARETE": 328,
+      "GLACIAR ROCOSO": 802
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "JUNCAL SUR",
+        "area_km2": 24.47,
+        "volumen_km3": 2.184,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.096,
+        "lon": -70.1135
+      },
+      {
+        "nombre": "OLIVARES GAMMA A",
+        "area_km2": 11.29,
+        "volumen_km3": 0.765,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.1191,
+        "lon": -70.1727
+      },
+      {
+        "nombre": "AZUFRE",
+        "area_km2": 9.71,
+        "volumen_km3": 0.623,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.4211,
+        "lon": -69.837
+      },
+      {
+        "nombre": "LOMA LARGA A",
+        "area_km2": 9.59,
+        "volumen_km3": 0.612,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.7032,
+        "lon": -70.0247
+      },
+      {
+        "nombre": "Glaciar CL105700068@",
+        "area_km2": 8.34,
+        "volumen_km3": 0.507,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.9977,
+        "lon": -69.8655
+      },
+      {
+        "nombre": "Glaciar CL105700197@",
+        "area_km2": 8.33,
+        "volumen_km3": 0.506,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.2605,
+        "lon": -70.0348
+      },
+      {
+        "nombre": "OLIVARES BETA A",
+        "area_km2": 8.2,
+        "volumen_km3": 0.496,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -33.1377,
+        "lon": -70.2021
+      },
+      {
+        "nombre": "VOLCAN TUPUNGATITO",
+        "area_km2": 7.57,
+        "volumen_km3": 0.444,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.403,
+        "lon": -69.8244
+      },
+      {
+        "nombre": "Glaciar CL105702067@",
+        "area_km2": 7.2,
+        "volumen_km3": 0.415,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.8257,
+        "lon": -69.9094
+      },
+      {
+        "nombre": "MARMOLEJO A",
+        "area_km2": 7.15,
+        "volumen_km3": 0.411,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.7418,
+        "lon": -69.9103
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "129",
+    "cuenca_nombre": "ISLAS AL SUR DEL CANAL BEAGLE Y TERRITORIO ANTARTICO",
+    "glaciares_count": 738,
+    "superficie_total_km2": 354.2,
+    "volumen_total_km3": 19.987,
+    "equivalente_agua_total_km3": 16.989,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 186,
+      "GLACIARETE": 538,
+      "GLACIAR DE VALLE": 8,
+      "GLACIAR ROCOSO": 6
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL112920019@",
+        "area_km2": 51.21,
+        "volumen_km3": 5.948,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.1823,
+        "lon": -69.7094
+      },
+      {
+        "nombre": "Glaciar CL112920017@",
+        "area_km2": 37.26,
+        "volumen_km3": 3.864,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.1554,
+        "lon": -69.7826
+      },
+      {
+        "nombre": "FOUQUE",
+        "area_km2": 21.86,
+        "volumen_km3": 1.874,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.1499,
+        "lon": -69.6057
+      },
+      {
+        "nombre": "Glaciar CL112920018@",
+        "area_km2": 16.22,
+        "volumen_km3": 1.249,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.1141,
+        "lon": -69.731
+      },
+      {
+        "nombre": "Glaciar CL112920015A",
+        "area_km2": 8.09,
+        "volumen_km3": 0.486,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.1284,
+        "lon": -69.8228
+      },
+      {
+        "nombre": "Glaciar CL112920013@",
+        "area_km2": 7.15,
+        "volumen_km3": 0.412,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -55.138,
+        "lon": -69.8491
+      },
+      {
+        "nombre": "Glaciar CL112920026A",
+        "area_km2": 6.85,
+        "volumen_km3": 0.388,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -55.1301,
+        "lon": -69.6821
+      },
+      {
+        "nombre": "Glaciar CL112920014A",
+        "area_km2": 4.96,
+        "volumen_km3": 0.25,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -55.1601,
+        "lon": -69.8554
+      },
+      {
+        "nombre": "Glaciar CL112920045A",
+        "area_km2": 4.54,
+        "volumen_km3": 0.222,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -55.1318,
+        "lon": -69.631
+      },
+      {
+        "nombre": "Glaciar CL112920457A",
+        "area_km2": 4.36,
+        "volumen_km3": 0.21,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -55.2749,
+        "lon": -69.5199
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "VERTIENTE DEL ATLANTICO",
+    "glaciares_count": 25,
+    "superficie_total_km2": 287.01,
+    "volumen_total_km3": 34.419,
+    "equivalente_agua_total_km3": 29.256,
+    "tipos_desglose": {
+      "GLACIAR EFLUENTE": 9,
+      "GLACIAR DE MONTAÑA": 4,
+      "GLACIARETE": 12
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL11260X074@",
+        "area_km2": 100.08,
+        "volumen_km3": 14.767,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -49.1227,
+        "lon": -73.3485
+      },
+      {
+        "nombre": "Glaciar CL11260X022@",
+        "area_km2": 62.38,
+        "volumen_km3": 7.776,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.277,
+        "lon": -73.4673
+      },
+      {
+        "nombre": "VIDAL GORMAZ",
+        "area_km2": 58.6,
+        "volumen_km3": 7.143,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.6403,
+        "lon": -73.2188
+      },
+      {
+        "nombre": "Glaciar CL11260X003@",
+        "area_km2": 28.2,
+        "volumen_km3": 2.647,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.4504,
+        "lon": -73.3886
+      },
+      {
+        "nombre": "Glaciar CL11260X005@",
+        "area_km2": 11.3,
+        "volumen_km3": 0.765,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.3994,
+        "lon": -73.4232
+      },
+      {
+        "nombre": "AGUILERA",
+        "area_km2": 9.98,
+        "volumen_km3": 0.647,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.3193,
+        "lon": -73.4675
+      },
+      {
+        "nombre": "Glaciar CL11260X019@",
+        "area_km2": 4.65,
+        "volumen_km3": 0.23,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -50.3216,
+        "lon": -73.4014
+      },
+      {
+        "nombre": "Glaciar CL11260X013@",
+        "area_km2": 3.97,
+        "volumen_km3": 0.185,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.3554,
+        "lon": -73.4616
+      },
+      {
+        "nombre": "Glaciar CL11260X002@",
+        "area_km2": 2.38,
+        "volumen_km3": 0.092,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -50.5065,
+        "lon": -73.3551
+      },
+      {
+        "nombre": "Glaciar CL11260X020@",
+        "area_km2": 1.98,
+        "volumen_km3": 0.072,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -50.3057,
+        "lon": -73.3798
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "RIO RAPEL",
+    "glaciares_count": 758,
+    "superficie_total_km2": 269.17,
+    "volumen_total_km3": 12.63,
+    "equivalente_agua_total_km3": 10.771,
+    "tipos_desglose": {
+      "GLACIARETE": 455,
+      "GLACIAR DE MONTAÑA": 92,
+      "GLACIAR DE VALLE": 17,
+      "GLACIAR ROCOSO": 194
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "UNIVERSIDAD A",
+        "area_km2": 26.32,
+        "volumen_km3": 2.411,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.6657,
+        "lon": -70.3432
+      },
+      {
+        "nombre": "CIPRECES",
+        "area_km2": 22.24,
+        "volumen_km3": 1.919,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.602,
+        "lon": -70.3472
+      },
+      {
+        "nombre": "Glaciar CL106000056@",
+        "area_km2": 17.23,
+        "volumen_km3": 1.357,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.3235,
+        "lon": -70.0534
+      },
+      {
+        "nombre": "PALOMO A",
+        "area_km2": 14.54,
+        "volumen_km3": 1.077,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.575,
+        "lon": -70.2986
+      },
+      {
+        "nombre": "CORTADERAL",
+        "area_km2": 14.18,
+        "volumen_km3": 1.041,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.6287,
+        "lon": -70.3012
+      },
+      {
+        "nombre": "CIPRESES NORTE",
+        "area_km2": 7.31,
+        "volumen_km3": 0.424,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -34.5357,
+        "lon": -70.3529
+      },
+      {
+        "nombre": "Glaciar CL106023027A",
+        "area_km2": 5.41,
+        "volumen_km3": 0.282,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.7001,
+        "lon": -70.2781
+      },
+      {
+        "nombre": "Glaciar CL106002046@",
+        "area_km2": 4.98,
+        "volumen_km3": 0.252,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -34.5078,
+        "lon": -70.3482
+      },
+      {
+        "nombre": "TINGUIRIRICA 1",
+        "area_km2": 3.9,
+        "volumen_km3": 0.18,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.8181,
+        "lon": -70.3322
+      },
+      {
+        "nombre": "Glaciar CL106001042@",
+        "area_km2": 3.15,
+        "volumen_km3": 0.135,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -34.6499,
+        "lon": -70.2386
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "127",
+    "cuenca_nombre": "ISLAS AL SUR ESTRECHO DE MAGALLANES",
+    "glaciares_count": 384,
+    "superficie_total_km2": 260.52,
+    "volumen_total_km3": 16.039,
+    "equivalente_agua_total_km3": 13.633,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 112,
+      "GLACIARETE": 260,
+      "GLACIAR DE VALLE": 3,
+      "GLACIAR EFLUENTE": 9
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "SARMIENTO DE GAMBOA",
+        "area_km2": 47.0,
+        "volumen_km3": 5.296,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.8041,
+        "lon": -72.5483
+      },
+      {
+        "nombre": "SNORING A",
+        "area_km2": 36.85,
+        "volumen_km3": 3.806,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.7588,
+        "lon": -72.605
+      },
+      {
+        "nombre": "Glaciar CL112730203@",
+        "area_km2": 14.03,
+        "volumen_km3": 1.026,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.7656,
+        "lon": -72.6695
+      },
+      {
+        "nombre": "HELADO",
+        "area_km2": 10.66,
+        "volumen_km3": 0.707,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.8339,
+        "lon": -72.5401
+      },
+      {
+        "nombre": "Glaciar CL112730071@",
+        "area_km2": 7.87,
+        "volumen_km3": 0.469,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -53.6307,
+        "lon": -72.7438
+      },
+      {
+        "nombre": "HOOKE 3 ALEJANDRO",
+        "area_km2": 7.87,
+        "volumen_km3": 0.468,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.7747,
+        "lon": -72.5015
+      },
+      {
+        "nombre": "Glaciar CL112730208@",
+        "area_km2": 6.26,
+        "volumen_km3": 0.343,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.7992,
+        "lon": -72.6639
+      },
+      {
+        "nombre": "BEATRIZ A",
+        "area_km2": 5.61,
+        "volumen_km3": 0.296,
+        "tipo": "GLACIAR EFLUENTE",
+        "lat": -53.7476,
+        "lon": -72.5435
+      },
+      {
+        "nombre": "Glaciar CL112730224@",
+        "area_km2": 5.07,
+        "volumen_km3": 0.258,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -53.8542,
+        "lon": -72.5324
+      },
+      {
+        "nombre": "Glaciar CL112730041@",
+        "area_km2": 4.13,
+        "volumen_km3": 0.195,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -53.5039,
+        "lon": -72.9563
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "COSTERAS E ISLAS ENTRE R. PALENA Y R. AYSEN",
+    "glaciares_count": 968,
+    "superficie_total_km2": 259.66,
+    "volumen_total_km3": 11.521,
+    "equivalente_agua_total_km3": 9.793,
+    "tipos_desglose": {
+      "GLACIARETE": 813,
+      "GLACIAR DE MONTAÑA": 136,
+      "GLACIAR DE VALLE": 18,
+      "GLACIAR ROCOSO": 1
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "NEVADO QUEULAT",
+        "area_km2": 23.26,
+        "volumen_km3": 2.038,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.3886,
+        "lon": -72.4117
+      },
+      {
+        "nombre": "COLGANTE QUEULAT A",
+        "area_km2": 22.62,
+        "volumen_km3": 1.963,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.4212,
+        "lon": -72.4622
+      },
+      {
+        "nombre": "MONTE MELIMOYU (SANTO ANIHUE)",
+        "area_km2": 10.18,
+        "volumen_km3": 0.664,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.0488,
+        "lon": -72.889
+      },
+      {
+        "nombre": "MONTE MELIMOYU (MELIMOYU OESTE)",
+        "area_km2": 7.59,
+        "volumen_km3": 0.446,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.0816,
+        "lon": -72.9051
+      },
+      {
+        "nombre": "Glaciar CL111130020@",
+        "area_km2": 7.31,
+        "volumen_km3": 0.424,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.3979,
+        "lon": -72.4731
+      },
+      {
+        "nombre": "MONTE MELIMOYU (MELIMOYU SUR)",
+        "area_km2": 7.11,
+        "volumen_km3": 0.408,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.0913,
+        "lon": -72.8786
+      },
+      {
+        "nombre": "MONTE MELIMOYU (SANTO DOMINGO)",
+        "area_km2": 6.48,
+        "volumen_km3": 0.36,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.063,
+        "lon": -72.9091
+      },
+      {
+        "nombre": "Glaciar CL111130114@",
+        "area_km2": 6.13,
+        "volumen_km3": 0.334,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.5262,
+        "lon": -72.3176
+      },
+      {
+        "nombre": "MONTE MELIMOYU (MELIMOYU ESTE)",
+        "area_km2": 4.85,
+        "volumen_km3": 0.243,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.0868,
+        "lon": -72.8297
+      },
+      {
+        "nombre": "Glaciar CL111130019@",
+        "area_km2": 4.79,
+        "volumen_km3": 0.239,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.3793,
+        "lon": -72.4674
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "116",
+    "cuenca_nombre": "COSTERAS E ISLAS ENTRE R. BAKER Y R. PASCUA",
+    "glaciares_count": 998,
+    "superficie_total_km2": 213.3,
+    "volumen_total_km3": 9.523,
+    "equivalente_agua_total_km3": 8.095,
+    "tipos_desglose": {
+      "GLACIARETE": 875,
+      "GLACIAR DE MONTAÑA": 121,
+      "GLACIAR DE VALLE": 2
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL111610040A",
+        "area_km2": 22.71,
+        "volumen_km3": 1.973,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -47.8082,
+        "lon": -72.5963
+      },
+      {
+        "nombre": "Glaciar CL111610012@",
+        "area_km2": 18.9,
+        "volumen_km3": 1.539,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -47.9628,
+        "lon": -72.7682
+      },
+      {
+        "nombre": "Glaciar CL111611041A",
+        "area_km2": 9.18,
+        "volumen_km3": 0.577,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -48.0295,
+        "lon": -72.724
+      },
+      {
+        "nombre": "Glaciar CL111610037A",
+        "area_km2": 5.97,
+        "volumen_km3": 0.322,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -47.8339,
+        "lon": -72.6173
+      },
+      {
+        "nombre": "Glaciar CL111611022A",
+        "area_km2": 5.95,
+        "volumen_km3": 0.32,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -48.0122,
+        "lon": -72.7414
+      },
+      {
+        "nombre": "Glaciar CL111613106A",
+        "area_km2": 5.85,
+        "volumen_km3": 0.313,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -47.9508,
+        "lon": -72.8065
+      },
+      {
+        "nombre": "Glaciar CL111610042A",
+        "area_km2": 5.53,
+        "volumen_km3": 0.29,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -47.7737,
+        "lon": -72.5521
+      },
+      {
+        "nombre": "Glaciar CL111611040A",
+        "area_km2": 5.35,
+        "volumen_km3": 0.277,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -48.0593,
+        "lon": -72.7241
+      },
+      {
+        "nombre": "Glaciar CL111611021@",
+        "area_km2": 4.98,
+        "volumen_km3": 0.252,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -47.9894,
+        "lon": -72.7939
+      },
+      {
+        "nombre": "Glaciar CL111611016A",
+        "area_km2": 4.37,
+        "volumen_km3": 0.211,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -47.9891,
+        "lon": -72.8441
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "RIO PALENA Y COSTERAS LIMITE DECIMA REGION",
+    "glaciares_count": 1221,
+    "superficie_total_km2": 202.01,
+    "volumen_total_km3": 6.805,
+    "equivalente_agua_total_km3": 5.784,
+    "tipos_desglose": {
+      "GLACIARETE": 1061,
+      "GLACIAR DE MONTAÑA": 146,
+      "GLACIAR DE VALLE": 13,
+      "GLACIAR ROCOSO": 1
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL111030015@",
+        "area_km2": 15.72,
+        "volumen_km3": 1.198,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.5114,
+        "lon": -72.2734
+      },
+      {
+        "nombre": "MONTE MELIMOYU (CORRENTOSO)",
+        "area_km2": 9.68,
+        "volumen_km3": 0.62,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.0642,
+        "lon": -72.8387
+      },
+      {
+        "nombre": "Glaciar CL111023155A",
+        "area_km2": 6.92,
+        "volumen_km3": 0.393,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.4291,
+        "lon": -72.4924
+      },
+      {
+        "nombre": "Glaciar CL111023145@",
+        "area_km2": 6.39,
+        "volumen_km3": 0.353,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.4846,
+        "lon": -72.4979
+      },
+      {
+        "nombre": "Glaciar CL111023151@",
+        "area_km2": 5.18,
+        "volumen_km3": 0.266,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.4425,
+        "lon": -72.5209
+      },
+      {
+        "nombre": "Glaciar CL111034026@",
+        "area_km2": 4.59,
+        "volumen_km3": 0.225,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.4026,
+        "lon": -72.3681
+      },
+      {
+        "nombre": "Glaciar CL111023166A",
+        "area_km2": 3.88,
+        "volumen_km3": 0.179,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.4106,
+        "lon": -72.4927
+      },
+      {
+        "nombre": "Glaciar CL111034059@",
+        "area_km2": 3.61,
+        "volumen_km3": 0.162,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -44.2607,
+        "lon": -72.3989
+      },
+      {
+        "nombre": "Glaciar CL111023033@",
+        "area_km2": 3.43,
+        "volumen_km3": 0.152,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.5558,
+        "lon": -72.5942
+      },
+      {
+        "nombre": "Glaciar CL111034027@",
+        "area_km2": 2.92,
+        "volumen_km3": 0.122,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -44.3899,
+        "lon": -72.3373
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "COSTERAS ENTRE R.PUELO Y R.YELCHO",
+    "glaciares_count": 835,
+    "superficie_total_km2": 165.83,
+    "volumen_total_km3": 5.723,
+    "equivalente_agua_total_km3": 4.865,
+    "tipos_desglose": {
+      "GLACIARETE": 710,
+      "GLACIAR DE MONTAÑA": 119,
+      "GLACIAR DE VALLE": 6
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_2 A",
+        "area_km2": 11.71,
+        "volumen_km3": 0.803,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -42.7998,
+        "lon": -72.4732
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_3",
+        "area_km2": 10.33,
+        "volumen_km3": 0.677,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -42.7921,
+        "lon": -72.4232
+      },
+      {
+        "nombre": "Glaciar CL110630044A",
+        "area_km2": 9.94,
+        "volumen_km3": 0.643,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.9933,
+        "lon": -72.1991
+      },
+      {
+        "nombre": "Glaciar CL110630032@",
+        "area_km2": 4.94,
+        "volumen_km3": 0.249,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.9377,
+        "lon": -72.2203
+      },
+      {
+        "nombre": "Glaciar CL110600002A",
+        "area_km2": 4.37,
+        "volumen_km3": 0.211,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.7672,
+        "lon": -72.3924
+      },
+      {
+        "nombre": "Glaciar CL110630024@",
+        "area_km2": 3.73,
+        "volumen_km3": 0.17,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.9005,
+        "lon": -72.2045
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_8",
+        "area_km2": 3.06,
+        "volumen_km3": 0.13,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.7806,
+        "lon": -72.3947
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_7 A",
+        "area_km2": 2.86,
+        "volumen_km3": 0.119,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.8383,
+        "lon": -72.5112
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_9",
+        "area_km2": 2.73,
+        "volumen_km3": 0.111,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.7809,
+        "lon": -72.4439
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_10 A",
+        "area_km2": 2.68,
+        "volumen_km3": 0.109,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.8246,
+        "lon": -72.4939
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "RIO ACONCAGUA",
+    "glaciares_count": 756,
+    "superficie_total_km2": 161.57,
+    "volumen_total_km3": 4.449,
+    "equivalente_agua_total_km3": 3.864,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 638,
+      "GLACIARETE": 83,
+      "GLACIAR DE MONTAÑA": 30,
+      "GLACIAR DE VALLE": 5
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "RIO BLANCO A",
+        "area_km2": 20.95,
+        "volumen_km3": 1.769,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.0571,
+        "lon": -70.1447
+      },
+      {
+        "nombre": "JUNCAL NORTE A",
+        "area_km2": 7.45,
+        "volumen_km3": 0.435,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -33.0244,
+        "lon": -70.1007
+      },
+      {
+        "nombre": "Glaciar CL105401048@",
+        "area_km2": 3.79,
+        "volumen_km3": 0.174,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -32.7507,
+        "lon": -70.15
+      },
+      {
+        "nombre": "Glaciar CL105400038@",
+        "area_km2": 3.73,
+        "volumen_km3": 0.102,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -32.9428,
+        "lon": -70.0273
+      },
+      {
+        "nombre": "Glaciar CL105401019@",
+        "area_km2": 3.59,
+        "volumen_km3": 0.161,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -32.8195,
+        "lon": -70.2226
+      },
+      {
+        "nombre": "Glaciar CL105400024@",
+        "area_km2": 3.11,
+        "volumen_km3": 0.133,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -32.8996,
+        "lon": -70.0146
+      },
+      {
+        "nombre": "Glaciar CL105402100@",
+        "area_km2": 2.08,
+        "volumen_km3": 0.046,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -33.0878,
+        "lon": -70.1761
+      },
+      {
+        "nombre": "MONOS DE AGUA",
+        "area_km2": 1.91,
+        "volumen_km3": 0.069,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -32.9846,
+        "lon": -70.0304
+      },
+      {
+        "nombre": "Glaciar CL105405001@",
+        "area_km2": 1.72,
+        "volumen_km3": 0.036,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -32.6114,
+        "lon": -70.2361
+      },
+      {
+        "nombre": "Glaciar CL105404118@",
+        "area_km2": 1.54,
+        "volumen_km3": 0.031,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -32.5809,
+        "lon": -70.1651
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "RIO YELCHO",
+    "glaciares_count": 718,
+    "superficie_total_km2": 116.09,
+    "volumen_total_km3": 4.148,
+    "equivalente_agua_total_km3": 3.526,
+    "tipos_desglose": {
+      "GLACIARETE": 641,
+      "GLACIAR DE MONTAÑA": 71,
+      "GLACIAR DE VALLE": 6
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_1",
+        "area_km2": 13.5,
+        "volumen_km3": 0.974,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -42.8286,
+        "lon": -72.4562
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_4",
+        "area_km2": 7.21,
+        "volumen_km3": 0.416,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -42.8254,
+        "lon": -72.4259
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_5",
+        "area_km2": 5.05,
+        "volumen_km3": 0.256,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.7977,
+        "lon": -72.3906
+      },
+      {
+        "nombre": "Glaciar CL110710206@",
+        "area_km2": 4.62,
+        "volumen_km3": 0.227,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.2955,
+        "lon": -72.505
+      },
+      {
+        "nombre": "Glaciar CL110710204@",
+        "area_km2": 4.2,
+        "volumen_km3": 0.2,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.309,
+        "lon": -72.4957
+      },
+      {
+        "nombre": "VOLCAN MICHINMAHUIDA_11",
+        "area_km2": 2.97,
+        "volumen_km3": 0.125,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.8435,
+        "lon": -72.493
+      },
+      {
+        "nombre": "Glaciar CL110711063@",
+        "area_km2": 2.65,
+        "volumen_km3": 0.107,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.2643,
+        "lon": -72.5547
+      },
+      {
+        "nombre": "Glaciar CL110710025@",
+        "area_km2": 2.63,
+        "volumen_km3": 0.106,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.0377,
+        "lon": -72.222
+      },
+      {
+        "nombre": "Glaciar CL110711050@",
+        "area_km2": 2.5,
+        "volumen_km3": 0.099,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.2668,
+        "lon": -72.5372
+      },
+      {
+        "nombre": "Glaciar CL110703049@",
+        "area_km2": 2.48,
+        "volumen_km3": 0.098,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.191,
+        "lon": -72.166
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "RIO AYSEN",
+    "glaciares_count": 805,
+    "superficie_total_km2": 100.31,
+    "volumen_total_km3": 2.491,
+    "equivalente_agua_total_km3": 2.117,
+    "tipos_desglose": {
+      "GLACIARETE": 707,
+      "GLACIAR DE MONTAÑA": 95,
+      "GLACIAR ROCOSO": 1,
+      "GLACIAR DE VALLE": 2
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN HUDSON",
+        "area_km2": 6.03,
+        "volumen_km3": 0.327,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -45.8919,
+        "lon": -72.9004
+      },
+      {
+        "nombre": "Glaciar CL111330025A",
+        "area_km2": 3.09,
+        "volumen_km3": 0.132,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -46.0241,
+        "lon": -72.1748
+      },
+      {
+        "nombre": "VOLCAN HUDSON",
+        "area_km2": 2.53,
+        "volumen_km3": 0.1,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.8789,
+        "lon": -72.9154
+      },
+      {
+        "nombre": "VOLCAN HUDSON",
+        "area_km2": 1.91,
+        "volumen_km3": 0.069,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.9114,
+        "lon": -72.8888
+      },
+      {
+        "nombre": "Glaciar CL111336013A",
+        "area_km2": 1.88,
+        "volumen_km3": 0.067,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.7584,
+        "lon": -72.8268
+      },
+      {
+        "nombre": "Glaciar CL111334056@",
+        "area_km2": 1.81,
+        "volumen_km3": 0.064,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.8237,
+        "lon": -72.7675
+      },
+      {
+        "nombre": "Glaciar CL111336058@",
+        "area_km2": 1.77,
+        "volumen_km3": 0.062,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.5645,
+        "lon": -72.8281
+      },
+      {
+        "nombre": "Glaciar CL111331010@",
+        "area_km2": 1.73,
+        "volumen_km3": 0.06,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.9597,
+        "lon": -72.5168
+      },
+      {
+        "nombre": "Glaciar CL111330108@",
+        "area_km2": 1.7,
+        "volumen_km3": 0.059,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.9858,
+        "lon": -72.4081
+      },
+      {
+        "nombre": "Glaciar CL111334024A",
+        "area_km2": 1.61,
+        "volumen_km3": 0.055,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -45.9202,
+        "lon": -72.7376
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "RIO PUELO",
+    "glaciares_count": 537,
+    "superficie_total_km2": 95.89,
+    "volumen_total_km3": 2.766,
+    "equivalente_agua_total_km3": 2.351,
+    "tipos_desglose": {
+      "GLACIARETE": 450,
+      "GLACIAR DE MONTAÑA": 86,
+      "GLACIAR DE VALLE": 1
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL110511139@",
+        "area_km2": 4.21,
+        "volumen_km3": 0.2,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.0869,
+        "lon": -72.2242
+      },
+      {
+        "nombre": "Glaciar CL110511010A",
+        "area_km2": 4.2,
+        "volumen_km3": 0.2,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -42.1122,
+        "lon": -72.0273
+      },
+      {
+        "nombre": "Glaciar CL110511114A",
+        "area_km2": 3.97,
+        "volumen_km3": 0.185,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.1392,
+        "lon": -72.1878
+      },
+      {
+        "nombre": "Glaciar CL110511075@",
+        "area_km2": 3.32,
+        "volumen_km3": 0.145,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.1399,
+        "lon": -72.0839
+      },
+      {
+        "nombre": "Glaciar CL110511080@",
+        "area_km2": 2.7,
+        "volumen_km3": 0.11,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.142,
+        "lon": -72.1265
+      },
+      {
+        "nombre": "Glaciar CL110511106@",
+        "area_km2": 2.01,
+        "volumen_km3": 0.074,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.1023,
+        "lon": -72.161
+      },
+      {
+        "nombre": "Glaciar CL110511141A",
+        "area_km2": 2.0,
+        "volumen_km3": 0.073,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.0732,
+        "lon": -72.2176
+      },
+      {
+        "nombre": "Glaciar CL110511198@",
+        "area_km2": 1.97,
+        "volumen_km3": 0.072,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -42.0108,
+        "lon": -72.175
+      },
+      {
+        "nombre": "Glaciar CL110511203@",
+        "area_km2": 1.93,
+        "volumen_km3": 0.069,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.9857,
+        "lon": -72.1696
+      },
+      {
+        "nombre": "Glaciar CL110513088@",
+        "area_km2": 1.83,
+        "volumen_km3": 0.065,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.8847,
+        "lon": -72.1971
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "COSTERAS ENTRE R.YELCHO Y LIMITE REGIONAL",
+    "glaciares_count": 230,
+    "superficie_total_km2": 91.05,
+    "volumen_total_km3": 3.603,
+    "equivalente_agua_total_km3": 3.063,
+    "tipos_desglose": {
+      "GLACIARETE": 178,
+      "GLACIAR DE VALLE": 7,
+      "GLACIAR DE MONTAÑA": 45
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL110811034A",
+        "area_km2": 11.75,
+        "volumen_km3": 0.807,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.3375,
+        "lon": -72.4846
+      },
+      {
+        "nombre": "Glaciar CL110811006@",
+        "area_km2": 5.75,
+        "volumen_km3": 0.306,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.2835,
+        "lon": -72.5545
+      },
+      {
+        "nombre": "Glaciar CL110822004@",
+        "area_km2": 5.42,
+        "volumen_km3": 0.282,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.4851,
+        "lon": -72.7893
+      },
+      {
+        "nombre": "Glaciar CL110821006@",
+        "area_km2": 4.3,
+        "volumen_km3": 0.207,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.5213,
+        "lon": -72.8182
+      },
+      {
+        "nombre": "Glaciar CL110811011A",
+        "area_km2": 3.87,
+        "volumen_km3": 0.179,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.3173,
+        "lon": -72.5188
+      },
+      {
+        "nombre": "Glaciar CL110822027A",
+        "area_km2": 3.7,
+        "volumen_km3": 0.168,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.5405,
+        "lon": -72.6144
+      },
+      {
+        "nombre": "Glaciar CL110822005A",
+        "area_km2": 3.44,
+        "volumen_km3": 0.152,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.4715,
+        "lon": -72.7674
+      },
+      {
+        "nombre": "Glaciar CL110822003@",
+        "area_km2": 3.03,
+        "volumen_km3": 0.128,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -43.5031,
+        "lon": -72.7994
+      },
+      {
+        "nombre": "Glaciar CL110812008@",
+        "area_km2": 2.54,
+        "volumen_km3": 0.101,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.4583,
+        "lon": -72.7677
+      },
+      {
+        "nombre": "Glaciar CL110811020@",
+        "area_km2": 2.06,
+        "volumen_km3": 0.076,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -43.3465,
+        "lon": -72.5558
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "CUENCAS E ISLAS ENTRE R.BUENO Y R. PUELO",
+    "glaciares_count": 50,
+    "superficie_total_km2": 46.36,
+    "volumen_total_km3": 2.408,
+    "equivalente_agua_total_km3": 2.046,
+    "tipos_desglose": {
+      "GLACIARETE": 34,
+      "GLACIAR DE MONTAÑA": 13,
+      "GLACIAR DE VALLE": 3
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 13.33,
+        "volumen_km3": 0.958,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1523,
+        "lon": -71.9231
+      },
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 8.21,
+        "volumen_km3": 0.496,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.1882,
+        "lon": -71.8995
+      },
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 6.45,
+        "volumen_km3": 0.358,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1765,
+        "lon": -71.9257
+      },
+      {
+        "nombre": "PEULLA",
+        "area_km2": 2.51,
+        "volumen_km3": 0.099,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.1337,
+        "lon": -71.8956
+      },
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 2.24,
+        "volumen_km3": 0.085,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1303,
+        "lon": -71.9099
+      },
+      {
+        "nombre": "CASA PANGUE",
+        "area_km2": 2.21,
+        "volumen_km3": 0.084,
+        "tipo": "GLACIAR DE VALLE",
+        "lat": -41.141,
+        "lon": -71.8754
+      },
+      {
+        "nombre": "VOLCAN OSORNO",
+        "area_km2": 1.88,
+        "volumen_km3": 0.067,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1111,
+        "lon": -72.5012
+      },
+      {
+        "nombre": "VOLCAN OSORNO",
+        "area_km2": 1.84,
+        "volumen_km3": 0.065,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1049,
+        "lon": -72.4881
+      },
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 1.8,
+        "volumen_km3": 0.063,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1507,
+        "lon": -71.8909
+      },
+      {
+        "nombre": "MONTE TRONADOR",
+        "area_km2": 1.23,
+        "volumen_km3": 0.038,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -41.1531,
+        "lon": -71.8648
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "ISLAS ENTRE LIMITE REGION Y CANAL ANCHO Y ESTRECHO DE LA CONCEPCION",
+    "glaciares_count": 536,
+    "superficie_total_km2": 43.68,
+    "volumen_total_km3": 0.791,
+    "equivalente_agua_total_km3": 0.672,
+    "tipos_desglose": {
+      "GLACIARETE": 488,
+      "GLACIAR DE MONTAÑA": 48
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL112127106@",
+        "area_km2": 1.31,
+        "volumen_km3": 0.041,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -49.6867,
+        "lon": -74.6613
+      },
+      {
+        "nombre": "Glaciar CL112126056@",
+        "area_km2": 1.12,
+        "volumen_km3": 0.033,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -49.557,
+        "lon": -74.5913
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "RIO ELQUI",
+    "glaciares_count": 361,
+    "superficie_total_km2": 40.51,
+    "volumen_total_km3": 0.49,
+    "equivalente_agua_total_km3": 0.443,
+    "tipos_desglose": {
+      "GLACIARETE": 89,
+      "GLACIAR ROCOSO": 267,
+      "GLACIAR DE MONTAÑA": 5
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "TAPADO",
+        "area_km2": 1.67,
+        "volumen_km3": 0.057,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -30.1493,
+        "lon": -69.9258
+      },
+      {
+        "nombre": "Glaciar CL104300014@",
+        "area_km2": 1.13,
+        "volumen_km3": 0.02,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.2295,
+        "lon": -69.9512
+      },
+      {
+        "nombre": "Glaciar CL104300102@",
+        "area_km2": 1.07,
+        "volumen_km3": 0.019,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.3209,
+        "lon": -69.9317
+      },
+      {
+        "nombre": "LLANO DE LAS LIEBRES",
+        "area_km2": 0.7,
+        "volumen_km3": 0.01,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.242,
+        "lon": -69.9533
+      },
+      {
+        "nombre": "LAS TOLAS",
+        "area_km2": 0.4,
+        "volumen_km3": 0.005,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.1516,
+        "lon": -69.9129
+      },
+      {
+        "nombre": "TAPADO ROCOSO 2",
+        "area_km2": 0.23,
+        "volumen_km3": 0.002,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.1583,
+        "lon": -69.9178
+      },
+      {
+        "nombre": "TAPADO ROCOSO 1",
+        "area_km2": 0.1,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.1596,
+        "lon": -69.9136
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "RIO TOLTEN",
+    "glaciares_count": 64,
+    "superficie_total_km2": 38.07,
+    "volumen_total_km3": 1.828,
+    "equivalente_agua_total_km3": 1.553,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 16,
+      "GLACIARETE": 48
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 10.42,
+        "volumen_km3": 0.686,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4291,
+        "lon": -71.9076
+      },
+      {
+        "nombre": "NEVADO SOLLIPULLI",
+        "area_km2": 6.34,
+        "volumen_km3": 0.349,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.9716,
+        "lon": -71.5131
+      },
+      {
+        "nombre": "NEVADO SOLLIPULLI",
+        "area_km2": 4.59,
+        "volumen_km3": 0.226,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.9792,
+        "lon": -71.532
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 3.45,
+        "volumen_km3": 0.153,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.698,
+        "lon": -71.7103
+      },
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 2.85,
+        "volumen_km3": 0.118,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4168,
+        "lon": -71.9177
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 2.7,
+        "volumen_km3": 0.11,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.7169,
+        "lon": -71.745
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 1.32,
+        "volumen_km3": 0.041,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.7206,
+        "lon": -71.7225
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 1.21,
+        "volumen_km3": 0.037,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.7099,
+        "lon": -71.7108
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 0.74,
+        "volumen_km3": 0.019,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.7186,
+        "lon": -71.7309
+      },
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 0.72,
+        "volumen_km3": 0.018,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4264,
+        "lon": -71.9508
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "RIO HUASCO",
+    "glaciares_count": 418,
+    "superficie_total_km2": 37.46,
+    "volumen_total_km3": 0.462,
+    "equivalente_agua_total_km3": 0.41,
+    "tipos_desglose": {
+      "GLACIARETE": 112,
+      "GLACIAR ROCOSO": 300,
+      "GLACIAR DE MONTAÑA": 6
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL103800021@",
+        "area_km2": 1.21,
+        "volumen_km3": 0.037,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.5839,
+        "lon": -69.7032
+      },
+      {
+        "nombre": "ESTRECHO A",
+        "area_km2": 1.13,
+        "volumen_km3": 0.034,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -29.297,
+        "lon": -70.0144
+      },
+      {
+        "nombre": "GUANACO",
+        "area_km2": 1.01,
+        "volumen_km3": 0.029,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -29.3491,
+        "lon": -70.019
+      },
+      {
+        "nombre": "ORTIGAS 1",
+        "area_km2": 0.81,
+        "volumen_km3": 0.021,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -29.3876,
+        "lon": -70.0541
+      },
+      {
+        "nombre": "AMARILLO",
+        "area_km2": 0.23,
+        "volumen_km3": 0.004,
+        "tipo": "GLACIARETE",
+        "lat": -29.3032,
+        "lon": -70.0011
+      },
+      {
+        "nombre": "ORTIGAS 2",
+        "area_km2": 0.05,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIARETE",
+        "lat": -29.3941,
+        "lon": -70.0425
+      },
+      {
+        "nombre": "ESTRECHO B",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -29.2901,
+        "lon": -70.0214
+      },
+      {
+        "nombre": "TORO 2 SUPERIOR",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -29.3299,
+        "lon": -70.0248
+      },
+      {
+        "nombre": "TORO 2 INFERIOR",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -29.3326,
+        "lon": -70.0276
+      },
+      {
+        "nombre": "TORO 2 INFERIOR",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -29.3335,
+        "lon": -70.0299
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "RIO COPIAPO",
+    "glaciares_count": 230,
+    "superficie_total_km2": 37.27,
+    "volumen_total_km3": 0.823,
+    "equivalente_agua_total_km3": 0.716,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 14,
+      "GLACIARETE": 83,
+      "GLACIAR ROCOSO": 133
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "DEL POTRO",
+        "area_km2": 4.72,
+        "volumen_km3": 0.234,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.3828,
+        "lon": -69.6086
+      },
+      {
+        "nombre": "TRONQUITOS A",
+        "area_km2": 2.28,
+        "volumen_km3": 0.087,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.5377,
+        "lon": -69.7309
+      },
+      {
+        "nombre": "MARANCELES",
+        "area_km2": 2.02,
+        "volumen_km3": 0.074,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.4236,
+        "lon": -69.6812
+      },
+      {
+        "nombre": "MARANCELES ESTE",
+        "area_km2": 1.89,
+        "volumen_km3": 0.068,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.4276,
+        "lon": -69.6484
+      },
+      {
+        "nombre": "Glaciar CL103411017@",
+        "area_km2": 1.32,
+        "volumen_km3": 0.025,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -28.3165,
+        "lon": -69.5501
+      },
+      {
+        "nombre": "Glaciar CL103413014@",
+        "area_km2": 1.2,
+        "volumen_km3": 0.022,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -28.3767,
+        "lon": -69.6877
+      },
+      {
+        "nombre": "Glaciar CL103412029@",
+        "area_km2": 1.07,
+        "volumen_km3": 0.019,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -28.3687,
+        "lon": -69.648
+      },
+      {
+        "nombre": "LOS CUYANOS A",
+        "area_km2": 0.65,
+        "volumen_km3": 0.016,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.538,
+        "lon": -69.7141
+      },
+      {
+        "nombre": "TRONQUITOS OESTE",
+        "area_km2": 0.58,
+        "volumen_km3": 0.014,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.5276,
+        "lon": -69.7436
+      },
+      {
+        "nombre": "ESTERO SECO A",
+        "area_km2": 0.49,
+        "volumen_km3": 0.011,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -28.5615,
+        "lon": -69.7127
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "RIO LIMARI",
+    "glaciares_count": 299,
+    "superficie_total_km2": 28.17,
+    "volumen_total_km3": 0.334,
+    "equivalente_agua_total_km3": 0.302,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 270,
+      "GLACIAR DE MONTAÑA": 3,
+      "GLACIARETE": 26
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL104500050@",
+        "area_km2": 1.74,
+        "volumen_km3": 0.036,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.4792,
+        "lon": -70.3134
+      },
+      {
+        "nombre": "Glaciar CL104500076@",
+        "area_km2": 1.48,
+        "volumen_km3": 0.049,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -30.4925,
+        "lon": -70.262
+      },
+      {
+        "nombre": "Glaciar CL104500139@",
+        "area_km2": 1.16,
+        "volumen_km3": 0.021,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -30.5004,
+        "lon": -70.2364
+      },
+      {
+        "nombre": "VOLCAN",
+        "area_km2": 0.43,
+        "volumen_km3": 0.009,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -30.5043,
+        "lon": -70.2695
+      },
+      {
+        "nombre": "VOLCAN",
+        "area_km2": 0.0,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -30.502,
+        "lon": -70.2769
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "RIO BIO-BIO",
+    "glaciares_count": 148,
+    "superficie_total_km2": 25.01,
+    "volumen_total_km3": 0.798,
+    "equivalente_agua_total_km3": 0.679,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 17,
+      "GLACIARETE": 131
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "SIERRA VELLUDA",
+        "area_km2": 4.96,
+        "volumen_km3": 0.25,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.4733,
+        "lon": -71.4311
+      },
+      {
+        "nombre": "SIERRA NEVADA A",
+        "area_km2": 2.41,
+        "volumen_km3": 0.094,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.5838,
+        "lon": -71.581
+      },
+      {
+        "nombre": "SIERRA NEVADA A",
+        "area_km2": 2.1,
+        "volumen_km3": 0.078,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.5991,
+        "lon": -71.5818
+      },
+      {
+        "nombre": "SIERRA VELLUDA",
+        "area_km2": 1.83,
+        "volumen_km3": 0.065,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.4632,
+        "lon": -71.4035
+      },
+      {
+        "nombre": "VOLCAN CALLAQUI",
+        "area_km2": 1.34,
+        "volumen_km3": 0.043,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.9276,
+        "lon": -71.4338
+      },
+      {
+        "nombre": "VOLCAN ANTUCO",
+        "area_km2": 1.11,
+        "volumen_km3": 0.033,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.4195,
+        "lon": -71.3512
+      },
+      {
+        "nombre": "SIERRA VELLUDA",
+        "area_km2": 1.07,
+        "volumen_km3": 0.031,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.4797,
+        "lon": -71.4136
+      },
+      {
+        "nombre": "VOLCAN CALLAQUI",
+        "area_km2": 0.97,
+        "volumen_km3": 0.028,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.9339,
+        "lon": -71.4577
+      },
+      {
+        "nombre": "VOLCAN CALLAQUI",
+        "area_km2": 0.88,
+        "volumen_km3": 0.024,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.9355,
+        "lon": -71.4475
+      },
+      {
+        "nombre": "VOLCAN CALLAQUI A",
+        "area_km2": 0.82,
+        "volumen_km3": 0.022,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -37.9216,
+        "lon": -71.4383
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "010",
+    "cuenca_nombre": "ALTIPLANICAS",
+    "glaciares_count": 215,
+    "superficie_total_km2": 24.42,
+    "volumen_total_km3": 0.331,
+    "equivalente_agua_total_km3": 0.292,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 8,
+      "GLACIARETE": 26,
+      "GLACIAR ROCOSO": 181
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN PARINACOTA",
+        "area_km2": 1.46,
+        "volumen_km3": 0.048,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -18.1652,
+        "lon": -69.1494
+      },
+      {
+        "nombre": "VOLCAN PARINACOTA",
+        "area_km2": 1.17,
+        "volumen_km3": 0.035,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -18.1745,
+        "lon": -69.1434
+      },
+      {
+        "nombre": "VOLCAN POMERAPE",
+        "area_km2": 0.59,
+        "volumen_km3": 0.014,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -18.1334,
+        "lon": -69.1309
+      },
+      {
+        "nombre": "VOLCAN POMERAPE",
+        "area_km2": 0.48,
+        "volumen_km3": 0.01,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -18.1245,
+        "lon": -69.1292
+      },
+      {
+        "nombre": "VOLCAN PARINACOTA",
+        "area_km2": 0.13,
+        "volumen_km3": 0.002,
+        "tipo": "GLACIARETE",
+        "lat": -18.1568,
+        "lon": -69.1432
+      },
+      {
+        "nombre": "VOLCAN POMERAPE",
+        "area_km2": 0.02,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -18.1301,
+        "lon": -69.1347
+      },
+      {
+        "nombre": "VOLCAN PARINACOTA",
+        "area_km2": 0.02,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -18.1787,
+        "lon": -69.1464
+      },
+      {
+        "nombre": "VOLCAN PARINACOTA",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -18.1531,
+        "lon": -69.1479
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "RIO VALDIVIA",
+    "glaciares_count": 33,
+    "superficie_total_km2": 19.42,
+    "volumen_total_km3": 0.813,
+    "equivalente_agua_total_km3": 0.691,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 9,
+      "GLACIARETE": 24
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 5.54,
+        "volumen_km3": 0.291,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4401,
+        "lon": -71.9377
+      },
+      {
+        "nombre": "VOLCAN MOCHO A",
+        "area_km2": 4.57,
+        "volumen_km3": 0.224,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.9302,
+        "lon": -72.0382
+      },
+      {
+        "nombre": "VOLCAN MOCHO",
+        "area_km2": 2.4,
+        "volumen_km3": 0.093,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.924,
+        "lon": -72.0182
+      },
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 2.07,
+        "volumen_km3": 0.077,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4429,
+        "lon": -71.8971
+      },
+      {
+        "nombre": "NEVADO QUETRUPILLAN",
+        "area_km2": 1.51,
+        "volumen_km3": 0.05,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4982,
+        "lon": -71.7131
+      },
+      {
+        "nombre": "VOLCAN VILLARRICA",
+        "area_km2": 1.27,
+        "volumen_km3": 0.04,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.4466,
+        "lon": -71.9105
+      },
+      {
+        "nombre": "VOLCAN CHOSHUENCO",
+        "area_km2": 0.64,
+        "volumen_km3": 0.016,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.9135,
+        "lon": -72.0314
+      },
+      {
+        "nombre": "NEVADO QUETRUPILLAN",
+        "area_km2": 0.52,
+        "volumen_km3": 0.012,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.5095,
+        "lon": -71.7054
+      },
+      {
+        "nombre": "NEVADO QUETRUPILLAN",
+        "area_km2": 0.31,
+        "volumen_km3": 0.006,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.5078,
+        "lon": -71.7134
+      },
+      {
+        "nombre": "VOLCAN CHOSHUENCO",
+        "area_km2": 0.08,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIARETE",
+        "lat": -39.9096,
+        "lon": -72.0467
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "ENDORREICAS ENTRE FRONTERA Y VERTIENTE DEL PACIFICO",
+    "glaciares_count": 254,
+    "superficie_total_km2": 19.28,
+    "volumen_total_km3": 0.299,
+    "equivalente_agua_total_km3": 0.258,
+    "tipos_desglose": {
+      "GLACIARETE": 224,
+      "GLACIAR DE MONTAÑA": 13,
+      "GLACIAR ROCOSO": 17
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL103041007@",
+        "area_km2": 1.5,
+        "volumen_km3": 0.03,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -27.2708,
+        "lon": -69.1241
+      },
+      {
+        "nombre": "Glaciar CL103040026A",
+        "area_km2": 1.13,
+        "volumen_km3": 0.034,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -27.1092,
+        "lon": -68.5649
+      },
+      {
+        "nombre": "Glaciar CL103030040@",
+        "area_km2": 1.06,
+        "volumen_km3": 0.018,
+        "tipo": "GLACIAR ROCOSO",
+        "lat": -26.9201,
+        "lon": -68.2756
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "RIO MAULE",
+    "glaciares_count": 218,
+    "superficie_total_km2": 17.58,
+    "volumen_total_km3": 0.334,
+    "equivalente_agua_total_km3": 0.285,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 22,
+      "GLACIARETE": 185,
+      "GLACIAR ROCOSO": 11
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "Glaciar CL107320005@",
+        "area_km2": 1.61,
+        "volumen_km3": 0.054,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.606,
+        "lon": -70.763
+      },
+      {
+        "nombre": "Glaciar CL107316005A",
+        "area_km2": 1.16,
+        "volumen_km3": 0.035,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.9893,
+        "lon": -71.1204
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "RIO CHOAPA",
+    "glaciares_count": 199,
+    "superficie_total_km2": 13.37,
+    "volumen_total_km3": 0.113,
+    "equivalente_agua_total_km3": 0.104,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 198,
+      "GLACIARETE": 1
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "RIO BUENO",
+    "glaciares_count": 41,
+    "superficie_total_km2": 11.28,
+    "volumen_total_km3": 0.534,
+    "equivalente_agua_total_km3": 0.454,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 3,
+      "GLACIARETE": 38
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN MOCHO A",
+        "area_km2": 7.14,
+        "volumen_km3": 0.411,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -39.9432,
+        "lon": -72.0174
+      },
+      {
+        "nombre": "VOLCAN PUYEHUE",
+        "area_km2": 2.57,
+        "volumen_km3": 0.103,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -40.5827,
+        "lon": -72.1126
+      },
+      {
+        "nombre": "VOLCAN PUNTIAGUDO",
+        "area_km2": 0.34,
+        "volumen_km3": 0.007,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -40.9686,
+        "lon": -72.2633
+      },
+      {
+        "nombre": "NEVADO QUEÑI",
+        "area_km2": 0.23,
+        "volumen_km3": 0.004,
+        "tipo": "GLACIARETE",
+        "lat": -40.2348,
+        "lon": -71.8154
+      },
+      {
+        "nombre": "VOLCAN PUYEHUE",
+        "area_km2": 0.1,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIARETE",
+        "lat": -40.5907,
+        "lon": -72.1243
+      },
+      {
+        "nombre": "NEVADO LAS AGUJAS A",
+        "area_km2": 0.06,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIARETE",
+        "lat": -40.2013,
+        "lon": -71.8524
+      },
+      {
+        "nombre": "NEVADO QUEÑI A",
+        "area_km2": 0.06,
+        "volumen_km3": 0.001,
+        "tipo": "GLACIARETE",
+        "lat": -40.2346,
+        "lon": -71.8209
+      },
+      {
+        "nombre": "VOLCAN MOCHO B",
+        "area_km2": 0.02,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -39.9317,
+        "lon": -72.0001
+      },
+      {
+        "nombre": "NEVADO LAS AGUJAS B",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -40.2006,
+        "lon": -71.8464
+      },
+      {
+        "nombre": "NEVADO QUEÑI B",
+        "area_km2": 0.01,
+        "volumen_km3": 0.0,
+        "tipo": "GLACIARETE",
+        "lat": -40.236,
+        "lon": -71.8237
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "RIO MATAQUITO",
+    "glaciares_count": 72,
+    "superficie_total_km2": 11.22,
+    "volumen_total_km3": 0.257,
+    "equivalente_agua_total_km3": 0.219,
+    "tipos_desglose": {
+      "GLACIAR DE MONTAÑA": 11,
+      "GLACIARETE": 50,
+      "GLACIAR ROCOSO": 11
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN AZUFRE",
+        "area_km2": 1.62,
+        "volumen_km3": 0.055,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2939,
+        "lon": -70.5732
+      },
+      {
+        "nombre": "VOLCAN PLANCHON  PETEROA",
+        "area_km2": 1.15,
+        "volumen_km3": 0.034,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2501,
+        "lon": -70.5841
+      },
+      {
+        "nombre": "VOLCAN PLANCHON  PETEROA",
+        "area_km2": 0.99,
+        "volumen_km3": 0.028,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2669,
+        "lon": -70.5957
+      },
+      {
+        "nombre": "VOLCAN AZUFRE",
+        "area_km2": 0.88,
+        "volumen_km3": 0.024,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.3024,
+        "lon": -70.5774
+      },
+      {
+        "nombre": "VOLCAN PLANCHON  PETEROA",
+        "area_km2": 0.86,
+        "volumen_km3": 0.023,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2841,
+        "lon": -70.5821
+      },
+      {
+        "nombre": "VOLCAN PLANCHON  PETEROA",
+        "area_km2": 0.76,
+        "volumen_km3": 0.02,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2887,
+        "lon": -70.5967
+      },
+      {
+        "nombre": "VOLCAN AZUFRE",
+        "area_km2": 0.48,
+        "volumen_km3": 0.011,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2945,
+        "lon": -70.5837
+      },
+      {
+        "nombre": "VOLCAN PLANCHON  PETEROA",
+        "area_km2": 0.41,
+        "volumen_km3": 0.008,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -35.2561,
+        "lon": -70.5922
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "RIO LOA",
+    "glaciares_count": 104,
+    "superficie_total_km2": 8.4,
+    "volumen_total_km3": 0.076,
+    "equivalente_agua_total_km3": 0.069,
+    "tipos_desglose": {
+      "GLACIARETE": 5,
+      "GLACIAR ROCOSO": 99
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "RIO IMPERIAL",
+    "glaciares_count": 31,
+    "superficie_total_km2": 7.46,
+    "volumen_total_km3": 0.242,
+    "equivalente_agua_total_km3": 0.206,
+    "tipos_desglose": {
+      "GLACIARETE": 25,
+      "GLACIAR DE MONTAÑA": 6
+    },
+    "glaciares_principales": [
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 3.43,
+        "volumen_km3": 0.152,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.704,
+        "lon": -71.7468
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 1.35,
+        "volumen_km3": 0.043,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.6919,
+        "lon": -71.7476
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 0.59,
+        "volumen_km3": 0.014,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.6843,
+        "lon": -71.7371
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 0.37,
+        "volumen_km3": 0.007,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.6873,
+        "lon": -71.7217
+      },
+      {
+        "nombre": "VOLCAN TOLHUACA",
+        "area_km2": 0.33,
+        "volumen_km3": 0.006,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.3118,
+        "lon": -71.6567
+      },
+      {
+        "nombre": "VOLCAN TOLHUACA",
+        "area_km2": 0.33,
+        "volumen_km3": 0.006,
+        "tipo": "GLACIAR DE MONTAÑA",
+        "lat": -38.3181,
+        "lon": -71.6423
+      },
+      {
+        "nombre": "VOLCAN LONQUIMAY",
+        "area_km2": 0.23,
+        "volumen_km3": 0.004,
+        "tipo": "GLACIARETE",
+        "lat": -38.3789,
+        "lon": -71.5903
+      },
+      {
+        "nombre": "SIERRA NEVADA",
+        "area_km2": 0.15,
+        "volumen_km3": 0.002,
+        "tipo": "GLACIARETE",
+        "lat": -38.5985,
+        "lon": -71.5982
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 0.15,
+        "volumen_km3": 0.002,
+        "tipo": "GLACIARETE",
+        "lat": -38.6873,
+        "lon": -71.7416
+      },
+      {
+        "nombre": "VOLCAN LLAIMA",
+        "area_km2": 0.14,
+        "volumen_km3": 0.002,
+        "tipo": "GLACIARETE",
+        "lat": -38.7007,
+        "lon": -71.759
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "012",
+    "cuenca_nombre": "RIO LLUTA",
+    "glaciares_count": 79,
+    "superficie_total_km2": 7.07,
+    "volumen_total_km3": 0.063,
+    "equivalente_agua_total_km3": 0.058,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 77,
+      "GLACIARETE": 2
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "125",
+    "cuenca_nombre": "COSTERAS ENTRE LAG.  BLANCA(INC), SENO OTWAY, CANAL JERONIMO Y MAGALLANES",
+    "glaciares_count": 128,
+    "superficie_total_km2": 7.0,
+    "volumen_total_km3": 0.106,
+    "equivalente_agua_total_km3": 0.09,
+    "tipos_desglose": {
+      "GLACIARETE": 121,
+      "GLACIAR DE MONTAÑA": 7
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "015",
+    "cuenca_nombre": "Q. RIO CAMARONES",
+    "glaciares_count": 26,
+    "superficie_total_km2": 4.98,
+    "volumen_total_km3": 0.06,
+    "equivalente_agua_total_km3": 0.055,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 26
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "RIO SAN JOSE",
+    "glaciares_count": 63,
+    "superficie_total_km2": 3.86,
+    "volumen_total_km3": 0.029,
+    "equivalente_agua_total_km3": 0.027,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 63
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "COSTERAS R.CAMARONES-PAMPA DEL TAMARUGAL",
+    "glaciares_count": 26,
+    "superficie_total_km2": 3.16,
+    "volumen_total_km3": 0.028,
+    "equivalente_agua_total_km3": 0.025,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 26
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "RIO ITATA",
+    "glaciares_count": 45,
+    "superficie_total_km2": 2.0,
+    "volumen_total_km3": 0.031,
+    "equivalente_agua_total_km3": 0.026,
+    "tipos_desglose": {
+      "GLACIARETE": 43,
+      "GLACIAR DE MONTAÑA": 2
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "017",
+    "cuenca_nombre": "PAMPA DEL TAMARUGAL",
+    "glaciares_count": 29,
+    "superficie_total_km2": 1.98,
+    "volumen_total_km3": 0.016,
+    "equivalente_agua_total_km3": 0.015,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 29
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "025",
+    "cuenca_nombre": "SALAR DE ATACAMA",
+    "glaciares_count": 19,
+    "superficie_total_km2": 1.8,
+    "volumen_total_km3": 0.016,
+    "equivalente_agua_total_km3": 0.015,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 19
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "123",
+    "cuenca_nombre": "ISLAS ENTRE CANALES CONCEPCION, SARMIENTO Y E. DE MAGALLANES",
+    "glaciares_count": 34,
+    "superficie_total_km2": 1.17,
+    "volumen_total_km3": 0.014,
+    "equivalente_agua_total_km3": 0.012,
+    "tipos_desglose": {
+      "GLACIARETE": 33,
+      "GLACIAR DE MONTAÑA": 1
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "ENDORREICAS SALAR ATACAMA-VERTIENTE PACIFICO",
+    "glaciares_count": 8,
+    "superficie_total_km2": 1.0,
+    "volumen_total_km3": 0.018,
+    "equivalente_agua_total_km3": 0.016,
+    "tipos_desglose": {
+      "GLACIARETE": 6,
+      "GLACIAR DE MONTAÑA": 2
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "COSTERAS R. SAN JOSE-Q.CAMARONES",
+    "glaciares_count": 7,
+    "superficie_total_km2": 0.54,
+    "volumen_total_km3": 0.005,
+    "equivalente_agua_total_km3": 0.004,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 7
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "RIO LIGUA",
+    "glaciares_count": 7,
+    "superficie_total_km2": 0.31,
+    "volumen_total_km3": 0.002,
+    "equivalente_agua_total_km3": 0.002,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 7
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "FRONTERIZAS SALARES ATACAMA-SOCOMPA",
+    "glaciares_count": 8,
+    "superficie_total_km2": 0.29,
+    "volumen_total_km3": 0.003,
+    "equivalente_agua_total_km3": 0.002,
+    "tipos_desglose": {
+      "GLACIARETE": 8
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "024",
+    "cuenca_nombre": "ENDORREICA ENTRE FRONTERIZAS Y SALAR ATACAMA",
+    "glaciares_count": 8,
+    "superficie_total_km2": 0.14,
+    "volumen_total_km3": 0.001,
+    "equivalente_agua_total_km3": 0.001,
+    "tipos_desglose": {
+      "GLACIARETE": 8
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "020",
+    "cuenca_nombre": "FRONTERIZAS SALAR MICHINCHA-R.LOA",
+    "glaciares_count": 3,
+    "superficie_total_km2": 0.07,
+    "volumen_total_km3": 0.0,
+    "equivalente_agua_total_km3": 0.0,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 1,
+      "GLACIARETE": 2
+    },
+    "glaciares_principales": []
+  },
+  {
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "RIO PETORCA",
+    "glaciares_count": 2,
+    "superficie_total_km2": 0.06,
+    "volumen_total_km3": 0.0,
+    "equivalente_agua_total_km3": 0.0,
+    "tipos_desglose": {
+      "GLACIAR ROCOSO": 2
+    },
+    "glaciares_principales": []
+  }
+]

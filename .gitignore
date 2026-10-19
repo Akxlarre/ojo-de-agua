@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node & Frontend dependencies
+node_modules/
+*/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.claude/logs/
+frontend/.claude/temp/
+frontend/.gemini/
+frontend/context/
+frontend/indices/
+
+# Temporary test artifacts
+test.html
+
+# Raw uncompressed/archive geospatial data (377MB)
+data/dga_raw/
+
+

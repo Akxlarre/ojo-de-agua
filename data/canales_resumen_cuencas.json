@@ -1,0 +1,1849 @@
+[
+  {
+    "cuenca_codigo": "081",
+    "canales_count": 1675,
+    "longitud_total_km": 5725.85,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Cato Y Sus Afluentes",
+      "Jv Rio Chillan",
+      "Jv Rio Diguillin Y Sus Afluentes",
+      "Jv Rio Seco De Lontue",
+      "Jv Rio Ñuble"
+    ],
+    "fuentes_hidricas_principales": [
+      "Estero Ablemo",
+      "Estero Agua Verde O Carimay",
+      "Estero Aguas Azules",
+      "Estero Aguas Claras",
+      "Estero Ateuco",
+      "Estero Atravesado",
+      "Estero Avellano",
+      "Estero Barro Del Buey"
+    ],
+    "total_ouas_asociadas": 409,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Greene Y Maira",
+        "longitud_km": 98.49,
+        "fuente": "Rio Ñuble",
+        "oua": "Asociacion De Canalistas Del Canal Greene Y Maira",
+        "lat": -36.433273,
+        "lon": -71.870546
+      },
+      {
+        "nombre": "Cato Y Ñuble",
+        "longitud_km": 69.99,
+        "fuente": "Rio Cato",
+        "oua": "Asociacion De Canalistas Del Canales De Cato Y Ñuble",
+        "lat": -36.590219,
+        "lon": -72.133868
+      },
+      {
+        "nombre": "Arrau (Ñiquen)",
+        "longitud_km": 58.65,
+        "fuente": "Rio Ñuble",
+        "oua": "Comunidad De Aguas Del Canal Arrau O Ñiquen",
+        "lat": -36.397402,
+        "lon": -71.886161
+      },
+      {
+        "nombre": "Sandoval Y Chavez",
+        "longitud_km": 50.14,
+        "fuente": "Rio Diguillin",
+        "oua": "",
+        "lat": -36.796933,
+        "lon": -72.111662
+      },
+      {
+        "nombre": "Matriz N3 (Ñuble Rupanco)",
+        "longitud_km": 49.6,
+        "fuente": "Sistema Embalse Coihueco",
+        "oua": "",
+        "lat": -36.575836,
+        "lon": -72.001578
+      },
+      {
+        "nombre": "Municipal",
+        "longitud_km": 47.0,
+        "fuente": "Rio Ñuble",
+        "oua": "Comunidad De Aguas Del Canal Municipal (Ñuble)",
+        "lat": -36.453903,
+        "lon": -71.837553
+      },
+      {
+        "nombre": "La Mina",
+        "longitud_km": 46.93,
+        "fuente": "Rio Chillan",
+        "oua": "",
+        "lat": -36.69032,
+        "lon": -71.864265
+      },
+      {
+        "nombre": "Goldenberg Bulnes",
+        "longitud_km": 45.34,
+        "fuente": "Rio Diguillin",
+        "oua": "",
+        "lat": -36.796285,
+        "lon": -72.069275
+      },
+      {
+        "nombre": "El Roble Diguillin",
+        "longitud_km": 44.91,
+        "fuente": "Rio Diguillin",
+        "oua": "Comunidad De Aguas Del Canal El Roble (Rio Diguillin)",
+        "lat": -36.807088,
+        "lon": -72.265518
+      },
+      {
+        "nombre": "Zañartu Poniente",
+        "longitud_km": 44.8,
+        "fuente": "Rio Diguillin",
+        "oua": "Comunidad De Aguas Del Canal Zañartu Poniente O Caracol",
+        "lat": -36.861393,
+        "lon": -72.151652
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "canales_count": 1601,
+    "longitud_total_km": 4078.54,
+    "juntas_vigilancia": [
+      "Dh. Jv Estero Peuco",
+      "Dh. Jv Rio Malleco Y Sus Afluentes",
+      "Dh. Jv Rio Renaico Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Estero Agua Azul",
+      "Estero Agua Blanca",
+      "Estero Agua Buena",
+      "Estero Agua Clara",
+      "Estero Agua Enterrada",
+      "Estero Agua Grande",
+      "Estero Aguas Blancas",
+      "Estero Allipen"
+    ],
+    "total_ouas_asociadas": 135,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Bio Bio Sur",
+        "longitud_km": 153.62,
+        "fuente": "Rio Bio Bio",
+        "oua": "Asociacion De Canalistas Del Canal Bio Bio Sur",
+        "lat": -37.751795,
+        "lon": -72.297683
+      },
+      {
+        "nombre": "Laja",
+        "longitud_km": 46.94,
+        "fuente": "Sistema Laja",
+        "oua": "Asociacion De Canalistas Del Laja",
+        "lat": -37.350823,
+        "lon": -72.022306
+      },
+      {
+        "nombre": "D Liucura Munilque",
+        "longitud_km": 45.96,
+        "fuente": "Rio Bio Bio",
+        "oua": "Asociacion De Canalistas Del Canal Bio Bio Sur",
+        "lat": -37.639336,
+        "lon": -72.266732
+      },
+      {
+        "nombre": "Siberia",
+        "longitud_km": 45.24,
+        "fuente": "Rio Laja",
+        "oua": "",
+        "lat": -37.208094,
+        "lon": -72.101122
+      },
+      {
+        "nombre": "Los Litres",
+        "longitud_km": 44.34,
+        "fuente": "Rio Laja",
+        "oua": "",
+        "lat": -37.238715,
+        "lon": -72.011032
+      },
+      {
+        "nombre": "Canteras Rucue (Manzanar)",
+        "longitud_km": 44.22,
+        "fuente": "Rio Rucue",
+        "oua": "Comunidad De Aguas Del Canal Contreras Rucue (Rio Rucue)",
+        "lat": -37.390548,
+        "lon": -71.963268
+      },
+      {
+        "nombre": "Biobio Norte",
+        "longitud_km": 41.55,
+        "fuente": "Rio Bio Bio",
+        "oua": "Asociacion De Canalistas Del Canal Bio Bio Norte",
+        "lat": -37.609902,
+        "lon": -72.201386
+      },
+      {
+        "nombre": "D Del Medio (Pangal)",
+        "longitud_km": 38.48,
+        "fuente": "Sistema Zañartu",
+        "oua": "Asociacion De Canalistas Del Canal Zañartu",
+        "lat": -37.099377,
+        "lon": -72.275699
+      },
+      {
+        "nombre": "Municipal Laja",
+        "longitud_km": 36.39,
+        "fuente": "Sistema Laja",
+        "oua": "",
+        "lat": -37.466941,
+        "lon": -72.263979
+      },
+      {
+        "nombre": "Duqueco Cuel",
+        "longitud_km": 35.56,
+        "fuente": "Rio Duqueco",
+        "oua": "Asociacion De Canalistas Del Canal Duqueco Cuel",
+        "lat": -37.522122,
+        "lon": -72.42702
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "canales_count": 1495,
+    "longitud_total_km": 6601.45,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Claro De Rengo 2A Seccion",
+      "Jv Estero Chimbarongo",
+      "Jv Estero Las Palmas",
+      "Jv Estero Puquillay (O Pudimavida)",
+      "Jv Estero Zamorano 2A Seccion",
+      "Jv Rio Cachapoal 1A Seccion",
+      "Jv Rio Cachapoal 2A Seccion Y Sus Afluentes",
+      "Jv Rio Cachapoal 3A Seccion"
+    ],
+    "fuentes_hidricas_principales": [
+      "E. Zanjon Buitrera O Turbina",
+      "E. Zanjon De La Puerta Pesada",
+      "Embalse Alcones",
+      "Embalse Antonio Silva",
+      "Embalse Benjamin Guajardo",
+      "Embalse Castro",
+      "Embalse Cornejo",
+      "Embalse El Cruce"
+    ],
+    "total_ouas_asociadas": 296,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Cocalan",
+        "longitud_km": 122.77,
+        "fuente": "Rio Cachapoal 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Cocalan",
+        "lat": -34.248997,
+        "lon": -71.269242
+      },
+      {
+        "nombre": "Cachapoal",
+        "longitud_km": 93.13,
+        "fuente": "Rio Cachapoal 1A Seccion",
+        "oua": "",
+        "lat": -34.123798,
+        "lon": -70.667509
+      },
+      {
+        "nombre": "Poblacion",
+        "longitud_km": 83.42,
+        "fuente": "Estero Chimbarongo",
+        "oua": "Asociacion De Canalistas Del Canal Poblacion (Chimbarongo)",
+        "lat": -34.536208,
+        "lon": -71.448409
+      },
+      {
+        "nombre": "Las Cabras",
+        "longitud_km": 69.25,
+        "fuente": "Rio Cachapoal 3A Seccion",
+        "oua": "Dh. Asociacion De Canales Unidos Codao, Las Cabras Y Aguas Claras",
+        "lat": -34.317141,
+        "lon": -71.281678
+      },
+      {
+        "nombre": "Almahue",
+        "longitud_km": 66.21,
+        "fuente": "Rio Cachapoal 3A Seccion",
+        "oua": "Asociacion Del Canal De Almahue (Estero Zamorano)",
+        "lat": -34.357233,
+        "lon": -71.294044
+      },
+      {
+        "nombre": "D El Durazno Cocalan",
+        "longitud_km": 56.71,
+        "fuente": "Rio Cachapoal 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Cocalan",
+        "lat": -34.240664,
+        "lon": -71.322865
+      },
+      {
+        "nombre": "Peumal",
+        "longitud_km": 53.28,
+        "fuente": "Rio Cachapoal 1A Seccion",
+        "oua": "Asociacion De Canalistas De La Ribera Sur Del Rio Cachapoal",
+        "lat": -34.296084,
+        "lon": -70.731314
+      },
+      {
+        "nombre": "Lucano",
+        "longitud_km": 50.02,
+        "fuente": "Rio Cachapoal 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Lucano",
+        "lat": -34.074188,
+        "lon": -70.673919
+      },
+      {
+        "nombre": "Apaltas Cachapoal",
+        "longitud_km": 49.5,
+        "fuente": "Rio Cachapoal 1A Seccion",
+        "oua": "Asociacion De Canalistas De La Ribera Sur Del Rio Cachapoal",
+        "lat": -34.275393,
+        "lon": -70.828838
+      },
+      {
+        "nombre": "El Sauce Tinguiririca",
+        "longitud_km": 48.12,
+        "fuente": "Rio Tinguiririca 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal El Sauce (Rio Tinguiririca)",
+        "lat": -34.752048,
+        "lon": -70.93426
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "canales_count": 1400,
+    "longitud_total_km": 7712.86,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Achibueno 2A Seccion",
+      "Dh. Jv Rio Claro",
+      "Dh. Jv Rio Putagan",
+      "Jv Rio Achibueno",
+      "Jv Rio Ancoa Y Sus Afluentes",
+      "Jv Rio Lircay Y Sus Afluentes",
+      "Jv Rio Longavi Y Sus Afluentes",
+      "Jv Rio Maule 1A Seccion"
+    ],
+    "fuentes_hidricas_principales": [
+      "Embalase Vergara",
+      "Embalse El Boldo",
+      "Embalse El Parron",
+      "Embalse Inia N1",
+      "Embalse Inia N2",
+      "Embalse Inia N3",
+      "Embalse La Aguada",
+      "Embalse La Quebrada"
+    ],
+    "total_ouas_asociadas": 251,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Maule Norte Alto 1A Seccion",
+        "longitud_km": 97.1,
+        "fuente": "Rio Maule 1A Seccion",
+        "oua": "",
+        "lat": -35.60147,
+        "lon": -71.184761
+      },
+      {
+        "nombre": "Perquilauquen Fiscal",
+        "longitud_km": 91.87,
+        "fuente": "Sistema Digua",
+        "oua": "",
+        "lat": -36.135049,
+        "lon": -71.947648
+      },
+      {
+        "nombre": "Longavi Melado",
+        "longitud_km": 91.61,
+        "fuente": "Sistema Melado",
+        "oua": "Asociacion De Canalistas Del Canal Melado",
+        "lat": -36.021763,
+        "lon": -71.579695
+      },
+      {
+        "nombre": "Oriente Pencahue",
+        "longitud_km": 66.73,
+        "fuente": "Rio Lircay",
+        "oua": "",
+        "lat": -35.31567,
+        "lon": -71.738978
+      },
+      {
+        "nombre": "San Nicolas",
+        "longitud_km": 62.2,
+        "fuente": "Rio Longavi 1A Seccion",
+        "oua": "",
+        "lat": -36.11016,
+        "lon": -71.706545
+      },
+      {
+        "nombre": "D Ibañez",
+        "longitud_km": 62.12,
+        "fuente": "Rio Longavi 1A Seccion",
+        "oua": "",
+        "lat": -36.147434,
+        "lon": -71.709826
+      },
+      {
+        "nombre": "Sandoval",
+        "longitud_km": 59.29,
+        "fuente": "Rio Maule 1A Seccion",
+        "oua": "",
+        "lat": -35.491448,
+        "lon": -71.543258
+      },
+      {
+        "nombre": "Matriz Digua",
+        "longitud_km": 59.08,
+        "fuente": "Sistema Digua",
+        "oua": "Asociacion De Canalistas Del Canal Matriz Digua",
+        "lat": -36.110668,
+        "lon": -71.807511
+      },
+      {
+        "nombre": "D Lircay Providencia",
+        "longitud_km": 51.95,
+        "fuente": "Rio Maule 1A Seccion",
+        "oua": "",
+        "lat": -35.401941,
+        "lon": -71.471389
+      },
+      {
+        "nombre": "Melozal",
+        "longitud_km": 51.89,
+        "fuente": "Rio Putagan",
+        "oua": "",
+        "lat": -35.739912,
+        "lon": -71.756031
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "canales_count": 904,
+    "longitud_total_km": 4634.1,
+    "juntas_vigilancia": [
+      "Dh. Jv Estero Angostura",
+      "Dh. Jv Saneamiento Estero Paine",
+      "Jv De La Asociacion De Comuneros De La Acequia Pueblo De Lampa",
+      "Jv Estero Arrayan",
+      "Jv Estero Puangue 2A Seccion",
+      "Jv Rio Maipo 1A Seccion",
+      "Jv Rio Mapocho 1A Seccion",
+      "Jv Rio Mapocho 3A Seccion"
+    ],
+    "fuentes_hidricas_principales": [
+      "Dren Carena Dos",
+      "Estero Abrantes",
+      "Estero Agua Fria",
+      "Estero Aguas Claras",
+      "Estero Amestica",
+      "Estero Aucayes",
+      "Estero Caleu",
+      "Estero Carampangue"
+    ],
+    "total_ouas_asociadas": 95,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Las Mercedes",
+        "longitud_km": 159.44,
+        "fuente": "Rio Mapocho",
+        "oua": "Asociacion De Canalistas Del Canal De Las Mercedes",
+        "lat": -33.479504,
+        "lon": -71.045282
+      },
+      {
+        "nombre": "San Carlos",
+        "longitud_km": 67.23,
+        "fuente": "Rio Maipo 1A Seccion",
+        "oua": "Asociacion De Canalistas De La Sociedad Canal Del Maipo",
+        "lat": -33.51049,
+        "lon": -70.539107
+      },
+      {
+        "nombre": "San Jose Alto",
+        "longitud_km": 63.7,
+        "fuente": "Rio Maipo 3A Seccion",
+        "oua": "",
+        "lat": -33.639934,
+        "lon": -71.121793
+      },
+      {
+        "nombre": "Puangue",
+        "longitud_km": 57.29,
+        "fuente": "Rio Maipo 3A Seccion",
+        "oua": "",
+        "lat": -33.685981,
+        "lon": -71.193728
+      },
+      {
+        "nombre": "D Las Perdices",
+        "longitud_km": 56.82,
+        "fuente": "Rio Maipo 1A Seccion",
+        "oua": "Asociacion De Canalistas De La Sociedad Canal Del Maipo",
+        "lat": -33.508002,
+        "lon": -70.543024
+      },
+      {
+        "nombre": "D Mallarauco Sur",
+        "longitud_km": 56.1,
+        "fuente": "Rio Mapocho",
+        "oua": "Asociacion De Canalistas Del Canal De Mallarauco",
+        "lat": -33.604012,
+        "lon": -71.059897
+      },
+      {
+        "nombre": "D Mallarauco Norte",
+        "longitud_km": 54.1,
+        "fuente": "Rio Mapocho",
+        "oua": "Asociacion De Canalistas Del Canal De Mallarauco",
+        "lat": -33.57671,
+        "lon": -71.038436
+      },
+      {
+        "nombre": "Fernandino",
+        "longitud_km": 53.25,
+        "fuente": "Rio Maipo 1A Seccion",
+        "oua": "",
+        "lat": -33.757093,
+        "lon": -70.690504
+      },
+      {
+        "nombre": "Culipran",
+        "longitud_km": 52.64,
+        "fuente": "Rio Maipo 3A Seccion",
+        "oua": "",
+        "lat": -33.757494,
+        "lon": -71.199372
+      },
+      {
+        "nombre": "D El Carmen Uno",
+        "longitud_km": 50.92,
+        "fuente": "Rio Maipo 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Del Carmen",
+        "lat": -33.299712,
+        "lon": -70.696109
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "canales_count": 787,
+    "longitud_total_km": 2333.37,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Palomo Y Sus Afluentes",
+      "Jv Rio Cogoti Y Sus Afluentes",
+      "Jv Rio Combarbala Y Sus Afluentes",
+      "Jv Rio Grande Y Limari Y Sus Afluentes",
+      "Jv Rio Huatulame",
+      "Jv Rio Hurtado Y Sus Afluentes",
+      "Jv Rio Mostazal Y Sus Afluentes",
+      "Jv Rio Pama Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Embalse Paloma",
+      "Embalse Recoleta",
+      "Estero Andacollito",
+      "Estero Cachaco",
+      "Estero Chepica",
+      "Estero Las Arenas",
+      "Estero Punitaqui",
+      "Estreo Los Pingos"
+    ],
+    "total_ouas_asociadas": 280,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Cogoti",
+        "longitud_km": 113.75,
+        "fuente": "Rio Guatulame",
+        "oua": "Asociacion De Canalistas Del Embalse Cogoti",
+        "lat": -30.753698,
+        "lon": -71.108068
+      },
+      {
+        "nombre": "Camarico",
+        "longitud_km": 64.31,
+        "fuente": "Embalse Paloma",
+        "oua": "Asociacion De Canalistas Del Canal Camarico",
+        "lat": -30.676613,
+        "lon": -71.193044
+      },
+      {
+        "nombre": "Villalon",
+        "longitud_km": 44.13,
+        "fuente": "Embalse Recoleta",
+        "oua": "Asociacion De Canalistas Del Embalse Recoleta",
+        "lat": -30.556046,
+        "lon": -71.247801
+      },
+      {
+        "nombre": "Palqui Maurat Semita",
+        "longitud_km": 41.25,
+        "fuente": "Rio Grande",
+        "oua": "Asociacion De Canalistas Canal Palqui Maurat Semita",
+        "lat": -30.773705,
+        "lon": -70.8625
+      },
+      {
+        "nombre": "D Cogoti",
+        "longitud_km": 29.14,
+        "fuente": "Embalse Paloma",
+        "oua": "Comunidad De Aguas Del Canal Matriz Paloma",
+        "lat": -30.668134,
+        "lon": -71.200364
+      },
+      {
+        "nombre": "Tabali",
+        "longitud_km": 28.64,
+        "fuente": "Embalse Paloma",
+        "oua": "Comunidad De Aguas Del Canal Matriz Paloma",
+        "lat": -30.649734,
+        "lon": -71.318556
+      },
+      {
+        "nombre": "Talhuen",
+        "longitud_km": 28.1,
+        "fuente": "Embalse Recoleta",
+        "oua": "Asociacion De Canalistas Del Embalse Recoleta",
+        "lat": -30.552212,
+        "lon": -71.190878
+      },
+      {
+        "nombre": "Matriz Paloma",
+        "longitud_km": 26.0,
+        "fuente": "Embalse Paloma",
+        "oua": "Comunidad De Aguas Del Canal Matriz Paloma",
+        "lat": -30.641553,
+        "lon": -71.09217
+      },
+      {
+        "nombre": "Punitaqui",
+        "longitud_km": 25.01,
+        "fuente": "Rio Guatulame",
+        "oua": "Asociacion De Canalistas Del Embalse Cogoti",
+        "lat": -30.782738,
+        "lon": -71.297342
+      },
+      {
+        "nombre": "D Punitaqui",
+        "longitud_km": 21.2,
+        "fuente": "Embalse Paloma",
+        "oua": "Asociacion De Canalistas Del Canal Derivado Punitaqui",
+        "lat": -30.7985,
+        "lon": -71.242154
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "canales_count": 626,
+    "longitud_total_km": 3011.33,
+    "juntas_vigilancia": [
+      "Dh. Jv Estero Carreton",
+      "Jv Estero Pichuco Y Sus Afluentes",
+      "Jv Rio Lontue",
+      "Jv Rio Seco De Lontue"
+    ],
+    "fuentes_hidricas_principales": [
+      "Estero  Huelon",
+      "Estero Barandica",
+      "Estero Buche",
+      "Estero Carreton",
+      "Estero Chavelo O Teno",
+      "Estero Chequenlemillo",
+      "Estero Comunero El Llano",
+      "Estero Culenar"
+    ],
+    "total_ouas_asociadas": 139,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Purisima Concepcion",
+        "longitud_km": 74.5,
+        "fuente": "Rio Lontue",
+        "oua": "Asociacion De Canalistas Del Canal Purisima Concepcion Seccion Canal Tronco",
+        "lat": -35.200976,
+        "lon": -71.303119
+      },
+      {
+        "nombre": "Pelarco Buena Union",
+        "longitud_km": 73.08,
+        "fuente": "Rio Lontue",
+        "oua": "Asociacion De Canalistas Del Canal Pelarco Y Buena Union",
+        "lat": -35.223803,
+        "lon": -71.296946
+      },
+      {
+        "nombre": "Cumpeo Lontue",
+        "longitud_km": 60.69,
+        "fuente": "Rio Lontue",
+        "oua": "Asociacion De Canalistas Del Canal Cumpeo",
+        "lat": -35.253183,
+        "lon": -71.137246
+      },
+      {
+        "nombre": "La Cañada Uno",
+        "longitud_km": 52.45,
+        "fuente": "Rio Teno",
+        "oua": "",
+        "lat": -34.959701,
+        "lon": -71.15736
+      },
+      {
+        "nombre": "Quillayes Uno",
+        "longitud_km": 52.13,
+        "fuente": "Rio Lontue",
+        "oua": "Asociacion De Canalistas Del Canal Quillayes",
+        "lat": -35.042469,
+        "lon": -71.405125
+      },
+      {
+        "nombre": "D San Cayetano",
+        "longitud_km": 34.2,
+        "fuente": "Rio Lontue",
+        "oua": "Asociacion De Canalistas Del Canal Pelarco Y Buena Union",
+        "lat": -35.294343,
+        "lon": -71.455351
+      },
+      {
+        "nombre": "Agustin Cerda",
+        "longitud_km": 32.55,
+        "fuente": "Rio Teno",
+        "oua": "Asociacion De Canalistas Del Canal Agustin Cerda",
+        "lat": -34.853719,
+        "lon": -71.223331
+      },
+      {
+        "nombre": "D Porvenir Marco",
+        "longitud_km": 31.77,
+        "fuente": "Rio Lontue",
+        "oua": "Dh. Canal Huañuñe",
+        "lat": -35.038466,
+        "lon": -71.161639
+      },
+      {
+        "nombre": "El Peñon",
+        "longitud_km": 31.26,
+        "fuente": "Rio Claro",
+        "oua": "Comunidad De Aguas Del Canal El Peñon (Claro Maule)",
+        "lat": -35.007202,
+        "lon": -70.848897
+      },
+      {
+        "nombre": "Majadilla (Del Cerro)",
+        "longitud_km": 30.38,
+        "fuente": "Rio Mataquito",
+        "oua": "Comunidad De Aguas Del Canal Majadillas",
+        "lat": -35.005941,
+        "lon": -71.487574
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "canales_count": 541,
+    "longitud_total_km": 2665.58,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Aconcagua 4A Seccion",
+      "Jv Rio Aconcagua 1A Seccion",
+      "Jv Rio Aconcagua 2A Seccion",
+      "Jv Rio Aconcagua Sector Quillota",
+      "Jv Rio Putaendo"
+    ],
+    "fuentes_hidricas_principales": [
+      "Dren Borgino",
+      "Estero Almendral",
+      "Estero Bellavista",
+      "Estero Catemu",
+      "Estero De La Polvareda",
+      "Estero De Pucalan",
+      "Estero Del Maqui",
+      "Estero Del Saino"
+    ],
+    "total_ouas_asociadas": 100,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Mauco",
+        "longitud_km": 103.39,
+        "fuente": "Rio Aconcagua 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal De Mauco",
+        "lat": -32.85381,
+        "lon": -71.352429
+      },
+      {
+        "nombre": "Waddington",
+        "longitud_km": 90.08,
+        "fuente": "Rio Aconcagua 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Waddington",
+        "lat": -32.920832,
+        "lon": -71.221734
+      },
+      {
+        "nombre": "Ovalle",
+        "longitud_km": 89.0,
+        "fuente": "Rio Aconcagua 3A Seccion",
+        "oua": "Dh. Asociacion De Canalistas Del Canal Ovalle",
+        "lat": -32.872674,
+        "lon": -71.275294
+      },
+      {
+        "nombre": "Tuc Chacabuco Polpaico",
+        "longitud_km": 73.83,
+        "fuente": "Rio Aconcagua 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal De Chacabuco Y Polpaico",
+        "lat": -32.909178,
+        "lon": -70.51103
+      },
+      {
+        "nombre": "Purutun",
+        "longitud_km": 50.01,
+        "fuente": "Rio Aconcagua 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Purutun",
+        "lat": -32.767881,
+        "lon": -71.173477
+      },
+      {
+        "nombre": "Catemu Del Alto",
+        "longitud_km": 46.31,
+        "fuente": "Rio Aconcagua 2A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal De Arriba De Catemu",
+        "lat": -32.726892,
+        "lon": -70.900932
+      },
+      {
+        "nombre": "El Melon",
+        "longitud_km": 43.57,
+        "fuente": "Rio Aconcagua 3A Seccion",
+        "oua": "",
+        "lat": -32.741174,
+        "lon": -71.15757
+      },
+      {
+        "nombre": "Quilpue",
+        "longitud_km": 40.87,
+        "fuente": "Rio Aconcagua 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Quilpue",
+        "lat": -32.762928,
+        "lon": -70.662393
+      },
+      {
+        "nombre": "Los Quilos",
+        "longitud_km": 38.16,
+        "fuente": "Rio Aconcagua 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Los Quilos",
+        "lat": -32.856111,
+        "lon": -70.489421
+      },
+      {
+        "nombre": "Lorino",
+        "longitud_km": 35.72,
+        "fuente": "Estero Lo Campo",
+        "oua": "Asociacion De Canalistas Del Canal Lorino O Pereirano",
+        "lat": -32.843462,
+        "lon": -70.926042
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "canales_count": 344,
+    "longitud_total_km": 986.32,
+    "juntas_vigilancia": [
+      "Jv Rio Chalinga Y Sus Afluentes",
+      "Jv Rio Choapa Y Sus Afluentes",
+      "Jv Rio Illapel Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Estero Almendrillo",
+      "Estero Camisas",
+      "Estero Canela",
+      "Estero Colihue",
+      "Estero Llano Largo",
+      "Estero Manque",
+      "Estero Quelen",
+      "Estero Tencadan"
+    ],
+    "total_ouas_asociadas": 127,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Buzeta",
+        "longitud_km": 92.6,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Buzeta",
+        "lat": -31.785263,
+        "lon": -71.113385
+      },
+      {
+        "nombre": "Silvano",
+        "longitud_km": 46.52,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Silvano",
+        "lat": -31.878634,
+        "lon": -70.783843
+      },
+      {
+        "nombre": "El Boldo (Chuchiñi)",
+        "longitud_km": 31.25,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal El Boldo (Choapa)",
+        "lat": -31.74781,
+        "lon": -71.062829
+      },
+      {
+        "nombre": "Cocinera Viejo (Cocinera)",
+        "longitud_km": 29.54,
+        "fuente": "Rio Illapel 1A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal De Illapel",
+        "lat": -31.601231,
+        "lon": -71.050841
+      },
+      {
+        "nombre": "Pitancura Alto (Pitancura Sur)",
+        "longitud_km": 22.38,
+        "fuente": "Rio Choapa 2A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Pintacura Alto O Sur",
+        "lat": -31.714211,
+        "lon": -71.211247
+      },
+      {
+        "nombre": "Bellavista (Del Alto)",
+        "longitud_km": 22.03,
+        "fuente": "Rio Illapel 3A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Bellavista O Del Alto",
+        "lat": -31.652454,
+        "lon": -71.197514
+      },
+      {
+        "nombre": "Batuco De Chalinga",
+        "longitud_km": 19.11,
+        "fuente": "Rio Chalinga 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Batuco De Chalinga",
+        "lat": -31.719353,
+        "lon": -70.777051
+      },
+      {
+        "nombre": "Barraco Grande",
+        "longitud_km": 16.92,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Barraco Grande",
+        "lat": -31.886545,
+        "lon": -70.743466
+      },
+      {
+        "nombre": "Higueral",
+        "longitud_km": 16.16,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Higueral (Choapa)",
+        "lat": -31.79816,
+        "lon": -70.925653
+      },
+      {
+        "nombre": "Molino De Llimpo (Breas)",
+        "longitud_km": 16.02,
+        "fuente": "Rio Choapa 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Breas O Molino De Llimpo",
+        "lat": -31.84642,
+        "lon": -70.861038
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "canales_count": 316,
+    "longitud_total_km": 1105.72,
+    "juntas_vigilancia": [
+      "Jv Rio Huasco Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Estero La Plata",
+      "Quebrada De Pinte",
+      "Rio Blanco",
+      "Rio Conay",
+      "Rio El Carmen",
+      "Rio El Transito",
+      "Rio Huasco 3A Seccion",
+      "Rio Huasco 4A Seccion"
+    ],
+    "total_ouas_asociadas": 189,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Armidita",
+        "longitud_km": 46.53,
+        "fuente": "Rio El Transito",
+        "oua": "Comunidad De Aguas Del Canal Armidita",
+        "lat": -28.89011,
+        "lon": -70.269631
+      },
+      {
+        "nombre": "Marañon",
+        "longitud_km": 44.28,
+        "fuente": "Rio Huasco 3A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Marañon Y Su Prolongacion",
+        "lat": -28.609848,
+        "lon": -70.70873
+      },
+      {
+        "nombre": "Buena Esperanza",
+        "longitud_km": 32.62,
+        "fuente": "Rio Huasco 3A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Buena Esperanza (Huasco)",
+        "lat": -28.576798,
+        "lon": -70.802092
+      },
+      {
+        "nombre": "Ventanas",
+        "longitud_km": 31.02,
+        "fuente": "Rio Huasco 3A Seccion",
+        "oua": "",
+        "lat": -28.566319,
+        "lon": -70.803294
+      },
+      {
+        "nombre": "Compañia",
+        "longitud_km": 28.33,
+        "fuente": "Rio Huasco 3A Seccion",
+        "oua": "",
+        "lat": -28.620528,
+        "lon": -70.743011
+      },
+      {
+        "nombre": "Victoria",
+        "longitud_km": 25.14,
+        "fuente": "Rio Huasco 4A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Victoria (Huasco)",
+        "lat": -28.528149,
+        "lon": -70.894529
+      },
+      {
+        "nombre": "Bellavista Huasco",
+        "longitud_km": 25.13,
+        "fuente": "Rio Huasco 4A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Bellavista (Huasco)",
+        "lat": -28.481477,
+        "lon": -71.153554
+      },
+      {
+        "nombre": "San Jose",
+        "longitud_km": 23.86,
+        "fuente": "Rio Huasco 4A Seccion",
+        "oua": "Comunidad De Aguas Del Canal San Jose (Huasco)",
+        "lat": -28.517189,
+        "lon": -70.957603
+      },
+      {
+        "nombre": "Mal Paso",
+        "longitud_km": 21.58,
+        "fuente": "Rio El Carmen",
+        "oua": "Comunidad De Aguas Del Canal Mal Paso (El Carmen)",
+        "lat": -29.123073,
+        "lon": -70.404239
+      },
+      {
+        "nombre": "Nicolasa",
+        "longitud_km": 20.58,
+        "fuente": "Rio Huasco 4A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Nicolasa",
+        "lat": -28.530186,
+        "lon": -70.970371
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "017",
+    "canales_count": 299,
+    "longitud_total_km": 166.35,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Charvinto",
+      "Matriz Bañadero",
+      "Quebrada Alantaño",
+      "Quebrada Chagua",
+      "Quebrada De Aroma",
+      "Quebrada De Guasquiña",
+      "Quebrada De Soga",
+      "Quebrada De Tarapaca"
+    ],
+    "total_ouas_asociadas": 47,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "043",
+    "canales_count": 251,
+    "longitud_total_km": 885.88,
+    "juntas_vigilancia": [
+      "Jv Estero Derecho",
+      "Jv Rio Elqui Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Quebrada Chañar",
+      "Quebrada De La Viga",
+      "Quebrada De Paihuano",
+      "Quebrada Las Placetas",
+      "Quebrada Los Espejos",
+      "Quebrada Los Maquis",
+      "Quebrada Los Nichos",
+      "Quebrada Pabellon"
+    ],
+    "total_ouas_asociadas": 62,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Bellavista Elqui (Bellavista)",
+        "longitud_km": 59.14,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "Asociacion De Canalistas Del Canal Bellavista",
+        "lat": -29.996666,
+        "lon": -71.119978
+      },
+      {
+        "nombre": "El Romero",
+        "longitud_km": 51.73,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "",
+        "lat": -29.920874,
+        "lon": -71.097202
+      },
+      {
+        "nombre": "Maiten Alto (Maiten) (Delirio)",
+        "longitud_km": 48.7,
+        "fuente": "Rio Elqui 2A Seccion",
+        "oua": "",
+        "lat": -30.014217,
+        "lon": -70.962822
+      },
+      {
+        "nombre": "Herradura",
+        "longitud_km": 47.25,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "",
+        "lat": -29.954907,
+        "lon": -71.203861
+      },
+      {
+        "nombre": "San Pedro Nolasco",
+        "longitud_km": 43.62,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "",
+        "lat": -29.920711,
+        "lon": -71.061061
+      },
+      {
+        "nombre": "La Calera Elqui (La Calera)",
+        "longitud_km": 39.9,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "Comunidad De Aguas Del Canal La Calera (Rio Elqui)",
+        "lat": -30.001303,
+        "lon": -71.033787
+      },
+      {
+        "nombre": "Alto Peralillo",
+        "longitud_km": 19.11,
+        "fuente": "Rio Elqui 1A Seccion",
+        "oua": "",
+        "lat": -30.038395,
+        "lon": -70.670839
+      },
+      {
+        "nombre": "Barrancas Elqui (Barranca)",
+        "longitud_km": 19.0,
+        "fuente": "Rio Elqui 1A Seccion",
+        "oua": "Comunidad De Aguas Del Canal Barrancas (Rio Elqui)",
+        "lat": -30.023686,
+        "lon": -70.720043
+      },
+      {
+        "nombre": "Pampa",
+        "longitud_km": 18.08,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "Comunidad De Aguas Del Canal La Pampa (Rio Elqui)",
+        "lat": -29.934304,
+        "lon": -71.165568
+      },
+      {
+        "nombre": "Juan Soldado (Jaramillo)",
+        "longitud_km": 17.86,
+        "fuente": "Rio Elqui 3A Seccion",
+        "oua": "",
+        "lat": -29.861126,
+        "lon": -71.231098
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "013",
+    "canales_count": 231,
+    "longitud_total_km": 151.03,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Aroma",
+      "Quebrada De Belen O Misaña",
+      "Quebrada Espejune",
+      "Quebrada Fundicion",
+      "Quebrada Gabilunida",
+      "Quebrada Huancure",
+      "Quebrada Lupica",
+      "Quebrada Mendoza"
+    ],
+    "total_ouas_asociadas": 49,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "010",
+    "canales_count": 169,
+    "longitud_total_km": 296.96,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Aroma Caquena",
+      "Quebrada Botijane",
+      "Quebrada Chuba",
+      "Quebrada Culco",
+      "Quebrada Eugenio",
+      "Quebrada Humapalca",
+      "Quebrada Jaillave",
+      "Quebrada Lagunilla"
+    ],
+    "total_ouas_asociadas": 1,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Azapa",
+        "longitud_km": 60.23,
+        "fuente": "Rio Lauca",
+        "oua": "",
+        "lat": -18.275975,
+        "lon": -69.409475
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "012",
+    "canales_count": 162,
+    "longitud_total_km": 213.93,
+    "juntas_vigilancia": [
+      "Jv Rio Lluta Y Sus Tributarios"
+    ],
+    "fuentes_hidricas_principales": [
+      "Quebrada Alameda",
+      "Quebrada Ancoamache",
+      "Quebrada Ancolacane O Chuqui Ananta",
+      "Quebrada Aranguallane",
+      "Quebrada Cascavillane",
+      "Quebrada Castilluma",
+      "Quebrada Castilluma Chico",
+      "Quebrada Coltalucho"
+    ],
+    "total_ouas_asociadas": 62,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "091",
+    "canales_count": 158,
+    "longitud_total_km": 1040.18,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Embalse Centinela",
+      "Embalse El Castillo",
+      "Embalse El Pantano",
+      "Embalse Fundo El Desierto",
+      "Embalse Pemulemu",
+      "Embalse San Gerardo",
+      "Estero Agua De Paine",
+      "Estero Bolleco"
+    ],
+    "total_ouas_asociadas": 1,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Chufquen",
+        "longitud_km": 69.37,
+        "fuente": "Rio Cautin",
+        "oua": "",
+        "lat": -38.382533,
+        "lon": -72.408085
+      },
+      {
+        "nombre": "Perquenco Quillen",
+        "longitud_km": 49.64,
+        "fuente": "Rio Quillen",
+        "oua": "",
+        "lat": -38.425755,
+        "lon": -72.387417
+      },
+      {
+        "nombre": "El Molino",
+        "longitud_km": 39.2,
+        "fuente": "Estero Colo",
+        "oua": "",
+        "lat": -38.225894,
+        "lon": -72.407689
+      },
+      {
+        "nombre": "Miraflores",
+        "longitud_km": 38.97,
+        "fuente": "Rio Quino",
+        "oua": "",
+        "lat": -38.30061,
+        "lon": -71.9979
+      },
+      {
+        "nombre": "Quino",
+        "longitud_km": 34.12,
+        "fuente": "Rio Quino",
+        "oua": "",
+        "lat": -38.345167,
+        "lon": -72.481636
+      },
+      {
+        "nombre": "Colonia Pehuenco",
+        "longitud_km": 33.63,
+        "fuente": "Estero Colliguanqui",
+        "oua": "",
+        "lat": -38.316154,
+        "lon": -71.967819
+      },
+      {
+        "nombre": "Collihuanqui",
+        "longitud_km": 30.72,
+        "fuente": "Estero Colliguanqui",
+        "oua": "",
+        "lat": -38.348814,
+        "lon": -71.981838
+      },
+      {
+        "nombre": "Pillanlelbun",
+        "longitud_km": 26.51,
+        "fuente": "Rio Cautin",
+        "oua": "",
+        "lat": -38.627798,
+        "lon": -72.500565
+      },
+      {
+        "nombre": "Quepe Norte",
+        "longitud_km": 24.91,
+        "fuente": "Rio Quepe",
+        "oua": "",
+        "lat": -38.743692,
+        "lon": -72.356825
+      },
+      {
+        "nombre": "Smith Norte",
+        "longitud_km": 24.4,
+        "fuente": "Rio Codihue",
+        "oua": "",
+        "lat": -38.771295,
+        "lon": -72.337115
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "015",
+    "canales_count": 148,
+    "longitud_total_km": 94.01,
+    "juntas_vigilancia": [
+      "Dh. Jv Rio Camarones Y Sus Tributarios"
+    ],
+    "fuentes_hidricas_principales": [
+      "Dren Bodega",
+      "Dren Ortopia Alto",
+      "Dren Ortopia Bajo",
+      "Quebrada Aico",
+      "Quebrada Camarones",
+      "Quebrada Caraguasi",
+      "Quebrada Champaja",
+      "Quebrada Cuanalla"
+    ],
+    "total_ouas_asociadas": 46,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "014",
+    "canales_count": 135,
+    "longitud_total_km": 82.06,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Cobija",
+      "Quebrada Timar",
+      "Quebrada Vitor O Codpa"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "016",
+    "canales_count": 118,
+    "longitud_total_km": 62.16,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Tana O Camiña",
+      "Vertiente Marquire"
+    ],
+    "total_ouas_asociadas": 42,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "025",
+    "canales_count": 115,
+    "longitud_total_km": 189.91,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Aguas Blancas",
+      "Quebrada Celeste",
+      "Quebrada De Soncor",
+      "Quebrada Honar",
+      "Quebrada Patao De Socaire",
+      "Quebrada Silapeti",
+      "Quebrada Talabre",
+      "Quebrada Toconao"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "034",
+    "canales_count": 100,
+    "longitud_total_km": 340.57,
+    "juntas_vigilancia": [
+      "Jv Rio Copiapo Y Sus Afluentes"
+    ],
+    "fuentes_hidricas_principales": [
+      "Rio Chacay",
+      "Rio Copiapo",
+      "Rio De Montosa",
+      "Rio Jorquera",
+      "Rio Manflas",
+      "Rio Pulido",
+      "Rio Ramadillas O Del Medio"
+    ],
+    "total_ouas_asociadas": 12,
+    "canales_matrices_principales": [
+      {
+        "nombre": "San Pedro",
+        "longitud_km": 22.16,
+        "fuente": "Rio Copiapo",
+        "oua": "",
+        "lat": -27.322174,
+        "lon": -70.54405
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "051",
+    "canales_count": 92,
+    "longitud_total_km": 260.46,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Chalaco",
+      "Estero La Chicharra",
+      "Estero Las Palmas",
+      "Quebrada De Castro",
+      "Quebrada La Calera",
+      "Quebrada La Cortadera",
+      "Rio Del Sobrante",
+      "Rio Pedernales"
+    ],
+    "total_ouas_asociadas": 36,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Pedehua",
+        "longitud_km": 24.32,
+        "fuente": "Rio Petorca",
+        "oua": "",
+        "lat": -32.312777,
+        "lon": -71.027612
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "canales_count": 89,
+    "longitud_total_km": 170.87,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada De Cupo",
+      "Quebrada Panire",
+      "Rio Caspana",
+      "Rio Loa",
+      "Rio Toconce",
+      "Vertiente Arsipi",
+      "Vertiente Chañaral",
+      "Vertiente Estanque Grande San Isidro"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "052",
+    "canales_count": 78,
+    "longitud_total_km": 282.97,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Cajon Palhuen",
+      "Estero Alicahue",
+      "Estero Jaururo",
+      "Estero Los Angeles",
+      "Quebrada Angarilla",
+      "Quebrada El Cepo Chico",
+      "Quebrada El Pobre",
+      "Quebrada Las Canchas"
+    ],
+    "total_ouas_asociadas": 27,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Pullally (Illalolen)",
+        "longitud_km": 26.66,
+        "fuente": "Rio La Ligua",
+        "oua": "Comunidad De Aguas Del Canal Pullally O Illalolen",
+        "lat": -32.430178,
+        "lon": -71.304224
+      },
+      {
+        "nombre": "Alicahue",
+        "longitud_km": 23.85,
+        "fuente": "Estero Alicahue",
+        "oua": "Asociacion De Canalistas Del Canal Alicahue",
+        "lat": -32.382218,
+        "lon": -70.833091
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "canales_count": 64,
+    "longitud_total_km": 42.9,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Casablanca",
+      "Estero El Batro",
+      "Estero El Carrizo",
+      "Estero El Membrillo",
+      "Estero Forestal Vergara",
+      "Estero La Viña",
+      "Estero Las Palmas",
+      "Estero Lo Moscoso"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "049",
+    "canales_count": 60,
+    "longitud_total_km": 123.96,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Pupio",
+      "Estero Tilama",
+      "Quebrada Caperuza",
+      "Quebrada Casablanca",
+      "Quebrada El Caballo",
+      "Quebrada Infiernillo",
+      "Quebrada La Boveda",
+      "Quebrada La Palma"
+    ],
+    "total_ouas_asociadas": 28,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Los Condores",
+        "longitud_km": 15.71,
+        "fuente": "Rio Quilimari",
+        "oua": "Dh. Comunidad De Aguas Del Canal Los Condores",
+        "lat": -32.104469,
+        "lon": -71.278379
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "canales_count": 45,
+    "longitud_total_km": 286.64,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Embalse Bolil Polcura",
+      "Embalse Quilfue",
+      "Estero Apablaza",
+      "Estero Catrilelfu",
+      "Estero Chada",
+      "Estero Choroico",
+      "Estero Coilaco",
+      "Estero Conquil"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Allipen",
+        "longitud_km": 57.58,
+        "fuente": "Rio Allipen",
+        "oua": "",
+        "lat": -38.977369,
+        "lon": -72.390299
+      },
+      {
+        "nombre": "D Huilio",
+        "longitud_km": 20.02,
+        "fuente": "Rio Allipen",
+        "oua": "",
+        "lat": -38.949733,
+        "lon": -72.700826
+      },
+      {
+        "nombre": "D Dos",
+        "longitud_km": 18.37,
+        "fuente": "Rio Allipen",
+        "oua": "",
+        "lat": -38.91059,
+        "lon": -72.672687
+      },
+      {
+        "nombre": "D Colonia Uno",
+        "longitud_km": 15.88,
+        "fuente": "Rio Allipen",
+        "oua": "",
+        "lat": -38.981834,
+        "lon": -72.544965
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "canales_count": 18,
+    "longitud_total_km": 49.83,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Del Baño",
+      "Estero Largo",
+      "Laguna La Manga",
+      "Rio Aviles",
+      "Rio Jeinemeni",
+      "Rio Las Dunas"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "101",
+    "canales_count": 17,
+    "longitud_total_km": 35.35,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Coihueco",
+      "Estero Hueno Traiguen",
+      "Estero Huiñoco",
+      "Estero La Mina",
+      "Estero Quilquil",
+      "Quebrada Huañe",
+      "Quebrada Sin Nombre Puquiñe",
+      "Rio Quinchilca"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "058",
+    "canales_count": 8,
+    "longitud_total_km": 11.84,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Del Cerro",
+      "Estero Maitenlahue",
+      "Quebrada Corcovado",
+      "Quebrada De Las Rosas O Las Monjas",
+      "Quebrada Del Alto",
+      "Quebrada La Viña",
+      "Quebrada Las Casas"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "061",
+    "canales_count": 8,
+    "longitud_total_km": 26.74,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero De La Viña",
+      "Estero De Las Cardas",
+      "Estero De Pumanque",
+      "Estero El Ganso",
+      "Estero Nilahue",
+      "Quebrada Chacitas",
+      "Quebrada Cocauquen"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "053",
+    "canales_count": 8,
+    "longitud_total_km": 4.81,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada El Ajial",
+      "Quebrada El Tigre",
+      "Quebrada Las Represas",
+      "Quebrada Madre Del Agua",
+      "Quebrada Sin Nombre",
+      "Quebrada Tierras Blancas"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "088",
+    "canales_count": 8,
+    "longitud_total_km": 44.23,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Rio Cayucupil"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Cayucupil",
+        "longitud_km": 29.07,
+        "fuente": "Rio Cayucupil",
+        "oua": "",
+        "lat": -37.788113,
+        "lon": -73.292197
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "095",
+    "canales_count": 7,
+    "longitud_total_km": 6.44,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Embalse Camahuey",
+      "Rio Boldo O Queule"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "044",
+    "canales_count": 4,
+    "longitud_total_km": 4.07,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Culebron",
+      "Quebrada Lagunillas",
+      "Quebrada Sin Nombre"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "124",
+    "canales_count": 3,
+    "longitud_total_km": 12.25,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Rio Dorotea",
+      "Rio Edelmiro O De Las Casas Vi",
+      "Rio Natales"
+    ],
+    "total_ouas_asociadas": 1,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "103",
+    "canales_count": 3,
+    "longitud_total_km": 5.08,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero La Huella",
+      "Estero La Piedra",
+      "Rio Damas"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "126",
+    "canales_count": 2,
+    "longitud_total_km": 3.29,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Rio Ciaike",
+      "Rio Penitente"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "092",
+    "canales_count": 2,
+    "longitud_total_km": 0.53,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Embalse Centinela",
+      "Embalse El Peral"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "104",
+    "canales_count": 1,
+    "longitud_total_km": 1.38,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Estero Sin Nombre Miralli"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "099",
+    "canales_count": 1,
+    "longitud_total_km": 90.8,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Rio San Jose"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": [
+      {
+        "nombre": "Azapa",
+        "longitud_km": 90.8,
+        "fuente": "Rio San Jose",
+        "oua": "",
+        "lat": -18.536202,
+        "lon": -70.08114
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "canales_count": 1,
+    "longitud_total_km": 0.36,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada Sin Nombre Baguales"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "125",
+    "canales_count": 1,
+    "longitud_total_km": 0.34,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Quebrada El Rebenque"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  },
+  {
+    "cuenca_codigo": "075",
+    "canales_count": 1,
+    "longitud_total_km": 0.96,
+    "juntas_vigilancia": [],
+    "fuentes_hidricas_principales": [
+      "Rio Buchupureo"
+    ],
+    "total_ouas_asociadas": 0,
+    "canales_matrices_principales": []
+  }
+]

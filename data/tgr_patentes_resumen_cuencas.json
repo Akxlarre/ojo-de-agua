@@ -1,0 +1,2582 @@
+[
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_patentes_no_uso": 3359,
+    "deuda_total_utm": 1051017.4,
+    "monto_total_clp": 60669955483.0,
+    "saldo_pendiente_clp": 55374550278.0,
+    "monto_pagado_clp": 5295405205.0,
+    "porcentaje_morosidad": 91.3,
+    "comunas": [
+      "CORRAL",
+      "LANCO",
+      "LOS LAGOS",
+      "MARIQUINA",
+      "PANGUIPULLI",
+      "VALDIVIA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76173216.000000000",
+        "saldo_clp": 2453444914.0,
+        "utm": 39719.68,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "91081000.000000000",
+        "saldo_clp": 1213183818.0,
+        "utm": 23562.0,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "91081000.000000000",
+        "saldo_clp": 1213183818.0,
+        "utm": 23562.0,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "91081000.000000000",
+        "saldo_clp": 949462824.0,
+        "utm": 18440.11,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "91081000.000000000",
+        "saldo_clp": 949462824.0,
+        "utm": 18440.11,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_patentes_no_uso": 1422,
+    "deuda_total_utm": 931090.7,
+    "monto_total_clp": 54907112754.0,
+    "saldo_pendiente_clp": 41150581352.0,
+    "monto_pagado_clp": 13756531402.0,
+    "porcentaje_morosidad": 74.9,
+    "comunas": [
+      "LINARES",
+      "MAULE",
+      "PARRAL",
+      "PELARCO",
+      "RETIRO",
+      "SAN CLEMENTE",
+      "SAN JAVIER",
+      "SAN RAFAEL",
+      "TALCA",
+      "YERBAS BUENAS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "77235610.000000000",
+        "saldo_clp": 4485916512.0,
+        "utm": 66528.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "77235610.000000000",
+        "saldo_clp": 4302099648.0,
+        "utm": 66528.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "77235610.000000000",
+        "saldo_clp": 4109368032.0,
+        "utm": 66528.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "77235610.000000000",
+        "saldo_clp": 1810958688.0,
+        "utm": 33264.0,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "77235610.000000000",
+        "saldo_clp": 1712730096.0,
+        "utm": 33264.0,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_patentes_no_uso": 3577,
+    "deuda_total_utm": 877718.1,
+    "monto_total_clp": 50471160364.0,
+    "saldo_pendiente_clp": 45584414370.0,
+    "monto_pagado_clp": 4886745994.0,
+    "porcentaje_morosidad": 90.3,
+    "comunas": [
+      "FUTRONO",
+      "LAGO RANCO",
+      "OSORNO",
+      "PAILLACO",
+      "PUERTO OCTAY",
+      "PURRANQUE",
+      "PUYEHUE",
+      "SAN JUAN DE LA COSTA",
+      "SAN PABLO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "b2a8219a73fa98767bd0609a6261197396367ba77ec7f3229ccf269dfad26675",
+        "saldo_clp": 1771860064.0,
+        "utm": 34412.4,
+        "ano": "2020"
+      },
+      {
+        "rut_rol": "76244026.000000000",
+        "saldo_clp": 440387027.0,
+        "utm": 7129.58,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "96511810.000000000",
+        "saldo_clp": 422155008.0,
+        "utm": 6336.0,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "76244026.000000000",
+        "saldo_clp": 415027146.0,
+        "utm": 6719.02,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76097069.000000000",
+        "saldo_clp": 398868375.0,
+        "utm": 5862.78,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_patentes_no_uso": 4043,
+    "deuda_total_utm": 792930.2,
+    "monto_total_clp": 46685629871.0,
+    "saldo_pendiente_clp": 35427532856.0,
+    "monto_pagado_clp": 11258097015.0,
+    "porcentaje_morosidad": 75.9,
+    "comunas": [
+      "BUIN",
+      "CARTAGENA",
+      "CERRILLOS",
+      "COLINA",
+      "EL MONTE",
+      "HUECHURABA",
+      "ISLA DE MAIPO",
+      "LA FLORIDA",
+      "LA PINTANA",
+      "LAMPA",
+      "LAS CONDES",
+      "LO BARNECHEA",
+      "MELIPILLA",
+      "PADRE HURTADO",
+      "PAINE",
+      "PIRQUE",
+      "PUDAHUEL",
+      "PUENTE ALTO",
+      "QUILICURA",
+      "QUILPUE",
+      "SAN ANTONIO",
+      "SAN BERNARDO",
+      "SAN PEDRO",
+      "SANTIAGO",
+      "TALAGANTE",
+      "VITACURA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "77198023.000000000",
+        "saldo_clp": 966662144.0,
+        "utm": 14336.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "77198023.000000000",
+        "saldo_clp": 927051776.0,
+        "utm": 14336.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "77198023.000000000",
+        "saldo_clp": 904228864.0,
+        "utm": 14336.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 517854720.0,
+        "utm": 7680.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 496634880.0,
+        "utm": 7680.0,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_patentes_no_uso": 1842,
+    "deuda_total_utm": 745091.9,
+    "monto_total_clp": 43502169952.0,
+    "saldo_pendiente_clp": 37091508066.0,
+    "monto_pagado_clp": 6410661886.0,
+    "porcentaje_morosidad": 85.3,
+    "comunas": [
+      "ANGOL",
+      "ANTUCO",
+      "CABRERO",
+      "COLLIPULLI",
+      "ERCILLA",
+      "HUALQUI",
+      "LAJA",
+      "LOS ANGELES",
+      "LOS SAUCES",
+      "LUMACO",
+      "NACIMIENTO",
+      "NEGRETE",
+      "PEMUCO",
+      "QUILACO",
+      "QUILLECO",
+      "RENAICO",
+      "SAN ROSENDO",
+      "TUCAPEL",
+      "YUMBEL",
+      "YUNGAY"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "4eba0b588365a7c2d315e66008744835725eb9487b908e5f47dd4c9275088317",
+        "saldo_clp": 863091200.0,
+        "utm": 12800.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "2ea8765208f7b19ca15c3ecccf7e7e859ea486a5ac405398f2a6a1967a953ba5",
+        "saldo_clp": 828516306.0,
+        "utm": 12287.24,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "4eba0b588365a7c2d315e66008744835725eb9487b908e5f47dd4c9275088317",
+        "saldo_clp": 827724800.0,
+        "utm": 12800.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "2ea8765208f7b19ca15c3ecccf7e7e859ea486a5ac405398f2a6a1967a953ba5",
+        "saldo_clp": 794566662.0,
+        "utm": 12287.24,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "4eba0b588365a7c2d315e66008744835725eb9487b908e5f47dd4c9275088317",
+        "saldo_clp": 790643200.0,
+        "utm": 12800.0,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_patentes_no_uso": 3181,
+    "deuda_total_utm": 508291.3,
+    "monto_total_clp": 28879056749.0,
+    "saldo_pendiente_clp": 28179036121.0,
+    "monto_pagado_clp": 700020628.0,
+    "porcentaje_morosidad": 97.6,
+    "comunas": [
+      "CARAHUE",
+      "CHOLCHOL",
+      "CUNCO",
+      "GALVARINO",
+      "LAUTARO",
+      "LONQUIMAY",
+      "NUEVA IMPERIAL",
+      "PERQUENCO",
+      "TEMUCO",
+      "TEODORO SCHMIDT",
+      "VICTORIA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "5658a896d5e6e9dbb7d79ccfc16fe56cc1fd33d16078f53c1e3069adb30358d5",
+        "saldo_clp": 790643200.0,
+        "utm": 12800.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "78313670.000000000",
+        "saldo_clp": 790643200.0,
+        "utm": 12800.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "96719210.000000000",
+        "saldo_clp": 348662912.0,
+        "utm": 6771.6,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "96719210.000000000",
+        "saldo_clp": 348662912.0,
+        "utm": 6771.6,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "96719210.000000000",
+        "saldo_clp": 348632019.0,
+        "utm": 6771.0,
+        "ano": "2017"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_patentes_no_uso": 1354,
+    "deuda_total_utm": 502961.8,
+    "monto_total_clp": 29384228722.0,
+    "saldo_pendiente_clp": 18107212261.0,
+    "monto_pagado_clp": 11277016461.0,
+    "porcentaje_morosidad": 61.6,
+    "comunas": [
+      "CHIMBARONGO",
+      "CODEGUA",
+      "COLTAUCO",
+      "GRANEROS",
+      "LA ESTRELLA",
+      "LAS CABRAS",
+      "LITUECHE",
+      "MACHALI",
+      "MALLOA",
+      "MOSTAZAL",
+      "NANCAGUA",
+      "OLIVAR",
+      "PALMILLA",
+      "PERALILLO",
+      "PEUMO",
+      "PICHIDEGUA",
+      "PLACILLA",
+      "QUINTA DE TILCOCO",
+      "RANCAGUA",
+      "RENGO",
+      "REQUINOA",
+      "SAN FERNANDO",
+      "SAN VICENTE",
+      "SANTA CRUZ"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "e6f2bba5344ce9a396a7b6d11e44edaaae2829437233400f4ac41970590abbc1",
+        "saldo_clp": 373116800.0,
+        "utm": 5600.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "e6f2bba5344ce9a396a7b6d11e44edaaae2829437233400f4ac41970590abbc1",
+        "saldo_clp": 373116800.0,
+        "utm": 5600.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "96990040.000000000",
+        "saldo_clp": 312724093.0,
+        "utm": 5062.8,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "cbb66493bbd71fb488bac835eb5fca0ec908b9403f756141b3b80e28f8e51a5a",
+        "saldo_clp": 233349075.0,
+        "utm": 3777.77,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76412700.000000000",
+        "saldo_clp": 229723322.0,
+        "utm": 4461.6,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_patentes_no_uso": 757,
+    "deuda_total_utm": 333438.8,
+    "monto_total_clp": 19730181233.0,
+    "saldo_pendiente_clp": 19373110196.0,
+    "monto_pagado_clp": 357071037.0,
+    "porcentaje_morosidad": 98.2,
+    "comunas": [
+      "CUREPTO",
+      "LOLOL",
+      "MOLINA",
+      "RAUCO",
+      "ROMERAL",
+      "SAGRADA FAMILIA",
+      "TENO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "86088400.000000000",
+        "saldo_clp": 2830939136.0,
+        "utm": 41984.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "86088400.000000000",
+        "saldo_clp": 2714937344.0,
+        "utm": 41984.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "86088400.000000000",
+        "saldo_clp": 2593309696.0,
+        "utm": 41984.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "86088400.000000000",
+        "saldo_clp": 1141199413.0,
+        "utm": 16924.46,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "86088400.000000000",
+        "saldo_clp": 1094437130.0,
+        "utm": 16924.46,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_patentes_no_uso": 2755,
+    "deuda_total_utm": 327838.8,
+    "monto_total_clp": 19113237912.0,
+    "saldo_pendiente_clp": 16539775312.0,
+    "monto_pagado_clp": 2573462600.0,
+    "porcentaje_morosidad": 86.5,
+    "comunas": [
+      "CURARREHUE",
+      "FREIRE",
+      "GORBEA",
+      "LONCOCHE",
+      "MELIPEUCO",
+      "VILLARRICA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76362267.000000000",
+        "saldo_clp": 324576234.0,
+        "utm": 4813.6,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76362267.000000000",
+        "saldo_clp": 311276258.0,
+        "utm": 4813.6,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76362267.000000000",
+        "saldo_clp": 297331258.0,
+        "utm": 4813.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "79749700.000000000",
+        "saldo_clp": 296491200.0,
+        "utm": 4800.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "e3463711d8a11412363778c02809914743f217da9cd1882d7a62de1da8001366",
+        "saldo_clp": 158128640.0,
+        "utm": 2560.0,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "058",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maipo y Río Rapel",
+    "total_patentes_no_uso": 216,
+    "deuda_total_utm": 275602.4,
+    "monto_total_clp": 15604191508.0,
+    "saldo_pendiente_clp": 15107836302.0,
+    "monto_pagado_clp": 496355206.0,
+    "porcentaje_morosidad": 96.8,
+    "comunas": [
+      "NAVIDAD",
+      "SANTO DOMINGO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76377930.000000000",
+        "saldo_clp": 2470421624.0,
+        "utm": 47979.6,
+        "ano": "2007"
+      },
+      {
+        "rut_rol": "76377930.000000000",
+        "saldo_clp": 2470421624.0,
+        "utm": 47979.6,
+        "ano": "2008"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 370720800.0,
+        "utm": 7200.0,
+        "ano": "2017"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 370720800.0,
+        "utm": 7200.0,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 370720800.0,
+        "utm": 7200.0,
+        "ano": "2019"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "total_patentes_no_uso": 299,
+    "deuda_total_utm": 144430.6,
+    "monto_total_clp": 9147894019.0,
+    "saldo_pendiente_clp": 9137962610.0,
+    "monto_pagado_clp": 9931409.0,
+    "porcentaje_morosidad": 99.9,
+    "comunas": [
+      "ARAUCO",
+      "CONTULMO",
+      "CURANILAHUE",
+      "LOS ALAMOS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "9c9853e7ff18d4170838c8cd2348c10e1a697ec814f486fd3a4e9139488708fc",
+        "saldo_clp": 3452364800.0,
+        "utm": 51200.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "9c9853e7ff18d4170838c8cd2348c10e1a697ec814f486fd3a4e9139488708fc",
+        "saldo_clp": 3310899200.0,
+        "utm": 51200.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "96637810.000000000",
+        "saldo_clp": 161829600.0,
+        "utm": 2400.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "96637810.000000000",
+        "saldo_clp": 155198400.0,
+        "utm": 2400.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "96637810.000000000",
+        "saldo_clp": 148245600.0,
+        "utm": 2400.0,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_patentes_no_uso": 845,
+    "deuda_total_utm": 123597.7,
+    "monto_total_clp": 7265383180.0,
+    "saldo_pendiente_clp": 6644720903.0,
+    "monto_pagado_clp": 620662277.0,
+    "porcentaje_morosidad": 91.5,
+    "comunas": [
+      "CALLE LARGA",
+      "CATEMU",
+      "HIJUELAS",
+      "LA CRUZ",
+      "LOS ANDES",
+      "PANQUEHUE",
+      "PUTAENDO",
+      "QUILLOTA",
+      "QUINTERO",
+      "RINCONADA",
+      "SAN ESTEBAN",
+      "SAN FELIPE",
+      "SANTA MARIA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "96505760.000000000",
+        "saldo_clp": 259247115.0,
+        "utm": 5035.0,
+        "ano": "2017"
+      },
+      {
+        "rut_rol": "76115387.000000000",
+        "saldo_clp": 217708800.0,
+        "utm": 3200.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76115387.000000000",
+        "saldo_clp": 215772800.0,
+        "utm": 3200.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76115387.000000000",
+        "saldo_clp": 209417600.0,
+        "utm": 3200.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76115387.000000000",
+        "saldo_clp": 108854400.0,
+        "utm": 1600.0,
+        "ano": "2019"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "total_patentes_no_uso": 1070,
+    "deuda_total_utm": 116823.3,
+    "monto_total_clp": 6654971409.0,
+    "saldo_pendiente_clp": 6120761371.0,
+    "monto_pagado_clp": 534210038.0,
+    "porcentaje_morosidad": 92.0,
+    "comunas": [
+      "CHAITEN",
+      "PUERTO VARAS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "79823520.000000000",
+        "saldo_clp": 208729805.0,
+        "utm": 3379.2,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "99529530.000000000",
+        "saldo_clp": 186715590.0,
+        "utm": 3626.32,
+        "ano": "2020"
+      },
+      {
+        "rut_rol": "99529530.000000000",
+        "saldo_clp": 186715590.0,
+        "utm": 3626.32,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "99529530.000000000",
+        "saldo_clp": 186715590.0,
+        "utm": 3626.32,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "99529530.000000000",
+        "saldo_clp": 185417368.0,
+        "utm": 3626.32,
+        "ano": "2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "029",
+    "cuenca_nombre": "Cuenca Salar de Navidad",
+    "total_patentes_no_uso": 346,
+    "deuda_total_utm": 101939.8,
+    "monto_total_clp": 6348653715.0,
+    "saldo_pendiente_clp": 661244174.0,
+    "monto_pagado_clp": 5687409541.0,
+    "porcentaje_morosidad": 10.4,
+    "comunas": [
+      "ANTOFAGASTA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "95383000.000000000",
+        "saldo_clp": 121342080.0,
+        "utm": 1920.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "db566348bf10975fcb5eb01f61c6867bba34221b85f64f910d3ae565ff92e15f",
+        "saldo_clp": 87431680.0,
+        "utm": 1280.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "db566348bf10975fcb5eb01f61c6867bba34221b85f64f910d3ae565ff92e15f",
+        "saldo_clp": 86309120.0,
+        "utm": 1280.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "95383000.000000000",
+        "saldo_clp": 71157888.0,
+        "utm": 1152.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "95383000.000000000",
+        "saldo_clp": 64715776.0,
+        "utm": 1024.0,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "total_patentes_no_uso": 226,
+    "deuda_total_utm": 85753.6,
+    "monto_total_clp": 5073340879.0,
+    "saldo_pendiente_clp": 3675509740.0,
+    "monto_pagado_clp": 1397831139.0,
+    "porcentaje_morosidad": 72.4,
+    "comunas": [
+      "BULNES",
+      "COELEMU",
+      "COIHUECO",
+      "EL CARMEN",
+      "NINHUE",
+      "PINTO",
+      "PORTEZUELO",
+      "RANQUIL",
+      "SAN CARLOS",
+      "SAN IGNACIO",
+      "TREGUACO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "93458000.000000000",
+        "saldo_clp": 323659200.0,
+        "utm": 4800.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76350427.000000000",
+        "saldo_clp": 189623689.0,
+        "utm": 3682.8,
+        "ano": "2015"
+      },
+      {
+        "rut_rol": "76350427.000000000",
+        "saldo_clp": 189582498.0,
+        "utm": 3682.0,
+        "ano": "2017"
+      },
+      {
+        "rut_rol": "b5d16ff64c49e57b467293769203b2447f112decc032cb906a0643b545f67970",
+        "saldo_clp": 96345927.0,
+        "utm": 1428.85,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76350427.000000000",
+        "saldo_clp": 94811845.0,
+        "utm": 1841.4,
+        "ano": "2016"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "total_patentes_no_uso": 497,
+    "deuda_total_utm": 84290.1,
+    "monto_total_clp": 4899269968.0,
+    "saldo_pendiente_clp": 4358881702.0,
+    "monto_pagado_clp": 540388266.0,
+    "porcentaje_morosidad": 89.0,
+    "comunas": [
+      "ALGARROBO",
+      "CASABLANCA",
+      "EL QUISCO",
+      "EL TABO",
+      "LIMACHE",
+      "VILLA ALEMANA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76339461.000000000",
+        "saldo_clp": 140309114.0,
+        "utm": 2133.33,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "78055130.000000000",
+        "saldo_clp": 137953918.0,
+        "utm": 2133.33,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "78055130.000000000",
+        "saldo_clp": 131773661.0,
+        "utm": 2133.33,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "78055130.000000000",
+        "saldo_clp": 82382400.0,
+        "utm": 1600.0,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "76339461.000000000",
+        "saldo_clp": 70154886.0,
+        "utm": 1066.67,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "total_patentes_no_uso": 167,
+    "deuda_total_utm": 79813.2,
+    "monto_total_clp": 4477856544.0,
+    "saldo_pendiente_clp": 3883422214.0,
+    "monto_pagado_clp": 594434330.0,
+    "porcentaje_morosidad": 86.7,
+    "comunas": [
+      "CANELA",
+      "OVALLE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76244026.000000000",
+        "saldo_clp": 702538571.0,
+        "utm": 13644.44,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 219686572.0,
+        "utm": 4266.67,
+        "ano": "2015"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 219686572.0,
+        "utm": 4266.67,
+        "ano": "2013"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 219686572.0,
+        "utm": 4266.67,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "76013154.000000000",
+        "saldo_clp": 219686572.0,
+        "utm": 4266.67,
+        "ano": "2016"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "total_patentes_no_uso": 234,
+    "deuda_total_utm": 77061.3,
+    "monto_total_clp": 4438011054.0,
+    "saldo_pendiente_clp": 2074946874.0,
+    "monto_pagado_clp": 2363064180.0,
+    "porcentaje_morosidad": 46.8,
+    "comunas": [
+      "LA HIGUERA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76069280.000000000",
+        "saldo_clp": 60416384.0,
+        "utm": 896.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76069280.000000000",
+        "saldo_clp": 57940736.0,
+        "utm": 896.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76026382.000000000",
+        "saldo_clp": 50491213.0,
+        "utm": 780.8,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76026382.000000000",
+        "saldo_clp": 48229235.0,
+        "utm": 780.8,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76069280.000000000",
+        "saldo_clp": 44880742.0,
+        "utm": 665.6,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "024",
+    "cuenca_nombre": "Cuenca Salar de Atacama",
+    "total_patentes_no_uso": 171,
+    "deuda_total_utm": 71895.7,
+    "monto_total_clp": 4372235618.0,
+    "saldo_pendiente_clp": 3243690738.0,
+    "monto_pagado_clp": 1128544880.0,
+    "porcentaje_morosidad": 74.2,
+    "comunas": [
+      "SAN PEDRO DE ATACAMA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "96654100.000000000",
+        "saldo_clp": 122558950.0,
+        "utm": 1817.6,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "96654100.000000000",
+        "saldo_clp": 117536922.0,
+        "utm": 1817.6,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "96654100.000000000",
+        "saldo_clp": 112271334.0,
+        "utm": 1817.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "96654100.000000000",
+        "saldo_clp": 94940032.0,
+        "utm": 1408.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "96654100.000000000",
+        "saldo_clp": 91049728.0,
+        "utm": 1408.0,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_patentes_no_uso": 366,
+    "deuda_total_utm": 62727.3,
+    "monto_total_clp": 3393208680.0,
+    "saldo_pendiente_clp": 3211634682.0,
+    "monto_pagado_clp": 181573998.0,
+    "porcentaje_morosidad": 94.6,
+    "comunas": [
+      "CHILE CHICO",
+      "COCHRANE",
+      "TORTEL"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76335960.000000000",
+        "saldo_clp": 103465600.0,
+        "utm": 1600.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76335960.000000000",
+        "saldo_clp": 50459200.0,
+        "utm": 800.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76544026.000000000",
+        "saldo_clp": 46271889.0,
+        "utm": 849.93,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "76544026.000000000",
+        "saldo_clp": 45951660.0,
+        "utm": 710.6,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76544026.000000000",
+        "saldo_clp": 43893051.0,
+        "utm": 710.6,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_patentes_no_uso": 640,
+    "deuda_total_utm": 53356.6,
+    "monto_total_clp": 3094493661.0,
+    "saldo_pendiente_clp": 2866245846.0,
+    "monto_pagado_clp": 228247815.0,
+    "porcentaje_morosidad": 92.6,
+    "comunas": [
+      "LAGUNA BLANCA",
+      "PUNTA ARENAS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "31c73d72e80ccc9dbf080352a73babb530f7e1976d78e211fa250dd5fdce5e5e",
+        "saldo_clp": 107886400.0,
+        "utm": 1600.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "31c73d72e80ccc9dbf080352a73babb530f7e1976d78e211fa250dd5fdce5e5e",
+        "saldo_clp": 103465600.0,
+        "utm": 1600.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "063e76f4d825e9b3d5cfce6914bed8af55452c0a070cbf4b50a5d9c0968a2e23",
+        "saldo_clp": 102492080.0,
+        "utm": 1520.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "31c73d72e80ccc9dbf080352a73babb530f7e1976d78e211fa250dd5fdce5e5e",
+        "saldo_clp": 98830400.0,
+        "utm": 1600.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "063e76f4d825e9b3d5cfce6914bed8af55452c0a070cbf4b50a5d9c0968a2e23",
+        "saldo_clp": 98292320.0,
+        "utm": 1520.0,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "total_patentes_no_uso": 159,
+    "deuda_total_utm": 52263.4,
+    "monto_total_clp": 3072373388.0,
+    "saldo_pendiente_clp": 663093491.0,
+    "monto_pagado_clp": 2409279897.0,
+    "porcentaje_morosidad": 21.6,
+    "comunas": [
+      "CALAMA",
+      "SIERRA GORDA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "96701340.000000000",
+        "saldo_clp": 30855785.0,
+        "utm": 443.7,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76472626.000000000",
+        "saldo_clp": 25892736.0,
+        "utm": 384.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76472626.000000000",
+        "saldo_clp": 24831744.0,
+        "utm": 384.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76472626.000000000",
+        "saldo_clp": 23719296.0,
+        "utm": 384.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76917560.000000000",
+        "saldo_clp": 16476480.0,
+        "utm": 320.0,
+        "ano": "2017"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "125",
+    "cuenca_nombre": "Cuenca Río Grande de Tierra del Fuego",
+    "total_patentes_no_uso": 298,
+    "deuda_total_utm": 49787.4,
+    "monto_total_clp": 2913671865.0,
+    "saldo_pendiente_clp": 2671631236.0,
+    "monto_pagado_clp": 242040629.0,
+    "porcentaje_morosidad": 91.7,
+    "comunas": [
+      "PORVENIR",
+      "PRIMAVERA",
+      "TIMAUKEL"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "79946920.000000000",
+        "saldo_clp": 163501839.0,
+        "utm": 2424.8,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "79946920.000000000",
+        "saldo_clp": 156802117.0,
+        "utm": 2424.8,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "79946920.000000000",
+        "saldo_clp": 149777471.0,
+        "utm": 2424.8,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "79946920.000000000",
+        "saldo_clp": 66005481.0,
+        "utm": 1212.4,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "79946920.000000000",
+        "saldo_clp": 62425264.0,
+        "utm": 1212.4,
+        "ano": "2019"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_patentes_no_uso": 899,
+    "deuda_total_utm": 44224.0,
+    "monto_total_clp": 2634439352.0,
+    "saldo_pendiente_clp": 1311224617.0,
+    "monto_pagado_clp": 1323214735.0,
+    "porcentaje_morosidad": 49.8,
+    "comunas": [
+      "COQUIMBO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "34aac739e4866e0c45dbbe6c6a723998beaec26c4383e6940138099bddd6dd19",
+        "saldo_clp": 66638065.0,
+        "utm": 958.24,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76097759.000000000",
+        "saldo_clp": 41883520.0,
+        "utm": 640.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76622700.000000000",
+        "saldo_clp": 31554355.0,
+        "utm": 473.59,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "78014720.000000000",
+        "saldo_clp": 31305312.0,
+        "utm": 608.0,
+        "ano": "2017"
+      },
+      {
+        "rut_rol": "78126110.000000000",
+        "saldo_clp": 18124128.0,
+        "utm": 352.0,
+        "ano": "2013"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_patentes_no_uso": 194,
+    "deuda_total_utm": 42324.4,
+    "monto_total_clp": 2398370763.0,
+    "saldo_pendiente_clp": 1194261614.0,
+    "monto_pagado_clp": 1204109149.0,
+    "porcentaje_morosidad": 49.8,
+    "comunas": [
+      "TIERRA AMARILLA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "77210950.000000000",
+        "saldo_clp": 142116732.0,
+        "utm": 2107.65,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "87751800.000000000",
+        "saldo_clp": 32952960.0,
+        "utm": 640.0,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "fc101c895299811601ee600e4cb23ad6a2b7e164b9bf28def172493043e7df25",
+        "saldo_clp": 30501508.0,
+        "utm": 452.35,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "78644040.000000000",
+        "saldo_clp": 19163584.0,
+        "utm": 352.0,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "76449600.000000000",
+        "saldo_clp": 18124128.0,
+        "utm": 352.0,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "total_patentes_no_uso": 845,
+    "deuda_total_utm": 41785.7,
+    "monto_total_clp": 2414007343.0,
+    "saldo_pendiente_clp": 1594225336.0,
+    "monto_pagado_clp": 819782007.0,
+    "porcentaje_morosidad": 66.0,
+    "comunas": [
+      "CALBUCO",
+      "FRESIA",
+      "FRUTILLAR",
+      "LLANQUIHUE",
+      "LOS MUERMOS",
+      "PUERTO MONTT"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "f6b1f4ad8b12d5c65e4db82cbcdb1d121a7c641cacd775a08c827ad63448f007",
+        "saldo_clp": 72478509.0,
+        "utm": 1173.38,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "4a2234e2795b34aa6241d51a6d7c9fe874d7e6091c6af8af6286b78dd2dab704",
+        "saldo_clp": 45624484.0,
+        "utm": 676.63,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "96505760.000000000",
+        "saldo_clp": 44966888.0,
+        "utm": 873.33,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "4a2234e2795b34aa6241d51a6d7c9fe874d7e6091c6af8af6286b78dd2dab704",
+        "saldo_clp": 43754956.0,
+        "utm": 676.63,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "6b98d7da1154448c406f79dbfbe49c03b3c3b7cd44308ce7d39feec3402d445f",
+        "saldo_clp": 42466188.0,
+        "utm": 687.5,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_patentes_no_uso": 409,
+    "deuda_total_utm": 31224.1,
+    "monto_total_clp": 1737722181.0,
+    "saldo_pendiente_clp": 1066564134.0,
+    "monto_pagado_clp": 671158047.0,
+    "porcentaje_morosidad": 61.4,
+    "comunas": [
+      "ANCUD",
+      "CASTRO",
+      "CHONCHI",
+      "DALCAHUE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "85055200.000000000",
+        "saldo_clp": 98830400.0,
+        "utm": 1600.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "85055200.000000000",
+        "saldo_clp": 43553600.0,
+        "utm": 800.0,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "85055200.000000000",
+        "saldo_clp": 41191200.0,
+        "utm": 800.0,
+        "ano": "2020"
+      },
+      {
+        "rut_rol": "85055200.000000000",
+        "saldo_clp": 41191200.0,
+        "utm": 800.0,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "85055200.000000000",
+        "saldo_clp": 41191200.0,
+        "utm": 800.0,
+        "ano": "2017"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "total_patentes_no_uso": 40,
+    "deuda_total_utm": 29952.0,
+    "monto_total_clp": 1846918943.0,
+    "saldo_pendiente_clp": 0.0,
+    "monto_pagado_clp": 1846918943.0,
+    "porcentaje_morosidad": 0.0,
+    "comunas": [
+      "DIEGO DE ALMAGRO"
+    ],
+    "top_especuladores_no_uso": []
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_patentes_no_uso": 201,
+    "deuda_total_utm": 25232.6,
+    "monto_total_clp": 1520531162.0,
+    "saldo_pendiente_clp": 606643616.0,
+    "monto_pagado_clp": 913887546.0,
+    "porcentaje_morosidad": 39.9,
+    "comunas": [
+      "CISNES"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "1889c0cb6c8dc9a264794387fd4caaca2d1c8387bebb3ac6e4a318a3b5c9482a",
+        "saldo_clp": 58044202.0,
+        "utm": 897.6,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "1889c0cb6c8dc9a264794387fd4caaca2d1c8387bebb3ac6e4a318a3b5c9482a",
+        "saldo_clp": 55443854.0,
+        "utm": 897.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "ed45a882c4e07529181787ff0d8fa35b4426a8d2af6e2aa52b3aada73e77a839",
+        "saldo_clp": 26556386.0,
+        "utm": 410.67,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "ed45a882c4e07529181787ff0d8fa35b4426a8d2af6e2aa52b3aada73e77a839",
+        "saldo_clp": 25366675.0,
+        "utm": 410.67,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "1889c0cb6c8dc9a264794387fd4caaca2d1c8387bebb3ac6e4a318a3b5c9482a",
+        "saldo_clp": 24433570.0,
+        "utm": 448.8,
+        "ano": "2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "total_patentes_no_uso": 101,
+    "deuda_total_utm": 25010.1,
+    "monto_total_clp": 1535779352.0,
+    "saldo_pendiente_clp": 44437585.0,
+    "monto_pagado_clp": 1491341767.0,
+    "porcentaje_morosidad": 2.9,
+    "comunas": [
+      "HUARA",
+      "PICA",
+      "POZO ALMONTE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "70772100.000000000",
+        "saldo_clp": 29763220.0,
+        "utm": 470.0,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "96845630.000000000",
+        "saldo_clp": 4942944.0,
+        "utm": 96.0,
+        "ano": "2011"
+      },
+      {
+        "rut_rol": "96845630.000000000",
+        "saldo_clp": 4891455.0,
+        "utm": 95.0,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "96845630.000000000",
+        "saldo_clp": 4839966.0,
+        "utm": 94.0,
+        "ano": "2012"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "total_patentes_no_uso": 92,
+    "deuda_total_utm": 18526.3,
+    "monto_total_clp": 1201658998.0,
+    "saldo_pendiente_clp": 1128335227.0,
+    "monto_pagado_clp": 73323771.0,
+    "porcentaje_morosidad": 93.9,
+    "comunas": [
+      "ARICA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "2d7a50c32afb88a635f0bb8728c03deb7c60a772789c695cd036b5e4b5625013",
+        "saldo_clp": 92261321.0,
+        "utm": 1341.3,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "4c40e06cfd4dd0bcce43d1eea2f1d52d480e7f5d1a589ef6598235416891269d",
+        "saldo_clp": 85265446.0,
+        "utm": 1226.1,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "3a6a7955f8d07353f861eee0ebd68746d4267851ef027fa44fd6f30b30621b85",
+        "saldo_clp": 84925817.0,
+        "utm": 1226.1,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "215b2cfda01956317451b82e900394d769c7c116f21a9c22303065c46ee7de4e",
+        "saldo_clp": 76012823.0,
+        "utm": 1107.3,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "94adfd91cd9f7a1e650923347403bc8b10d2d484f7054d6a096a4a5b02c50147",
+        "saldo_clp": 68234720.0,
+        "utm": 992.0,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "total_patentes_no_uso": 125,
+    "deuda_total_utm": 13786.3,
+    "monto_total_clp": 895774977.0,
+    "saldo_pendiente_clp": 735190186.0,
+    "monto_pagado_clp": 160584791.0,
+    "porcentaje_morosidad": 82.1,
+    "comunas": [
+      "ANDACOLLO",
+      "LA SERENA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "99541380.000000000",
+        "saldo_clp": 338900293.0,
+        "utm": 4947.86,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "b44e8b37aaa9398c13812d944a4c3f8fa2c492a135ed7cbec8d8cf551e640cb4",
+        "saldo_clp": 68986985.0,
+        "utm": 992.02,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "6854b39178ffd92b8e2193790bd5cdf4aa5bf93b349983059cda3d5ebfb29d08",
+        "saldo_clp": 48607188.0,
+        "utm": 705.24,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "919160ea170f63358c12f49f7a42d6496bf2d9598bef1c64e865b7be7c40dc28",
+        "saldo_clp": 34701765.0,
+        "utm": 501.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76069280.000000000",
+        "saldo_clp": 18418231.0,
+        "utm": 273.15,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_patentes_no_uso": 118,
+    "deuda_total_utm": 13130.4,
+    "monto_total_clp": 803146714.0,
+    "saldo_pendiente_clp": 650088142.0,
+    "monto_pagado_clp": 153058572.0,
+    "porcentaje_morosidad": 80.9,
+    "comunas": [
+      "MONTE PATRIA",
+      "PUNITAQUI"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "21921ffd80b6da9f291b3add93cb61bb0079f728952ee5198a5e7fed33fc034c",
+        "saldo_clp": 52586526.0,
+        "utm": 762.98,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76223440.000000000",
+        "saldo_clp": 49135463.0,
+        "utm": 715.77,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "322b7589c1aee093035ea256026e99628d51d41a457013f8226815d25d3ebb9d",
+        "saldo_clp": 41614412.0,
+        "utm": 600.8,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "c5c1f9242f35d58b396825b3862e344cb2a91c7ee74722d1a57701ad6a784bc9",
+        "saldo_clp": 41614412.0,
+        "utm": 600.8,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "65faf976fa483333c83b6250e1484e17be85704a8ee0d1805f676a78d401804b",
+        "saldo_clp": 35708078.0,
+        "utm": 513.48,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_patentes_no_uso": 210,
+    "deuda_total_utm": 12927.2,
+    "monto_total_clp": 737733893.0,
+    "saldo_pendiente_clp": 546570135.0,
+    "monto_pagado_clp": 191163758.0,
+    "porcentaje_morosidad": 74.1,
+    "comunas": [
+      "LA LIGUA",
+      "NOGALES",
+      "ZAPALLAR"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "82067200.000000000",
+        "saldo_clp": 23719296.0,
+        "utm": 384.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "89854000.000000000",
+        "saldo_clp": 18124915.0,
+        "utm": 268.8,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "89854000.000000000",
+        "saldo_clp": 17382221.0,
+        "utm": 268.8,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "89854000.000000000",
+        "saldo_clp": 16603507.0,
+        "utm": 268.8,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "89854000.000000000",
+        "saldo_clp": 11738040.0,
+        "utm": 174.08,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "total_patentes_no_uso": 74,
+    "deuda_total_utm": 12125.8,
+    "monto_total_clp": 713155161.0,
+    "saldo_pendiente_clp": 543918725.0,
+    "monto_pagado_clp": 169236436.0,
+    "porcentaje_morosidad": 76.3,
+    "comunas": [
+      "PAREDONES",
+      "PICHILEMU",
+      "PUMANQUE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "96579330.000000000",
+        "saldo_clp": 97817388.0,
+        "utm": 1583.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76098438.000000000",
+        "saldo_clp": 35961909.0,
+        "utm": 533.33,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76098438.000000000",
+        "saldo_clp": 35961909.0,
+        "utm": 533.33,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76098438.000000000",
+        "saldo_clp": 34488318.0,
+        "utm": 533.33,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76098438.000000000",
+        "saldo_clp": 34488318.0,
+        "utm": 533.33,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "117",
+    "cuenca_nombre": "Cuenca Río Pascua",
+    "total_patentes_no_uso": 102,
+    "deuda_total_utm": 10681.5,
+    "monto_total_clp": 580531944.0,
+    "saldo_pendiente_clp": 498009892.0,
+    "monto_pagado_clp": 82522052.0,
+    "porcentaje_morosidad": 85.8,
+    "comunas": [
+      "O'HIGGINS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76848860.000000000",
+        "saldo_clp": 49648783.0,
+        "utm": 964.26,
+        "ano": "2018"
+      },
+      {
+        "rut_rol": "76848860.000000000",
+        "saldo_clp": 24824392.0,
+        "utm": 482.13,
+        "ano": "2016"
+      },
+      {
+        "rut_rol": "76848860.000000000",
+        "saldo_clp": 24824392.0,
+        "utm": 482.13,
+        "ano": "2015"
+      },
+      {
+        "rut_rol": "76848860.000000000",
+        "saldo_clp": 24824392.0,
+        "utm": 482.13,
+        "ano": "2014"
+      },
+      {
+        "rut_rol": "76848860.000000000",
+        "saldo_clp": 24817698.0,
+        "utm": 482.0,
+        "ano": "2017"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "092",
+    "cuenca_nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "total_patentes_no_uso": 48,
+    "deuda_total_utm": 10437.4,
+    "monto_total_clp": 599507467.0,
+    "saldo_pendiente_clp": 599031525.0,
+    "monto_pagado_clp": 475942.0,
+    "porcentaje_morosidad": 99.9,
+    "comunas": [
+      "LEBU"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "9a2d80b54216095374261aa7e040f5e260cb111ee7c969ebaf7081c280a6be0d",
+        "saldo_clp": 68971776.0,
+        "utm": 1022.88,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "9a2d80b54216095374261aa7e040f5e260cb111ee7c969ebaf7081c280a6be0d",
+        "saldo_clp": 66145558.0,
+        "utm": 1022.88,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "9a2d80b54216095374261aa7e040f5e260cb111ee7c969ebaf7081c280a6be0d",
+        "saldo_clp": 63182275.0,
+        "utm": 1022.88,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "9a2d80b54216095374261aa7e040f5e260cb111ee7c969ebaf7081c280a6be0d",
+        "saldo_clp": 28475267.0,
+        "utm": 422.3,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "9a2d80b54216095374261aa7e040f5e260cb111ee7c969ebaf7081c280a6be0d",
+        "saldo_clp": 27843816.0,
+        "utm": 511.44,
+        "ano": "2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "036",
+    "cuenca_nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "total_patentes_no_uso": 66,
+    "deuda_total_utm": 10066.8,
+    "monto_total_clp": 617137608.0,
+    "saldo_pendiente_clp": 107501939.0,
+    "monto_pagado_clp": 509635669.0,
+    "porcentaje_morosidad": 17.4,
+    "comunas": [
+      "HUASCO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "69592360.000000000",
+        "saldo_clp": 6041638.0,
+        "utm": 89.6,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "69592360.000000000",
+        "saldo_clp": 5794074.0,
+        "utm": 89.6,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "69592360.000000000",
+        "saldo_clp": 5534502.0,
+        "utm": 89.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "69592360.000000000",
+        "saldo_clp": 5092238.0,
+        "utm": 75.52,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "69592360.000000000",
+        "saldo_clp": 5092238.0,
+        "utm": 75.52,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "total_patentes_no_uso": 32,
+    "deuda_total_utm": 9937.8,
+    "monto_total_clp": 543734815.0,
+    "saldo_pendiente_clp": 508425044.0,
+    "monto_pagado_clp": 35309771.0,
+    "porcentaje_morosidad": 93.5,
+    "comunas": [
+      "PALENA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76204561.000000000",
+        "saldo_clp": 78662956.0,
+        "utm": 1216.45,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76204561.000000000",
+        "saldo_clp": 75138900.0,
+        "utm": 1216.45,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "76204561.000000000",
+        "saldo_clp": 33113258.0,
+        "utm": 608.23,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "76204561.000000000",
+        "saldo_clp": 31317154.0,
+        "utm": 608.23,
+        "ano": "2020"
+      },
+      {
+        "rut_rol": "76204561.000000000",
+        "saldo_clp": 31317154.0,
+        "utm": 608.23,
+        "ano": "2019"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "total_patentes_no_uso": 141,
+    "deuda_total_utm": 9874.4,
+    "monto_total_clp": 560667443.0,
+    "saldo_pendiente_clp": 394101851.0,
+    "monto_pagado_clp": 166565592.0,
+    "porcentaje_morosidad": 70.3,
+    "comunas": [
+      "LOS VILOS"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "6c6f540794fda689659bb3a24444d3c7c4033bc6076d9f8a0ddfac3f20600ac8",
+        "saldo_clp": 44899305.0,
+        "utm": 648.23,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "78582170.000000000",
+        "saldo_clp": 18536040.0,
+        "utm": 360.0,
+        "ano": "2013"
+      },
+      {
+        "rut_rol": "78582170.000000000",
+        "saldo_clp": 18536040.0,
+        "utm": 360.0,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "78582170.000000000",
+        "saldo_clp": 18536040.0,
+        "utm": 360.0,
+        "ano": "2014"
+      },
+      {
+        "rut_rol": "e893967ba386fe2190bc78bc8c46aac1043455a62a10bcbb874e58f1ec61bfa7",
+        "saldo_clp": 14581685.0,
+        "utm": 283.2,
+        "ano": "2016"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "total_patentes_no_uso": 153,
+    "deuda_total_utm": 7109.2,
+    "monto_total_clp": 434363474.0,
+    "saldo_pendiente_clp": 347018722.0,
+    "monto_pagado_clp": 87344752.0,
+    "porcentaje_morosidad": 79.9,
+    "comunas": [
+      "CAUQUENES",
+      "COBQUECURA",
+      "PELLUHUE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76026933.000000000",
+        "saldo_clp": 29853153.0,
+        "utm": 453.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "00ae9f0c017bcd9e6250fa21592bdd4a138a3c47af6a9c2163c7468ff06de899",
+        "saldo_clp": 23087690.0,
+        "utm": 342.4,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "6bc0b15267faab46c46584649da5991ff4bde64e4f9144a0031f6539850a9f5d",
+        "saldo_clp": 23087690.0,
+        "utm": 342.4,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "00ae9f0c017bcd9e6250fa21592bdd4a138a3c47af6a9c2163c7468ff06de899",
+        "saldo_clp": 22141638.0,
+        "utm": 342.4,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "889ef9f9740ccbab285ce505c214ea611e5bd87f40ff6181dedea2f06f0164a0",
+        "saldo_clp": 20660246.0,
+        "utm": 306.4,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_patentes_no_uso": 39,
+    "deuda_total_utm": 6527.6,
+    "monto_total_clp": 398981274.0,
+    "saldo_pendiente_clp": 36105059.0,
+    "monto_pagado_clp": 362876215.0,
+    "porcentaje_morosidad": 9.0,
+    "comunas": [
+      "ALTO DEL CARMEN",
+      "VALLENAR"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "77044537.000000000",
+        "saldo_clp": 14918774.0,
+        "utm": 259.2,
+        "ano": "2021"
+      },
+      {
+        "rut_rol": "77044537.000000000",
+        "saldo_clp": 14918774.0,
+        "utm": 259.2,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "85306000.000000000",
+        "saldo_clp": 5574861.0,
+        "utm": 102.4,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "81854200.000000000",
+        "saldo_clp": 692650.0,
+        "utm": 10.0,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "total_patentes_no_uso": 20,
+    "deuda_total_utm": 5196.8,
+    "monto_total_clp": 319967103.0,
+    "saldo_pendiente_clp": 105282508.0,
+    "monto_pagado_clp": 214684595.0,
+    "porcentaje_morosidad": 32.9,
+    "comunas": [
+      "PUTRE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "ec81df1b2710cfd61eb9eb92251c96b7c6b628b251de51d0dad27debb4dc8b78",
+        "saldo_clp": 17261824.0,
+        "utm": 256.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "ec81df1b2710cfd61eb9eb92251c96b7c6b628b251de51d0dad27debb4dc8b78",
+        "saldo_clp": 16554496.0,
+        "utm": 256.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "ec81df1b2710cfd61eb9eb92251c96b7c6b628b251de51d0dad27debb4dc8b78",
+        "saldo_clp": 15812864.0,
+        "utm": 256.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "12831ddf0db5300b7e244b579070fdfdfa4de6ef5d85bad4e4acc877be9519fb",
+        "saldo_clp": 10357094.0,
+        "utm": 153.6,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "12831ddf0db5300b7e244b579070fdfdfa4de6ef5d85bad4e4acc877be9519fb",
+        "saldo_clp": 9932698.0,
+        "utm": 153.6,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "total_patentes_no_uso": 108,
+    "deuda_total_utm": 4925.7,
+    "monto_total_clp": 290249571.0,
+    "saldo_pendiente_clp": 263007818.0,
+    "monto_pagado_clp": 27241753.0,
+    "porcentaje_morosidad": 90.6,
+    "comunas": [
+      "CABILDO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "2d1b34f7d6eebe5f106d6af5a7c4cf11b156c1b73e86f6380341837dbbc0bb25",
+        "saldo_clp": 68268232.0,
+        "utm": 990.5,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "b0a464db13d66829914e72aed0cde5fd530887813fa86c4f36c78b6c54446cd6",
+        "saldo_clp": 34701765.0,
+        "utm": 501.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "78511590.000000000",
+        "saldo_clp": 27672512.0,
+        "utm": 448.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "78511590.000000000",
+        "saldo_clp": 12195008.0,
+        "utm": 224.0,
+        "ano": "2022"
+      },
+      {
+        "rut_rol": "654f7d5e09b01d552cc24f3e935021231d310c5fc79ecd0fb96c8bd37ebfec4b",
+        "saldo_clp": 9052865.0,
+        "utm": 146.56,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "010",
+    "cuenca_nombre": "Cuenca Río Lluta",
+    "total_patentes_no_uso": 49,
+    "deuda_total_utm": 4125.0,
+    "monto_total_clp": 221518819.0,
+    "saldo_pendiente_clp": 221249506.0,
+    "monto_pagado_clp": 269313.0,
+    "porcentaje_morosidad": 99.9,
+    "comunas": [
+      "SANTA JUANA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "98c14884ba9a9337390ff062a56ce7cb6d4edaa98d382b608a999068f5999a0e",
+        "saldo_clp": 41371626.0,
+        "utm": 809.13,
+        "ano": "2021"
+      },
+      {
+        "rut_rol": "76017840.000000000",
+        "saldo_clp": 14422521.0,
+        "utm": 282.07,
+        "ano": "2021"
+      },
+      {
+        "rut_rol": "98c14884ba9a9337390ff062a56ce7cb6d4edaa98d382b608a999068f5999a0e",
+        "saldo_clp": 13298662.0,
+        "utm": 260.09,
+        "ano": "2021"
+      },
+      {
+        "rut_rol": "76017840.000000000",
+        "saldo_clp": 8651877.0,
+        "utm": 169.21,
+        "ano": "2021"
+      },
+      {
+        "rut_rol": "76017840.000000000",
+        "saldo_clp": 7262009.0,
+        "utm": 141.04,
+        "ano": "2018"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "total_patentes_no_uso": 55,
+    "deuda_total_utm": 3490.6,
+    "monto_total_clp": 211345893.0,
+    "saldo_pendiente_clp": 191072237.0,
+    "monto_pagado_clp": 20273656.0,
+    "porcentaje_morosidad": 90.4,
+    "comunas": [
+      "CORONEL",
+      "SAN PEDRO DE LA PAZ"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "a7d6049bfd38745014d2e115d334ac9754fe7da308b02b6308515f6d351ab794",
+        "saldo_clp": 40343061.0,
+        "utm": 627.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "91869000.000000000",
+        "saldo_clp": 34523648.0,
+        "utm": 512.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "91869000.000000000",
+        "saldo_clp": 33108992.0,
+        "utm": 512.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "96679660.000000000",
+        "saldo_clp": 8021940.0,
+        "utm": 129.87,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "96679660.000000000",
+        "saldo_clp": 5855701.0,
+        "utm": 94.8,
+        "ano": "2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "Cuenca Río Petorca",
+    "total_patentes_no_uso": 103,
+    "deuda_total_utm": 3296.6,
+    "monto_total_clp": 185433564.0,
+    "saldo_pendiente_clp": 170026068.0,
+    "monto_pagado_clp": 15407496.0,
+    "porcentaje_morosidad": 91.7,
+    "comunas": [
+      "PETORCA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76018425.000000000",
+        "saldo_clp": 13291604.0,
+        "utm": 197.12,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "76018425.000000000",
+        "saldo_clp": 12746962.0,
+        "utm": 197.12,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "76018425.000000000",
+        "saldo_clp": 12175905.0,
+        "utm": 197.12,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "77009340.000000000",
+        "saldo_clp": 7906432.0,
+        "utm": 128.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "4045b66cc9190219ce73a4d9efd64c33155b5de458f68295695cbf4f8ad22a7c",
+        "saldo_clp": 4315456.0,
+        "utm": 64.0,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_patentes_no_uso": 41,
+    "deuda_total_utm": 3007.3,
+    "monto_total_clp": 187650781.0,
+    "saldo_pendiente_clp": 185585841.0,
+    "monto_pagado_clp": 2064940.0,
+    "porcentaje_morosidad": 98.9,
+    "comunas": [
+      "ILLAPEL",
+      "SALAMANCA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76333027.000000000",
+        "saldo_clp": 66929058.0,
+        "utm": 971.07,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "054e6e155a6705c083e96ce37851a3afeab40a499f83d3e74e54f3db36b052f6",
+        "saldo_clp": 34701765.0,
+        "utm": 501.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "665c5aec2ad42c8ec42eec7152a0a7dca7f2fe107852f200146527485529af35",
+        "saldo_clp": 4272301.0,
+        "utm": 63.36,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "79791070.000000000",
+        "saldo_clp": 4119120.0,
+        "utm": 80.0,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "79791070.000000000",
+        "saldo_clp": 4119120.0,
+        "utm": 80.0,
+        "ano": "2013"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "072",
+    "cuenca_nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "total_patentes_no_uso": 40,
+    "deuda_total_utm": 2910.8,
+    "monto_total_clp": 161780820.0,
+    "saldo_pendiente_clp": 118078354.0,
+    "monto_pagado_clp": 43702466.0,
+    "porcentaje_morosidad": 73.0,
+    "comunas": [
+      "PENCAHUE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "78170330.000000000",
+        "saldo_clp": 35288576.0,
+        "utm": 512.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "96595680.000000000",
+        "saldo_clp": 7486640.0,
+        "utm": 140.0,
+        "ano": "2019"
+      },
+      {
+        "rut_rol": "d395af7e80c434d88eded1916e343b51766b85ba52806aacc3f82bd7c8c0b38d",
+        "saldo_clp": 6178680.0,
+        "utm": 120.0,
+        "ano": "2012"
+      },
+      {
+        "rut_rol": "d395af7e80c434d88eded1916e343b51766b85ba52806aacc3f82bd7c8c0b38d",
+        "saldo_clp": 6178680.0,
+        "utm": 120.0,
+        "ano": "2013"
+      },
+      {
+        "rut_rol": "d395af7e80c434d88eded1916e343b51766b85ba52806aacc3f82bd7c8c0b38d",
+        "saldo_clp": 6178680.0,
+        "utm": 120.0,
+        "ano": "2014"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "total_patentes_no_uso": 44,
+    "deuda_total_utm": 2223.7,
+    "monto_total_clp": 132628707.0,
+    "saldo_pendiente_clp": 0.0,
+    "monto_pagado_clp": 132628707.0,
+    "porcentaje_morosidad": 0.0,
+    "comunas": [
+      "TORRES DEL PAINE"
+    ],
+    "top_especuladores_no_uso": []
+  },
+  {
+    "cuenca_codigo": "035",
+    "cuenca_nombre": "Cuencas Costeras entre Río Copiapó y Quebrada Totoral",
+    "total_patentes_no_uso": 14,
+    "deuda_total_utm": 1741.5,
+    "monto_total_clp": 106026141.0,
+    "saldo_pendiente_clp": 106026141.0,
+    "monto_pagado_clp": 0.0,
+    "porcentaje_morosidad": 100.0,
+    "comunas": [
+      "CALDERA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "83e10a476c18940bf097fecf6599525b4990ed9b2c338e8f1ba2f6a0725ab6c6",
+        "saldo_clp": 20280383.0,
+        "utm": 295.43,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "3c2c63352601652bf813ea2ec05e2ecdbb508f9450f14a884b5b45b63c7982ce",
+        "saldo_clp": 15863347.0,
+        "utm": 235.26,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "3c2c63352601652bf813ea2ec05e2ecdbb508f9450f14a884b5b45b63c7982ce",
+        "saldo_clp": 15213323.0,
+        "utm": 235.26,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "3c2c63352601652bf813ea2ec05e2ecdbb508f9450f14a884b5b45b63c7982ce",
+        "saldo_clp": 14838789.0,
+        "utm": 235.26,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "dc5f1a2f0139cf79d5e09f8708fd6a4652d11b9fc36f11c57e541c7099ca5b1b",
+        "saldo_clp": 7743946.0,
+        "utm": 150.4,
+        "ano": "2013"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "total_patentes_no_uso": 17,
+    "deuda_total_utm": 1080.4,
+    "monto_total_clp": 66839956.0,
+    "saldo_pendiente_clp": 7563738.0,
+    "monto_pagado_clp": 59276218.0,
+    "porcentaje_morosidad": 11.3,
+    "comunas": [
+      "TALTAL"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76308984.000000000",
+        "saldo_clp": 7563738.0,
+        "utm": 109.2,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "Cuenca Río Cisnes",
+    "total_patentes_no_uso": 23,
+    "deuda_total_utm": 973.0,
+    "monto_total_clp": 57773909.0,
+    "saldo_pendiente_clp": 39520121.0,
+    "monto_pagado_clp": 18253788.0,
+    "porcentaje_morosidad": 68.4,
+    "comunas": [
+      "LAGO VERDE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "95438000.000000000",
+        "saldo_clp": 10788640.0,
+        "utm": 160.0,
+        "ano": "2025"
+      },
+      {
+        "rut_rol": "95438000.000000000",
+        "saldo_clp": 10346560.0,
+        "utm": 160.0,
+        "ano": "2024"
+      },
+      {
+        "rut_rol": "95438000.000000000",
+        "saldo_clp": 9883040.0,
+        "utm": 160.0,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "6c503cc6b1577731c3f69d9f810946d768a91f62ce87c37c3ce16143a2d50230",
+        "saldo_clp": 2446052.0,
+        "utm": 39.6,
+        "ano": "2023"
+      },
+      {
+        "rut_rol": "6c503cc6b1577731c3f69d9f810946d768a91f62ce87c37c3ce16143a2d50230",
+        "saldo_clp": 1280387.0,
+        "utm": 19.8,
+        "ano": "2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_patentes_no_uso": 1,
+    "deuda_total_utm": 455.1,
+    "monto_total_clp": 31522502.0,
+    "saldo_pendiente_clp": 31522502.0,
+    "monto_pagado_clp": 0.0,
+    "porcentaje_morosidad": 100.0,
+    "comunas": [
+      "IQUIQUE"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "78223950.000000000",
+        "saldo_clp": 31522502.0,
+        "utm": 455.1,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "total_patentes_no_uso": 5,
+    "deuda_total_utm": 330.8,
+    "monto_total_clp": 22015821.0,
+    "saldo_pendiente_clp": 22015821.0,
+    "monto_pagado_clp": 0.0,
+    "porcentaje_morosidad": 100.0,
+    "comunas": [
+      "FLORIDA",
+      "TALCAHUANO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "76465515.000000000",
+        "saldo_clp": 9103417.0,
+        "utm": 140.5,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76543425.000000000",
+        "saldo_clp": 4846665.0,
+        "utm": 70.32,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "6a7ae56482c31d03878c48b5b5798658638237c848c6daf04e312b47f7905e21",
+        "saldo_clp": 3461525.0,
+        "utm": 50.43,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "8a799eaa0e8c9e0940b6ac407ad2b3426cc6bbb8e2e94201bd65bc896bfeddaf",
+        "saldo_clp": 2539976.0,
+        "utm": 37.0,
+        "ano": "nan"
+      },
+      {
+        "rut_rol": "76004890.000000000",
+        "saldo_clp": 2064238.0,
+        "utm": 32.5,
+        "ano": "nan"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "total_patentes_no_uso": 5,
+    "deuda_total_utm": 317.5,
+    "monto_total_clp": 19579116.0,
+    "saldo_pendiente_clp": 5352514.0,
+    "monto_pagado_clp": 14226602.0,
+    "porcentaje_morosidad": 27.3,
+    "comunas": [
+      "SAN GREGORIO"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "79927830.000000000",
+        "saldo_clp": 5352514.0,
+        "utm": 79.38,
+        "ano": "2025"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_patentes_no_uso": 2,
+    "deuda_total_utm": 240.0,
+    "monto_total_clp": 15102800.0,
+    "saldo_pendiente_clp": 4119120.0,
+    "monto_pagado_clp": 10983680.0,
+    "porcentaje_morosidad": 27.3,
+    "comunas": [
+      "TOCOPILLA"
+    ],
+    "top_especuladores_no_uso": [
+      {
+        "rut_rol": "45909af000d51decdfc638fdb76450fc5d37662acf3d56e21efc95cd27523313",
+        "saldo_clp": 4119120.0,
+        "utm": 80.0,
+        "ano": "2019"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "127",
+    "cuenca_nombre": "Cuenca Isla Navarino y Canal Beagle",
+    "total_patentes_no_uso": 5,
+    "deuda_total_utm": 102.6,
+    "monto_total_clp": 6341163.0,
+    "saldo_pendiente_clp": 0.0,
+    "monto_pagado_clp": 6341163.0,
+    "porcentaje_morosidad": 0.0,
+    "comunas": [
+      "CABO DE HORNOS"
+    ],
+    "top_especuladores_no_uso": []
+  }
+]

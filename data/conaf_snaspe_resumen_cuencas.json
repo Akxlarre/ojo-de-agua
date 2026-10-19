@@ -1,0 +1,1262 @@
+[
+  {
+    "cuenca_codigo": "123",
+    "cuenca_nombre": "Cuencas Costeras Seno Unión a Estrecho de Magallanes",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 5470758.3,
+    "superficie_total_km2": 54707.58,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Kawesqar",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 2842329.1,
+        "decreto": "N6 26012018 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Kaweskar",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2628429.2,
+        "decreto": "N6 26.01.2018 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "119",
+    "cuenca_nombre": "Cuenca Archipiélago de Guayaneco",
+    "total_areas_protegidas": 4,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 4833000.0,
+    "superficie_total_km2": 48330.0,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Laguna San Rafael",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1742000.0,
+        "decreto": "N737 30111983 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Laguna San Rafael",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1742000.0,
+        "decreto": "N737 30111983 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Katalalixar",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 674500.0,
+        "decreto": "N780 21121983 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Katalalixar",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 674500.0,
+        "decreto": "N780 21121983 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 3,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 3070587.3,
+    "superficie_total_km2": 30705.87,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Alberto D Agostini",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1460000.0,
+        "decreto": "N136 24041985 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Alberto D Agostini",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1460000.0,
+        "decreto": "N136 24041985 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Yendegaia",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 150587.3,
+        "decreto": "N4 27012016 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "120",
+    "cuenca_nombre": "Cuencas Costeras e Islas Seno Andrew",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 2920000.0,
+    "superficie_total_km2": 29200.0,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Bernardo OHiggins",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1460000.0,
+        "decreto": "N392 14061989 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Bernardo OHiggins",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 1460000.0,
+        "decreto": "N392 14061989 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "114",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aysén y Río Baker",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 2195950.0,
+    "superficie_total_km2": 21959.5,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Las Guaitecas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 1097975.0,
+        "decreto": "N420 13071983 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Las Guaitecas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 1097975.0,
+        "decreto": "N420 13071983 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "total_areas_protegidas": 4,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 567650.71,
+    "superficie_total_km2": 5676.51,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Corcovado",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 400010.93,
+        "decreto": "N4 06012018 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Melimoyu",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 105499.78,
+        "decreto": "N5 26012018 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Lago Palena",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 49415.0,
+        "decreto": "N159 26021965 MA"
+      },
+      {
+        "nombre": "Reserva Nacional Lago Rosselot",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 12725.0,
+        "decreto": "N640 13101983 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 414457.0,
+    "superficie_total_km2": 4144.57,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Pumalin",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 402392.0,
+        "decreto": "N28 28022018 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Futaleufu",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 12065.0,
+        "decreto": "N602 08091998 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 358312.0,
+    "superficie_total_km2": 3583.12,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Las Vicunas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 209131.0,
+        "decreto": "N29 080383 MA"
+      },
+      {
+        "nombre": "Parque Nacional Lauca",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 137883.0,
+        "decreto": "N29 080383 MA"
+      },
+      {
+        "nombre": "Monumento Natural Salar De Surire",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 11298.0,
+        "decreto": "N29 080383 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 304527.75,
+    "superficie_total_km2": 3045.28,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Patagonia",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 304527.75,
+        "decreto": "N98 25102018 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "Cuenca Río Petrohué",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 287540.0,
+    "superficie_total_km2": 2875.4,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Vicente Perez Rosales",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 253568.0,
+        "decreto": "N369 07031994 - N92 22082017 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Llanquihue",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 33972.0,
+        "decreto": "N883 19101988 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "028",
+    "cuenca_nombre": "Cuenca Salar de Pajonales",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 268670.61,
+    "superficie_total_km2": 2686.71,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Llullaillaco",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 268670.61,
+        "decreto": "N856 030895 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 260337.05,
+    "superficie_total_km2": 2603.37,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Isla Magdalena",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 249712.05,
+        "decreto": "N101 27092017 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Isla Guamblin",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 10625.0,
+        "decreto": "N321 01061967 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "111",
+    "cuenca_nombre": "Cuenca Río Cisnes",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 197719.0,
+    "superficie_total_km2": 1977.19,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Queulat",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 154093.0,
+        "decreto": "N640 13101983 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Lago Carlota",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 27110.0,
+        "decreto": "N204 23061970 MA - N391 08061965 MA - N329 01061967 MA"
+      },
+      {
+        "nombre": "Reserva Nacional Lago Las Torres",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 16516.0,
+        "decreto": "N632 29091982 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_areas_protegidas": 6,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 3,
+    "monumentos_naturales": 2,
+    "superficie_total_ha": 189986.5,
+    "superficie_total_km2": 1899.87,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Cerro Castillo",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 143502.0,
+        "decreto": "N88 27072017 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Rio Simpson",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 41620.5,
+        "decreto": "N1060 01121999 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Trapananda",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2305.0,
+        "decreto": "N357 27081992 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Coihaique",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2150.0,
+        "decreto": "N112 17041980 MBN"
+      },
+      {
+        "nombre": "Monumento Natural Cinco Hermanas",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 228.0,
+        "decreto": "N160 13101982 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 174744.0,
+    "superficie_total_km2": 1747.44,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Volcan Isluga",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 174744.0,
+        "decreto": "N151 261185 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 170974.0,
+    "superficie_total_km2": 1709.74,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Torres Del Paine",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 170974.0,
+        "decreto": "N315 05111979 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_areas_protegidas": 4,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 158454.0,
+    "superficie_total_km2": 1584.54,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Villarrica",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 61352.0,
+        "decreto": "N8129 12081929 MTC"
+      },
+      {
+        "nombre": "Parque Nacional Villarrica",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 53158.0,
+        "decreto": "N2236 28111940 MTC - N2789 29051931 - N398 30061983 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Alto Bio Bio",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 31444.0,
+        "decreto": "N1935 06111912"
+      },
+      {
+        "nombre": "Parque Nacional Huerquehue",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 12500.0,
+        "decreto": "N82 02031985 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_areas_protegidas": 9,
+    "parques_nacionales": 3,
+    "reservas_nacionales": 5,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 142325.81,
+    "superficie_total_km2": 1423.26,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Nuble",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 55948.0,
+        "decreto": "N384 241178 MA"
+      },
+      {
+        "nombre": "Reserva Nacional Altos De Pemehue",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 18855.71,
+        "decreto": "N80 17082009 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Malleco",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 16438.0,
+        "decreto": "N1540 30091907 RE - N28 230185 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Nalcas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 13775.0,
+        "decreto": "N604 06101967 MA"
+      },
+      {
+        "nombre": "Reserva Nacional Ralco",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 12421.2,
+        "decreto": "N249 190489 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 128763.2,
+    "superficie_total_km2": 1287.63,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Pampa Del Tamarugal",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 128763.2,
+        "decreto": "N207 181287 - N310 260994 MA - N59 07062013 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "020",
+    "cuenca_nombre": "Cuenca Altiplánica Salar de Huasco",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 110049.47,
+    "superficie_total_km2": 1100.49,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Salar del Huasco",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 110049.47,
+        "decreto": "N 66 01 03 2023 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 102521.7,
+    "superficie_total_km2": 1025.22,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Puyehue",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 102521.7,
+        "decreto": "N145 21122017 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 91148.78,
+    "superficie_total_km2": 911.49,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Glaciares de Santiago",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 75114.63,
+        "decreto": "N25 02-05-2023"
+      },
+      {
+        "nombre": "Parque Nacional Rio Clarillo",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 13134.15,
+        "decreto": "N30 17102020 MBN"
+      },
+      {
+        "nombre": "Monumento Natural El Morado",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 2900.0,
+        "decreto": "N162 199774 MA - N121 04122017"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_areas_protegidas": 4,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 84691.3,
+    "superficie_total_km2": 846.91,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Conguillio",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 60832.8,
+        "decreto": "N131 15041987 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Malalcahuello",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 13882.0,
+        "decreto": "N131 15041987 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional China Muerta",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 9887.0,
+        "decreto": "N330 28061968 MA"
+      },
+      {
+        "nombre": "Monumento Natural Cerro Nielol",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 89.5,
+        "decreto": "N617 03121987 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "025",
+    "cuenca_nombre": "Cuencas Altiplánicas Vertiente Pacífico (Tara, Quisquiro)",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 73986.5,
+    "superficie_total_km2": 739.87,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Los Flamencos",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 73986.5,
+        "decreto": "N50 020490 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "Cuenca Río Puelo",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 66195.78,
+    "superficie_total_km2": 661.96,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Hornopiren",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 66195.78,
+        "decreto": "N2 15012018 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "127",
+    "cuenca_nombre": "Cuenca Isla Navarino y Canal Beagle",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 63093.0,
+    "superficie_total_km2": 630.93,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Cabo De Hornos",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 63093.0,
+        "decreto": "N995 26041945 MT"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 59081.87,
+    "superficie_total_km2": 590.82,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Nevado Tres Cruces",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 59081.87,
+        "decreto": "N947 280794 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 57108.4,
+    "superficie_total_km2": 571.08,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Desierto Florido",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 57108.4,
+        "decreto": "N12 08-03-2023 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "036",
+    "cuenca_nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 45708.0,
+    "superficie_total_km2": 457.08,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Llanos De Challe",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 45708.0,
+        "decreto": "N946 290794 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "031",
+    "cuenca_nombre": "Cuenca Quebrada Pan de Azúcar",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 43754.0,
+    "superficie_total_km2": 437.54,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Pan De Azucar",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 43754.0,
+        "decreto": "N527 071085 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 42576.42,
+    "superficie_total_km2": 425.76,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Chiloe",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 42567.78,
+        "decreto": "N368 27122000 MBN"
+      },
+      {
+        "nombre": "Monumento Natural Islote de Punihuil",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 8.64,
+        "decreto": "N130 29091999 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 39255.0,
+    "superficie_total_km2": 392.55,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Alerce Andino",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 39255.0,
+        "decreto": "N735 17111983 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 38582.0,
+    "superficie_total_km2": 385.82,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Rio Los Cipreses",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 38582.0,
+        "decreto": "N127 171085 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 31940.16,
+    "superficie_total_km2": 319.4,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Laguna Parrillar",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 18414.0,
+        "decreto": "N245 22041977 MA - N423 220682 MBN - N19 11031993 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Magallanes",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 13500.0,
+        "decreto": "N2444 23111939 MT"
+      },
+      {
+        "nombre": "Monumento Natural Canquen Colorado",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 26.16,
+        "decreto": "N41 04102017 MMA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "102",
+    "cuenca_nombre": "Cuencas Costeras entre Río Valdivia y Río Bueno",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 24694.21,
+    "superficie_total_km2": 246.94,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Alerce Costero",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 24694.21,
+        "decreto": "N9 07052010 MBN - N60 07062013 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 18175.0,
+    "superficie_total_km2": 181.75,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Rio Blanco",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 10175.0,
+        "decreto": "N871 141157 MA - N66 100277 MTC"
+      },
+      {
+        "nombre": "Parque Nacional La Campana",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 8000.0,
+        "decreto": "N228 140685 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_areas_protegidas": 4,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 2,
+    "superficie_total_ha": 17460.72,
+    "superficie_total_km2": 174.61,
+    "unidades_destacadas": [
+      {
+        "nombre": "Monumento Natural Paposo Norte",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 7532.56,
+        "decreto": "N7 030214 MMA"
+      },
+      {
+        "nombre": "Parque Nacional Morro Moreno",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 7313.89,
+        "decreto": "N5 28012010 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional La Chimba",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2583.0,
+        "decreto": "N71 120588 MA"
+      },
+      {
+        "nombre": "Monumento Natural La Portada",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 31.27,
+        "decreto": "N51 030490 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "056",
+    "cuenca_nombre": "Cuencas Islas del Pacífico (Rapa Nui, Juan Fernández)",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 2,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 16720.85,
+    "superficie_total_km2": 167.21,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Archipielago Juan Fernandez",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 9570.55,
+        "decreto": "N606 160889 MBN"
+      },
+      {
+        "nombre": "Parque Nacional Rapa Nui",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 7150.3,
+        "decreto": "N16 2020 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 11325.71,
+    "superficie_total_km2": 113.26,
+    "unidades_destacadas": [
+      {
+        "nombre": "Monumento Natural Quebrada De Cardones",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 11325.71,
+        "decreto": "N64 010709 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 10087.0,
+    "superficie_total_km2": 100.87,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Fray Jorge",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 9959.0,
+        "decreto": "N867 301281 MBN"
+      },
+      {
+        "nombre": "Monumento Natural Pichasca",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 128.0,
+        "decreto": "N123 171085 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 9093.8,
+    "superficie_total_km2": 90.94,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Lago Penuelas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 9093.8,
+        "decreto": "N859 040652 MTC - N284 200870 MA - N7 100185 MBN - N133 280889 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 7536.5,
+    "superficie_total_km2": 75.36,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Mocho Choshuenco",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 7536.5,
+        "decreto": "N55 02031994 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 5864.58,
+    "superficie_total_km2": 58.65,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Radal Siete Tazas",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 4138.24,
+        "decreto": "N15 27032008 MNB"
+      },
+      {
+        "nombre": "Reserva Nacional Radal Siete Tazas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 1009.34,
+        "decreto": "N89 200396 MBN - N15 27032008 MNB"
+      },
+      {
+        "nombre": "Reserva Nacional Los Bellotos Del Melado",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 717.0,
+        "decreto": "N18 200195 MA - N43 19122016 MMA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "total_areas_protegidas": 3,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 2,
+    "superficie_total_ha": 5152.0,
+    "superficie_total_km2": 51.52,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Pali-Aike",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 5030.0,
+        "decreto": "N900 21071994 MBN"
+      },
+      {
+        "nombre": "Monumento Natural Los Pinguinos",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 97.0,
+        "decreto": "N160 13101982 MA"
+      },
+      {
+        "nombre": "Monumento Natural Laguna De Los Cisnes",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 25.0,
+        "decreto": "N160 13101982 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 4229.0,
+    "superficie_total_km2": 42.29,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Las Chinchillas",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 4229.0,
+        "decreto": "N153 301183 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 1,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 3036.9,
+    "superficie_total_km2": 30.37,
+    "unidades_destacadas": [
+      {
+        "nombre": "Parque Nacional Nonguen",
+        "categoria": "Parque Nacional",
+        "superficie_ha": 3036.9,
+        "decreto": "N7 05042021 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "092",
+    "cuenca_nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 2181.66,
+    "superficie_total_km2": 21.82,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Isla Mocha",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2181.66,
+        "decreto": "N172 30122010 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 2022.8,
+    "superficie_total_km2": 20.23,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Los Huemules Del Niblinto",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 2022.8,
+        "decreto": "N32 230299 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 859.3,
+    "superficie_total_km2": 8.59,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Pinguino De Humbolt",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 859.3,
+        "decreto": "N4 030190 MM"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 604.0,
+    "superficie_total_km2": 6.04,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Laguna De Torca",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 604.0,
+        "decreto": "N128 17101985 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "058",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maipo y Río Rapel",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 1,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 520.37,
+    "superficie_total_km2": 5.2,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional El Yali",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 520.37,
+        "decreto": "N41 230596 MA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "total_areas_protegidas": 2,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 2,
+    "monumentos_naturales": 0,
+    "superficie_total_ha": 234.06,
+    "superficie_total_km2": 2.34,
+    "unidades_destacadas": [
+      {
+        "nombre": "Reserva Nacional Federico Albert",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 145.0,
+        "decreto": "N257 250581 MBN"
+      },
+      {
+        "nombre": "Reserva Nacional Los Ruiles",
+        "categoria": "Reserva Nacional",
+        "superficie_ha": 89.06,
+        "decreto": "N94 130782 MA - N102 29092017 MBN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 10.8,
+    "superficie_total_km2": 0.11,
+    "unidades_destacadas": [
+      {
+        "nombre": "Monumento Natural Picaflor de Arica",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 10.8,
+        "decreto": "N91 25102018 MMA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_areas_protegidas": 1,
+    "parques_nacionales": 0,
+    "reservas_nacionales": 0,
+    "monumentos_naturales": 1,
+    "superficie_total_ha": 4.5,
+    "superficie_total_km2": 0.04,
+    "unidades_destacadas": [
+      {
+        "nombre": "Monumento Natural Isla de Cachagua",
+        "categoria": "Monumento Natural",
+        "superficie_ha": 4.5,
+        "decreto": "N89 270689 MA"
+      }
+    ]
+  }
+]

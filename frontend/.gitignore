@@ -1,0 +1,44 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Entornos y credenciales
+.env
+.env.*
+!.env.example
+# SEC-T03: environment.prod.ts si contiene claves reales hardcodeadas.
+# Usa variables de entorno en CI/CD en su lugar (ver src/environments/environment.prod.ts).
+# environment.prod.ts  ← descomentar si hardcodeas claves aquí
+
+# IDEs y Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Agentes de IA e Indexed (Koa Blueprint)
+.mcp.json
+.claude/logs/
+.claude/temp/
+.gemini/
+indices/
+
+# Contexto privado del agente (dominio, sesión, decisiones)
+context/
+
+# Error-Driven Learning — mapa de calor local (compartir es opt-in vía npm run koa:share-errors)
+error-value.json
+
+# Playwright E2E
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

@@ -1,0 +1,81 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "node scripts/error-monitor.js ng serve",
+    "build": "node scripts/error-monitor.js ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test",
+    "start:raw": "ng serve",
+    "build:raw": "ng build",
+    "test:watch": "ng test --watch",
+    "test:ci": "ng test --watch=false --reporter=verbose",
+    "test:coverage": "ng test --watch=false --coverage",
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop",
+    "supabase:reset": "supabase db reset",
+    "supabase:diff": "supabase db diff --use-migra",
+    "supabase:types": "supabase gen types typescript --local > src/app/core/models/supabase.types.ts",
+    "claude:review": "claude -p \"Revisa el código de esta sesión y sugiere mejoras de arquitectura\" --allowedTools Read,Glob,Grep",
+    "claude:sync": "claude -p \"Ejecuta /sync-indices para actualizar los índices del proyecto\" --allowedTools Read,Edit,Glob,Grep",
+    "claude:fix": "claude -p \"Ejecuta ng lint, identifica los errores y corrígelos\" --allowedTools Read,Edit,Bash",
+    "claude:tdd": "claude -p \"Ejecuta las pruebas unitarias (npm run test:ci). Si fallan, auto-corrige la lógica hasta que Vitest pase en verde.\" --allowedTools Read,Edit,Bash",
+    "claude:test-hooks": "node --test .claude/tests/*.test.js",
+    "claude:commit": "claude -p \"Revisa los cambios no commiteados con git diff y git status. Agrúpalos en commits atómicos con formato Conventional Commits según .claude/rules/gitflow.md. Ejecuta los commits.\" --allowedTools Bash",
+    "claude:branch": "claude -p \"Crea una feature branch siguiendo las convenciones del proyecto (feature/, fix/, chore/, refactor/). Si el propósito no está claro, pregunta antes de crearla.\" --allowedTools Bash",
+    "lint:arch": "node scripts/lint-arch-wrapper.js",
+    "indices:sync": "node scripts/indices-sync.js",
+    "koa:errors": "node scripts/error-value-manager.js --list",
+    "koa:errors:top": "node scripts/error-value-manager.js --top 10"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "overrides": [
+      {
+        "files": "*.html",
+        "options": {
+          "parser": "angular"
+        }
+      }
+    ]
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^20.3.34",
+    "@angular/common": "^20.3.0",
+    "@angular/compiler": "^20.3.0",
+    "@angular/core": "^20.3.0",
+    "@angular/forms": "^20.3.0",
+    "@angular/platform-browser": "^20.3.0",
+    "@angular/router": "^20.3.0",
+    "@primeng/themes": "^20.4.0",
+    "@supabase/supabase-js": "^2.118.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "gsap": "^3.15.0",
+    "lucide-angular": "^1.0.0",
+    "postcss": "^8.5.31",
+    "primeng": "^20.4.0",
+    "rxjs": "~7.8.0",
+    "tailwindcss": "^4.3.3",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@analogjs/vitest-angular": "^2.8.1",
+    "@angular/build": "^20.3.3",
+    "@angular/cli": "^20.3.3",
+    "@angular/compiler-cli": "^20.3.0",
+    "@types/jasmine": "~5.1.0",
+    "jasmine-core": "~5.9.0",
+    "jsdom": "^29.1.1",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "typescript": "~5.9.2",
+    "vitest": "^5.0.5"
+  }
+}

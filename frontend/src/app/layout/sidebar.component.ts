@@ -1,0 +1,125 @@
+import {
+  Component,
+  ChangeDetectionStrategy,
+  inject,
+  viewChild,
+  ElementRef,
+  afterNextRender,
+} from "@angular/core";
+import { RouterLink, RouterLinkActive } from "@angular/router";
+
+import { AuthFacade } from "@core/facades/auth.facade";
+import { ThemeService } from "@core/services/ui/theme.service";
+import { LayoutService } from "@core/services/ui/layout.service";
+import { MenuConfigService } from "@core/services/auth/menu-config.service";
+import { GsapAnimationsService } from "@core/services/ui/gsap-animations.service";
+import { Button } from "primeng/button";
+import { Avatar } from "primeng/avatar";
+import { IconComponent } from "@shared/components/icon/icon.component";
+
+/**
+ * SidebarComponent — navegación lateral principal.
+ *
+ * Smart component: inyecta AuthFacade, ThemeService, LayoutService y MenuConfigService.
+ * Los nav items se leen desde MenuConfigService — edita ese servicio para añadir rutas.
+ *
+ * GSAP: addPillHovers() se aplica en afterNextRender para feedback de hover/press.
+ */
+@Component({
+  selector: "app-sidebar",
+  standalone: true,
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [RouterLink, RouterLinkActive, Button, Avatar, IconComponent],
+  template: `
+    <nav
+      #sidebarEl
+      class="flex h-full w-[240px] flex-col border-r border-border-subtle bg-surface py-4 shadow-[var(--shadow-layout-sidebar)]"
+      aria-label="Navegación principal"
+    >
+      <!-- Brand -->
+      <div class="px-5 pb-6 pt-2">
+        <!-- TODO: Replace appName with your project name -->
+        <span class="font-display text-lg font-bold text-brand">{{
+          appName
+        }}</span>
+      </div>
+
+      <!-- Nav items -->
+      <div class="m-0 flex flex-1 flex-col gap-4 px-3 overflow-y-auto">
+        @for (group of menuConfig.menuItems(); track group.group) {
+          <div>
+            @if (group.group) {
+              <div class="px-4 py-1 text-xs font-semibold uppercase tracking-wider text-text-muted">{{ group.group }}</div>
+            }
+            <ul class="m-0 flex flex-col gap-1 list-none p-0" role="list">
+              @for (item of group.items; track item.routerLink) {
+                <li>
+                  <a
+                    [routerLink]="item.routerLink"
+                    routerLinkActive="!bg-brand-muted !text-brand"
+                    class="flex items-center gap-3 rounded-md px-4 py-2.5 text-sm font-medium text-text-secondary no-underline transition-[var(--transition-color)] hover:bg-brand-muted hover:text-brand"
+                    [attr.aria-label]="item.label"
+                    [attr.data-llm-nav]="item.routerLink"
+                  >
+                    <app-icon [name]="item.icon" [size]="18" />
+                    <span>{{ item.label }}</span>
+                  </a>
+                </li>
+              }
+            </ul>
+          </div>
+        }
+      </div>
+
+      <!-- Footer: theme toggle + usuario -->
+      <div class="flex items-center gap-2 border-t border-border-subtle p-4">
+        <p-button
+          [text]="true"
+          [rounded]="true"
+          severity="secondary"
+          size="small"
+          [icon]="theme.darkMode() ? 'pi pi-sun' : 'pi pi-moon'"
+          [ariaLabel]="
+            theme.darkMode() ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro'
+          "
+          data-llm-action="toggle-color-mode"
+          (onClick)="theme.cycleColorMode($event)"
+        />
+
+        @if (auth.currentUser(); as user) {
+          <div class="flex flex-1 items-center gap-2 min-w-0">
+            <p-avatar [label]="user.initials" shape="circle" size="normal" />
+            <div class="flex flex-col min-w-0">
+              <span class="truncate text-sm font-medium text-text-primary">{{
+                user.name
+              }}</span>
+              <span class="whitespace-nowrap text-xs text-text-muted">{{
+                user.role
+              }}</span>
+            </div>
+          </div>
+        }
+      </div>
+    </nav>
+  `,
+  styles: [],
+})
+export class SidebarComponent {
+  /** TODO: Replace with your app name or read from environment */
+  protected readonly appName = "Mi App";
+
+  protected readonly auth = inject(AuthFacade);
+  protected readonly theme = inject(ThemeService);
+  protected readonly layout = inject(LayoutService);
+  protected readonly menuConfig = inject(MenuConfigService);
+  private readonly gsap = inject(GsapAnimationsService);
+
+  private readonly sidebarEl = viewChild<ElementRef<HTMLElement>>("sidebarEl");
+
+  constructor() {
+    afterNextRender(() => {
+      const el = this.sidebarEl()?.nativeElement;
+      if (el) this.gsap.addPillHovers(el);
+    });
+  }
+}

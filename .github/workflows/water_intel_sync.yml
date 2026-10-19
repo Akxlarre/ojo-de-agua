@@ -1,0 +1,59 @@
+name: Chile Water Intelligence - Automated Synchronization
+
+on:
+  schedule:
+    # Run every Monday at 06:00 UTC (03:00 Chile time)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      force_regenerate:
+        description: 'Forzar regeneración completa del Knowledge Graph y Mapa GIS'
+        required: false
+        default: 'true'
+        type: boolean
+
+concurrency:
+  group: water-sync-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sync-and-test:
+    name: Sincronización de Catastros, Grafo y Diagnósticos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🧪 Ejecutar Suite de Pruebas Unitaria e Integración
+        run: |
+          python -m pytest -q
+
+      - name: 🔄 Ejecutar Pipeline de Sincronización Continua
+        run: |
+          python -m src.harness.sync_pipeline
+
+      - name: 📊 Verificar Reporte de Sincronización
+        run: |
+          cat data/sync_report.json
+
+      - name: 💾 Guardar Cambios en el Repositorio (Git Auto-Commit)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): sincronización automática periódica del gemelo digital [skip ci]"
+          file_pattern: "data/knowledge_graph_chile.json data/mapa_cuencas_chile.html data/sync_report.json data/decretos_escasez_chile.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"

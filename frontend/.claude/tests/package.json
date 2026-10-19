@@ -1,0 +1,9 @@
+{
+  "name": "koa-hook-tests",
+  "version": "1.0.0",
+  "description": "Contract tests for Koa Agent hooks",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test *.test.js"
+  }
+}

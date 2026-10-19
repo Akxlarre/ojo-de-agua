@@ -1,0 +1,26 @@
+// _view-transitions.scss — View Transitions API para navegación entre rutas
+// Activo cuando el router usa withViewTransitions() en app.config.ts
+
+@keyframes vt-fade-out {
+  to { opacity: 0; }
+}
+
+@keyframes vt-fade-in {
+  from { opacity: 0; }
+}
+
+::view-transition-old(root) {
+  animation: vt-fade-out 0.2s ease-in;
+}
+
+::view-transition-new(root) {
+  animation: vt-fade-in 0.3s ease-out;
+}
+
+// Respeta la preferencia del usuario (accesibilidad)
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none;
+  }
+}

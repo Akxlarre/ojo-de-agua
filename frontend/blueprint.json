@@ -1,0 +1,34 @@
+{
+  "name": "koa-agent-blueprint",
+  "version": "6.5.0",
+  "generatedAt": "2026-10-18T21:20:04.728Z",
+  "scaffoldMode": "full-scaffold",
+  "tier": "solo",
+  "team": {
+    "size": 1,
+    "horizon6mo": "stable"
+  },
+  "product": {
+    "complexity": "crud",
+    "lifespan": "mvp"
+  },
+  "deployment": null,
+  "managedPaths": [
+    ".claude/**",
+    "docs/**",
+    "indices/**",
+    "scripts/architect.js",
+    ".mcp.json"
+  ],
+  "stack": {
+    "angular": true,
+    "tailwind": true,
+    "primeng": true,
+    "gsap": true,
+    "supabase": true,
+    "ngrxSignals": false,
+    "e2e": false,
+    "cursor": false,
+    "windsurf": false
+  }
+}

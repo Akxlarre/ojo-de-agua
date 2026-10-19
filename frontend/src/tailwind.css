@@ -1,0 +1,206 @@
+/* ============================================================
+   TAILWIND CSS v4 — Utility Layer
+   
+   Este archivo actúa como capa de utilidades de Tailwind,
+   complementando el design system SCSS.
+   
+   Stack:
+     SCSS (_variables.scss)  → Design tokens, layouts, mixins
+     Tailwind (este archivo) → Utility classes para composición rápida
+   
+   Layer order (definido en PrimeNG config):
+     tailwind-base → primeng → tailwind-utilities
+   ============================================================ */
+
+@import "tailwindcss";
+@source ".";
+@source "./app/**/*.ts";
+@source "./app/**/*.html";
+
+/* ── @theme: Mapeo de Design System → Tailwind ────────────── */
+/* Extiende las utilidades de Tailwind con los tokens del
+   design system. Ejemplo: class="text-brand bg-surface p-4"  */
+
+@theme {
+  /* ── Colores de marca ── */
+  --color-brand: var(--ds-brand);
+  --color-brand-hover: var(--color-primary-hover);
+  --color-brand-dark: var(--color-primary-dark);
+  --color-brand-muted: var(--color-primary-muted);
+  --color-brand-text: var(--color-primary-text);
+
+  /* ── Superficies ── */
+  --color-base: var(--bg-base);
+  --color-surface: var(--bg-surface);
+  --color-elevated: var(--bg-elevated);
+  --color-subtle: var(--bg-subtle);
+
+  /* ── Texto ── */
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-text-disabled: var(--text-disabled);
+
+  /* ── Bordes ── */
+  --color-border-subtle: var(--border-subtle);
+  --color-border-default: var(--border-default);
+  --color-border-strong: var(--border-strong);
+  --color-border-brand: var(--accent-border);
+
+  /* ── Estados ── */
+  --color-success: var(--state-success);
+  --color-warning: var(--state-warning);
+  --color-error: var(--state-error);
+  --color-info: var(--state-info);
+
+  /* ── Fuentes ── */
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --font-mono: var(--font-mono);
+
+  /* ── Radios ── */
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-xl: var(--radius-xl);
+  --radius-2xl: var(--radius-2xl);
+  --radius-full: var(--radius-full);
+
+  /* ── Sombras ── */
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+
+  /* ── Espaciado (spacing) ── */
+  --spacing-1: var(--space-1);
+  --spacing-2: var(--space-2);
+  --spacing-3: var(--space-3);
+  --spacing-4: var(--space-4);
+  --spacing-5: var(--space-5);
+  --spacing-6: var(--space-6);
+  --spacing-8: var(--space-8);
+  --spacing-10: var(--space-10);
+  --spacing-12: var(--space-12);
+  --spacing-16: var(--space-16);
+
+  /* ── Duración ── */
+  --duration-instant: var(--duration-instant);
+  --duration-fast: var(--duration-fast);
+  --duration-normal: var(--duration-normal);
+  --duration-slow: var(--duration-slow);
+  --duration-slower: var(--duration-slower);
+
+  /* ── Easing (transition-timing-function) ── */
+  --ease-standard: var(--ease-standard);
+  --ease-spring: var(--ease-spring);
+  --ease-out: var(--ease-out);
+  --ease-in: var(--ease-in);
+}
+
+/* ── Disable Preflight ─────────────────────────────────────── */
+/* PrimeNG tiene su propio reset. Preflight de Tailwind conflictuaría
+   con botones, headings, y tablas de PrimeNG. Desactivamos. */
+@layer base {
+  /* Tailwind base layer vacío — design system ya aplica reset via body styles */
+}
+
+/* ── @utility: Botones del Design System ─────────────────── */
+/* Expone los tokens de botón como utilities de Tailwind v4.
+   Uso: class="btn-primary", "btn-secondary", "btn-ghost".
+   Los tokens subyacentes están en _variables.scss.            */
+
+@utility btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--btn-primary-padding-y) var(--btn-primary-padding-x);
+  background-color: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border: none;
+  border-radius: var(--btn-primary-radius);
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  line-height: var(--leading-tight);
+  cursor: pointer;
+  box-shadow: var(--btn-primary-shadow);
+  transition: var(--transition-btn);
+
+  &:hover {
+    background-color: var(--btn-primary-bg-hover);
+    box-shadow: var(--btn-primary-shadow-hover);
+  }
+
+  &:active {
+    transform: scale(var(--btn-press-scale-value, 0.97));
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
+
+@utility btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--btn-primary-padding-y) var(--btn-primary-padding-x);
+  background-color: var(--btn-secondary-bg);
+  color: var(--btn-secondary-text);
+  border: 1px solid var(--btn-secondary-border);
+  border-radius: var(--btn-secondary-radius);
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  line-height: var(--leading-tight);
+  cursor: pointer;
+  transition: var(--transition-btn);
+
+  &:hover {
+    background-color: var(--btn-secondary-bg-hover);
+  }
+
+  &:active {
+    transform: scale(var(--btn-press-scale-value, 0.97));
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
+
+@utility btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--btn-primary-padding-y) var(--btn-primary-padding-x);
+  background-color: var(--btn-ghost-bg);
+  color: var(--btn-ghost-text);
+  border: none;
+  border-radius: var(--btn-ghost-radius);
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  line-height: var(--leading-tight);
+  cursor: pointer;
+  transition: var(--transition-btn);
+
+  &:hover {
+    background-color: var(--btn-ghost-bg-hover);
+    color: var(--btn-ghost-text-hover);
+  }
+
+  &:active {
+    transform: scale(var(--btn-press-scale-value, 0.97));
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}

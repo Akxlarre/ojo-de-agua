@@ -1,0 +1,973 @@
+[
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_centrales": 36,
+    "potencia_total_mw": 2872.83,
+    "potencia_pasada_mw": 963.66,
+    "potencia_embalse_mw": 1909.16,
+    "centrales_pasada": 32,
+    "centrales_embalse": 4,
+    "operadores": [
+      "CENTRAL EL ATAJO SPA",
+      "CENTRAL EL PORTAL SPA",
+      "CENTRAL HIDROELECTRICA QUILLAILEO SPA",
+      "CENTRAL HIDROELECTRICA RIO MULCHEN S.A.",
+      "COLBUN S.A.",
+      "DUQUECO SPA",
+      "EL MIRADOR SPA",
+      "ELECTRICA PUNTILLA S.A.",
+      "ELECTRICA SAN MIGUEL SPA",
+      "EMPRESA ELECTRICA EL PINAR SPA",
+      "ENEL GENERACION CHILE S.A.",
+      "EOLICA MONTE REDONDO SPA",
+      "ESPINOS S.A.",
+      "HIDRO MUNILQUE SPA",
+      "HIDROANGOL S.A.",
+      "HIDROELECTRICA LAS JUNTAS S.A.",
+      "HIDROELECTRICA LLEUQUEREO S.A.",
+      "LOS PADRES HIDRO SPA",
+      "MINICENTRAL HIDROELECTRICA EL DIUTO LTDA.",
+      "PMGD BIO BIO NEGRETE S.A.",
+      "SOCER S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_249",
+        "nombre": "RALCO",
+        "potencia_mw": 685.06,
+        "tipo": "Embalse",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_215",
+        "nombre": "PANGUE",
+        "potencia_mw": 465.832,
+        "tipo": "Embalse",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_102",
+        "nombre": "EL TORO",
+        "potencia_mw": 437.272,
+        "tipo": "Embalse",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_19",
+        "nombre": "ANTUCO",
+        "potencia_mw": 326.628,
+        "tipo": "Pasada",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_18",
+        "nombre": "ANGOSTURA",
+        "potencia_mw": 321.0,
+        "tipo": "Embalse",
+        "propietario": "COLBUN S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_centrales": 23,
+    "potencia_total_mw": 1801.16,
+    "potencia_pasada_mw": 605.63,
+    "potencia_embalse_mw": 1195.53,
+    "centrales_pasada": 19,
+    "centrales_embalse": 4,
+    "operadores": [
+      "COLBUN S.A.",
+      "DOSAL HNOS. Y CIA. LTDA.",
+      "ELECTRICA DIGUA SPA",
+      "EMPRESA ELECTRICA PEHUENCHE S.A.",
+      "EMPRESA ELECTRICA PORTEZUELO SPA",
+      "EMPRESA ELECTRICAS AGUAS DEL MELADO SPA",
+      "ENEL GENERACION CHILE S.A.",
+      "HIDROELECTRICA EMBALSE ANCOA SPA",
+      "HIDROELECTRICA RIO COLORADO S.A.",
+      "HIDROELECTRICA RIO LIRCAY S.A.",
+      "HIDROELECTRICA ROBLERIA SPA"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_219",
+        "nombre": "PEHUENCHE",
+        "potencia_mw": 543.33,
+        "tipo": "Embalse",
+        "propietario": "EMPRESA ELECTRICA PEHUENCHE S.A."
+      },
+      {
+        "id": "cne_hidro_54",
+        "nombre": "COLBUN",
+        "potencia_mw": 460.8,
+        "tipo": "Embalse",
+        "propietario": "COLBUN S.A."
+      },
+      {
+        "id": "cne_hidro_161",
+        "nombre": "LOS CONDORES",
+        "potencia_mw": 169.74,
+        "tipo": "Pasada",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_52",
+        "nombre": "CIPRESES",
+        "potencia_mw": 96.641,
+        "tipo": "Embalse",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_175",
+        "nombre": "MACHICURA",
+        "potencia_mw": 94.763,
+        "tipo": "Embalse",
+        "propietario": "COLBUN S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_centrales": 21,
+    "potencia_total_mw": 904.0,
+    "potencia_pasada_mw": 904.0,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 21,
+    "centrales_embalse": 0,
+    "operadores": [
+      "AES ANDES S.A.",
+      "ALTO MAIPO SPA",
+      "ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO",
+      "CARBOMET ENERGIA S.A.",
+      "COMPANIA MOLINERA VILLARRICA LTDA.",
+      "ELECTRICA PUNTILLA S.A.",
+      "EMPRESA ELECTRICA INDUSTRIAL S.A.",
+      "ENERGIA COYANCO S.A.",
+      "HIDROELECTRICA ARRAYAN",
+      "HIDROELECTRICA MALLARAUCO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_14",
+        "nombre": "LAS LAJAS",
+        "potencia_mw": 277.46,
+        "tipo": "Pasada",
+        "propietario": "ALTO MAIPO SPA"
+      },
+      {
+        "id": "cne_hidro_13",
+        "nombre": "ALFALFAL II",
+        "potencia_mw": 259.38,
+        "tipo": "Pasada",
+        "propietario": "ALTO MAIPO SPA"
+      },
+      {
+        "id": "cne_hidro_8",
+        "nombre": "ALFALFAL",
+        "potencia_mw": 184.553,
+        "tipo": "Pasada",
+        "propietario": "AES ANDES S.A."
+      },
+      {
+        "id": "cne_hidro_241",
+        "nombre": "QUELTEHUES",
+        "potencia_mw": 48.941,
+        "tipo": "Pasada",
+        "propietario": "AES ANDES S.A."
+      },
+      {
+        "id": "cne_hidro_177",
+        "nombre": "MAITENES",
+        "potencia_mw": 26.92,
+        "tipo": "Pasada",
+        "propietario": "AES ANDES S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_centrales": 17,
+    "potencia_total_mw": 868.93,
+    "potencia_pasada_mw": 506.95,
+    "potencia_embalse_mw": 361.99,
+    "centrales_pasada": 16,
+    "centrales_embalse": 1,
+    "operadores": [
+      "ELECTRICA CIPRESILLOS SPA",
+      "EMPRESA ELECTRICA LA COMPANIA SPA",
+      "ENEL GENERACION CHILE S.A.",
+      "HIDROELECTRICA DON EUGENIO SPA",
+      "HIDROELECTRICA DOS VALLES SPA",
+      "HIDROELECTRICA LA HIGUERA S.A.",
+      "HIDROELECTRICA LOS CORRALES SPA",
+      "HIDROELECTRICA PALACIOS SPA.",
+      "HIDROELECTRICA PIEDRAS NEGRAS SPA",
+      "HIDROELECTRICA PUNTA DEL VIENTO SPA",
+      "HIDROELECTRICA SAN ANDRES SPA",
+      "PACIFIC HYDRO CHACAYES S.A.",
+      "PACIFIC HYDRO CHILE S.A.",
+      "SOC. CONC. EMBALSE CONVENTO VIEJO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_250",
+        "nombre": "RAPEL",
+        "potencia_mw": 361.985,
+        "tipo": "Embalse",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_137",
+        "nombre": "LA HIGUERA",
+        "potencia_mw": 160.77,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA LA HIGUERA S.A."
+      },
+      {
+        "id": "cne_hidro_45",
+        "nombre": "CHACAYES",
+        "potencia_mw": 111.72,
+        "tipo": "Pasada",
+        "propietario": "PACIFIC HYDRO CHACAYES S.A."
+      },
+      {
+        "id": "cne_hidro_283",
+        "nombre": "SAUZAL",
+        "potencia_mw": 82.626,
+        "tipo": "Pasada",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_275",
+        "nombre": "SAN ANDRES",
+        "potencia_mw": 42.89,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA SAN ANDRES SPA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_centrales": 7,
+    "potencia_total_mw": 234.9,
+    "potencia_pasada_mw": 234.9,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 7,
+    "centrales_embalse": 0,
+    "operadores": [
+      "ENERBOSCH S.A.",
+      "HIDROELCTRICA PUMA S.A.",
+      "HIDROELECTRICA CUMPEO S.A.",
+      "HIDROELECTRICA EL PASO SPA",
+      "HIDROELECTRICA LA CONFLUENCIA S.A.",
+      "HIDROELECTRICA RIO CLARO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_135",
+        "nombre": "LA CONFLUENCIA",
+        "potencia_mw": 162.946,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA LA CONFLUENCIA S.A."
+      },
+      {
+        "id": "cne_hidro_95",
+        "nombre": "EL PASO",
+        "potencia_mw": 59.64,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA EL PASO SPA"
+      },
+      {
+        "id": "cne_hidro_64",
+        "nombre": "CUMPEO",
+        "potencia_mw": 5.75,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA CUMPEO S.A."
+      },
+      {
+        "id": "cne_hidro_139",
+        "nombre": "LA MONTANA",
+        "potencia_mw": 2.975,
+        "tipo": "Pasada",
+        "propietario": "HIDROELCTRICA PUMA S.A."
+      },
+      {
+        "id": "cne_hidro_140",
+        "nombre": "LA MONTANA II",
+        "potencia_mw": 1.884,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA RIO CLARO S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_centrales": 29,
+    "potencia_total_mw": 228.38,
+    "potencia_pasada_mw": 228.38,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 29,
+    "centrales_embalse": 0,
+    "operadores": [
+      "CUMBRES SPA",
+      "EMPRESA ELECTRICA CAPULLO S.A.",
+      "EMPRESA ELECTRICA CONTRA SPA",
+      "EMPRESA ELECTRICA LA LEONERA S.A.",
+      "EMPRESA ELECTRICA RUCATAYO S.A.",
+      "ENEL GREEN POWER CHILE S.A.",
+      "ENERGIAS RENOVABLES EL ARRAYAN LTDA",
+      "FORESTAL Y GANADERA CARRAN LTDA",
+      "GANADERA Y FORESTAL CARRAN LTDA.",
+      "GENERADORA ELECTRICA MARIA ELENA LTDA.",
+      "GENERADORA ELECTRICA PEHUI LTDA",
+      "GENERADORA ELECTRICA RHOM LTDA.",
+      "HIDROELECTRICA PICHILONCO S.A.",
+      "HIDROENERSUR S.A.",
+      "HIDROENESUR S.A.",
+      "HIDROENESUR SPA",
+      "HIDROMOCHO S.A.",
+      "HIDROMUCHI S.A.",
+      "HIDROPALMAR SPA",
+      "LAGRIMAS DEL SUR SPA",
+      "LICAN SPA",
+      "LOS PORTONES S.A.",
+      "SOC. AGRICOLA Y GANADERA CURILEUFU LTDA."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_273",
+        "nombre": "RUCATAYO",
+        "potencia_mw": 59.3,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA RUCATAYO S.A."
+      },
+      {
+        "id": "cne_hidro_228",
+        "nombre": "PILMAIQUEN",
+        "potencia_mw": 40.678,
+        "tipo": "Pasada",
+        "propietario": "ENEL GREEN POWER CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_152",
+        "nombre": "LICAN",
+        "potencia_mw": 17.955,
+        "tipo": "Pasada",
+        "propietario": "LICAN SPA"
+      },
+      {
+        "id": "cne_hidro_63",
+        "nombre": "CUMBRES",
+        "potencia_mw": 17.86,
+        "tipo": "Pasada",
+        "propietario": "CUMBRES SPA"
+      },
+      {
+        "id": "cne_hidro_94",
+        "nombre": "MOCHO",
+        "potencia_mw": 14.77,
+        "tipo": "Pasada",
+        "propietario": "HIDROMOCHO S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_centrales": 7,
+    "potencia_total_mw": 198.06,
+    "potencia_pasada_mw": 198.06,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 7,
+    "centrales_embalse": 0,
+    "operadores": [
+      "COLBUN S.A.",
+      "RIO TRANQUILO S.A.",
+      "WENKE Y CIA. LTDA."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_123",
+        "nombre": "HORNITOS",
+        "potencia_mw": 57.007,
+        "tipo": "Pasada",
+        "propietario": "RIO TRANQUILO S.A."
+      },
+      {
+        "id": "cne_hidro_26",
+        "nombre": "BLANCO",
+        "potencia_mw": 52.867,
+        "tipo": "Pasada",
+        "propietario": "COLBUN S.A."
+      },
+      {
+        "id": "cne_hidro_174",
+        "nombre": "LOS QUILOS",
+        "potencia_mw": 31.797,
+        "tipo": "Pasada",
+        "propietario": "COLBUN S.A."
+      },
+      {
+        "id": "cne_hidro_129",
+        "nombre": "JUNCAL",
+        "potencia_mw": 29.127,
+        "tipo": "Pasada",
+        "propietario": "COLBUN S.A."
+      },
+      {
+        "id": "cne_hidro_44",
+        "nombre": "CHACABUQUITO",
+        "potencia_mw": 25.636,
+        "tipo": "Pasada",
+        "propietario": "COLBUN S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "Cuenca Río Petrohué",
+    "total_centrales": 4,
+    "potencia_total_mw": 174.23,
+    "potencia_pasada_mw": 2.66,
+    "potencia_embalse_mw": 171.57,
+    "centrales_pasada": 3,
+    "centrales_embalse": 1,
+    "operadores": [
+      "COLBUN S.A.",
+      "COMPANIA HIDROELECTRICA HIDROENER SPA",
+      "HIDROELECTRICA ENSENADA S.A.",
+      "SAGESA S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_36",
+        "nombre": "CANUTILLAR",
+        "potencia_mw": 171.57,
+        "tipo": "Embalse",
+        "propietario": "COLBUN S.A."
+      },
+      {
+        "id": "cne_hidro_109",
+        "nombre": "ENSENADA",
+        "potencia_mw": 1.2,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA ENSENADA S.A."
+      },
+      {
+        "id": "cne_hidro_313",
+        "nombre": "TERRA AUSTRAL",
+        "potencia_mw": 0.78,
+        "tipo": "Pasada",
+        "propietario": "COMPANIA HIDROELECTRICA HIDROENER SPA"
+      },
+      {
+        "id": "cne_hidro_301",
+        "nombre": "COCHAMO",
+        "potencia_mw": 0.68,
+        "tipo": "Pasada",
+        "propietario": "SAGESA S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_centrales": 6,
+    "potencia_total_mw": 60.78,
+    "potencia_pasada_mw": 60.78,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 6,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EMPRESA ELECTRICA TRANQUIL SPA",
+      "ENEL GREEN POWER CHILE S.A.",
+      "ENERBOSCH S.A.",
+      "FORESTAL NELTUME CARRANCO S.A.",
+      "HIDROELECTRICA LAS FLORES S.A.",
+      "PIUTEL GENERACION ELECTRICA LIMITADA"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_237",
+        "nombre": "PULLINQUE",
+        "potencia_mw": 51.158,
+        "tipo": "Pasada",
+        "propietario": "ENEL GREEN POWER CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_288",
+        "nombre": "TRANQUIL",
+        "potencia_mw": 2.967,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA TRANQUIL SPA"
+      },
+      {
+        "id": "cne_hidro_147",
+        "nombre": "LAS FLORES",
+        "potencia_mw": 2.5,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA LAS FLORES S.A."
+      },
+      {
+        "id": "cne_hidro_291",
+        "nombre": "TRANCA DEL TORO",
+        "potencia_mw": 1.9,
+        "tipo": "Pasada",
+        "propietario": "FORESTAL NELTUME CARRANCO S.A."
+      },
+      {
+        "id": "cne_hidro_251",
+        "nombre": "RECA",
+        "potencia_mw": 1.696,
+        "tipo": "Pasada",
+        "propietario": "ENERBOSCH S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_centrales": 13,
+    "potencia_total_mw": 59.01,
+    "potencia_pasada_mw": 59.01,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 13,
+    "centrales_embalse": 0,
+    "operadores": [
+      "CENTRAL HIDROELECTRICA SANTA ELENA S.A.",
+      "CIA MOLINERA VILLARRICA LTDA",
+      "DONGUIL ENERGIA S.A.",
+      "EMPRESA ELECTRICA CAREN S.A.",
+      "ENERBOSCH",
+      "HIDROELECTRICA ALLIPEN S.A.",
+      "HIDROELECTRICA EL CANELO S.A.",
+      "HIDROELECTRICA EL MANZANO S.A.",
+      "HIDROELECTRICA LAS NIEVES SPA",
+      "HIDROELECTRICA MAISAN SPA",
+      "HIDROELECTRICA TRAILELFU SPA",
+      "MINICENTRALES ARAUCANIA S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_39",
+        "nombre": "CARILAFQUEN",
+        "potencia_mw": 19.236,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA CAREN S.A."
+      },
+      {
+        "id": "cne_hidro_178",
+        "nombre": "MALALCAHUELLO",
+        "potencia_mw": 9.154,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA CAREN S.A."
+      },
+      {
+        "id": "cne_hidro_150",
+        "nombre": "LAS NIEVES",
+        "potencia_mw": 6.676,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA LAS NIEVES SPA"
+      },
+      {
+        "id": "cne_hidro_82",
+        "nombre": "EL CANELO",
+        "potencia_mw": 6.04,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA EL CANELO S.A."
+      },
+      {
+        "id": "cne_hidro_90",
+        "nombre": "EL MANZANO (MELIPEUCO)",
+        "potencia_mw": 4.85,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA EL MANZANO S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_centrales": 4,
+    "potencia_total_mw": 23.09,
+    "potencia_pasada_mw": 23.09,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 4,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EDELAYSEN",
+      "EMPRESA ELECTRICA SAN VICTOR SPA"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_144",
+        "nombre": "LAGO ATRAVESADO",
+        "potencia_mw": 10.5,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      },
+      {
+        "id": "cne_hidro_23",
+        "nombre": "AYSEN",
+        "potencia_mw": 6.6,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      },
+      {
+        "id": "cne_hidro_196",
+        "nombre": "MONREAL",
+        "potencia_mw": 3.0,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      },
+      {
+        "id": "cne_hidro_308",
+        "nombre": "SAN VICTOR",
+        "potencia_mw": 2.99,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA SAN VICTOR SPA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_centrales": 2,
+    "potencia_total_mw": 22.37,
+    "potencia_pasada_mw": 22.37,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 2,
+    "centrales_embalse": 0,
+    "operadores": [
+      "ENEL GENERACION CHILE S.A.",
+      "HIDROPALOMA S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_168",
+        "nombre": "LOS MOLLES",
+        "potencia_mw": 17.951,
+        "tipo": "Pasada",
+        "propietario": "ENEL GENERACION CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_141",
+        "nombre": "LA PALOMA",
+        "potencia_mw": 4.416,
+        "tipo": "Pasada",
+        "propietario": "HIDROPALOMA S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_centrales": 3,
+    "potencia_total_mw": 15.99,
+    "potencia_pasada_mw": 15.99,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 3,
+    "centrales_embalse": 0,
+    "operadores": [
+      "DONGO ENERGOA SPA",
+      "ENERGIA COLLIL S.A.",
+      "ENERGIAS PUDIDI SPA"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_55",
+        "nombre": "COLLIL",
+        "potencia_mw": 6.997,
+        "tipo": "Pasada",
+        "propietario": "ENERGIA COLLIL S.A."
+      },
+      {
+        "id": "cne_hidro_70",
+        "nombre": "DONGO",
+        "potencia_mw": 5.998,
+        "tipo": "Pasada",
+        "propietario": "DONGO ENERGOA SPA"
+      },
+      {
+        "id": "cne_hidro_319",
+        "nombre": "DON TITO",
+        "potencia_mw": 3.0,
+        "tipo": "Pasada",
+        "propietario": "ENERGIAS PUDIDI SPA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "total_centrales": 2,
+    "potencia_total_mw": 11.33,
+    "potencia_pasada_mw": 11.33,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 2,
+    "centrales_embalse": 0,
+    "operadores": [
+      "ENGIE ENERGIA CHILE S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_48",
+        "nombre": "CHAPIQUINA",
+        "potencia_mw": 10.832,
+        "tipo": "Pasada",
+        "propietario": "ENGIE ENERGIA CHILE S.A."
+      },
+      {
+        "id": "cne_hidro_300",
+        "nombre": "COSAPILLA",
+        "potencia_mw": 0.5,
+        "tipo": "Pasada",
+        "propietario": "ENGIE ENERGIA CHILE S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "total_centrales": 5,
+    "potencia_total_mw": 10.44,
+    "potencia_pasada_mw": 10.44,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 5,
+    "centrales_embalse": 0,
+    "operadores": [
+      "DESARROLLO DE ENERGIA SPA",
+      "EMPRESA ELECTRICA CUCHILDEO SPA",
+      "EMPRESA ELECTRICA LA ARENA SPA",
+      "EMPRESA ELECTRICA RIO PUMA SPA.",
+      "PMGD HORNOPIREN LTDA."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_131",
+        "nombre": "LA ARENA",
+        "potencia_mw": 6.783,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA LA ARENA SPA"
+      },
+      {
+        "id": "cne_hidro_85",
+        "nombre": "EL COLORADO",
+        "potencia_mw": 1.99,
+        "tipo": "Pasada",
+        "propietario": "DESARROLLO DE ENERGIA SPA"
+      },
+      {
+        "id": "cne_hidro_61",
+        "nombre": "CUCHILDEO",
+        "potencia_mw": 0.765,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA CUCHILDEO SPA"
+      },
+      {
+        "id": "cne_hidro_160",
+        "nombre": "LOS COLONOS",
+        "potencia_mw": 0.64,
+        "tipo": "Pasada",
+        "propietario": "EMPRESA ELECTRICA RIO PUMA SPA."
+      },
+      {
+        "id": "cne_hidro_318",
+        "nombre": "HORNOPIREN",
+        "potencia_mw": 0.26,
+        "tipo": "Pasada",
+        "propietario": "PMGD HORNOPIREN LTDA."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_centrales": 2,
+    "potencia_total_mw": 8.09,
+    "potencia_pasada_mw": 8.09,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 2,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EL AGRIO HIDRO SPA",
+      "HIDROELECTRICA TRUENO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_270",
+        "nombre": "RIO TRUENO",
+        "potencia_mw": 5.59,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA TRUENO S.A."
+      },
+      {
+        "id": "cne_hidro_77",
+        "nombre": "EL AGRIO",
+        "potencia_mw": 2.497,
+        "tipo": "Pasada",
+        "propietario": "EL AGRIO HIDRO SPA"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_centrales": 4,
+    "potencia_total_mw": 6.05,
+    "potencia_pasada_mw": 6.05,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 4,
+    "centrales_embalse": 0,
+    "operadores": [
+      "ENERNUEVAS S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_40",
+        "nombre": "CAVANCHA",
+        "potencia_mw": 2.592,
+        "tipo": "Pasada",
+        "propietario": "ENERNUEVAS S.A."
+      },
+      {
+        "id": "cne_hidro_190",
+        "nombre": "MINIHIDRO SANTA ROSA",
+        "potencia_mw": 1.25,
+        "tipo": "Pasada",
+        "propietario": "ENERNUEVAS S.A."
+      },
+      {
+        "id": "cne_hidro_103",
+        "nombre": "EL TORO 2",
+        "potencia_mw": 1.11,
+        "tipo": "Pasada",
+        "propietario": "ENERNUEVAS S.A."
+      },
+      {
+        "id": "cne_hidro_11",
+        "nombre": "ALTO HOSPICIO",
+        "potencia_mw": 1.1,
+        "tipo": "Pasada",
+        "propietario": "ENERNUEVAS S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "total_centrales": 1,
+    "potencia_total_mw": 5.38,
+    "potencia_pasada_mw": 5.38,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 1,
+    "centrales_embalse": 0,
+    "operadores": [
+      "HIDROELECTRICA PUCLARO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_233",
+        "nombre": "PUCLARO",
+        "potencia_mw": 5.376,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA PUCLARO S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_centrales": 1,
+    "potencia_total_mw": 5.1,
+    "potencia_pasada_mw": 5.1,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 1,
+    "centrales_embalse": 0,
+    "operadores": [
+      "HIDROELECTRICA RIO HUASCO S.A."
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_263",
+        "nombre": "RIO HUASCO",
+        "potencia_mw": 5.1,
+        "tipo": "Pasada",
+        "propietario": "HIDROELECTRICA RIO HUASCO S.A."
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "total_centrales": 1,
+    "potencia_total_mw": 1.4,
+    "potencia_pasada_mw": 1.4,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 1,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EDELAYSEN"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_253",
+        "nombre": "RIO AZUL",
+        "potencia_mw": 1.4,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_centrales": 1,
+    "potencia_total_mw": 0.64,
+    "potencia_pasada_mw": 0.64,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 1,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EDELAYSEN"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_104",
+        "nombre": "EL TRARO",
+        "potencia_mw": 0.64,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_centrales": 1,
+    "potencia_total_mw": 0.3,
+    "potencia_pasada_mw": 0.3,
+    "potencia_embalse_mw": 0.0,
+    "centrales_pasada": 1,
+    "centrales_embalse": 0,
+    "operadores": [
+      "EDELAYSEN"
+    ],
+    "centrales_destacadas": [
+      {
+        "id": "cne_hidro_317",
+        "nombre": "NUEVO REINO",
+        "potencia_mw": 0.3,
+        "tipo": "Pasada",
+        "propietario": "EDELAYSEN"
+      }
+    ]
+  }
+]

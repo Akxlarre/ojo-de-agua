@@ -1,0 +1,803 @@
+/* ============================================
+   PrimeNG Theme Overrides
+   Mapping PrimeNG tokens to Design System
+
+   Todas las variables --p-* referencian tokens de
+   _variables.scss que auto-switch en [data-mode='dark'].
+   El bloque dark mode al final solo cubre edge-cases
+   donde PrimeNG inyecta valores hardcodeados.
+   ============================================ */
+
+:root {
+  /* Colors — Brand */
+  --p-primary-color: var(--ds-brand);
+  --p-primary-contrast-color: var(--color-primary-text);
+  --p-primary-hover-color: var(--color-primary-hover);
+  --p-primary-active-color: var(--color-primary-dark);
+
+  /* Content */
+  --p-content-background: var(--bg-surface);
+  --p-content-hover-background: var(--bg-elevated);
+  --p-content-border-color: var(--border-default);
+  --p-content-color: var(--text-primary);
+
+  /* Form Inputs — aligned with --input-* tokens from _variables.scss */
+  --p-inputtext-background: var(--input-bg);
+  --p-inputtext-color: var(--input-text);
+  --p-inputtext-border-color: var(--input-border-default);
+  --p-inputtext-hover-border-color: var(--input-border-focus);
+  --p-inputtext-focus-border-color: var(--input-border-focus);
+  --p-inputtext-focus-ring-color: var(--accent-glow);
+  --p-inputtext-focus-ring-shadow: var(--input-shadow-focus-neutral);
+  --p-inputtext-border-radius: var(--input-radius);
+
+  /* Buttons — radius aligned with DS btn tokens */
+  --p-button-primary-background: var(--btn-primary-bg);
+  --p-button-primary-border-color: var(--btn-primary-bg);
+  --p-button-primary-hover-background: var(--btn-primary-bg-hover);
+  --p-button-primary-hover-border-color: var(--btn-primary-bg-hover);
+  --p-button-border-radius: var(--btn-primary-radius);
+
+  /* Button success */
+  --p-button-success-background: var(--state-success);
+  --p-button-success-border-color: var(--state-success);
+  --p-button-success-hover-background: color-mix(
+    in srgb,
+    var(--state-success) 85%,
+    black
+  );
+  --p-button-success-hover-border-color: color-mix(
+    in srgb,
+    var(--state-success) 85%,
+    black
+  );
+
+  /* Button secondary */
+  --p-button-secondary-background: var(--bg-elevated);
+  --p-button-secondary-border-color: var(--border-default);
+  --p-button-secondary-color: var(--text-secondary);
+  --p-button-secondary-hover-background: var(--color-primary-muted);
+  --p-button-secondary-hover-border-color: var(--accent-border);
+  --p-button-secondary-hover-color: var(--ds-brand);
+
+  /* Breadcrumb */
+  --p-breadcrumb-color: var(--text-secondary);
+  --p-breadcrumb-separator-color: var(--text-muted);
+  --p-breadcrumb-item-hover-color: var(--ds-brand);
+  --p-breadcrumb-item-active-color: var(--text-primary);
+
+  /* Cards & Panels */
+  --p-card-background: var(--card-bg);
+  --p-card-color: var(--text-primary);
+  --p-card-shadow: var(--card-shadow);
+  --p-card-border-radius: var(--card-radius);
+
+  /* Tables */
+  --p-datatable-header-background: var(--bg-base);
+  --p-datatable-header-color: var(--text-primary);
+  --p-datatable-row-background: var(--bg-surface);
+  --p-datatable-row-hover-background: var(--bg-elevated);
+  --p-datatable-row-color: var(--text-secondary);
+  --p-datatable-header-cell-padding: var(--space-4);
+  --p-datatable-body-cell-padding: var(--space-4);
+
+  /* Typography */
+  --p-font-family: var(--font-body);
+
+  /* Overlays */
+  --p-overlay-select-background: var(--bg-surface);
+  --p-overlay-select-border-color: var(--border-default);
+  --p-overlay-select-shadow: var(--shadow-lg);
+
+  /* Toast/Messages */
+  --p-toast-info-background: var(--state-info-bg);
+  --p-toast-info-border-color: var(--state-info-border);
+  --p-toast-info-text-color: var(--state-info);
+
+  --p-toast-success-background: var(--state-success-bg);
+  --p-toast-success-border-color: var(--state-success-border);
+  --p-toast-success-text-color: var(--state-success);
+
+  --p-toast-error-background: var(--state-error-bg);
+  --p-toast-error-border-color: var(--state-error-border);
+  --p-toast-error-text-color: var(--state-error);
+
+  --p-toast-warn-background: var(--state-warning-bg);
+  --p-toast-warn-border-color: var(--state-warning-border);
+  --p-toast-warn-text-color: var(--state-warning);
+
+  /* Menu */
+  --p-menu-background: var(--bg-surface);
+  --p-menu-color: var(--text-primary);
+  --p-menu-item-focus-background: var(--bg-elevated);
+  --p-menu-item-color: var(--text-secondary);
+  --p-menu-item-focus-color: var(--text-primary);
+  --p-menu-submenu-label-background: transparent;
+  --p-menu-submenu-label-color: var(--text-muted);
+  --p-menu-border-color: var(--border-default);
+
+  /* Paginator */
+  --p-paginator-background: var(--bg-surface);
+  --p-paginator-color: var(--text-secondary);
+  --p-paginator-item-color: var(--text-secondary);
+  --p-paginator-item-hover-background: var(--bg-elevated);
+  --p-paginator-item-selected-background: var(--color-primary-muted);
+  --p-paginator-item-selected-color: var(--ds-brand);
+  --p-paginator-border-color: var(--border-default);
+
+  /* Select (Dropdown) */
+  --p-select-background: var(--bg-surface);
+  --p-select-color: var(--text-primary);
+  --p-select-hover-border-color: var(--ds-brand);
+  --p-select-focus-border-color: var(--ds-brand);
+  --p-select-overlay-background: var(--bg-surface);
+  --p-select-option-focus-background: var(--bg-elevated);
+  --p-select-placeholder-color: var(--text-muted);
+
+  /* Badge */
+  --p-badge-primary-background: var(--ds-brand);
+  --p-badge-primary-color: var(--color-primary-text);
+  --p-badge-font-size: var(--text-xs);
+  --p-badge-font-weight: var(--font-bold);
+
+  /* Dialog / Popover / Overlay */
+  --p-dialog-background: var(--bg-surface);
+  --p-dialog-color: var(--text-primary);
+  --p-dialog-border-color: var(--border-default);
+  --p-popover-background: var(--bg-surface);
+  --p-popover-color: var(--text-primary);
+  --p-popover-border-color: var(--border-default);
+
+  /* DatePicker (Calendar) */
+  --p-datepicker-background: var(--bg-surface);
+  --p-datepicker-color: var(--text-primary);
+  --p-datepicker-border-color: var(--border-default);
+  --p-datepicker-header-background: var(--bg-surface);
+  --p-datepicker-panel-background: var(--bg-surface);
+  --p-datepicker-panel-border-color: var(--border-default);
+  --p-datepicker-panel-shadow: var(--shadow-lg);
+
+  /* Checkbox / RadioButton */
+  --p-checkbox-background: var(--bg-surface);
+  --p-checkbox-border-color: var(--border-default);
+  --p-checkbox-hover-border-color: var(--ds-brand);
+  --p-radiobutton-background: var(--bg-surface);
+  --p-radiobutton-border-color: var(--border-default);
+  --p-radiobutton-hover-border-color: var(--ds-brand);
+}
+
+/* ============================================
+   Toast — Design System Compact Layout
+   ============================================ */
+.p-toast-message {
+  position: relative !important;
+  padding: var(--space-3) var(--space-4) !important;
+  padding-bottom: calc(var(--space-3) + 6px) !important;
+  border-radius: var(--radius-md) !important;
+  box-shadow: var(--shadow-md) !important;
+  margin-bottom: var(--space-3) !important;
+  border-width: 1px;
+  overflow: visible !important;
+  transition:
+    transform var(--duration-fast) var(--ease-standard),
+    box-shadow var(--duration-fast) var(--ease-standard);
+}
+
+/* Progress bar via pseudo-element */
+.p-toast-message::after {
+  content: "" !important;
+  display: block !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  height: 4px !important;
+  min-height: 4px !important;
+  background: rgba(0, 0, 0, 0.4) !important;
+  border-radius: 0 0 var(--radius-md) var(--radius-md) !important;
+  transform-origin: left !important;
+  animation: toast-progress-shrink var(--duration-toast-life, 3s) linear
+    forwards !important;
+  z-index: 10 !important;
+  pointer-events: none !important;
+}
+
+/* Progress bar colors by severity */
+.p-toast-message-success::after {
+  background: linear-gradient(
+    90deg,
+    var(--state-success) 0%,
+    color-mix(in srgb, var(--state-success) 72%, black) 100%
+  ) !important;
+}
+
+.p-toast-message-error::after {
+  background: linear-gradient(
+    90deg,
+    var(--state-error) 0%,
+    color-mix(in srgb, var(--state-error) 72%, black) 100%
+  ) !important;
+}
+
+.p-toast-message-warn::after {
+  background: linear-gradient(
+    90deg,
+    var(--state-warning) 0%,
+    color-mix(in srgb, var(--state-warning) 72%, black) 100%
+  ) !important;
+}
+
+.p-toast-message-info::after {
+  background: linear-gradient(
+    90deg,
+    var(--state-info) 0%,
+    color-mix(in srgb, var(--state-info) 72%, black) 100%
+  ) !important;
+}
+
+.p-toast-message:hover {
+  transform: translateY(var(--card-hover-lift-y));
+  box-shadow: var(--shadow-lg);
+}
+
+@keyframes toast-progress-shrink {
+  from {
+    transform: scaleX(1);
+  }
+  to {
+    transform: scaleX(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .p-toast-message::after {
+    animation: none !important;
+    opacity: 0.25 !important;
+  }
+
+  .p-toast-message {
+    transition: none;
+  }
+
+  .p-toast-message:hover {
+    transform: none;
+  }
+}
+
+.p-toast-message-content {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: var(--space-3) !important;
+}
+
+.p-toast-message-icon {
+  flex-shrink: 0;
+  margin-top: 2px;
+  line-height: 1;
+}
+
+.p-toast-message-text {
+  line-height: 1.4;
+  min-width: 0;
+}
+
+/* Toast close button */
+.p-toast-message-content .p-toast-close-button {
+  flex-shrink: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 2rem !important;
+  height: 2rem !important;
+  min-width: 2rem !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  background: rgba(0, 0, 0, 0.06) !important;
+  border-radius: var(--radius-full) !important;
+  cursor: pointer !important;
+  color: inherit !important;
+  transition:
+    opacity var(--duration-fast) var(--ease-standard),
+    background var(--duration-fast) var(--ease-standard) !important;
+}
+
+.p-toast-message-content .p-toast-close-button:hover {
+  background: rgba(0, 0, 0, 0.12) !important;
+}
+
+.p-toast-message-content .p-toast-close-icon {
+  font-size: var(--text-sm) !important;
+  opacity: 1 !important;
+}
+
+/* Toast: below topbar (h-16 = 4rem) */
+app-main-layout p-toast.p-toast-top-right,
+app-main-layout p-toast.p-toast-top-left,
+app-main-layout p-toast.p-toast-top-center,
+.p-toast.p-toast-top-right,
+.p-toast.p-toast-top-left,
+.p-toast.p-toast-top-center {
+  top: 4rem !important;
+}
+
+/* ============================================
+   Skeleton
+   ============================================ */
+.p-skeleton {
+  background: var(--bg-subtle) !important;
+}
+
+/* ============================================
+   Buttons — Design System Aligned
+   ============================================ */
+.p-ink {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.p-button {
+  border-radius: var(--btn-primary-radius) !important;
+  font-weight: var(--font-semibold);
+  padding: var(--btn-primary-padding-y) var(--btn-primary-padding-x);
+  transition: var(--transition-btn);
+}
+
+.p-button:hover {
+  transform: translateY(var(--card-hover-lift-y));
+  box-shadow: 0 4px 12px var(--accent-glow);
+}
+
+.p-button.p-button-success {
+  background: var(--state-success) !important;
+  border-color: var(--state-success) !important;
+}
+
+.p-button.p-button-success:hover {
+  background: color-mix(in srgb, var(--state-success) 85%, black) !important;
+  border-color: color-mix(in srgb, var(--state-success) 85%, black) !important;
+}
+
+.p-button.p-button-secondary {
+  background: var(--bg-elevated) !important;
+  border: 1px solid var(--border-default) !important;
+  color: var(--text-secondary) !important;
+}
+
+.p-button.p-button-secondary:hover {
+  background: var(--color-primary-muted) !important;
+  border-color: var(--accent-border) !important;
+  color: var(--ds-brand) !important;
+}
+
+.p-button.p-button-outlined {
+  background: transparent !important;
+  border: 1px solid var(--border-default) !important;
+  color: var(--text-secondary) !important;
+}
+
+.p-button.p-button-outlined:hover {
+  background: var(--color-primary-muted) !important;
+  border-color: var(--accent-border) !important;
+  color: var(--ds-brand) !important;
+}
+
+.p-button.p-button-danger {
+  background: var(--state-error) !important;
+  border-color: var(--state-error) !important;
+}
+
+.p-button.p-button-danger:hover {
+  background: color-mix(in srgb, var(--state-error) 85%, black) !important;
+  border-color: color-mix(in srgb, var(--state-error) 85%, black) !important;
+}
+
+/* ── Toolbar actions (topbar): neutral / hover / active ── */
+.toolbar-actions .p-button.p-button-secondary {
+  background: transparent !important;
+  border-color: transparent !important;
+  color: var(--text-secondary) !important;
+  box-shadow: none !important;
+}
+
+.toolbar-actions .p-button.p-button-secondary:hover {
+  background: var(--color-primary-muted) !important;
+  border-color: transparent !important;
+  color: var(--ds-brand) !important;
+  box-shadow: 0 4px 12px var(--accent-glow) !important;
+}
+
+.toolbar-actions .p-button.p-button-primary {
+  background: var(--gradient-primary) !important;
+  border-color: transparent !important;
+  color: var(--color-primary-text) !important;
+  box-shadow: 0 4px 12px var(--accent-glow) !important;
+}
+
+.toolbar-actions .p-button.p-button-primary:hover {
+  background: var(--gradient-primary) !important;
+  filter: brightness(1.08);
+  box-shadow: 0 4px 12px var(--accent-glow) !important;
+}
+
+/* ============================================
+   Breadcrumb
+   ============================================ */
+.p-breadcrumb {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.p-breadcrumb .p-menuitem-text,
+.p-breadcrumb .p-breadcrumb-home {
+  color: var(--text-secondary) !important;
+  font-weight: var(--font-medium) !important;
+}
+
+.p-breadcrumb .p-menuitem-link:hover .p-menuitem-text,
+.p-breadcrumb .p-breadcrumb-home:hover {
+  color: var(--ds-brand) !important;
+}
+
+.p-breadcrumb li:last-child .p-menuitem-text {
+  color: var(--text-primary) !important;
+  font-weight: var(--font-semibold) !important;
+}
+
+.p-breadcrumb .p-breadcrumb-separator,
+.p-breadcrumb .p-breadcrumb-chevron {
+  color: var(--text-muted) !important;
+  font-size: var(--text-xs) !important;
+}
+
+/* ============================================
+   Menu
+   ============================================ */
+.p-menu .p-badge,
+.p-menu .p-menuitem-badge {
+  background: var(--state-success) !important;
+  color: var(--color-primary-text) !important;
+  font-size: var(--text-xs) !important;
+  font-weight: var(--font-semibold) !important;
+}
+
+.p-menu .p-menu-list:focus-visible {
+  outline: 2px solid var(--accent-border);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Card
+   ============================================ */
+.p-card {
+  border: 1px solid var(--border-default);
+  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-xl);
+  transition:
+    background-color var(--duration-fast) var(--ease-standard),
+    border-color var(--duration-fast) var(--ease-standard),
+    box-shadow var(--duration-fast) var(--ease-standard);
+}
+
+/* ============================================
+   Input Fields
+   ============================================ */
+.p-inputtext {
+  padding: var(--input-padding-y) var(--input-padding-x);
+  font-size: var(--text-sm);
+}
+
+/* ============================================
+   Select (Dropdown)
+   ============================================ */
+.p-select {
+  align-items: center;
+}
+
+.p-select .p-select-label {
+  display: flex !important;
+  align-items: center;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 100%;
+}
+
+.p-select-panel {
+  padding: var(--space-1) !important;
+}
+
+.p-select-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 0 !important;
+}
+
+.p-select-option {
+  border-radius: var(--radius-md) !important;
+  padding: var(--space-2) var(--space-3) !important;
+  margin: 0 !important;
+  transition: all var(--duration-fast) var(--ease-standard) !important;
+}
+
+.p-select-option:not(.p-select-option-selected):hover,
+.p-select-option.p-select-option-focus:not(.p-select-option-selected) {
+  background-color: var(--bg-elevated) !important;
+  color: var(--text-primary) !important;
+}
+
+.p-select-option.p-select-option-selected {
+  background-color: var(--color-primary-muted) !important;
+  color: var(--ds-brand) !important;
+  font-weight: var(--font-medium) !important;
+}
+
+/* ============================================
+   DatePicker
+   ============================================ */
+.p-datepicker,
+.p-datepicker.p-inputwrapper {
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--border-default) !important;
+  color: var(--text-primary) !important;
+}
+
+.p-datepicker-dropdown {
+  background: transparent !important;
+  border: none !important;
+  color: var(--text-secondary) !important;
+}
+
+.p-datepicker-dropdown:hover {
+  background: var(--color-primary-muted) !important;
+  color: var(--ds-brand) !important;
+}
+
+/* ============================================
+   Tables
+   ============================================ */
+.p-datatable {
+  background: var(--bg-surface) !important;
+
+  .p-datatable-wrapper,
+  .p-datatable-table-wrapper,
+  .p-datatable-table {
+    background: var(--bg-surface) !important;
+  }
+
+  .p-datatable-thead > tr > th {
+    background: var(--bg-base) !important;
+    color: var(--text-primary) !important;
+  }
+
+  .p-datatable-tbody > tr > td {
+    background: var(--bg-surface) !important;
+    color: var(--text-secondary) !important;
+  }
+
+  .p-datatable-header {
+    background: var(--bg-base) !important;
+    color: var(--text-primary) !important;
+  }
+
+  .p-sortable-column.p-highlight {
+    background: color-mix(
+      in srgb,
+      var(--color-primary-muted) 30%,
+      transparent
+    ) !important;
+    color: var(--text-primary) !important;
+  }
+
+  .p-sortable-column.p-highlight:hover {
+    background: color-mix(
+      in srgb,
+      var(--color-primary-muted) 40%,
+      transparent
+    ) !important;
+  }
+
+  &.p-datatable-sm .p-datatable-thead > tr > th {
+    padding: var(--space-3) var(--space-4) !important;
+  }
+
+  &.p-datatable-sm .p-datatable-tbody > tr > td {
+    padding: var(--space-3) var(--space-4) !important;
+  }
+}
+
+/* ============================================
+   Stepper — Design System
+   Base styling for PrimeNG Stepper component.
+   Add .stepper-premium class to p-stepper for
+   this custom look. Projects can extend with
+   completed-step indicators as needed.
+   ============================================ */
+.stepper-premium {
+  --stepper-transition: var(--duration-fast) var(--ease-standard);
+
+  .p-steppanels {
+    position: relative;
+    z-index: 1;
+  }
+
+  .p-steppanel:not([data-p-active="true"]) {
+    display: none;
+  }
+
+  .p-steplist {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    padding-bottom: var(--space-3);
+    margin-bottom: var(--space-2);
+    border-bottom: 1px solid var(--border-default);
+  }
+
+  .p-step {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    min-width: 0;
+
+    &:last-child .p-stepper-separator {
+      display: none;
+    }
+  }
+
+  .p-step-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1-5, 0.375rem);
+    padding: var(--space-1) var(--space-2);
+    border: none;
+    background: transparent;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition:
+      background var(--stepper-transition),
+      color var(--stepper-transition);
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    width: 100%;
+    text-align: left;
+
+    &:hover:not(:disabled) {
+      background: var(--bg-elevated);
+      color: var(--text-secondary);
+    }
+
+    &:focus-visible {
+      outline: none;
+      box-shadow: var(--shadow-focus);
+    }
+
+    &:disabled {
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+  }
+
+  .p-step-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    min-width: 1.75rem;
+    border-radius: var(--radius-full);
+    background: var(--bg-subtle);
+    color: var(--text-muted);
+    font-weight: var(--font-semibold);
+    font-size: var(--text-xs);
+    transition:
+      background var(--stepper-transition),
+      color var(--stepper-transition),
+      transform var(--stepper-transition);
+  }
+
+  .p-step-title {
+    font-weight: var(--font-medium);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .p-step[data-p-active="true"] .p-step-header {
+    color: var(--text-primary);
+  }
+
+  .p-step[data-p-active="true"] .p-step-number {
+    background: var(--ds-brand);
+    color: var(--color-primary-text);
+    transform: scale(1.05);
+  }
+
+  .p-stepper-separator {
+    flex: 1;
+    height: 2px;
+    min-width: var(--space-4);
+    margin: 0 var(--space-2);
+    background: var(--border-default);
+    border-radius: var(--radius-full);
+    transition: background var(--stepper-transition);
+  }
+
+  .p-steppanel-content {
+    position: relative;
+    pointer-events: auto;
+  }
+
+  &.p-stepper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+  }
+
+  .p-stepper-panels {
+    flex: 1;
+    overflow-y: auto;
+    min-height: 0;
+    padding: 0;
+  }
+
+  .p-stepper-nav {
+    display: none !important;
+  }
+}
+
+/* PrimeIcons: font-family override to prevent font-body inheritance */
+.pi,
+i.pi {
+  font-family: primeicons !important;
+  font-style: normal !important;
+}
+
+/* ============================================
+   Dark Mode — Minimal overrides
+   Most components auto-switch via --p-* tokens
+   that reference _variables.scss tokens. Only
+   override here when PrimeNG ignores its own
+   token system (portals, inline styles, etc).
+   ============================================ */
+[data-mode="dark"] {
+  /* Overlay masks — PrimeNG may inject hardcoded rgba */
+  .p-dialog-mask,
+  .p-overlay-mask {
+    background-color: var(--overlay-backdrop) !important;
+  }
+
+  /* Portal overlays — created outside Angular component tree */
+  .p-select-panel,
+  .p-select-overlay,
+  .p-multiselect-panel,
+  .p-datepicker-panel {
+    background-color: var(--bg-surface) !important;
+    border-color: var(--border-default) !important;
+    color: var(--text-primary) !important;
+  }
+
+  /* Dialog — may use inline backgrounds */
+  .p-dialog,
+  .p-dialog-content,
+  .p-dialog-header {
+    background-color: var(--bg-surface) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--border-default) !important;
+  }
+
+  /* Toggle controls — checked state needs brand color enforcement */
+  .p-togglebutton.p-togglebutton-checked,
+  .p-toggleswitch.p-toggleswitch-checked {
+    background-color: var(--ds-brand) !important;
+    border-color: var(--ds-brand) !important;
+  }
+
+  .p-checkbox-box.p-highlight {
+    background-color: var(--ds-brand) !important;
+    border-color: var(--ds-brand) !important;
+  }
+}

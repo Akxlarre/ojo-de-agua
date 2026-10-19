@@ -1,0 +1,42 @@
+/* Design System Tokens */
+@use "./styles/tokens/variables";
+
+/* PrimeNG overrides (design system tokens + toast position) */
+@use "./styles/vendors/primeng-overrides";
+
+/* Layouts */
+@use "./styles/layout/bento-grid";
+@use "./styles/layout/page-shell";
+
+/* Motion — View Transitions API (page navigation) */
+@use "./styles/motion/view-transitions";
+
+/* Typography — Bricolage Grotesque
+   Loaded via <link preconnect> in index.html (NOT @import — avoids render-blocking).
+   Referenced in --font-display / --font-body tokens in _variables.scss. */
+
+/* Bloqueo de scroll (drawer mobile, modales) */
+body.layout-drawer-open,
+body.modal-open {
+  overflow: hidden;
+}
+
+/* Modal overlay wrapper — estilos globales.
+   El div se crea via document.createElement (fuera de encapsulación Angular),
+   por lo que necesita !important para garantizar posicionamiento. */
+.modal-overlay__wrapper {
+  position: fixed !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: auto !important;
+  overflow: auto;
+}
+
+.modal-overlay__wrapper > * {
+  position: fixed !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: auto !important;
+}

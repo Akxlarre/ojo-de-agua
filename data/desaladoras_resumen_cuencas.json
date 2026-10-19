@@ -1,0 +1,681 @@
+[
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_desaladoras": 20,
+    "plantas_en_operacion": 15,
+    "plantas_en_proyecto": 5,
+    "capacidad_total_lps": 17207.3,
+    "capacidad_operacion_lps": 6319.3,
+    "capacidad_total_m3_dia": 1486710.72,
+    "sectores": [
+      "Agua Potable",
+      "Industrial",
+      "Minería",
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Antofagasta Minerals",
+      "BHP",
+      "Codelco",
+      "Compañía Minera Mantos La Luna",
+      "Compañía Regional Aguas Maritimas S.A.",
+      "Electrica Angamos SpA.",
+      "Empresa Eléctrica Angamos S.A.",
+      "Empresa Eléctrica Cochrane Spa",
+      "Engie",
+      "Gasatacama",
+      "Grupo EPM",
+      "Haldeman Mining Company S.A.",
+      "Moly Cop Chile S.A.",
+      "Norgener"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Cramsa",
+        "operador": "Compañía Regional Aguas Maritimas S.A.",
+        "sector": "Multipropósito",
+        "estado": "EIA ingresado",
+        "capacidad_lps": 8000.0
+      },
+      {
+        "nombre": "Planta 0 y ampliaciones EWS y EWSE",
+        "operador": "BHP",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 3858.0
+      },
+      {
+        "nombre": "Planta desaladora Distrito Norte",
+        "operador": "Codelco",
+        "sector": "Minería",
+        "estado": "EIA Aprobado",
+        "capacidad_lps": 1956.0
+      },
+      {
+        "nombre": "Planta Desaladora Norte - Antofagasta",
+        "operador": "Grupo EPM",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 1053.0
+      },
+      {
+        "nombre": "Spence Growth Option (SGO)",
+        "operador": "BHP",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 1000.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 3000.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 259200.0,
+    "sectores": [
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Desala"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta O'Higgins",
+        "operador": "Desala",
+        "sector": "Multipropósito",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 3000.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_desaladoras": 2,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 2,
+    "capacidad_total_lps": 2400.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 207360.0,
+    "sectores": [
+      "Agua Potable",
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Aguas del Valle S.A.",
+      "Oceanus"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Proyecto Azul",
+        "operador": "Oceanus",
+        "sector": "Multipropósito",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 1200.0
+      },
+      {
+        "nombre": "Planta Desaladora Coquimbo",
+        "operador": "Aguas del Valle S.A.",
+        "sector": "Agua Potable",
+        "estado": "EIA no admitido",
+        "capacidad_lps": 1200.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "total_desaladoras": 7,
+    "plantas_en_operacion": 4,
+    "plantas_en_proyecto": 3,
+    "capacidad_total_lps": 2053.0,
+    "capacidad_operacion_lps": 1670.0,
+    "capacidad_total_m3_dia": 177379.2,
+    "sectores": [
+      "Agua Potable",
+      "Minería",
+      "Multipropósito"
+    ],
+    "operadores": [
+      "AGUASCAP",
+      "Capstone",
+      "ECONSSA / Nueva Atacama",
+      "Lundin Mining Corporation",
+      "Minera Mantos Copper",
+      "Seven Seas Water Chile S.A."
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta de Aguas CAP",
+        "operador": "AGUASCAP",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 600.0
+      },
+      {
+        "nombre": "Minera Candelaria",
+        "operador": "Lundin Mining Corporation",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 500.0
+      },
+      {
+        "nombre": "Planta Desaladora de Atacama",
+        "operador": "ECONSSA / Nueva Atacama",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 450.0
+      },
+      {
+        "nombre": "Expansión Mantoverde",
+        "operador": "Capstone",
+        "sector": "Minería",
+        "estado": "En Construcción",
+        "capacidad_lps": 260.0
+      },
+      {
+        "nombre": "Minera Mantoverde",
+        "operador": "Minera Mantos Copper",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 120.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_desaladoras": 3,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 2,
+    "capacidad_total_lps": 1904.1,
+    "capacidad_operacion_lps": 4.1,
+    "capacidad_total_m3_dia": 164514.24,
+    "sectores": [
+      "Agua Potable",
+      "Minería"
+    ],
+    "operadores": [
+      "DOH / Aguas del Altiplano",
+      "Minera Doña Inés de Collahuasi",
+      "Minera Teck"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta Desaladora Collahuasi",
+        "operador": "Minera Doña Inés de Collahuasi",
+        "sector": "Minería",
+        "estado": "En Construcción",
+        "capacidad_lps": 1050.0
+      },
+      {
+        "nombre": "Quebrada Blanca Hipógeno",
+        "operador": "Minera Teck",
+        "sector": "Minería",
+        "estado": "En Construcción",
+        "capacidad_lps": 850.0
+      },
+      {
+        "nombre": "Caleta Chanavayita",
+        "operador": "DOH / Aguas del Altiplano",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 4.1
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 1750.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 151200.0,
+    "sectores": [
+      "Industrial"
+    ],
+    "operadores": [
+      "ENAPAC"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Atacama",
+        "operador": "ENAPAC",
+        "sector": "Industrial",
+        "estado": "EIA Aprobado",
+        "capacidad_lps": 1750.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_desaladoras": 2,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 1470.0,
+    "capacidad_operacion_lps": 70.0,
+    "capacidad_total_m3_dia": 127008.0,
+    "sectores": [
+      "Industrial"
+    ],
+    "operadores": [
+      "Guacolda",
+      "Guacolda Energía S.A."
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Plantas Desaladoras Guacolda",
+        "operador": "Guacolda Energía S.A.",
+        "sector": "Industrial",
+        "estado": "DIA aprobada",
+        "capacidad_lps": 1400.0
+      },
+      {
+        "nombre": "Huasco",
+        "operador": "Guacolda",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 70.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_desaladoras": 3,
+    "plantas_en_operacion": 2,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 1258.0,
+    "capacidad_operacion_lps": 58.0,
+    "capacidad_total_m3_dia": 108691.2,
+    "sectores": [
+      "Industrial",
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Desala",
+      "Eléctrica Campiche SpA",
+      "Eléctrica Ventanas SpA"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta Desaladora Petorca",
+        "operador": "Desala",
+        "sector": "Multipropósito",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 1200.0
+      },
+      {
+        "nombre": "Unidad 4 Ventanas",
+        "operador": "Eléctrica Campiche SpA",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 30.0
+      },
+      {
+        "nombre": "Unidad 3 Ventanas",
+        "operador": "Eléctrica Ventanas SpA",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 28.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 1000.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 86400.0,
+    "sectores": [
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Desala"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Huentelauquén",
+        "operador": "Desala",
+        "sector": "Multipropósito",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 1000.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 1000.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 86400.0,
+    "sectores": [
+      "Multipropósito"
+    ],
+    "operadores": [
+      "Aguas Pacífico S.A."
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Aconcagua",
+        "operador": "Aguas Pacífico S.A.",
+        "sector": "Multipropósito",
+        "estado": "En Construcción",
+        "capacidad_lps": 1000.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 970.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 83808.0,
+    "sectores": [
+      "Minería"
+    ],
+    "operadores": [
+      "Nueva Unión"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Nueva Unión",
+        "operador": "Nueva Unión",
+        "sector": "Minería",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 970.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "total_desaladoras": 2,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 410.0,
+    "capacidad_operacion_lps": 10.0,
+    "capacidad_total_m3_dia": 35424.0,
+    "sectores": [
+      "Agua Potable",
+      "Minería"
+    ],
+    "operadores": [
+      "Aguas San Isidro",
+      "Minera los Pelambres"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Fase inicial Ampliación IV Los Pelambres",
+        "operador": "Minera los Pelambres",
+        "sector": "Minería",
+        "estado": "En Construcción",
+        "capacidad_lps": 400.0
+      },
+      {
+        "nombre": "Pichidangui",
+        "operador": "Aguas San Isidro",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 10.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 0,
+    "plantas_en_proyecto": 1,
+    "capacidad_total_lps": 200.0,
+    "capacidad_operacion_lps": 0.0,
+    "capacidad_total_m3_dia": 17280.0,
+    "sectores": [
+      "Agua Potable"
+    ],
+    "operadores": [
+      "Aguas Altiplano"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta desaladora de Arica",
+        "operador": "Aguas Altiplano",
+        "sector": "Agua Potable",
+        "estado": "EIA en elaboración",
+        "capacidad_lps": 200.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "total_desaladoras": 2,
+    "plantas_en_operacion": 2,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 93.0,
+    "capacidad_operacion_lps": 93.0,
+    "capacidad_total_m3_dia": 8035.2,
+    "sectores": [
+      "Minería"
+    ],
+    "operadores": [
+      "Antofagasta Minerals",
+      "KGHM International"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Minera Sierra Gorda",
+        "operador": "KGHM International",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 63.0
+      },
+      {
+        "nombre": "Minera Antucoya",
+        "operador": "Antofagasta Minerals",
+        "sector": "Minería",
+        "estado": "En operación",
+        "capacidad_lps": 30.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 63.0,
+    "capacidad_operacion_lps": 63.0,
+    "capacidad_total_m3_dia": 5443.2,
+    "sectores": [
+      "Industrial"
+    ],
+    "operadores": [
+      "Methanex"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Cabo Negro",
+        "operador": "Methanex",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 63.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "total_desaladoras": 6,
+    "plantas_en_operacion": 6,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 45.7,
+    "capacidad_operacion_lps": 45.7,
+    "capacidad_total_m3_dia": 3948.48,
+    "sectores": [
+      "Agua Potable",
+      "Industrial"
+    ],
+    "operadores": [
+      "Dirección de Obras Hidráulicas",
+      "Enami",
+      "Grupo EPM",
+      "Minera Las Cenizas"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta J.A Moreno Taltal",
+        "operador": "Enami",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 15.0
+      },
+      {
+        "nombre": "Planta modular 3 Taltal",
+        "operador": "Grupo EPM",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 11.0
+      },
+      {
+        "nombre": "Las Cenizas Taltal - Las Luces",
+        "operador": "Minera Las Cenizas",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 9.3
+      },
+      {
+        "nombre": "Planta modular 2 Taltal",
+        "operador": "Grupo EPM",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 5.0
+      },
+      {
+        "nombre": "Planta modular 1 Taltal",
+        "operador": "Grupo EPM",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 4.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 33.0,
+    "capacidad_operacion_lps": 33.0,
+    "capacidad_total_m3_dia": 2851.2,
+    "sectores": [
+      "Industrial"
+    ],
+    "operadores": [
+      "Colbún"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Central Térmica Santa María",
+        "operador": "Colbún",
+        "sector": "Industrial",
+        "estado": "En operación",
+        "capacidad_lps": 33.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 5.6,
+    "capacidad_operacion_lps": 5.6,
+    "capacidad_total_m3_dia": 483.84,
+    "sectores": [
+      "Agua Potable"
+    ],
+    "operadores": [
+      "DOH"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Comité APR Chungungo",
+        "operador": "DOH",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 5.6
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 2.8,
+    "capacidad_operacion_lps": 2.8,
+    "capacidad_total_m3_dia": 241.92,
+    "sectores": [
+      "Agua Potable"
+    ],
+    "operadores": [
+      "Dirección de Obras Hidráulicas"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Islas Huichas",
+        "operador": "Dirección de Obras Hidráulicas",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 2.8
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "total_desaladoras": 1,
+    "plantas_en_operacion": 1,
+    "plantas_en_proyecto": 0,
+    "capacidad_total_lps": 1.0,
+    "capacidad_operacion_lps": 1.0,
+    "capacidad_total_m3_dia": 86.4,
+    "sectores": [
+      "Agua Potable"
+    ],
+    "operadores": [
+      "Municipalidad de la Ligua"
+    ],
+    "plantas_destacadas": [
+      {
+        "nombre": "Planta La Ligua",
+        "operador": "Municipalidad de la Ligua",
+        "sector": "Agua Potable",
+        "estado": "En operación",
+        "capacidad_lps": 1.0
+      }
+    ]
+  }
+]

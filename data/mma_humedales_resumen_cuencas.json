@@ -1,0 +1,999 @@
+[
+  {
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 481.84,
+    "superficie_protegida_km2": 4.818,
+    "comunas": [
+      "Arica"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0080",
+        "nombre": "Desembocadura del Rio Lluta",
+        "ha": 481.84,
+        "comuna": "Arica",
+        "resolucion": "RE N° 427/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 132.61,
+    "superficie_protegida_km2": 1.326,
+    "comunas": [
+      "Iquique"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0004",
+        "nombre": "Playa Blanca",
+        "ha": 132.61,
+        "comuna": "Iquique",
+        "resolucion": "RE N° 621/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_humedales": 3,
+    "superficie_protegida_ha": 52.6,
+    "superficie_protegida_km2": 0.526,
+    "comunas": [
+      "Antofagasta"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0077",
+        "nombre": "Salar del Carmen",
+        "ha": 51.17,
+        "comuna": "Antofagasta",
+        "resolucion": "RE N° 215/ 2022"
+      },
+      {
+        "codigo": "HU-0012",
+        "nombre": "Aguada La Chimba",
+        "ha": 1.01,
+        "comuna": "Antofagasta",
+        "resolucion": "RE N° 787/ 2021"
+      },
+      {
+        "codigo": "HU-0097",
+        "nombre": "vertiente de la chimba norte",
+        "ha": 0.42,
+        "comuna": "Antofagasta",
+        "resolucion": "RE N° 67/ 2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 98.37,
+    "superficie_protegida_km2": 0.984,
+    "comunas": [
+      "Vallenar"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0048",
+        "nombre": "Paseo Ribereno de Vallenar",
+        "ha": 98.37,
+        "comuna": "Vallenar",
+        "resolucion": "RE N° 1242/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 492.84,
+    "superficie_protegida_km2": 4.928,
+    "comunas": [
+      "La Serena"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0085",
+        "nombre": "Desembocadura del Rio Elqui",
+        "ha": 492.84,
+        "comuna": "La Serena",
+        "resolucion": "RE N° 833/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_humedales": 5,
+    "superficie_protegida_ha": 573.07,
+    "superficie_protegida_km2": 5.731,
+    "comunas": [
+      "La Ligua",
+      "Papudo",
+      "Puchuncaví",
+      "Quintero",
+      "Zapallar"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0008",
+        "nombre": "Los Maitenes - Campiche",
+        "ha": 504.95,
+        "comuna": "Quintero",
+        "resolucion": "RE N° 773/ 2021"
+      },
+      {
+        "codigo": "HU-0007",
+        "nombre": "Humedales de Quirilluca",
+        "ha": 34.52,
+        "comuna": "Puchuncaví",
+        "resolucion": "RE N° 772/ 2021"
+      },
+      {
+        "codigo": "HU-0054",
+        "nombre": "Laguna y Estero Catapilco",
+        "ha": 19.92,
+        "comuna": "Zapallar",
+        "resolucion": "RE N° 1409/ 2021"
+      },
+      {
+        "codigo": "HU-0042",
+        "nombre": "Estuario Los Molles",
+        "ha": 9.22,
+        "comuna": "La Ligua",
+        "resolucion": "RE N° 1160/ 2021"
+      },
+      {
+        "codigo": "HU-0078",
+        "nombre": "Estero Agua Salada",
+        "ha": 4.46,
+        "comuna": "Papudo",
+        "resolucion": "RE N° 392/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_humedales": 4,
+    "superficie_protegida_ha": 308.38,
+    "superficie_protegida_km2": 3.084,
+    "comunas": [
+      "Nogales",
+      "Quillota",
+      "Quintero"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0071",
+        "nombre": "Mayaca",
+        "ha": 234.54,
+        "comuna": "Quillota",
+        "resolucion": "RE N° 1505/ 2021"
+      },
+      {
+        "codigo": "HU-0100",
+        "nombre": "Mantagua",
+        "ha": 41.62,
+        "comuna": "Quintero",
+        "resolucion": "RE N° 81/ 2023"
+      },
+      {
+        "codigo": "HU-0063",
+        "nombre": "Los Juanes",
+        "ha": 27.79,
+        "comuna": "Quintero",
+        "resolucion": "RE N° 1366/ 2021"
+      },
+      {
+        "codigo": "HU-0030",
+        "nombre": "Estero El Litre",
+        "ha": 4.43,
+        "comuna": "Nogales",
+        "resolucion": "RE N° 988/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "total_humedales": 10,
+    "superficie_protegida_ha": 202.37,
+    "superficie_protegida_km2": 2.024,
+    "comunas": [
+      "Algarrobo",
+      "Casablanca",
+      "Limache",
+      "Quilpué",
+      "Quintero",
+      "Valparaíso",
+      "Villa Alemana"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0009",
+        "nombre": "Reserva Natural Municipal Piedras Blancas",
+        "ha": 70.1,
+        "comuna": "Limache",
+        "resolucion": "RE N° 783/ 2021"
+      },
+      {
+        "codigo": "HU-0075",
+        "nombre": "Desembocadura del Rio Aconcagua",
+        "ha": 56.39,
+        "comuna": "Quintero",
+        "resolucion": "RE N° 233/ 2022"
+      },
+      {
+        "codigo": "HU-0108",
+        "nombre": "Laguna El Criquet y Quebrada Honda",
+        "ha": 25.0,
+        "comuna": "Valparaíso",
+        "resolucion": "RE N° 1474/ 2023"
+      },
+      {
+        "codigo": "HU-0053",
+        "nombre": "Estero Quilpue, sector Quilpue",
+        "ha": 20.32,
+        "comuna": "Quilpué",
+        "resolucion": "RE N° 1138/ 2021"
+      },
+      {
+        "codigo": "HU-0052",
+        "nombre": "El Membrillo-Estero El Yugo",
+        "ha": 16.95,
+        "comuna": "Algarrobo",
+        "resolucion": "RE N° 1348/ 2021"
+      },
+      {
+        "codigo": "HU-0020",
+        "nombre": "Estero Quilpue",
+        "ha": 8.36,
+        "comuna": "Villa Alemana",
+        "resolucion": "RE N° 852/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_humedales": 12,
+    "superficie_protegida_ha": 3087.28,
+    "superficie_protegida_km2": 30.873,
+    "comunas": [
+      "Buin",
+      "Cartagena",
+      "Curacaví",
+      "El Monte",
+      "Lo Barnechea",
+      "San José de Maipo",
+      "Talagante",
+      "Vitacura"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0095",
+        "nombre": "Rio Maipo, de Isla de Maipo",
+        "ha": 1773.14,
+        "comuna": "Buin",
+        "resolucion": "RE N° 61/ 2023"
+      },
+      {
+        "codigo": "HU-0055",
+        "nombre": "Rio Mapocho, El Monte-Talagante",
+        "ha": 694.54,
+        "comuna": "El Monte",
+        "resolucion": "RE N° 1452/ 2021"
+      },
+      {
+        "codigo": "HU-0032",
+        "nombre": "El Trapiche",
+        "ha": 339.4,
+        "comuna": "Talagante",
+        "resolucion": "RE N° 1001/ 2021"
+      },
+      {
+        "codigo": "HU-0082",
+        "nombre": "Estero El Puangue",
+        "ha": 118.41,
+        "comuna": "Curacaví",
+        "resolucion": "RE N° 453/ 2022"
+      },
+      {
+        "codigo": "HU-0023",
+        "nombre": "Vegas de Montana",
+        "ha": 96.52,
+        "comuna": "Lo Barnechea",
+        "resolucion": "RE N° 891/ 2021"
+      },
+      {
+        "codigo": "HU-0090",
+        "nombre": "Estero Las Gualtatas",
+        "ha": 21.91,
+        "comuna": "Vitacura",
+        "resolucion": "RE N° 962/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 26.85,
+    "superficie_protegida_km2": 0.269,
+    "comunas": [
+      "Coltauco",
+      "Navidad"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0094",
+        "nombre": "Estero Puren Idahue",
+        "ha": 16.12,
+        "comuna": "Coltauco",
+        "resolucion": "RE N° 60/ 2023"
+      },
+      {
+        "codigo": "HU-0046",
+        "nombre": "La Vega de Pupuya",
+        "ha": 10.73,
+        "comuna": "Navidad",
+        "resolucion": "RE N° 1227/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 348.96,
+    "superficie_protegida_km2": 3.49,
+    "comunas": [
+      "Paredones",
+      "Pichilemu"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0029",
+        "nombre": "Bucalemu",
+        "ha": 279.38,
+        "comuna": "Paredones",
+        "resolucion": "RE N° 982/ 2021"
+      },
+      {
+        "codigo": "HU-0013",
+        "nombre": "Petrel",
+        "ha": 69.58,
+        "comuna": "Pichilemu",
+        "resolucion": "RE N° 797/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "total_humedales": 5,
+    "superficie_protegida_ha": 1082.79,
+    "superficie_protegida_km2": 10.828,
+    "comunas": [
+      "Chillán",
+      "Cobquecura",
+      "Coelemu",
+      "Quillón"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0069",
+        "nombre": "Humedal Itata",
+        "ha": 918.06,
+        "comuna": "Coelemu",
+        "resolucion": "RE N° 1444/ 2021"
+      },
+      {
+        "codigo": "HU-0061",
+        "nombre": "Laguna Avendano",
+        "ha": 156.31,
+        "comuna": "Quillón",
+        "resolucion": "RE N° 1377/ 2021"
+      },
+      {
+        "codigo": "HU-0109",
+        "nombre": "Colmuyao",
+        "ha": 7.49,
+        "comuna": "Cobquecura",
+        "resolucion": "RE N° 1475/ 2023"
+      },
+      {
+        "codigo": "HU-0087",
+        "nombre": "La Cascada",
+        "ha": 0.68,
+        "comuna": "Coelemu",
+        "resolucion": "RE N° 667/ 2022"
+      },
+      {
+        "codigo": "HU-0070",
+        "nombre": "San Miguel",
+        "ha": 0.25,
+        "comuna": "Chillán",
+        "resolucion": "RE N° 29/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 34.74,
+    "superficie_protegida_km2": 0.347,
+    "comunas": [
+      "Concepción"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0101",
+        "nombre": "Humedal Paicavi - Tucapel bajo",
+        "ha": 33.96,
+        "comuna": "Concepción",
+        "resolucion": "RE N° 380/ 2023"
+      },
+      {
+        "codigo": "HU-0081",
+        "nombre": "Pichi Mapu",
+        "ha": 0.78,
+        "comuna": "Concepción",
+        "resolucion": "RE N° 520/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 8.13,
+    "superficie_protegida_km2": 0.081,
+    "comunas": [
+      "Hualqui",
+      "Los Angeles"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0027",
+        "nombre": "El Avellano",
+        "ha": 6.62,
+        "comuna": "Los Angeles",
+        "resolucion": "RE N° 921/ 2021"
+      },
+      {
+        "codigo": "HU-0037",
+        "nombre": "Laguna Rayencura",
+        "ha": 1.51,
+        "comuna": "Hualqui",
+        "resolucion": "RE N° 1091/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "total_humedales": 6,
+    "superficie_protegida_ha": 771.38,
+    "superficie_protegida_km2": 7.714,
+    "comunas": [
+      "Arauco",
+      "Coronel",
+      "Hualpén",
+      "San Pedro de la Paz"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0066",
+        "nombre": "Estero El Molino",
+        "ha": 409.53,
+        "comuna": "Arauco",
+        "resolucion": "RE N° 1387/ 2021"
+      },
+      {
+        "codigo": "HU-0065",
+        "nombre": "Escuadron-Laguna Quinenco",
+        "ha": 179.83,
+        "comuna": "Coronel",
+        "resolucion": "RE N° 1378/ 2021"
+      },
+      {
+        "codigo": "HU-0025",
+        "nombre": "Paso Seco Sur",
+        "ha": 88.4,
+        "comuna": "Coronel",
+        "resolucion": "RE N° 920/ 2021"
+      },
+      {
+        "codigo": "HU-0038",
+        "nombre": "Boca Maule",
+        "ha": 65.04,
+        "comuna": "Coronel",
+        "resolucion": "RE N° 1137/ 2021"
+      },
+      {
+        "codigo": "HU-0102",
+        "nombre": "Humedal Price",
+        "ha": 27.0,
+        "comuna": "Hualpén",
+        "resolucion": "RE N° 378/ 2023"
+      },
+      {
+        "codigo": "HU-0086",
+        "nombre": "Bayona del Valle",
+        "ha": 1.58,
+        "comuna": "San Pedro de la Paz",
+        "resolucion": "RE N° 672/ 2022"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "total_humedales": 6,
+    "superficie_protegida_ha": 93.02,
+    "superficie_protegida_km2": 0.93,
+    "comunas": [
+      "Arauco",
+      "Cañete",
+      "Lebu"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0079",
+        "nombre": "Curaquilla",
+        "ha": 79.83,
+        "comuna": "Arauco",
+        "resolucion": "RE N° 380/ 2022"
+      },
+      {
+        "codigo": "HU-0064",
+        "nombre": "La Isla",
+        "ha": 4.66,
+        "comuna": "Arauco",
+        "resolucion": "RE N° 1388/ 2021"
+      },
+      {
+        "codigo": "HU-0039",
+        "nombre": "Lebu Norte",
+        "ha": 2.81,
+        "comuna": "Lebu",
+        "resolucion": "RE N° 1157/ 2021"
+      },
+      {
+        "codigo": "HU-0021",
+        "nombre": "Laguna Amalia",
+        "ha": 2.33,
+        "comuna": "Lebu",
+        "resolucion": "RE N° 879/ 2021"
+      },
+      {
+        "codigo": "HU-0022",
+        "nombre": "Laguna Santa Fe",
+        "ha": 2.27,
+        "comuna": "Lebu",
+        "resolucion": "RE N° 898/ 2021"
+      },
+      {
+        "codigo": "HU-0035",
+        "nombre": "Cuatro Tubos",
+        "ha": 1.12,
+        "comuna": "Cañete",
+        "resolucion": "RE N° 1090/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_humedales": 7,
+    "superficie_protegida_ha": 408.45,
+    "superficie_protegida_km2": 4.085,
+    "comunas": [
+      "Padre Las Casas",
+      "Temuco",
+      "Traiguén"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0016",
+        "nombre": "Rio Cautin-Sector Antumalen",
+        "ha": 194.07,
+        "comuna": "Padre Las Casas",
+        "resolucion": "RE N° 814/ 2021"
+      },
+      {
+        "codigo": "HU-0018",
+        "nombre": "Labranza Alto-Camino Mollulco",
+        "ha": 78.06,
+        "comuna": "Temuco",
+        "resolucion": "RE N° 816/ 2021"
+      },
+      {
+        "codigo": "HU-0105",
+        "nombre": "Humedal Estero Coihueco",
+        "ha": 57.9,
+        "comuna": "Temuco",
+        "resolucion": "RE N° 1431/ 2023"
+      },
+      {
+        "codigo": "HU-0017",
+        "nombre": "Laguna Temuco",
+        "ha": 52.24,
+        "comuna": "Temuco",
+        "resolucion": "RE N° 815/ 2021"
+      },
+      {
+        "codigo": "HU-0011",
+        "nombre": "Estero Lircay",
+        "ha": 22.94,
+        "comuna": "Temuco",
+        "resolucion": "RE N° 785/ 2021"
+      },
+      {
+        "codigo": "HU-0028",
+        "nombre": "Las Obras",
+        "ha": 2.72,
+        "comuna": "Traiguén",
+        "resolucion": "RE N° 926/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 994.73,
+    "superficie_protegida_km2": 9.947,
+    "comunas": [
+      "Pucón",
+      "Villarrica"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0084",
+        "nombre": "La Poza y Delta del Trancura, Lago Villarrica",
+        "ha": 804.88,
+        "comuna": "Pucón",
+        "resolucion": "RE N° 580/ 2022"
+      },
+      {
+        "codigo": "HU-0057",
+        "nombre": "Mallolafquen, Lago Villarrica",
+        "ha": 189.85,
+        "comuna": "Villarrica",
+        "resolucion": "RE N° 1410/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_humedales": 6,
+    "superficie_protegida_ha": 930.97,
+    "superficie_protegida_km2": 9.31,
+    "comunas": [
+      "Los Lagos",
+      "Valdivia"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0040",
+        "nombre": "Bosque Miraflores-Las Mulatas-Guacamayo",
+        "ha": 387.57,
+        "comuna": "Valdivia",
+        "resolucion": "RE N° 1159/ 2021"
+      },
+      {
+        "codigo": "HU-0041",
+        "nombre": "Sistema de Humedales Urbanos Sector Isla Teja",
+        "ha": 373.22,
+        "comuna": "Valdivia",
+        "resolucion": "RE N° 1158/ 2021"
+      },
+      {
+        "codigo": "HU-0050",
+        "nombre": "Angachilla, Estero Catrico",
+        "ha": 126.09,
+        "comuna": "Valdivia",
+        "resolucion": "RE N° 1337/ 2021"
+      },
+      {
+        "codigo": "HU-0043",
+        "nombre": "Catrico",
+        "ha": 29.93,
+        "comuna": "Valdivia",
+        "resolucion": "RE N° 1236/ 2021"
+      },
+      {
+        "codigo": "HU-0047",
+        "nombre": "Krahmer",
+        "ha": 9.02,
+        "comuna": "Valdivia",
+        "resolucion": "RE N° 1235/ 2021"
+      },
+      {
+        "codigo": "HU-0026",
+        "nombre": "Collilelfu-Equil",
+        "ha": 5.14,
+        "comuna": "Los Lagos",
+        "resolucion": "RE N° 922/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_humedales": 4,
+    "superficie_protegida_ha": 63.79,
+    "superficie_protegida_km2": 0.638,
+    "comunas": [
+      "Osorno",
+      "Puerto Octay",
+      "Puyehue"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0067",
+        "nombre": "Las Quemas",
+        "ha": 41.09,
+        "comuna": "Osorno",
+        "resolucion": "RE N° 0049/ 2022"
+      },
+      {
+        "codigo": "HU-0092",
+        "nombre": "Sistema de Humedales Ovejeria",
+        "ha": 18.79,
+        "comuna": "Osorno",
+        "resolucion": "RE N° 1305/ 2022"
+      },
+      {
+        "codigo": "HU-0024",
+        "nombre": "Villa El Lago",
+        "ha": 3.14,
+        "comuna": "Puerto Octay",
+        "resolucion": "RE N° 919/ 2021"
+      },
+      {
+        "codigo": "HU-0099",
+        "nombre": "Costanera de puyehue",
+        "ha": 0.77,
+        "comuna": "Puyehue",
+        "resolucion": "RE N° 83/ 2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "total_humedales": 12,
+    "superficie_protegida_ha": 251.52,
+    "superficie_protegida_km2": 2.515,
+    "comunas": [
+      "Calbuco",
+      "Frutillar",
+      "Llanquihue",
+      "Puerto Montt",
+      "Puerto Varas"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0034",
+        "nombre": "Caicaen",
+        "ha": 101.87,
+        "comuna": "Calbuco",
+        "resolucion": "RE N° 1029/ 2021"
+      },
+      {
+        "codigo": "HU-0062",
+        "nombre": "Rupallan",
+        "ha": 64.47,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 1407/ 2021"
+      },
+      {
+        "codigo": "HU-0059",
+        "nombre": "Antinir",
+        "ha": 41.62,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 1406/ 2021"
+      },
+      {
+        "codigo": "HU-0033",
+        "nombre": "San Rafael",
+        "ha": 25.78,
+        "comuna": "Calbuco",
+        "resolucion": "RE N° 1015/ 2021"
+      },
+      {
+        "codigo": "HU-0098",
+        "nombre": "luis ebel",
+        "ha": 6.24,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 84/ 2023"
+      },
+      {
+        "codigo": "HU-0045",
+        "nombre": "Quebrada Gramado",
+        "ha": 2.65,
+        "comuna": "Puerto Varas",
+        "resolucion": "RE N° 1226/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "total_humedales": 3,
+    "superficie_protegida_ha": 284.74,
+    "superficie_protegida_km2": 2.847,
+    "comunas": [
+      "Puerto Montt"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0060",
+        "nombre": "Valle Volcanes",
+        "ha": 189.35,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 1408/ 2021"
+      },
+      {
+        "codigo": "HU-0058",
+        "nombre": "Mallinco Abtao Lawal",
+        "ha": 93.96,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 1405/ 2021"
+      },
+      {
+        "codigo": "HU-0107",
+        "nombre": "Dos Esteros",
+        "ha": 1.43,
+        "comuna": "Puerto Montt",
+        "resolucion": "RE N° 1432/ 2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "Cuenca Río Puelo",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 551.51,
+    "superficie_protegida_km2": 5.515,
+    "comunas": [
+      "Hualaihué"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0110",
+        "nombre": "Sistema de Humedales Hornopiren",
+        "ha": 551.51,
+        "comuna": "Hualaihué",
+        "resolucion": "RE N°0093/ 2024"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_humedales": 5,
+    "superficie_protegida_ha": 147.13,
+    "superficie_protegida_km2": 1.471,
+    "comunas": [
+      "Ancud",
+      "Calbuco",
+      "Castro",
+      "Quellón"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0083",
+        "nombre": "Gamboa",
+        "ha": 62.89,
+        "comuna": "Castro",
+        "resolucion": "RE N° 445/ 2022"
+      },
+      {
+        "codigo": "HU-0010",
+        "nombre": "Circuito Humedales Pudeto Bajo",
+        "ha": 37.25,
+        "comuna": "Ancud",
+        "resolucion": "RE N° 784/ 2021"
+      },
+      {
+        "codigo": "HU-0089",
+        "nombre": "Ten Ten",
+        "ha": 36.33,
+        "comuna": "Castro",
+        "resolucion": "RE N° 885/ 2022"
+      },
+      {
+        "codigo": "HU-0036",
+        "nombre": "Pargua",
+        "ha": 5.56,
+        "comuna": "Calbuco",
+        "resolucion": "RE N° 1037/ 2021"
+      },
+      {
+        "codigo": "HU-0056",
+        "nombre": "Estero Quellon",
+        "ha": 5.1,
+        "comuna": "Quellón",
+        "resolucion": "RE N° 1260/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 65.63,
+    "superficie_protegida_km2": 0.656,
+    "comunas": [
+      "Río Ibáñez"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0103",
+        "nombre": "Vientos del Chelenko",
+        "ha": 65.63,
+        "comuna": "Río Ibáñez",
+        "resolucion": "RE N° 1088/ 2023"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_humedales": 2,
+    "superficie_protegida_ha": 109.28,
+    "superficie_protegida_km2": 1.093,
+    "comunas": [
+      "Punta Arenas"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0051",
+        "nombre": "Tres Puentes",
+        "ha": 104.94,
+        "comuna": "Punta Arenas",
+        "resolucion": "RE N° 1349/ 2021"
+      },
+      {
+        "codigo": "HU-0005",
+        "nombre": "Parque Maria Behety",
+        "ha": 4.34,
+        "comuna": "Punta Arenas",
+        "resolucion": "RE N° 648/ 2021"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "total_humedales": 1,
+    "superficie_protegida_ha": 3.61,
+    "superficie_protegida_km2": 0.036,
+    "comunas": [
+      "Porvenir"
+    ],
+    "humedales_destacados": [
+      {
+        "codigo": "HU-0091",
+        "nombre": "Porvenir",
+        "ha": 3.61,
+        "comuna": "Porvenir",
+        "resolucion": "RE N° 1205/ 2022"
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "canonical_name": "Junta de Vigilancia",
+    "bounded_context": "OUA",
+    "definition": "Organización de usuarios que administra y distribuye las aguas de un cauce natural (río o estero) entre los canales matrices según sus títulos de dominio.",
+    "forbidden_synonyms": ["comite de rio", "asociacion de rio", "junta de vecinos del rio", "directorio fluvial"],
+    "allowed_abbreviations": ["JV"],
+    "related_terms": ["Seccion de Rio", "Bocatoma", "Asociacion de Canalistas", "Prorrateo"]
+  },
+  {
+    "canonical_name": "Asociación de Canalistas",
+    "bounded_context": "OUA",
+    "definition": "Organización de usuarios con personalidad jurídica que administra un canal artificial matriz y distribuye sus aguas entre los accionistas.",
+    "forbidden_synonyms": ["club de regantes", "empresa de canales", "sindicato de canalistas"],
+    "allowed_abbreviations": ["AC"],
+    "related_terms": ["Canal Matriz", "Celador", "Accionista", "Marco Partidor"]
+  },
+  {
+    "canonical_name": "Comunidad de Aguas",
+    "bounded_context": "OUA",
+    "definition": "Organización que administra canales secundarios, derivados o pozos subterráneos comunes entre dos o más comuneros.",
+    "forbidden_synonyms": ["comite de pozo", "grupo de regantes", "comunidad de regantes informal"],
+    "allowed_abbreviations": ["CA"],
+    "related_terms": ["Canal Derivado", "Comunero"]
+  },
+  {
+    "canonical_name": "Derecho de Aprovechamiento de Aguas",
+    "bounded_context": "Legal",
+    "definition": "Derecho real administrativo que consiste en el uso y goce de las aguas superficiales o subterráneas conforme a la ley (Código de Aguas).",
+    "forbidden_synonyms": ["propiedad de agua", "titulo de compra de agua", "contrato de agua", "concesion comercial de agua"],
+    "allowed_abbreviations": ["DAA"],
+    "related_terms": ["CPA", "CBR", "Caudal L/s", "Tipo Consuntivo"]
+  },
+  {
+    "canonical_name": "Celador",
+    "bounded_context": "Operacion",
+    "definition": "Operador de campo encargado de la inspección de cauces, maniobra física de compuertas y vigilancia contra extracciones ilegales bajo las órdenes del Repartidor General.",
+    "forbidden_synonyms": ["guardia de compuerta", "portero del canal", "sereno del agua", "cuidador de compuertas"],
+    "allowed_abbreviations": [],
+    "related_terms": ["Orden de Turno", "Bocatoma", "Compuerta"]
+  },
+  {
+    "canonical_name": "Repartidor General",
+    "bounded_context": "Operacion",
+    "definition": "Oficial técnico o juez de aguas designado por el directorio de la OUA para dictaminar los turnos y coordinar a los celadores.",
+    "forbidden_synonyms": ["gerente de agua", "jefe de turnos", "administrador del rio"],
+    "allowed_abbreviations": [],
+    "related_terms": ["Celador", "Orden de Turno", "Prorrateo"]
+  },
+  {
+    "canonical_name": "Marco Partidor",
+    "bounded_context": "Fisico",
+    "definition": "Obra hidráulica estática que divide el flujo de un canal en proporciones fijas correspondientes a las acciones de los canales derivados sin piezas móviles.",
+    "forbidden_synonyms": ["divisor de canal", "partidor mecanico", "separador de agua"],
+    "allowed_abbreviations": [],
+    "related_terms": ["Canal Matriz", "Canal Derivado", "Accion de Agua"]
+  },
+  {
+    "canonical_name": "Acción de Agua",
+    "bounded_context": "OUA",
+    "definition": "Cuota alícuota en que se divide el caudal variable de una OUA. No equivale a un caudal fijo en L/s, sino a una proporción del caudal circulante.",
+    "forbidden_synonyms": ["litro por segundo de la junta", "cuota fija en litros", "accion comercial"],
+    "allowed_abbreviations": ["regador"],
+    "related_terms": ["Prorrateo", "Marco Partidor"]
+  },
+  {
+    "canonical_name": "Bocatoma",
+    "bounded_context": "Fisico",
+    "definition": "Estructura de hormigón o escollera situada en la ribera del cauce natural para desviar parte del agua hacia un canal de riego o conducción.",
+    "forbidden_synonyms": ["toma de agua", "grifo de canal", "entrada de tubo"],
+    "allowed_abbreviations": [],
+    "related_terms": ["Rio", "Canal Matriz", "MEE", "Compuerta"]
+  },
+  {
+    "canonical_name": "Monitoreo de Extracciones Efectivas",
+    "bounded_context": "Legal",
+    "definition": "Sistema telemétrico homologado por la DGA para registrar y transmitir en tiempo real caudales y volúmenes extraídos en obras de captación.",
+    "forbidden_synonyms": ["telemetria casera", "medidor domiciliario", "sensor privado sin DGA"],
+    "allowed_abbreviations": ["MEE"],
+    "related_terms": ["DGA", "Bocatoma", "Resolucion DGA"]
+  },
+  {
+    "canonical_name": "Caudal Ecológico",
+    "bounded_context": "Legal",
+    "definition": "Caudal mínimo que debe mantenerse en el cauce natural para proteger los ecosistemas acuáticos y la biodiversidad.",
+    "forbidden_synonyms": ["agua que sobra", "caudal residual", "desecho de rio"],
+    "allowed_abbreviations": [],
+    "related_terms": ["Balance Hidrico", "Decreto de Escasez"]
+  }
+]

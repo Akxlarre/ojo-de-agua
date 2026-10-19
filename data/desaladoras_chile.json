@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "desaladora_1",
+    "nombre": "Angamos",
+    "operador": "Electrica Angamos SpA.",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 56.0,
+    "capacidad_m3_dia": 4838.4,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.065222,
+      "longitud": -70.368657
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_2",
+    "nombre": "Planta 0 y ampliaciones EWS y EWSE",
+    "operador": "BHP",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 3858.0,
+    "capacidad_m3_dia": 333331.2,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.75,
+      "longitud": -70.466667
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_3",
+    "nombre": "Michilla",
+    "operador": "Haldeman Mining Company S.A.",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 70.0,
+    "capacidad_m3_dia": 6048.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.687819,
+      "longitud": -70.195451
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_4",
+    "nombre": "Distrito Centinela (Esperanza + El Tesoro)",
+    "operador": "Antofagasta Minerals",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 50.0,
+    "capacidad_m3_dia": 4320.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.731038,
+      "longitud": -70.279619
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_5",
+    "nombre": "Minera Sierra Gorda",
+    "operador": "KGHM International",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 63.0,
+    "capacidad_m3_dia": 5443.2,
+    "region": "Antofagasta",
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "coordenadas": {
+      "latitud": -22.87546,
+      "longitud": -69.361386
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_6",
+    "nombre": "Minera Antucoya",
+    "operador": "Antofagasta Minerals",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 30.0,
+    "capacidad_m3_dia": 2592.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "coordenadas": {
+      "latitud": -22.63253,
+      "longitud": -69.878571
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_7",
+    "nombre": "Planta Desaladora Norte - Antofagasta",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1053.0,
+    "capacidad_m3_dia": 90979.2,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.542946,
+      "longitud": -70.399103
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_8",
+    "nombre": "Desaladora Tocopilla",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 75.0,
+    "capacidad_m3_dia": 6480.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.066667,
+      "longitud": -70.183333
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_9",
+    "nombre": "Spence Growth Option (SGO)",
+    "operador": "BHP",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1000.0,
+    "capacidad_m3_dia": 86400.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.036586,
+      "longitud": -70.342505
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_10",
+    "nombre": "CTT Tocopilla",
+    "operador": "Engie",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC / OR",
+    "capacidad_lps": 22.0,
+    "capacidad_m3_dia": 1900.8,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.1,
+      "longitud": -70.2
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_11",
+    "nombre": "Mejillones",
+    "operador": "Gasatacama",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 30.0,
+    "capacidad_m3_dia": 2592.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.090696,
+      "longitud": -70.417406
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_12",
+    "nombre": "Tocopilla",
+    "operador": "Norgener",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 25.0,
+    "capacidad_m3_dia": 2160.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.083333,
+      "longitud": -70.2
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_13",
+    "nombre": "Mejillones",
+    "operador": "Empresa Eléctrica Cochrane Spa",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "TVC",
+    "capacidad_lps": 56.0,
+    "capacidad_m3_dia": 4838.4,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.06298,
+      "longitud": -70.365926
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_14",
+    "nombre": "Minera Mantoverde",
+    "operador": "Minera Mantos Copper",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 120.0,
+    "capacidad_m3_dia": 10368.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -26.541036,
+      "longitud": -70.695147
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_15",
+    "nombre": "Planta Desaladora de Atacama",
+    "operador": "ECONSSA / Nueva Atacama",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 450.0,
+    "capacidad_m3_dia": 38880.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.066667,
+      "longitud": -70.85
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_16",
+    "nombre": "Planta de Aguas CAP",
+    "operador": "AGUASCAP",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 600.0,
+    "capacidad_m3_dia": 51840.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -26.86079,
+      "longitud": -70.81192
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_17",
+    "nombre": "Minera Candelaria",
+    "operador": "Lundin Mining Corporation",
+    "sector_destino": "Minería",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 500.0,
+    "capacidad_m3_dia": 43200.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.053868,
+      "longitud": -70.844209
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_18",
+    "nombre": "Huasco",
+    "operador": "Guacolda",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 70.0,
+    "capacidad_m3_dia": 6048.0,
+    "region": "Atacama",
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "coordenadas": {
+      "latitud": -28.463594,
+      "longitud": -71.25575
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_19",
+    "nombre": "Unidad 3 Ventanas",
+    "operador": "Eléctrica Ventanas SpA",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 28.0,
+    "capacidad_m3_dia": 2419.2,
+    "region": "Valparaiso",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.69816,
+      "longitud": -71.45896
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_20",
+    "nombre": "Unidad 4 Ventanas",
+    "operador": "Eléctrica Campiche SpA",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "TVC",
+    "capacidad_lps": 30.0,
+    "capacidad_m3_dia": 2592.0,
+    "region": "Valparaiso",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.70848,
+      "longitud": -71.46748
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_21",
+    "nombre": "Central Térmica Santa María",
+    "operador": "Colbún",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 33.0,
+    "capacidad_m3_dia": 2851.2,
+    "region": "Bio Bio",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.033333,
+      "longitud": -73.133333
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_22",
+    "nombre": "Cabo Negro",
+    "operador": "Methanex",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Térmica / OR",
+    "capacidad_lps": 63.0,
+    "capacidad_m3_dia": 5443.2,
+    "region": "Magallanes",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas": {
+      "latitud": -52.931756,
+      "longitud": -70.808521
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_23",
+    "nombre": "Planta Desaladora Collahuasi",
+    "operador": "Minera Doña Inés de Collahuasi",
+    "sector_destino": "Minería",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1050.0,
+    "capacidad_m3_dia": 90720.0,
+    "region": "Tarapacá",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.80849,
+      "longitud": -70.20491
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_24",
+    "nombre": "Quebrada Blanca Hipógeno",
+    "operador": "Minera Teck",
+    "sector_destino": "Minería",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 850.0,
+    "capacidad_m3_dia": 73440.0,
+    "region": "Tarapacá",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.78237,
+      "longitud": -70.18884
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_25",
+    "nombre": "Expansión Mantoverde",
+    "operador": "Capstone",
+    "sector_destino": "Minería",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 260.0,
+    "capacidad_m3_dia": 22464.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -26.541036,
+      "longitud": -70.695147
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_26",
+    "nombre": "Fase inicial Ampliación IV Los Pelambres",
+    "operador": "Minera los Pelambres",
+    "sector_destino": "Minería",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 400.0,
+    "capacidad_m3_dia": 34560.0,
+    "region": "Coquimbo",
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "coordenadas": {
+      "latitud": -31.882004,
+      "longitud": -71.497481
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_27",
+    "nombre": "Planta Desaladora Antofagasta",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 634.0,
+    "capacidad_m3_dia": 54777.6,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.542946,
+      "longitud": -70.399103
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_28",
+    "nombre": "Aconcagua",
+    "operador": "Aguas Pacífico S.A.",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "En Construcción",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1000.0,
+    "capacidad_m3_dia": 86400.0,
+    "region": "Valparaiso",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.77906,
+      "longitud": -71.50027
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_29",
+    "nombre": "Planta desaladora Distrito Norte",
+    "operador": "Codelco",
+    "sector_destino": "Minería",
+    "estado_operativo": "EIA Aprobado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1956.0,
+    "capacidad_m3_dia": 168998.4,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.199855,
+      "longitud": -70.22113
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_30",
+    "nombre": "Distrito Minero Centinela Etapas I y II",
+    "operador": "Antofagasta Minerals",
+    "sector_destino": "Minería",
+    "estado_operativo": "EIA Aprobado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 140.0,
+    "capacidad_m3_dia": 12096.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.731038,
+      "longitud": -70.279619
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_31",
+    "nombre": "Santo Domingo",
+    "operador": "Capstone",
+    "sector_destino": "Minería",
+    "estado_operativo": "EIA Aprobado",
+    "es_operativa": false,
+    "tecnologia": "Ósmosis Inversa",
+    "capacidad_lps": 30.0,
+    "capacidad_m3_dia": 2592.0,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -26.6,
+      "longitud": -70.7
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_32",
+    "nombre": "Planta desaladora de Arica",
+    "operador": "Aguas Altiplano",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 200.0,
+    "capacidad_m3_dia": 17280.0,
+    "region": "Arica",
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "coordenadas": {
+      "latitud": -18.5,
+      "longitud": -70.316667
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_33",
+    "nombre": "Ampliación Angamos",
+    "operador": "Empresa Eléctrica Angamos S.A.",
+    "sector_destino": "Industrial",
+    "estado_operativo": "DIA aprobado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 158.0,
+    "capacidad_m3_dia": 13651.2,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.065222,
+      "longitud": -70.368657
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_34",
+    "nombre": "Cramsa",
+    "operador": "Compañía Regional Aguas Maritimas S.A.",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "EIA ingresado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 8000.0,
+    "capacidad_m3_dia": 691200.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.852499,
+      "longitud": -70.505618
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_35",
+    "nombre": "Desaladora Bahía Caldera",
+    "operador": "Seven Seas Water Chile S.A.",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "DIA aprobado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 93.0,
+    "capacidad_m3_dia": 8035.2,
+    "region": "Atacama",
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.05266,
+      "longitud": -70.80807
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_36",
+    "nombre": "Atacama",
+    "operador": "ENAPAC",
+    "sector_destino": "Industrial",
+    "estado_operativo": "EIA Aprobado",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1750.0,
+    "capacidad_m3_dia": 151200.0,
+    "region": "Atacama",
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "coordenadas": {
+      "latitud": -27.23817,
+      "longitud": -70.94953
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_37",
+    "nombre": "Nueva Unión",
+    "operador": "Nueva Unión",
+    "sector_destino": "Minería",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 970.0,
+    "capacidad_m3_dia": 83808.0,
+    "region": "Atacama",
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "coordenadas": {
+      "latitud": -28.83955,
+      "longitud": -71.44547
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_38",
+    "nombre": "Plantas Desaladoras Guacolda",
+    "operador": "Guacolda Energía S.A.",
+    "sector_destino": "Industrial",
+    "estado_operativo": "DIA aprobada",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1400.0,
+    "capacidad_m3_dia": 120960.0,
+    "region": "Atacama",
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "coordenadas": {
+      "latitud": -28.463594,
+      "longitud": -71.25575
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_39",
+    "nombre": "Proyecto Azul",
+    "operador": "Oceanus",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1200.0,
+    "capacidad_m3_dia": 103680.0,
+    "region": "Coquimbo",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -30.029489,
+      "longitud": -71.386012
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_40",
+    "nombre": "Planta Desaladora Coquimbo",
+    "operador": "Aguas del Valle S.A.",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "EIA no admitido",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1200.0,
+    "capacidad_m3_dia": 103680.0,
+    "region": "Coquimbo",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -30.01946,
+      "longitud": -71.387247
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_41",
+    "nombre": "Huentelauquén",
+    "operador": "Desala",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1000.0,
+    "capacidad_m3_dia": 86400.0,
+    "region": "Coquimbo",
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "coordenadas": {
+      "latitud": -31.64212,
+      "longitud": -71.551449
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_42",
+    "nombre": "Planta Desaladora Petorca",
+    "operador": "Desala",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1200.0,
+    "capacidad_m3_dia": 103680.0,
+    "region": "Valparaíso",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.46388,
+      "longitud": -71.43143
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_43",
+    "nombre": "Planta O'Higgins",
+    "operador": "Desala",
+    "sector_destino": "Multipropósito",
+    "estado_operativo": "EIA en elaboración",
+    "es_operativa": false,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 3000.0,
+    "capacidad_m3_dia": 259200.0,
+    "region": "Ohiggins",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.25272,
+      "longitud": -71.98157
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_44",
+    "nombre": "Caleta Chanavayita",
+    "operador": "DOH / Aguas del Altiplano",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 4.1,
+    "capacidad_m3_dia": 354.24,
+    "region": "Tarapacá",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.699564,
+      "longitud": -70.187292
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_45",
+    "nombre": "Planta modular 1 Taltal",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 4.0,
+    "capacidad_m3_dia": 345.6,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.392178,
+      "longitud": -70.473942
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_46",
+    "nombre": "Planta modular 2 Taltal",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 5.0,
+    "capacidad_m3_dia": 432.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.392178,
+      "longitud": -70.473942
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_47",
+    "nombre": "Planta modular 3 Taltal",
+    "operador": "Grupo EPM",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 11.0,
+    "capacidad_m3_dia": 950.4,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.392178,
+      "longitud": -70.473942
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_48",
+    "nombre": "Mantos de la Luna",
+    "operador": "Compañía Minera Mantos La Luna",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Ósmosis Inversa",
+    "capacidad_lps": 5.0,
+    "capacidad_m3_dia": 432.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -22.383052,
+      "longitud": -70.180253
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_49",
+    "nombre": "Planta J.A Moreno Taltal",
+    "operador": "Enami",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "-",
+    "capacidad_lps": 15.0,
+    "capacidad_m3_dia": 1296.0,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.398655,
+      "longitud": -70.472547
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_50",
+    "nombre": "Planta Desaladora Moly-Cop",
+    "operador": "Moly Cop Chile S.A.",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Ósmosis Inversa",
+    "capacidad_lps": 4.3,
+    "capacidad_m3_dia": 371.52,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.084956,
+      "longitud": -70.403472
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_51",
+    "nombre": "CTA Mejillones",
+    "operador": "Engie",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 9.0,
+    "capacidad_m3_dia": 777.6,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.087841,
+      "longitud": -70.411231
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_52",
+    "nombre": "CTM Mejillones",
+    "operador": "Engie",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "MVC",
+    "capacidad_lps": 6.0,
+    "capacidad_m3_dia": 518.4,
+    "region": "Antofagasta",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.087841,
+      "longitud": -70.411231
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_53",
+    "nombre": "Paposo",
+    "operador": "Dirección de Obras Hidráulicas",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1.4,
+    "capacidad_m3_dia": 120.96,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.009709,
+      "longitud": -70.467055
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_54",
+    "nombre": "Las Cenizas Taltal - Las Luces",
+    "operador": "Minera Las Cenizas",
+    "sector_destino": "Industrial",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "-",
+    "capacidad_lps": 9.3,
+    "capacidad_m3_dia": 803.52,
+    "region": "Antofagasta",
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "coordenadas": {
+      "latitud": -25.63365,
+      "longitud": -70.633595
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_55",
+    "nombre": "Comité APR Chungungo",
+    "operador": "DOH",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 5.6,
+    "capacidad_m3_dia": 483.84,
+    "region": "Coquimbo",
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "coordenadas": {
+      "latitud": -29.451435,
+      "longitud": -71.3056
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_56",
+    "nombre": "Pichidangui",
+    "operador": "Aguas San Isidro",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 10.0,
+    "capacidad_m3_dia": 864.0,
+    "region": "Coquimbo",
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "coordenadas": {
+      "latitud": -32.153273,
+      "longitud": -71.510889
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_57",
+    "nombre": "Planta La Ligua",
+    "operador": "Municipalidad de la Ligua",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 1.0,
+    "capacidad_m3_dia": 86.4,
+    "region": "Valparaiso",
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "coordenadas": {
+      "latitud": -32.288842,
+      "longitud": -71.474187
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  },
+  {
+    "id": "desaladora_58",
+    "nombre": "Islas Huichas",
+    "operador": "Dirección de Obras Hidráulicas",
+    "sector_destino": "Agua Potable",
+    "estado_operativo": "En operación",
+    "es_operativa": true,
+    "tecnologia": "Osmosis Reversa",
+    "capacidad_lps": 2.8,
+    "capacidad_m3_dia": 241.92,
+    "region": "Aysen",
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "coordenadas": {
+      "latitud": -45.154443,
+      "longitud": -73.521462
+    },
+    "fuente_oficial": "ACADES / MOP (Catastro de Plantas Desaladoras de Chile)"
+  }
+]

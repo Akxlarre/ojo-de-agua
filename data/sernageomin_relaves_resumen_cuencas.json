@@ -1,0 +1,1922 @@
+[
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_relaves": 141,
+    "relaves_activos": 33,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 106,
+    "volumen_total_actual_m3": 183055935.33,
+    "volumen_total_millones_m3": 183.06,
+    "tonelaje_total_actual": 258238845.0,
+    "operadores": [
+      "ALEJANDRO BOU BOU",
+      "AQUILES GONZALEZ GARCIA",
+      "AURORA IRENE VILLABLANCA GOMEZ",
+      "CARLOS VALDIVIA",
+      "CEMIN S.C.M.",
+      "CHRISTIAN GUERRA ARAYA",
+      "CIA. CERRO CENTINELA",
+      "CIA. MINERA TAMAYA"
+    ],
+    "total_operadores": 66,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0023-4N",
+        "faena": "TECK-CDA",
+        "instalacion": "HIPOGENO",
+        "titular": "CIA. MINERA TECK CDA",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 170305774.0
+      },
+      {
+        "codigo": "0528-4N",
+        "faena": "FAENA PONCE",
+        "instalacion": "PONCE 6",
+        "titular": "SLM NANCY PRIMERA (TOMAS PONCE)",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 51762.0
+      },
+      {
+        "codigo": "0019-4N",
+        "faena": "PLANTA OVALLE",
+        "instalacion": "TRANQUE 1",
+        "titular": "ENAMI",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0020-4N",
+        "faena": "PLANTA OVALLE",
+        "instalacion": "TRANQUE 2",
+        "titular": "ENAMI",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0267-4N",
+        "faena": "PLANTAS EL PINGO Y SANTA MARIA",
+        "instalacion": "RELAVES ANTIGUOS",
+        "titular": "MINERA LAS JUNTAS (EX MINAS SAN ANDRES)",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0274-4N",
+        "faena": "PLANTA PUNITAQUI",
+        "instalacion": "PUNITAQUI 1",
+        "titular": "WALDO FERREL OJAVO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_relaves": 137,
+    "relaves_activos": 73,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 59,
+    "volumen_total_actual_m3": 561869263.0,
+    "volumen_total_millones_m3": 561.87,
+    "tonelaje_total_actual": 1041278721.0,
+    "operadores": [
+      "ACIBOL SpA",
+      "ANA MARIA MUNIZAGA",
+      "CARLOS IRIBARREN",
+      "CARLOS SOTO FUENTEALBA",
+      "CIA. CONTRACTUAL MINERA CANDELARIA",
+      "CIA. EXPLO. DE MINAS SAN ANDRES",
+      "CIA. EXPLORACION DE MINAS SAN ANDRES",
+      "CIA. MINERA OJOS DEL SALADO"
+    ],
+    "total_operadores": 57,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0157-3N",
+        "faena": "CANDELARIA",
+        "instalacion": "CANDELARIA",
+        "titular": "CIA. CONTRACTUAL MINERA CANDELARIA",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 367279997.0
+      },
+      {
+        "codigo": "0212-3N",
+        "faena": "CASERONES",
+        "instalacion": "LAMAS LA BREA",
+        "titular": "MINERA LUMINA COPPER CHILE LTDA.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 63146964.0
+      },
+      {
+        "codigo": "0129-3N",
+        "faena": "KOZAN",
+        "instalacion": "EL GATO",
+        "titular": "SCM  ATACAMA KOZAN",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 14162908.0
+      },
+      {
+        "codigo": "0152-3N",
+        "faena": "PLANTA CERRILLOS",
+        "instalacion": "TRANQUE DE RELAVE 3",
+        "titular": "GRUPO MINERO CAROLA COEMIN",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 3784633.0
+      },
+      {
+        "codigo": "0097-3N",
+        "faena": "PLANTA DAY",
+        "instalacion": "DAY",
+        "titular": "MIGUEL DAY",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0105-3N",
+        "faena": "PLANTA VIÑITA AZUL",
+        "instalacion": "TRANQUE 1",
+        "titular": "SOC. CONTRACTUAL MINERA ALIANZA",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "total_relaves": 102,
+    "relaves_activos": 33,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 64,
+    "volumen_total_actual_m3": 17936479.04,
+    "volumen_total_millones_m3": 17.94,
+    "tonelaje_total_actual": 26856603.0,
+    "operadores": [
+      "A. SILVA",
+      "ALEJANDRO MONREAL",
+      "ALVARO MARIAN AMENABAR",
+      "AQUILES GONZALEZ GARCIA",
+      "BELTRAN GODOY RIVERA",
+      "CIA. MINERA ARENILLAS (BELTRAN AMENABAR)",
+      "CIA. MINERA DELIRIO EIRL (JOSE ALVAREZ)",
+      "CIA. MINERA RESERVA"
+    ],
+    "total_operadores": 49,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0591-4N",
+        "faena": "FAENAS MINERA ARENILLAS",
+        "instalacion": "ARENILLAS 4",
+        "titular": "CIA. MINERA ARENILLAS (BELTRAN AMENABAR)",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 119916.0
+      },
+      {
+        "codigo": "0529-4N",
+        "faena": "FAENA MARIANITA",
+        "instalacion": "TRANQUE MARIANITA",
+        "titular": "INVERSIONES MINERAS PIZARRO SPA",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 72848.0
+      },
+      {
+        "codigo": "0512-4N",
+        "faena": "SANTA TERESITA",
+        "instalacion": "SANTA TERESITA 2",
+        "titular": "MAURICIO ALBURQUENQUE NUÑEZ",
+        "estado": "ACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 44312.0
+      },
+      {
+        "codigo": "0510-4N",
+        "faena": "SAN LUIS",
+        "instalacion": "SAN LUIS",
+        "titular": "DINKA RAMIREZ ALBALLAY",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 33278.0
+      },
+      {
+        "codigo": "0268-4N",
+        "faena": "FAENA SAN MIGUEL (EX-ANDACOLLO)",
+        "instalacion": "SAN MIGUEL 1 (EX-ANDACOLLO 1)",
+        "titular": "SOC. MINERA SAN MIGUEL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0269-4N",
+        "faena": "FAENA SAN MIGUEL (EX-ANDACOLLO)",
+        "instalacion": "SAN MIGUEL 2 (EX-ANDACOLLO 2)",
+        "titular": "SOC. MINERA SAN MIGUEL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_relaves": 93,
+    "relaves_activos": 37,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 54,
+    "volumen_total_actual_m3": 857519519.04,
+    "volumen_total_millones_m3": 857.52,
+    "tonelaje_total_actual": 1292642017.0,
+    "operadores": [
+      "ADRIAN VASQUEZ",
+      "BIOMINERAL SERVICIOS LTDA",
+      "CIA. MINERA KALLEU (GUILLERMO DELGADO)",
+      "CIA. MINERA PORTEZUELO",
+      "CIA. MINERA TAHUINCO",
+      "DESCONOCIDO",
+      "EDUARDO GOMEZ TORREJON",
+      "EDUARDO LERY LERY"
+    ],
+    "total_operadores": 44,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0490-4N",
+        "faena": "FAENA LOS PELAMBRES",
+        "instalacion": "EL MAURO",
+        "titular": "MINERA LOS PELAMBRES",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 597602005.3333
+      },
+      {
+        "codigo": "0489-4N",
+        "faena": "FAENA LOS PELAMBRES",
+        "instalacion": "LOS QUILLAYES",
+        "titular": "MINERA LOS PELAMBRES",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 259215937.705
+      },
+      {
+        "codigo": "0547-4N",
+        "faena": "FAENA EL ROMERO",
+        "instalacion": "EL ROMERO 1",
+        "titular": "JAIME PEREZ GOMEZ",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 9684.0
+      },
+      {
+        "codigo": "0279-4N",
+        "faena": "PLANTA HERNANDEZ",
+        "instalacion": "HERNANDEZ 1",
+        "titular": "LEOPOLDO HERNANDEZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0280-4N",
+        "faena": "PLANTA HERNANDEZ",
+        "instalacion": "HERNANDEZ 2",
+        "titular": "LEOPOLDO HERNANDEZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0433-4N",
+        "faena": "PLANTA CALIFORNIA",
+        "instalacion": "CALIFORNIA 0",
+        "titular": "WALTER NAZER ESBIR (EX VICTOR NAZER ESBIR)",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "041",
+    "cuenca_nombre": "Cuenca Quebrada Los Choros",
+    "total_relaves": 41,
+    "relaves_activos": 9,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 29,
+    "volumen_total_actual_m3": 355210.0,
+    "volumen_total_millones_m3": 0.36,
+    "tonelaje_total_actual": 618273.0,
+    "operadores": [
+      "ALBERTO MAURICIO FUENTES RIVERA",
+      "CEMIN",
+      "CIA. MINERA CLAUDIO ALBERTO ISA",
+      "CIA. MINERA EL TRAPICHE/INVERFAZ SpA",
+      "CIA. MINERA QUEBRADA HONDA",
+      "DESCONOCIDO",
+      "EDUARDO OLIVARES CAÑAS",
+      "FELIPE CARVAJAL RIVERA"
+    ],
+    "total_operadores": 22,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0377-4N",
+        "faena": "PLANTA DON MOISES",
+        "instalacion": "DON MOISES 1",
+        "titular": "MOISES GONZALEZ GONZALEZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0378-4N",
+        "faena": "PLANTA DON MOISES",
+        "instalacion": "DON MOISES 2",
+        "titular": "MOISES GONZALEZ GONZALEZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0379-4N",
+        "faena": "PLANTA DON MOISES",
+        "instalacion": "ACOPIO DON MOISES",
+        "titular": "MOISES GONZALEZ GONZALEZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0380-4N",
+        "faena": "PLANTA ELENA",
+        "instalacion": "ELENA 1",
+        "titular": "SOC. CORRIDA UNA DEL TORNO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0381-4N",
+        "faena": "PLANTA ELENA",
+        "instalacion": "ELENA 3",
+        "titular": "SOC. CORRIDA UNA DEL TORNO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0382-4N",
+        "faena": "PLANTA ELENA",
+        "instalacion": "ELENA 2",
+        "titular": "SOC. CORRIDA UNA DEL TORNO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_relaves": 37,
+    "relaves_activos": 13,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 23,
+    "volumen_total_actual_m3": 275700870.59,
+    "volumen_total_millones_m3": 275.7,
+    "tonelaje_total_actual": 548619539.0,
+    "operadores": [
+      "ALEJANDRO LOPEZ ALIAGA",
+      "ANGLO AMERICAN SUR S.A.",
+      "CIA. MINERA CERRO NEGRO S.A.",
+      "CIA. MINERA PIMENTON",
+      "CODELCO",
+      "DESCONOCIDO",
+      "FIDEL CONTRERAS SALINAS",
+      "LA PACIENCIA (HANS HEIN STAEGER)"
+    ],
+    "total_operadores": 16,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0065-5C",
+        "faena": "ANDINA",
+        "instalacion": "LOS LEONES",
+        "titular": "CODELCO",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 125409295.0
+      },
+      {
+        "codigo": "0698-5C",
+        "faena": "EL SOLDADO",
+        "instalacion": "TORITO",
+        "titular": "ANGLO AMERICAN SUR S.A.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 123343378.0
+      },
+      {
+        "codigo": "0066-5C",
+        "faena": "ANDINA",
+        "instalacion": "PIUQUENES",
+        "titular": "CODELCO",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 22000000.0
+      },
+      {
+        "codigo": "0705-5C",
+        "faena": "PLANTA PIMENTON",
+        "instalacion": "EMBALSE DE RELAVES",
+        "titular": "CIA. MINERA PIMENTON",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 150725.9259
+      },
+      {
+        "codigo": "0671-5C",
+        "faena": "PLANTA CERRO NEGRO",
+        "instalacion": "CERRO NEGRO 1",
+        "titular": "CIA. MINERA CERRO NEGRO S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0672-5C",
+        "faena": "PLANTA CERRO NEGRO",
+        "instalacion": "CERRO NEGRO 2",
+        "titular": "CIA. MINERA CERRO NEGRO S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "total_relaves": 25,
+    "relaves_activos": 14,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 11,
+    "volumen_total_actual_m3": 10658357.0,
+    "volumen_total_millones_m3": 10.66,
+    "tonelaje_total_actual": 19626153.0,
+    "operadores": [
+      "CARLOS MARTINES",
+      "CIA. MINERA NOVA VENTURA",
+      "CIA. MINERA SOLEDAD",
+      "DANIEL AMIGO",
+      "DESCONOCIDO",
+      "ENAMI",
+      "MINERA GUANACO SpA",
+      "MINERA LAS CENIZAS S.A."
+    ],
+    "total_operadores": 10,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0049-2N",
+        "faena": "LAS CENIZAS TALTAL",
+        "instalacion": "LAS LUCES 2",
+        "titular": "MINERA LAS CENIZAS S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 6331078.0
+      },
+      {
+        "codigo": "0042-2N",
+        "faena": "LOS PIMIENTOS",
+        "instalacion": "LOS PIMIENTOS 1",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0043-2N",
+        "faena": "LOS PIMIENTOS",
+        "instalacion": "LOS PIMIENTOS 3",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0044-2N",
+        "faena": "LOS PIMIENTOS",
+        "instalacion": "LOS PIMIENTOS 2",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0045-2N",
+        "faena": "LOS PIMIENTOS",
+        "instalacion": "LOS PIMIENTOS 4",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0077-2N",
+        "faena": "PLANTA MANUEL RODRIGUEZ",
+        "instalacion": "TRANQUE DE RELAVE 2",
+        "titular": "SOTRAMIN LTDA. TALTAL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_relaves": 25,
+    "relaves_activos": 17,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 7,
+    "volumen_total_actual_m3": 1217254364.67,
+    "volumen_total_millones_m3": 1217.25,
+    "tonelaje_total_actual": 2021299746.0,
+    "operadores": [
+      "CAPASEMIN SPA",
+      "CIA. MINERA EL INGLES",
+      "CODELCO",
+      "DESCONOCIDO",
+      "MINERA FLORIDA LTDA.",
+      "MINERA VALLE CENTRAL S.A.",
+      "MIRADORES",
+      "SERVICIOS Y OPERACIONES MINERAS DEL NORTE S.A."
+    ],
+    "total_operadores": 10,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0073-RM",
+        "faena": "EL TENIENTE",
+        "instalacion": "CAREN",
+        "titular": "CODELCO",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 923273585.0
+      },
+      {
+        "codigo": "0778-6C",
+        "faena": "MINERA VALLE CENTRAL S.A.",
+        "instalacion": "COLIGUE",
+        "titular": "MINERA VALLE CENTRAL S.A.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 151484888.667
+      },
+      {
+        "codigo": "0777-6C",
+        "faena": "EL TENIENTE",
+        "instalacion": "CAUQUENES",
+        "titular": "MINERA VALLE CENTRAL S.A.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 136770935.0
+      },
+      {
+        "codigo": "0074-6C",
+        "faena": "EL TENIENTE",
+        "instalacion": "BARAHONA 2",
+        "titular": "CODELCO",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0373-RM",
+        "faena": "PLANTA EL MEMBRILLO",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "SERVICIOS Y OPERACIONES MINERAS DEL NORTE S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0774-6C",
+        "faena": "PLANTA EL INGLES",
+        "instalacion": "EL INGLES 1",
+        "titular": "CIA. MINERA EL INGLES",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "032",
+    "cuenca_nombre": "Cuenca Río Salado de Chañaral",
+    "total_relaves": 24,
+    "relaves_activos": 11,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 11,
+    "volumen_total_actual_m3": 243265969.0,
+    "volumen_total_millones_m3": 243.27,
+    "tonelaje_total_actual": 341742277.0,
+    "operadores": [
+      "ASESORIÁS E INVERSIONES SANTANDER LTDA",
+      "CIA. MINERA FALDA VERDE",
+      "CIA. MINERA POTRERILLOS",
+      "CODELCO",
+      "ENAMI",
+      "INCA DE ORO S.A",
+      "J. FONSECA",
+      "LOS COBRES DE ATACAMA"
+    ],
+    "total_operadores": 12,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0058-3N",
+        "faena": "SALVADOR",
+        "instalacion": "PAMPA AUSTRAL",
+        "titular": "CODELCO",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 242440329.0
+      },
+      {
+        "codigo": "0060-3N",
+        "faena": "SALVADOR",
+        "instalacion": "POTRERILLOS",
+        "titular": "CODELCO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0061-3N",
+        "faena": "SALVADOR",
+        "instalacion": "LOS AMARILLOS",
+        "titular": "CODELCO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0062-3N",
+        "faena": "SALVADOR",
+        "instalacion": "EL GRINGO",
+        "titular": "CODELCO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0063-3N",
+        "faena": "SALVADOR",
+        "instalacion": "SALVADOR",
+        "titular": "CODELCO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0114-3N",
+        "faena": "PLANTA LICEO MANUEL MAGALHAES",
+        "instalacion": "DEPOSITO DE RELAVE LICEO MANUEL MAGALHAES",
+        "titular": "LOS COBRES DE ATACAMA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_relaves": 23,
+    "relaves_activos": 14,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 9,
+    "volumen_total_actual_m3": 1060637251.18,
+    "volumen_total_millones_m3": 1060.64,
+    "tonelaje_total_actual": 1608635843.0,
+    "operadores": [
+      "ALMA MINERALS (EX RECICLOMET)",
+      "ANGLO AMERICAN SUR S.A.",
+      "CEMENTO POLPAICO S.A.",
+      "CEMIN",
+      "CODELCO",
+      "DESCONOCIDO",
+      "LUIS DONOSO SARMIENTO",
+      "LUIS RAMIREZ VALLE"
+    ],
+    "total_operadores": 13,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0703-RM",
+        "faena": "LOS BRONCES",
+        "instalacion": "LAS TORTOLAS",
+        "titular": "ANGLO AMERICAN SUR S.A.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 629727345.5172
+      },
+      {
+        "codigo": "0067-RM",
+        "faena": "ANDINA",
+        "instalacion": "OVEJERIA",
+        "titular": "CODELCO",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 424163356.6667
+      },
+      {
+        "codigo": "0761-RM",
+        "faena": "PLANTA LA AFRICANA",
+        "instalacion": "LA AFRICANA 1-2",
+        "titular": "MINERA NUEVA PUDAHUEL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0762-RM",
+        "faena": "PLANTA LA AFRICANA",
+        "instalacion": "LA FARFANA",
+        "titular": "MINERA NUEVA PUDAHUEL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0763-RM",
+        "faena": "PLANTA ANITA",
+        "instalacion": "ANITA 1-2",
+        "titular": "LUIS DONOSO SARMIENTO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0764-RM",
+        "faena": "LOS MAQUIS DE RANGUE (EX PLANTA ACULEO)",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "OSCAR CUEVAS CONTRERAS",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_relaves": 21,
+    "relaves_activos": 8,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 12,
+    "volumen_total_actual_m3": 2954899.0,
+    "volumen_total_millones_m3": 2.95,
+    "tonelaje_total_actual": 5449181.0,
+    "operadores": [
+      "ADMIRALTY MINERALS CHILE PTY LTDA",
+      "CIA. MINERA DEL PACIFICO",
+      "DESCONOCIDO",
+      "ENAMI",
+      "HERNAN SOLIS",
+      "INVERSIONES NUTRAM S.A.",
+      "SINDICATO ARTESANAL MINERO POZO SECO",
+      "SLM CHARLOTTE (JESSICA VELIZ)"
+    ],
+    "total_operadores": 9,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0110-3N",
+        "faena": "PLANTA POZO SECO",
+        "instalacion": "DEPOSITO DE RELAVE POZO SECO",
+        "titular": "SINDICATO ARTESANAL MINERO POZO SECO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0118-3N",
+        "faena": "PLANTA CARMEN",
+        "instalacion": "RELAVES CARMEN",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0119-3N",
+        "faena": "PLANTA CALLEJAS VALLENAR",
+        "instalacion": "RELAVES CALLEJAS VALLENAR",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0120-3N",
+        "faena": "PLANTA TORINO",
+        "instalacion": "TORINO 1",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0121-3N",
+        "faena": "PLANTA TORINO",
+        "instalacion": "TORINO 2",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0215-3N",
+        "faena": "PLANTA DOMEYKO",
+        "instalacion": "DOMEYKO 1",
+        "titular": "SOC. EXPLODESA DOS AMIGOS (EX MINERA DOMEYKO)",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "Cuenca Río Petorca",
+    "total_relaves": 21,
+    "relaves_activos": 12,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 9,
+    "volumen_total_actual_m3": 1157538.0,
+    "volumen_total_millones_m3": 1.16,
+    "tonelaje_total_actual": 1929175.0,
+    "operadores": [
+      "ANTAWARA SpA",
+      "CIA. MINERA CAN CAN S. A.",
+      "CIA. MINERA HIERRO VIEJO",
+      "COMERCIAL E INVERSIONES HASPARREN",
+      "DESCONOCIDO",
+      "MINERA LA MERCED E.I.R.L.",
+      "PETRONILA DÍAZ",
+      "PLANTA CONCENTRADORA DE MINERALES CHINCOLCO SPA"
+    ],
+    "total_operadores": 11,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0754-5C",
+        "faena": "PLANTA LOS HOYOS",
+        "instalacion": "LOS HOYOS",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 265682.0
+      },
+      {
+        "codigo": "0723-5C",
+        "faena": "PETRONILA DIAZ",
+        "instalacion": "PETRONILA DIAZ",
+        "titular": "PETRONILA DÍAZ",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0725-5C",
+        "faena": "PLANTA PATS",
+        "instalacion": "PLANTA PATS",
+        "titular": "SOC. LEGAL MRA. BOTON DE ORO DE PETORCA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0739-5C",
+        "faena": "PLANTA HIERRO VIEJO",
+        "instalacion": "HIERRO VIEJO 1",
+        "titular": "CIA. MINERA HIERRO VIEJO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0740-5C",
+        "faena": "PLANTA HIERRO VIEJO",
+        "instalacion": "HIERRO VIEJO 2",
+        "titular": "CIA. MINERA HIERRO VIEJO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0745-5C",
+        "faena": "3 TRANQUES",
+        "instalacion": "3 TRANQUES",
+        "titular": "TRAPICHES",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "total_relaves": 21,
+    "relaves_activos": 11,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 10,
+    "volumen_total_actual_m3": 18453609.0,
+    "volumen_total_millones_m3": 18.45,
+    "tonelaje_total_actual": 31819583.0,
+    "operadores": [
+      "CIA. MINERA LA PATAGUA",
+      "CIA. MRA. DON PABLO",
+      "HUGO HUMBERTO SAAVEDRA QUIROZ",
+      "MINERA LAS CENIZAS S.A.",
+      "SOC. MINERA GAMA",
+      "SOCIEDAD EDMUNDO ELISSETCHE"
+    ],
+    "total_operadores": 6,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0709-5C",
+        "faena": "LAS CENIZAS CABILDO",
+        "instalacion": "LAS CENIZAS 4",
+        "titular": "MINERA LAS CENIZAS S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 10727367.0
+      },
+      {
+        "codigo": "0681-5C",
+        "faena": "EL ESCORIAL",
+        "instalacion": "EL ESCORIAL 1",
+        "titular": "CIA. MRA. DON PABLO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0682-5C",
+        "faena": "EL ESCORIAL",
+        "instalacion": "EL ESCORIAL 2",
+        "titular": "CIA. MRA. DON PABLO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0683-5C",
+        "faena": "EL ESCORIAL",
+        "instalacion": "EL ESCORIAL 3",
+        "titular": "CIA. MRA. DON PABLO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0706-5C",
+        "faena": "LAS CENIZAS CABILDO",
+        "instalacion": "LAS CENIZAS 1",
+        "titular": "MINERA LAS CENIZAS S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0707-5C",
+        "faena": "LAS CENIZAS CABILDO",
+        "instalacion": "LAS CENIZAS 2",
+        "titular": "MINERA LAS CENIZAS S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "total_relaves": 16,
+    "relaves_activos": 5,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 9,
+    "volumen_total_actual_m3": 1854039992.0,
+    "volumen_total_millones_m3": 1854.04,
+    "tonelaje_total_actual": 3201689511.0,
+    "operadores": [
+      "CIA. MINERA CENTINELA",
+      "CIA. MINERA CERRO DOMINADOR",
+      "CIA. MINERA FLOMAX (RAFAEL GONZALEZ)",
+      "CODELCO",
+      "DESCONOCIDO",
+      "INVERSIONES SMG CHILE SPA",
+      "MINERA SPENCE",
+      "SCM SIERRA GORDA"
+    ],
+    "total_operadores": 9,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0057-2N",
+        "faena": "CHUQUICAMATA",
+        "instalacion": "TALABRE",
+        "titular": "CODELCO",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 1276498171.0
+      },
+      {
+        "codigo": "0056-2N",
+        "faena": "PROYECTO ESPERANZA",
+        "instalacion": "ESPERANZA",
+        "titular": "CIA. MINERA CENTINELA",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 290449305.0
+      },
+      {
+        "codigo": "0083-2N",
+        "faena": "PROYECTO SIERRA GORDA",
+        "instalacion": "SIERRA GORDA",
+        "titular": "SCM SIERRA GORDA",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 212903491.0
+      },
+      {
+        "codigo": "0094-2N",
+        "faena": "SPENCE",
+        "instalacion": "SPENCE",
+        "titular": "MINERA SPENCE",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 73431276.0
+      },
+      {
+        "codigo": "0034-2N",
+        "faena": "PLANTA CALLEJAS ZAMORA",
+        "instalacion": "TRANQUE 4",
+        "titular": "CIA. MINERA CERRO DOMINADOR",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 588181.0
+      },
+      {
+        "codigo": "0033-2N",
+        "faena": "PLANTA CALLEJAS ZAMORA",
+        "instalacion": "TRANQUE 1",
+        "titular": "CIA. MINERA CERRO DOMINADOR",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_relaves": 16,
+    "relaves_activos": 9,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 6,
+    "volumen_total_actual_m3": 2842103.0,
+    "volumen_total_millones_m3": 2.84,
+    "tonelaje_total_actual": 5036839.0,
+    "operadores": [
+      "ALTIPLANO MINERALS CHILE SPA",
+      "CARLOS GREGORIO ARAYA CAMPAÑA",
+      "COMPAÑIA MINERA FLORIDA S.A.",
+      "DPTO. MINAS U. LA SERENA",
+      "EMPRESA SERVICIOS GENERALES PARA MINERÍA LTDA.",
+      "HUGO ARAYA (MINERA ARAYA Y ARAYA)",
+      "MARCELO BALDO"
+    ],
+    "total_operadores": 7,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0365-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "TRANQUE DE RELAVE 1",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0366-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "TRANQUE DE RELAVE 2",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0367-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "TRANQUE DE RELAVE 3",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0368-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "TRANQUE DE RELAVE 4",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0369-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "AMPLIACION TRANQUE DE RELAVES 4",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0370-4N",
+        "faena": "FAENA TAMBILLOS",
+        "instalacion": "TRANQUE DE RELAVE 3A-4A",
+        "titular": "COMPAÑIA MINERA FLORIDA S.A.",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "total_relaves": 14,
+    "relaves_activos": 9,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 5,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "COMPAÑIA MINERA MANTOS DE HORNILLOS LTDA.",
+      "EDUARDO LERY LERY",
+      "FERNANDO YOUNG UGALDE",
+      "HERMAN CORTES (EX MIRIAM CORREA)",
+      "HUMBERTO RIVERA C.",
+      "IVAN ALFREDO TELLO ANDRADE",
+      "JOSE ASTORGA CASTILLO"
+    ],
+    "total_operadores": 7,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0441-4N",
+        "faena": "PLANTA IVAN TELLO ANDRADE",
+        "instalacion": "ACOPIO 5 (EX MONICA 1)",
+        "titular": "IVAN ALFREDO TELLO ANDRADE",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0482-4N",
+        "faena": "PLANTA SAN ALBERTO",
+        "instalacion": "SAN ALBERTO 3",
+        "titular": "EDUARDO LERY LERY",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0593-4N",
+        "faena": "PLANTA MIRIAM",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "HERMAN CORTES (EX MIRIAM CORREA)",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0598-4N",
+        "faena": "BARRAZA",
+        "instalacion": "BARRAZA 1",
+        "titular": "HUMBERTO RIVERA C.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0826-4N",
+        "faena": "BARRAZA",
+        "instalacion": "ACOPIO DE ARENAS",
+        "titular": "HUMBERTO RIVERA C.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0827-4N",
+        "faena": "BARRAZA",
+        "instalacion": "BARRAZA 2",
+        "titular": "HUMBERTO RIVERA C.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "042",
+    "cuenca_nombre": "Cuencas Costeras entre Quebrada Los Choros y Río Elqui",
+    "total_relaves": 11,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 9,
+    "volumen_total_actual_m3": 12777387.0,
+    "volumen_total_millones_m3": 12.78,
+    "tonelaje_total_actual": 29198724.0,
+    "operadores": [
+      "CIA. MINERA DEL PACIFICO",
+      "DESCONOCIDO",
+      "HECTOR GAHONA",
+      "MINERA SANTA SILVIA S.A.",
+      "OSCAR GONZÁLEZ",
+      "WILSON RIVERA CARVAJAL"
+    ],
+    "total_operadores": 6,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0390-4N",
+        "faena": "PLANTA BLANQUITA",
+        "instalacion": "BLANQUITA",
+        "titular": "HECTOR GAHONA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0391-4N",
+        "faena": "PLANTA LA HIGUERA (EX LOS MOLLES)",
+        "instalacion": "LA HIGUERA 1",
+        "titular": "MINERA SANTA SILVIA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0392-4N",
+        "faena": "PLANTA LA HIGUERA (EX LOS MOLLES)",
+        "instalacion": "LA HIGUERA 2",
+        "titular": "MINERA SANTA SILVIA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0393-4N",
+        "faena": "PLANTA LA HIGUERA (EX LOS MOLLES)",
+        "instalacion": "LA HIGUERA 3",
+        "titular": "MINERA SANTA SILVIA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0394-4N",
+        "faena": "PLANTA LA HIGUERA (EX LOS MOLLES)",
+        "instalacion": "LA HIGUERA 4",
+        "titular": "MINERA SANTA SILVIA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0395-4N",
+        "faena": "PLANTA LA HIGUERA (EX LOS MOLLES)",
+        "instalacion": "LA HIGUERA 5",
+        "titular": "MINERA SANTA SILVIA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_relaves": 8,
+    "relaves_activos": 4,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 4,
+    "volumen_total_actual_m3": 89951149.0,
+    "volumen_total_millones_m3": 89.95,
+    "tonelaje_total_actual": 104247962.0,
+    "operadores": [
+      "ALTONORTE",
+      "CONSTRUCTORA RAM LIMITADA",
+      "DESCONOCIDO",
+      "MANTOS COPPER",
+      "MINERA MICHILLA S.A."
+    ],
+    "total_operadores": 5,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0025-2N",
+        "faena": "MANTOS BLANCOS",
+        "instalacion": "MANTOS BLANCO",
+        "titular": "MANTOS COPPER",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 89307840.0
+      },
+      {
+        "codigo": "0079-2N",
+        "faena": "MICHILLA",
+        "instalacion": "MICHILLA",
+        "titular": "MINERA MICHILLA S.A.",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0080-2N",
+        "faena": "PLANTA SAN IGNACIO",
+        "instalacion": "EMBALSE DE RELAVE",
+        "titular": "CONSTRUCTORA RAM LIMITADA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0081-2N",
+        "faena": "PLANTA SAN IGNACIO",
+        "instalacion": "BORRAS DE RELAVE",
+        "titular": "CONSTRUCTORA RAM LIMITADA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0087-2N",
+        "faena": "PLANTA SOEXSU",
+        "instalacion": "RELAVE PLANTA SOEXU",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "total_relaves": 7,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 3,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "CIA. MINERA TECK QUEBRADA BLANCA",
+      "DESCONOCIDO",
+      "ENAMI"
+    ],
+    "total_operadores": 3,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0002-1N",
+        "faena": "LA DIAMANTINA",
+        "instalacion": "DEPOSITO NORTE",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0264-1N",
+        "faena": "OF. NENA VILLANA",
+        "instalacion": "TRANQUE",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0265-1N",
+        "faena": "LA DIAMANTINA",
+        "instalacion": "DEPOSITO SUR",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_relaves": 6,
+    "relaves_activos": 6,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 5877743.0,
+    "volumen_total_millones_m3": 5.88,
+    "tonelaje_total_actual": 8816615.0,
+    "operadores": [
+      "SOCIEDAD MINERA PACIFICO DEL SUR SPA"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_relaves": 6,
+    "relaves_activos": 1,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 5,
+    "volumen_total_actual_m3": 4982576.0,
+    "volumen_total_millones_m3": 4.98,
+    "tonelaje_total_actual": 8159680.0,
+    "operadores": [
+      "C.M. CERRO BAYO LTDA.",
+      "CASANOVA Y SOTO LIMITADA",
+      "MINERA AYSEN"
+    ],
+    "total_operadores": 3,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0792-11S",
+        "faena": "LA ESCONDIDA",
+        "instalacion": "RELAVE LA ESCONDIDA",
+        "titular": "MINERA AYSEN",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0793-11S",
+        "faena": "LAS CHIVAS",
+        "instalacion": "LAS CHIVAS",
+        "titular": "MINERA AYSEN",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0794-11S",
+        "faena": "PUERTO CRISTAL",
+        "instalacion": "TRANQUE DE RELAVE 1",
+        "titular": "CASANOVA Y SOTO LIMITADA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0795-11S",
+        "faena": "PUERTO CRISTAL",
+        "instalacion": "TRANQUE DE RELAVE 2",
+        "titular": "CASANOVA Y SOTO LIMITADA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0796-11S",
+        "faena": "PUERTO CRISTAL",
+        "instalacion": "ACOPIO PUERTO CRISTAL",
+        "titular": "CASANOVA Y SOTO LIMITADA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "027",
+    "cuenca_nombre": "Cuenca Salar de Punta Negra",
+    "total_relaves": 5,
+    "relaves_activos": 5,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 1293275469.0,
+    "volumen_total_millones_m3": 1293.28,
+    "tonelaje_total_actual": 2518633589.0,
+    "operadores": [
+      "CIA. MINERA ZALDIVAR",
+      "MINERA ESCONDIDA LTDA."
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0030-2N",
+        "faena": "ESCONDIDA",
+        "instalacion": "LAGUNA SECA",
+        "titular": "MINERA ESCONDIDA LTDA.",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 980882009.0
+      },
+      {
+        "codigo": "0031-2N",
+        "faena": "ESCONDIDA",
+        "instalacion": "HAMBURGO",
+        "titular": "MINERA ESCONDIDA LTDA.",
+        "estado": "INACTIVO",
+        "riesgo": "Alto Riesgo",
+        "volumen_m3": 301538056.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "total_relaves": 5,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 3,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "DESCONOCIDO",
+      "EDUARDO ALTAMIRANO",
+      "RAMIRO BRUZONE",
+      "RUBEN JOFRE"
+    ],
+    "total_operadores": 4,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0172-3N",
+        "faena": "DESCONOCIDO",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0173-3N",
+        "faena": "DESCONOCIDO",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "DESCONOCIDO",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0248-3N",
+        "faena": "PLANTA JOFRE",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "RUBEN JOFRE",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "total_relaves": 5,
+    "relaves_activos": 5,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 64121500.0,
+    "volumen_total_millones_m3": 64.12,
+    "tonelaje_total_actual": 128243000.0,
+    "operadores": [
+      "CIA. MINERA HORUS",
+      "CIA. MINERA MANTOS DE ORO",
+      "MINERA GOLD FIELDS SALARAES NORTE SpA"
+    ],
+    "total_operadores": 3,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0137-3N",
+        "faena": "LA COIPA",
+        "instalacion": "RAHCO",
+        "titular": "CIA. MINERA MANTOS DE ORO",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 64121500.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "total_relaves": 5,
+    "relaves_activos": 5,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 442163.0,
+    "volumen_total_millones_m3": 0.44,
+    "tonelaje_total_actual": 826452.0,
+    "operadores": [
+      "MINERA DON ALBERTO",
+      "SOC. MINERA LOS VILOS"
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0423-4N",
+        "faena": "FAENA LAS VACAS",
+        "instalacion": "LAS VACAS 2",
+        "titular": "MINERA DON ALBERTO",
+        "estado": "INACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "031",
+    "cuenca_nombre": "Cuenca Quebrada Pan de Azúcar",
+    "total_relaves": 3,
+    "relaves_activos": 0,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 3,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "SOC. MINERA LORENZO ZAZZALI"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0245-3N",
+        "faena": "PLANTA LAS BOMBAS",
+        "instalacion": "LAS BOMBAS 1",
+        "titular": "SOC. MINERA LORENZO ZAZZALI",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0246-3N",
+        "faena": "PLANTA LAS BOMBAS",
+        "instalacion": "LAS BOMBAS 2",
+        "titular": "SOC. MINERA LORENZO ZAZZALI",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0247-3N",
+        "faena": "PLANTA LAS BOMBAS",
+        "instalacion": "LAS BOMBAS 3",
+        "titular": "SOC. MINERA LORENZO ZAZZALI",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "total_relaves": 3,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 17023480.0,
+    "volumen_total_millones_m3": 17.02,
+    "tonelaje_total_actual": 30642264.0,
+    "operadores": [
+      "CAPSTONE COPPER",
+      "CIA. MINERA DEL PACIFICO",
+      "CIA. MINERA HUASCO"
+    ],
+    "total_operadores": 3,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "036",
+    "cuenca_nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "total_relaves": 3,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 1,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "ASOCIACION GREMIAL MINERA EL DONKEY",
+      "CESAR FLORES",
+      "CESAR MOREN EIRL"
+    ],
+    "total_operadores": 3,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0095-3N",
+        "faena": "PLANTA CAPOTE AURIFERO",
+        "instalacion": "EMBALSE DE RELAVES ANTIGUOS CAPOTE AURIFERO",
+        "titular": "CESAR MOREN EIRL",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0251-3N",
+        "faena": "BOQUERON CHAÑAR",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "CESAR FLORES",
+        "estado": "ACTIVO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_relaves": 3,
+    "relaves_activos": 1,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 2,
+    "volumen_total_actual_m3": 792848.0,
+    "volumen_total_millones_m3": 0.79,
+    "tonelaje_total_actual": 1424348.0,
+    "operadores": [
+      "CIA. MINERA LOS MAITENES",
+      "CIA. MINERA PULLALLI LTDA."
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0726-5C",
+        "faena": "LOS MAITENES",
+        "instalacion": "EMBALSE LOS MAITENES",
+        "titular": "CIA. MINERA LOS MAITENES",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      },
+      {
+        "codigo": "0833-5C",
+        "faena": "LOS MAITENES",
+        "instalacion": "ACOPIO LOS MAITENES",
+        "titular": "CIA. MINERA LOS MAITENES",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_relaves": 3,
+    "relaves_activos": 3,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 648970.0,
+    "volumen_total_millones_m3": 0.65,
+    "tonelaje_total_actual": 784355.0,
+    "operadores": [
+      "MIGRIN S.A.",
+      "SOCIEDAD CONTRACTUAL MINERA PAICAVI S.A."
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "029",
+    "cuenca_nombre": "Cuenca Salar de Navidad",
+    "total_relaves": 2,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 17858237.0,
+    "volumen_total_millones_m3": 17.86,
+    "tonelaje_total_actual": 28573179.0,
+    "operadores": [
+      "MINERA MERIDIAN"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "035",
+    "cuenca_nombre": "Cuencas Costeras entre Río Copiapó y Quebrada Totoral",
+    "total_relaves": 2,
+    "relaves_activos": 0,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 1,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "GLOBAL OPEX ONE SPA",
+      "LUIS PADILLA"
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0252-3N",
+        "faena": "PLANTA CASERON",
+        "instalacion": "TRANQUE DE RELAVE",
+        "titular": "LUIS PADILLA",
+        "estado": "ABANDONADO",
+        "riesgo": "Crítico / Alto Riesgo",
+        "volumen_m3": 0.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "total_relaves": 2,
+    "relaves_activos": 2,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "MINERA FARO CARRANZA",
+      "MINERA TORO SPA"
+    ],
+    "total_operadores": 2,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "022",
+    "cuenca_nombre": "Cuenca Altiplánica Salar de Coposa",
+    "total_relaves": 1,
+    "relaves_activos": 1,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 745260340.0,
+    "volumen_total_millones_m3": 745.26,
+    "tonelaje_total_actual": 1080627493.0,
+    "operadores": [
+      "CIA. MINERA DOÑA INES DE COLLAHUASI"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": [
+      {
+        "codigo": "0001-1N",
+        "faena": "COLLAHUASI",
+        "instalacion": "PAMPA PABELLON",
+        "titular": "CIA. MINERA DOÑA INES DE COLLAHUASI",
+        "estado": "ACTIVO",
+        "riesgo": "Medio-Alto (Megadepósito Operativo)",
+        "volumen_m3": 745260340.0
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "024",
+    "cuenca_nombre": "Cuenca Salar de Atacama",
+    "total_relaves": 1,
+    "relaves_activos": 1,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "MINERA CRISTAL LIMITADA"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": []
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_relaves": 1,
+    "relaves_activos": 1,
+    "relaves_inactivos": 0,
+    "relaves_abandonados": 0,
+    "volumen_total_actual_m3": 0.0,
+    "volumen_total_millones_m3": 0.0,
+    "tonelaje_total_actual": 0.0,
+    "operadores": [
+      "LAS PALMAS SPA"
+    ],
+    "total_operadores": 1,
+    "relaves_alta_amenaza": []
+  }
+]

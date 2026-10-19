@@ -1,0 +1,859 @@
+{
+  "total_registros_patentes": 46467,
+  "total_titulares_unicos": 4504,
+  "monto_total_emitido_clp": 677164805487.0,
+  "monto_pagado_clp": 117746760198.0,
+  "deuda_pendiente_clp": 559418045289.0,
+  "total_utm_liquidadas": 11667545.17,
+  "desglose_por_tipo": {
+    "juridica": {
+      "registros": 27313,
+      "deuda_clp": 430250189413.0,
+      "utm": 9360889.950000001
+    },
+    "natural": {
+      "registros": 19154,
+      "deuda_clp": 129167855876.0,
+      "utm": 2306655.2199999997
+    }
+  },
+  "ranking_regiones": [
+    {
+      "region": "TESORERÃA REGIONAL DE LOS RIOS",
+      "deuda_clp": 101604675024.0,
+      "utm": 1919458.51,
+      "patentes_acumuladas": 7069
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 89409407429.0,
+      "utm": 1650868.53,
+      "patentes_acumuladas": 10682
+    },
+    {
+      "region": "TESORERÃA REGIONAL DEL MAULE",
+      "deuda_clp": 72283014256.0,
+      "utm": 1484935.52,
+      "patentes_acumuladas": 3152
+    },
+    {
+      "region": "TESORERÃA REGIONAL DEL BIO BIO",
+      "deuda_clp": 56254586327.0,
+      "utm": 1086392.97,
+      "patentes_acumuladas": 2350
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE AYSEN",
+      "deuda_clp": 47700600019.0,
+      "utm": 887215.17,
+      "patentes_acumuladas": 1921
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "deuda_clp": 46016400175.0,
+      "utm": 929090.49,
+      "patentes_acumuladas": 5934
+    },
+    {
+      "region": "TESORERÃA REGIONAL SANTIAGO PONIENTE",
+      "deuda_clp": 35633532561.0,
+      "utm": 762646.11,
+      "patentes_acumuladas": 3640
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE VALPARAÃSO",
+      "deuda_clp": 30066002172.0,
+      "utm": 565135.48,
+      "patentes_acumuladas": 2768
+    },
+    {
+      "region": "TESORERÃA REGIONAL LIB. GRAL BERNARDO OHIGGINS",
+      "deuda_clp": 19160343469.0,
+      "utm": 531536.04,
+      "patentes_acumuladas": 1588
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE ÃUBLE",
+      "deuda_clp": 17661189326.0,
+      "utm": 348087.82,
+      "patentes_acumuladas": 694
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE COQUIMBO",
+      "deuda_clp": 11326515207.0,
+      "utm": 302843.78,
+      "patentes_acumuladas": 2078
+    },
+    {
+      "region": "TESORERÃA REGIONAL SANTIAGO ORIENTE",
+      "deuda_clp": 9785536170.0,
+      "utm": 366202.81,
+      "patentes_acumuladas": 454
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE MAGALLANES",
+      "deuda_clp": 9208348675.0,
+      "utm": 173598.72,
+      "patentes_acumuladas": 1914
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE ATACAMA",
+      "deuda_clp": 4788210100.0,
+      "utm": 274580.38,
+      "patentes_acumuladas": 815
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE ANTOFAGASTA",
+      "deuda_clp": 4612664221.0,
+      "utm": 281350.94,
+      "patentes_acumuladas": 734
+    },
+    {
+      "region": "TESORERÃA REGIONAL SANTIAGO SUR",
+      "deuda_clp": 2301548604.0,
+      "utm": 48930.96,
+      "patentes_acumuladas": 421
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE ARICA Y PARINACOTA",
+      "deuda_clp": 1233617735.0,
+      "utm": 23723.149999999998,
+      "patentes_acumuladas": 112
+    },
+    {
+      "region": "TESORERÃA REGIONAL DE TARAPACA",
+      "deuda_clp": 75960087.0,
+      "utm": 25941.31,
+      "patentes_acumuladas": 107
+    }
+  ],
+  "ranking_comunas_top_25": [
+    {
+      "comuna": "PANGUIPULLI",
+      "region": "TESORERÃA REGIONAL DE LOS RIOS",
+      "deuda_clp": 49835284530.0,
+      "utm": 895629.6900000001,
+      "patentes_acumuladas": 1416
+    },
+    {
+      "comuna": "AYSEN",
+      "region": "TESORERÃA REGIONAL DE AYSEN",
+      "deuda_clp": 38715661143.0,
+      "utm": 698427.03,
+      "patentes_acumuladas": 572
+    },
+    {
+      "comuna": "LINARES",
+      "region": "TESORERÃA REGIONAL DEL MAULE",
+      "deuda_clp": 31433338927.0,
+      "utm": 549053.49,
+      "patentes_acumuladas": 215
+    },
+    {
+      "comuna": "FUTRONO",
+      "region": "TESORERÃA REGIONAL DE LOS RIOS",
+      "deuda_clp": 27342025007.0,
+      "utm": 483653.18,
+      "patentes_acumuladas": 947
+    },
+    {
+      "comuna": "COCHAMO",
+      "region": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "deuda_clp": 21475720563.0,
+      "utm": 370013.86,
+      "patentes_acumuladas": 926
+    },
+    {
+      "comuna": "MELIPILLA",
+      "region": "TESORERÃA REGIONAL SANTIAGO PONIENTE",
+      "deuda_clp": 18252743729.0,
+      "utm": 350066.26,
+      "patentes_acumuladas": 1106
+    },
+    {
+      "comuna": "SANTO DOMINGO",
+      "region": "TESORERÃA REGIONAL LIB. GRAL BERNARDO OHIGGINS",
+      "deuda_clp": 15107836302.0,
+      "utm": 272535.72,
+      "patentes_acumuladas": 211
+    },
+    {
+      "comuna": "QUILACO",
+      "region": "TESORERÃA REGIONAL DEL BIO BIO",
+      "deuda_clp": 12637760775.0,
+      "utm": 222588.86000000002,
+      "patentes_acumuladas": 202
+    },
+    {
+      "comuna": "TOLTEN",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 12258778274.0,
+      "utm": 233934.32,
+      "patentes_acumuladas": 547
+    },
+    {
+      "comuna": "CUREPTO",
+      "region": "TESORERÃA REGIONAL DEL MAULE",
+      "deuda_clp": 11500691405.0,
+      "utm": 178268.34,
+      "patentes_acumuladas": 158
+    },
+    {
+      "comuna": "LAGO RANCO",
+      "region": "TESORERÃA REGIONAL DE LOS RIOS",
+      "deuda_clp": 11440521848.0,
+      "utm": 197867.32,
+      "patentes_acumuladas": 811
+    },
+    {
+      "comuna": "PUCON",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 10826106202.0,
+      "utm": 200993.84,
+      "patentes_acumuladas": 1469
+    },
+    {
+      "comuna": "SAN FABIAN",
+      "region": "TESORERÃA REGIONAL DE ÃUBLE",
+      "deuda_clp": 10352003749.0,
+      "utm": 196814.53,
+      "patentes_acumuladas": 111
+    },
+    {
+      "comuna": "CUNCO",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 9449926031.0,
+      "utm": 171663.62,
+      "patentes_acumuladas": 884
+    },
+    {
+      "comuna": "SANTA BARBARA",
+      "region": "TESORERÃA REGIONAL DEL BIO BIO",
+      "deuda_clp": 9244330829.0,
+      "utm": 164400.21,
+      "patentes_acumuladas": 230
+    },
+    {
+      "comuna": "SAN JOSE DE MAIPO",
+      "region": "TESORERÃA REGIONAL SANTIAGO ORIENTE",
+      "deuda_clp": 9219586304.0,
+      "utm": 312260.91,
+      "patentes_acumuladas": 386
+    },
+    {
+      "comuna": "ARAUCO",
+      "region": "TESORERÃA REGIONAL DEL BIO BIO",
+      "deuda_clp": 8112881024.0,
+      "utm": 125926.81,
+      "patentes_acumuladas": 148
+    },
+    {
+      "comuna": "LONQUIMAY",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 7491181493.0,
+      "utm": 129321.45,
+      "patentes_acumuladas": 556
+    },
+    {
+      "comuna": "LOS ANGELES",
+      "region": "TESORERÃA REGIONAL DEL BIO BIO",
+      "deuda_clp": 7473823799.0,
+      "utm": 213483.49,
+      "patentes_acumuladas": 306
+    },
+    {
+      "comuna": "CURACAUTIN",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 7282801119.0,
+      "utm": 122491.71,
+      "patentes_acumuladas": 933
+    },
+    {
+      "comuna": "COLBUN",
+      "region": "TESORERÃA REGIONAL DEL MAULE",
+      "deuda_clp": 7212496072.0,
+      "utm": 131342.35,
+      "patentes_acumuladas": 412
+    },
+    {
+      "comuna": "RIO BUENO",
+      "region": "TESORERÃA REGIONAL DE LOS RIOS",
+      "deuda_clp": 6299256098.0,
+      "utm": 155695.8,
+      "patentes_acumuladas": 1164
+    },
+    {
+      "comuna": "COLLIPULLI",
+      "region": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "deuda_clp": 5801458962.0,
+      "utm": 102191.73,
+      "patentes_acumuladas": 409
+    },
+    {
+      "comuna": "MACHALI",
+      "region": "TESORERÃA REGIONAL LIB. GRAL BERNARDO OHIGGINS",
+      "deuda_clp": 5686410136.0,
+      "utm": 107171.26,
+      "patentes_acumuladas": 197
+    },
+    {
+      "comuna": "SAN CLEMENTE",
+      "region": "TESORERÃA REGIONAL DEL MAULE",
+      "deuda_clp": 5669596743.0,
+      "utm": 305599.35,
+      "patentes_acumuladas": 339
+    }
+  ],
+  "ranking_titulares_top_50": [
+    {
+      "ranking": 1,
+      "rut": "77235610.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 29417675920.0,
+      "utm": 503838.28,
+      "cantidad_derechos": 39,
+      "comuna_principal": "LINARES",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "LINARES"
+    },
+    {
+      "ranking": 2,
+      "rut": "78607980.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 28856743206.0,
+      "utm": 523182.06,
+      "cantidad_derechos": 71,
+      "comuna_principal": "AYSEN",
+      "region_principal": "TESORERÃA REGIONAL DE AYSEN",
+      "oficina_cbr": "PUERTO AYSEN"
+    },
+    {
+      "ranking": 3,
+      "rut": "76173216.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 25503438420.0,
+      "utm": 429293.19,
+      "cantidad_derechos": 255,
+      "comuna_principal": "PANGUIPULLI",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "PANGUIPULLI"
+    },
+    {
+      "ranking": 4,
+      "rut": "76204561.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 12309024524.0,
+      "utm": 214598.11,
+      "cantidad_derechos": 705,
+      "comuna_principal": "SAN FABIAN",
+      "region_principal": "TESORERÃA REGIONAL DE ÃUBLE",
+      "oficina_cbr": "CHILLAN"
+    },
+    {
+      "ranking": 5,
+      "rut": "96719210.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 11738186041.0,
+      "utm": 222714.36,
+      "cantidad_derechos": 106,
+      "comuna_principal": "SAN FABIAN",
+      "region_principal": "TESORERÃA REGIONAL DE ÃUBLE",
+      "oficina_cbr": "CHILLAN"
+    },
+    {
+      "ranking": 6,
+      "rut": "86088400.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 11429684436.0,
+      "utm": 176871.69,
+      "cantidad_derechos": 9,
+      "comuna_principal": "CUREPTO",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "0"
+    },
+    {
+      "ranking": 7,
+      "rut": "76244026.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 11041558490.0,
+      "utm": 195032.97,
+      "cantidad_derechos": 461,
+      "comuna_principal": "AYSEN",
+      "region_principal": "TESORERÃA REGIONAL DE AYSEN",
+      "oficina_cbr": "PUERTO AYSEN"
+    },
+    {
+      "ranking": 8,
+      "rut": "91081000.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 11004099730.0,
+      "utm": 409263.57,
+      "cantidad_derechos": 70,
+      "comuna_principal": "ANTUCO",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 9,
+      "rut": "b89a81fbbd5ca30a9c24f3d25f31ba963b221d8ddfe45bce48e092440132c1e5",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 10257102000.0,
+      "utm": 198000.0,
+      "cantidad_derechos": 14,
+      "comuna_principal": "TOLTEN",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "PITRUFQUEN"
+    },
+    {
+      "ranking": 10,
+      "rut": "76097069.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 9611980706.0,
+      "utm": 143746.58,
+      "cantidad_derechos": 106,
+      "comuna_principal": "CURACAUTIN",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "CURACAUTIN"
+    },
+    {
+      "ranking": 11,
+      "rut": "76013154.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 9449354247.0,
+      "utm": 176466.4,
+      "cantidad_derechos": 71,
+      "comuna_principal": "CALAMA",
+      "region_principal": "TESORERÃA REGIONAL DE ANTOFAGASTA",
+      "oficina_cbr": "CALAMA"
+    },
+    {
+      "ranking": 12,
+      "rut": "7abff6c05ae3bc1ea7ba6cff9ded4b2f2304779b322d79ea3d02d33f9088b525",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 8913323429.0,
+      "utm": 154504.09,
+      "cantidad_derechos": 96,
+      "comuna_principal": "PANGUIPULLI",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 13,
+      "rut": "76025101.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 8813649386.0,
+      "utm": 143358.46,
+      "cantidad_derechos": 88,
+      "comuna_principal": "COCHAMO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "PUERTO MONTT"
+    },
+    {
+      "ranking": 14,
+      "rut": "76090395.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 7588350260.0,
+      "utm": 130707.22,
+      "cantidad_derechos": 200,
+      "comuna_principal": "SANTA BARBARA",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "SANTA BARBARA"
+    },
+    {
+      "ranking": 15,
+      "rut": "9c9853e7ff18d4170838c8cd2348c10e1a697ec814f486fd3a4e9139488708fc",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 7553118400.0,
+      "utm": 115200.0,
+      "cantidad_derechos": 7,
+      "comuna_principal": "ARAUCO",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "LEBU"
+    },
+    {
+      "ranking": 16,
+      "rut": "76243717.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 7525908067.0,
+      "utm": 141623.1,
+      "cantidad_derechos": 85,
+      "comuna_principal": "FUTRONO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "LOS LAGOS"
+    },
+    {
+      "ranking": 17,
+      "rut": "76113636.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 7279130946.0,
+      "utm": 140355.77,
+      "cantidad_derechos": 62,
+      "comuna_principal": "OSORNO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "OSORNO"
+    },
+    {
+      "ranking": 18,
+      "rut": "96519070.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 6693075904.0,
+      "utm": 110787.38,
+      "cantidad_derechos": 9,
+      "comuna_principal": "AYSEN",
+      "region_principal": "TESORERÃA REGIONAL DE AYSEN",
+      "oficina_cbr": "0"
+    },
+    {
+      "ranking": 19,
+      "rut": "76707220.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 5813983308.0,
+      "utm": 101214.28,
+      "cantidad_derechos": 391,
+      "comuna_principal": "CANETE",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "CAÂ¿ETE"
+    },
+    {
+      "ranking": 20,
+      "rut": "2ea8765208f7b19ca15c3ecccf7e7e859ea486a5ac405398f2a6a1967a953ba5",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 5572789318.0,
+      "utm": 85482.98,
+      "cantidad_derechos": 12,
+      "comuna_principal": "QUILACO",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "SANTA BARBARA"
+    },
+    {
+      "ranking": 21,
+      "rut": "76377930.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 5281846656.0,
+      "utm": 102582.04,
+      "cantidad_derechos": 4,
+      "comuna_principal": "SANTO DOMINGO",
+      "region_principal": "TESORERÃA REGIONAL DE VALPARAÃSO",
+      "oficina_cbr": "SAN ANTONIO"
+    },
+    {
+      "ranking": 22,
+      "rut": "76412700.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 4792000293.0,
+      "utm": 93657.7,
+      "cantidad_derechos": 25,
+      "comuna_principal": "MOLINA",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "CURICO"
+    },
+    {
+      "ranking": 23,
+      "rut": "99529530.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 4619561790.0,
+      "utm": 83114.53,
+      "cantidad_derechos": 169,
+      "comuna_principal": "DALCAHUE",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "ANCUD"
+    },
+    {
+      "ranking": 24,
+      "rut": "76013187.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 4526660086.0,
+      "utm": 78468.26,
+      "cantidad_derechos": 63,
+      "comuna_principal": "SAN JOSE DE MAIPO",
+      "region_principal": "TESORERÃA REGIONAL SANTIAGO ORIENTE",
+      "oficina_cbr": "PUENTE ALTO"
+    },
+    {
+      "ranking": 25,
+      "rut": "77197500.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3877545390.0,
+      "utm": 66454.99,
+      "cantidad_derechos": 107,
+      "comuna_principal": "PANGUIPULLI",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 26,
+      "rut": "76848860.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3644396876.0,
+      "utm": 66497.84,
+      "cantidad_derechos": 300,
+      "comuna_principal": "AYSEN",
+      "region_principal": "TESORERÃA REGIONAL DE AYSEN",
+      "oficina_cbr": "PUERTO AYSEN"
+    },
+    {
+      "ranking": 27,
+      "rut": "96990040.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3632803557.0,
+      "utm": 64197.44,
+      "cantidad_derechos": 71,
+      "comuna_principal": "MACHALI",
+      "region_principal": "TESORERÃA REGIONAL LIB. GRAL BERNARDO OHIGGINS",
+      "oficina_cbr": "RANCAGUA"
+    },
+    {
+      "ranking": 28,
+      "rut": "76012397.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3388719858.0,
+      "utm": 62040.96,
+      "cantidad_derechos": 69,
+      "comuna_principal": "RIO IBANEZ",
+      "region_principal": "TESORERÃA REGIONAL DE AYSEN",
+      "oficina_cbr": "COYHAIQUE"
+    },
+    {
+      "ranking": 29,
+      "rut": "96505760.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3314735366.0,
+      "utm": 124079.23,
+      "cantidad_derechos": 86,
+      "comuna_principal": "COLBUN",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "LINARES"
+    },
+    {
+      "ranking": 30,
+      "rut": "96572600.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3214882495.0,
+      "utm": 62505.100000000006,
+      "cantidad_derechos": 8,
+      "comuna_principal": "QUELLON",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "QUELLON"
+    },
+    {
+      "ranking": 31,
+      "rut": "96654100.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 3105764068.0,
+      "utm": 56893.6,
+      "cantidad_derechos": 105,
+      "comuna_principal": "SAN PEDRO DE ATACAMA",
+      "region_principal": "TESORERÃA REGIONAL DE ANTOFAGASTA",
+      "oficina_cbr": "CALAMA"
+    },
+    {
+      "ranking": 32,
+      "rut": "76954930.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2994766659.0,
+      "utm": 52147.59,
+      "cantidad_derechos": 256,
+      "comuna_principal": "COLLIPULLI",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "COLLIPULLI"
+    },
+    {
+      "ranking": 33,
+      "rut": "76377315.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2966428673.0,
+      "utm": 48126.34,
+      "cantidad_derechos": 36,
+      "comuna_principal": "LITUECHE",
+      "region_principal": "TESORERÃA REGIONAL LIB. GRAL BERNARDO OHIGGINS",
+      "oficina_cbr": "LITUECHE"
+    },
+    {
+      "ranking": 34,
+      "rut": "77198023.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2797942784.0,
+      "utm": 43008.0,
+      "cantidad_derechos": 3,
+      "comuna_principal": "MELIPILLA",
+      "region_principal": "TESORERÃA REGIONAL SANTIAGO PONIENTE",
+      "oficina_cbr": "0"
+    },
+    {
+      "ranking": 35,
+      "rut": "76544026.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2490409373.0,
+      "utm": 45471.39,
+      "cantidad_derechos": 160,
+      "comuna_principal": "ALTO BIO BIO",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 36,
+      "rut": "79750680.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2488049414.0,
+      "utm": 43340.299999999996,
+      "cantidad_derechos": 181,
+      "comuna_principal": "CUNCO",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 37,
+      "rut": "4eba0b588365a7c2d315e66008744835725eb9487b908e5f47dd4c9275088317",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 2481459200.0,
+      "utm": 38400.0,
+      "cantidad_derechos": 3,
+      "comuna_principal": "LOS ANGELES",
+      "region_principal": "TESORERÃA REGIONAL DEL BIO BIO",
+      "oficina_cbr": "0"
+    },
+    {
+      "ranking": 38,
+      "rut": "76915130.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2433110194.0,
+      "utm": 42692.4,
+      "cantidad_derechos": 31,
+      "comuna_principal": "MELIPILLA",
+      "region_principal": "TESORERÃA REGIONAL SANTIAGO PONIENTE",
+      "oficina_cbr": "MELIPILLA"
+    },
+    {
+      "ranking": 39,
+      "rut": "78881650.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2391547520.0,
+      "utm": 34560.0,
+      "cantidad_derechos": 24,
+      "comuna_principal": "SANTO DOMINGO",
+      "region_principal": "TESORERÃA REGIONAL DE VALPARAÃSO",
+      "oficina_cbr": "SAN ANTONIO"
+    },
+    {
+      "ranking": 40,
+      "rut": "76699490.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2300335702.0,
+      "utm": 39410.8,
+      "cantidad_derechos": 102,
+      "comuna_principal": "COLBUN",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 41,
+      "rut": "76771164.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2256208229.0,
+      "utm": 36899.71,
+      "cantidad_derechos": 25,
+      "comuna_principal": "COCHAMO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 42,
+      "rut": "76778250.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2254307011.0,
+      "utm": 39396.24,
+      "cantidad_derechos": 27,
+      "comuna_principal": "CURICO",
+      "region_principal": "TESORERÃA REGIONAL DEL MAULE",
+      "oficina_cbr": "CURICO"
+    },
+    {
+      "ranking": 43,
+      "rut": "96511810.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2229912803.0,
+      "utm": 80491.29,
+      "cantidad_derechos": 42,
+      "comuna_principal": "RIO BUENO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "OSORNO"
+    },
+    {
+      "ranking": 44,
+      "rut": "76450820.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2107232084.0,
+      "utm": 40932.090000000004,
+      "cantidad_derechos": 85,
+      "comuna_principal": "FUTRONO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "LOS LAGOS"
+    },
+    {
+      "ranking": 45,
+      "rut": "76090413.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 2043245290.0,
+      "utm": 38328.57,
+      "cantidad_derechos": 14,
+      "comuna_principal": "LOS LAGOS",
+      "region_principal": "TESORERÃA REGIONAL DE LOS RIOS",
+      "oficina_cbr": "LOS LAGOS"
+    },
+    {
+      "ranking": 46,
+      "rut": "5658a896d5e6e9dbb7d79ccfc16fe56cc1fd33d16078f53c1e3069adb30358d5",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 2013523036.0,
+      "utm": 35884.0,
+      "cantidad_derechos": 31,
+      "comuna_principal": "NUEVA IMPERIAL",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "NUEVA IMPERIAL"
+    },
+    {
+      "ranking": 47,
+      "rut": "76362267.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 1857198167.0,
+      "utm": 32265.36,
+      "cantidad_derechos": 12,
+      "comuna_principal": "CURARREHUE",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "PUCON"
+    },
+    {
+      "ranking": 48,
+      "rut": "b2a8219a73fa98767bd0609a6261197396367ba77ec7f3229ccf269dfad26675",
+      "tipo_persona": "NATURAL",
+      "saldo_clp": 1854914218.0,
+      "utm": 35884.76,
+      "cantidad_derechos": 10,
+      "comuna_principal": "OSORNO",
+      "region_principal": "TESORERÃA REGIONAL DE LOS LAGOS",
+      "oficina_cbr": "SIN CLASIFICACION"
+    },
+    {
+      "ranking": 49,
+      "rut": "69191600.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 1854005616.0,
+      "utm": 36007.8,
+      "cantidad_derechos": 70,
+      "comuna_principal": "PUCON",
+      "region_principal": "TESORERÃA REGIONAL DE LA ARAUCANIA",
+      "oficina_cbr": "PUCON"
+    },
+    {
+      "ranking": 50,
+      "rut": "76204594.000000000",
+      "tipo_persona": "JURIDICA",
+      "saldo_clp": 1779468028.0,
+      "utm": 29850.1,
+      "cantidad_derechos": 42,
+      "comuna_principal": "SAN FABIAN",
+      "region_principal": "TESORERÃA REGIONAL DE ÃUBLE",
+      "oficina_cbr": "CHILLAN"
+    }
+  ]
+}

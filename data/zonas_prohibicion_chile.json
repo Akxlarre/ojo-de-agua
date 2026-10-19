@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "zp_1",
+    "shac": "Regiones Compartidas",
+    "region": "Fecha de publicación Diario Oficial Modificatoria N° 3",
+    "tipo_limitacion": "Sector Hidrogeológico de Aprovechamiento Común",
+    "resolucion_dga": "Tipo Limitación",
+    "fecha_resolucion": "N°  de Resolución DGA",
+    "fecha_publicacion_do": "Fecha de Toma Razón (TR)"
+  },
+  {
+    "id": "zp_2",
+    "shac": "XV",
+    "region": "",
+    "tipo_limitacion": "Valle Azapa",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "202",
+    "fecha_publicacion_do": "1996-04-09 00:00:00"
+  },
+  {
+    "id": "zp_3",
+    "shac": "XV",
+    "region": "",
+    "tipo_limitacion": "Quebrada Vitor",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "1",
+    "fecha_publicacion_do": "2024-06-26 00:00:00"
+  },
+  {
+    "id": "zp_4",
+    "shac": "XV",
+    "region": "",
+    "tipo_limitacion": "Rio Camarones",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "24",
+    "fecha_publicacion_do": "2025-08-11 00:00:00"
+  },
+  {
+    "id": "zp_5",
+    "shac": "I",
+    "region": "",
+    "tipo_limitacion": "La Noria",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "4",
+    "fecha_publicacion_do": "2020-02-12 00:00:00"
+  },
+  {
+    "id": "zp_6",
+    "shac": "I",
+    "region": "",
+    "tipo_limitacion": "Pica",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "22",
+    "fecha_publicacion_do": "2018-10-24 00:00:00"
+  },
+  {
+    "id": "zp_7",
+    "shac": "I",
+    "region": "",
+    "tipo_limitacion": "Laguna Lagunillas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "9",
+    "fecha_publicacion_do": "2022-09-15 00:00:00"
+  },
+  {
+    "id": "zp_8",
+    "shac": "I",
+    "region": "",
+    "tipo_limitacion": "Pampa del Tamarugal",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "245",
+    "fecha_publicacion_do": "2010-05-12 00:00:00"
+  },
+  {
+    "id": "zp_9",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "C2",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "120",
+    "fecha_publicacion_do": "2015-07-14 00:00:00"
+  },
+  {
+    "id": "zp_10",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Puna de Atacama Sur",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "11",
+    "fecha_publicacion_do": "2018-07-10 00:00:00"
+  },
+  {
+    "id": "zp_11",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Salar de Aguas Calientes y Laguna La Azufrera",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "5",
+    "fecha_publicacion_do": "2020-04-07 00:00:00"
+  },
+  {
+    "id": "zp_12",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Salar de Pajonales",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "13",
+    "fecha_publicacion_do": "2019-12-09 00:00:00"
+  },
+  {
+    "id": "zp_13",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Salar de Punta Negra e Imilac",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "10",
+    "fecha_publicacion_do": "2018-07-12 00:00:00"
+  },
+  {
+    "id": "zp_14",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "San Pedro Inacaliri",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "9",
+    "fecha_publicacion_do": "2021-03-18 00:00:00"
+  },
+  {
+    "id": "zp_15",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Sierra Gorda",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "759",
+    "fecha_publicacion_do": "2002-01-07 00:00:00"
+  },
+  {
+    "id": "zp_16",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Calama",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "2",
+    "fecha_publicacion_do": "2025-04-09 00:00:00"
+  },
+  {
+    "id": "zp_17",
+    "shac": "II",
+    "region": "",
+    "tipo_limitacion": "Salares Navidad y Mar Muerto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "6",
+    "fecha_publicacion_do": "2018-07-04 00:00:00"
+  },
+  {
+    "id": "zp_18",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Huasco Desembocadura",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "207",
+    "fecha_publicacion_do": "2009-11-06 00:00:00"
+  },
+  {
+    "id": "zp_19",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Llanos Chacritas y Las Campanas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "24",
+    "fecha_publicacion_do": "2018-12-18 00:00:00"
+  },
+  {
+    "id": "zp_20",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Llanos de Algarrobal y La Jaula",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "24",
+    "fecha_publicacion_do": "2018-12-18 00:00:00"
+  },
+  {
+    "id": "zp_21",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Quedrada Totoral Alto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "11",
+    "fecha_publicacion_do": "2019-10-23 00:00:00"
+  },
+  {
+    "id": "zp_22",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Salar de Pedernales Sur",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "44",
+    "fecha_publicacion_do": "2013-08-20 00:00:00"
+  },
+  {
+    "id": "zp_23",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Sector 1 - Aguas Arriba Embalse Lautaro",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "193",
+    "fecha_publicacion_do": "1993-06-14 00:00:00"
+  },
+  {
+    "id": "zp_24",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Sector 2 - Embalse Lautaro - La Puerta",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "193",
+    "fecha_publicacion_do": "1993-06-14 00:00:00"
+  },
+  {
+    "id": "zp_25",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Sector 3 - La Puerta - Mal Paso",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "193",
+    "fecha_publicacion_do": "1993-06-14 00:00:00"
+  },
+  {
+    "id": "zp_26",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Sector 4 - Mal Paso - Copiapo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "193",
+    "fecha_publicacion_do": "1993-06-14 00:00:00"
+  },
+  {
+    "id": "zp_27",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "Vallenar Alto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "207",
+    "fecha_publicacion_do": "2009-11-06 00:00:00"
+  },
+  {
+    "id": "zp_28",
+    "shac": "III",
+    "region": "",
+    "tipo_limitacion": "El Transito",
+    "resolucion_dga": "Área de Restricción",
+    "fecha_resolucion": "207",
+    "fecha_publicacion_do": "2009-11-06 00:00:00"
+  },
+  {
+    "id": "zp_29",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Aguas Arriba Embalse Culimo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "150",
+    "fecha_publicacion_do": "2009-08-18 00:00:00"
+  },
+  {
+    "id": "zp_30",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Caleta Nague",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "3",
+    "fecha_publicacion_do": "2021-03-18 00:00:00"
+  },
+  {
+    "id": "zp_31",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Canela",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "113",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_32",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Chalinga",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "113",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_33",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Choapa Alto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "113",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_34",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Choapa Bajo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "41",
+    "fecha_publicacion_do": "2013-08-09 00:00:00"
+  },
+  {
+    "id": "zp_35",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "El Ajial",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "48",
+    "fecha_publicacion_do": "2013-08-26 00:00:00"
+  },
+  {
+    "id": "zp_36",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Elqui Alto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "45",
+    "fecha_publicacion_do": "2013-08-16 00:00:00"
+  },
+  {
+    "id": "zp_37",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Elqui Medio",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "45",
+    "fecha_publicacion_do": "2013-08-16 00:00:00"
+  },
+  {
+    "id": "zp_38",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Estero Millahue",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "8",
+    "fecha_publicacion_do": "2021-03-18 00:00:00"
+  },
+  {
+    "id": "zp_39",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Guanguali",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "150",
+    "fecha_publicacion_do": "2009-08-18 00:00:00"
+  },
+  {
+    "id": "zp_40",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Illapel",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "113",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_41",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Los Condores",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "150",
+    "fecha_publicacion_do": "2009-08-18 00:00:00"
+  },
+  {
+    "id": "zp_42",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Los Maquis",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "48",
+    "fecha_publicacion_do": "2013-08-26 00:00:00"
+  },
+  {
+    "id": "zp_43",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Pangalillo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "150",
+    "fecha_publicacion_do": "2009-08-18 00:00:00"
+  },
+  {
+    "id": "zp_44",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada El Totoral",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "5",
+    "fecha_publicacion_do": "2021-03-18 00:00:00"
+  },
+  {
+    "id": "zp_45",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quilimari",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "150",
+    "fecha_publicacion_do": "2009-08-18 00:00:00"
+  },
+  {
+    "id": "zp_46",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Santa Gracia",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "74",
+    "fecha_publicacion_do": "2007-04-05 00:00:00"
+  },
+  {
+    "id": "zp_47",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Serena Norte",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "74",
+    "fecha_publicacion_do": "2007-04-05 00:00:00"
+  },
+  {
+    "id": "zp_48",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Totoralillo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "6",
+    "fecha_publicacion_do": "2021-03-18 00:00:00"
+  },
+  {
+    "id": "zp_49",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Pichidangui",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "20",
+    "fecha_publicacion_do": "2021-07-14 00:00:00"
+  },
+  {
+    "id": "zp_50",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada Tongoicillo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "33",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_51",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "El Rincon",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "29",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_52",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Guanaquero Tongoy",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "30",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_53",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Guayacan - Barranca",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "31",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_54",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "La Herradura",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "35",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_55",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada del Pastor",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "34",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_56",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada Las Tacas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "32",
+    "fecha_publicacion_do": "2021-09-28 00:00:00"
+  },
+  {
+    "id": "zp_57",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Río Limarí",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "10",
+    "fecha_publicacion_do": "2023-06-15 00:00:00"
+  },
+  {
+    "id": "zp_58",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Río Hurtado",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "11",
+    "fecha_publicacion_do": "2023-06-15 00:00:00"
+  },
+  {
+    "id": "zp_59",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Río Grande",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "12",
+    "fecha_publicacion_do": "2023-06-15 00:00:00"
+  },
+  {
+    "id": "zp_60",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Punitaqui",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "13",
+    "fecha_publicacion_do": "2023-06-15 00:00:00"
+  },
+  {
+    "id": "zp_61",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Cogoti",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_62",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Combarbalá",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_63",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "El Ingenio",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_64",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Guatulame",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_65",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Higuerilla",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_66",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Río Pama",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "115",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_67",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Choapa Medio",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "20",
+    "fecha_publicacion_do": "2023-09-07 00:00:00"
+  },
+  {
+    "id": "zp_68",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "La Cebada",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "4",
+    "fecha_publicacion_do": "2024-06-26 00:00:00"
+  },
+  {
+    "id": "zp_69",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Caleta Rincon",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "6",
+    "fecha_publicacion_do": "2024-07-02 00:00:00"
+  },
+  {
+    "id": "zp_70",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada El Negro",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "25",
+    "fecha_publicacion_do": "2021-07-14 00:00:00"
+  },
+  {
+    "id": "zp_71",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada Los Litres",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "2",
+    "fecha_publicacion_do": "2024-07-02 00:00:00"
+  },
+  {
+    "id": "zp_72",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Quebrada Pachingo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "3",
+    "fecha_publicacion_do": "2024-07-02 00:00:00"
+  },
+  {
+    "id": "zp_73",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Penuelas",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "672",
+    "fecha_publicacion_do": "2003-12-12 00:00:00"
+  },
+  {
+    "id": "zp_74",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Culebron",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "672",
+    "fecha_publicacion_do": "2003-12-12 00:00:00"
+  },
+  {
+    "id": "zp_75",
+    "shac": "IV",
+    "region": "",
+    "tipo_limitacion": "Lagunillas",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "672",
+    "fecha_publicacion_do": "2003-12-12 00:00:00"
+  },
+  {
+    "id": "zp_76",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Chicureo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "62",
+    "fecha_publicacion_do": "2001-02-07 00:00:00"
+  },
+  {
+    "id": "zp_77",
+    "shac": "RM",
+    "region": "01-02-2020",
+    "tipo_limitacion": "Cholqui",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "241",
+    "fecha_publicacion_do": "2008-09-12 00:00:00"
+  },
+  {
+    "id": "zp_78",
+    "shac": "RM",
+    "region": "01-02-2020",
+    "tipo_limitacion": "Laguna de Aculeo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "277",
+    "fecha_publicacion_do": "2008-11-13 00:00:00"
+  },
+  {
+    "id": "zp_79",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Las Gualtatas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "293",
+    "fecha_publicacion_do": "2004-09-16 00:00:00"
+  },
+  {
+    "id": "zp_80",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Lo Barnechea",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "293",
+    "fecha_publicacion_do": "2004-09-16 00:00:00"
+  },
+  {
+    "id": "zp_81",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Paine",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "276",
+    "fecha_publicacion_do": "2008-11-13 00:00:00"
+  },
+  {
+    "id": "zp_82",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "San Vicente",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "208",
+    "fecha_publicacion_do": "2009-11-12 00:00:00"
+  },
+  {
+    "id": "zp_83",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Santiago Central",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "286",
+    "fecha_publicacion_do": "2005-09-15 00:00:00"
+  },
+  {
+    "id": "zp_84",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Vitacura",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "293",
+    "fecha_publicacion_do": "2004-09-16 00:00:00"
+  },
+  {
+    "id": "zp_85",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Yali Medio",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "208",
+    "fecha_publicacion_do": "2009-11-12 00:00:00"
+  },
+  {
+    "id": "zp_86",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Puangue Medio",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "241",
+    "fecha_publicacion_do": "2008-09-12 00:00:00"
+  },
+  {
+    "id": "zp_87",
+    "shac": "V-RM",
+    "region": "",
+    "tipo_limitacion": "Puangue Alto",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "241",
+    "fecha_publicacion_do": "2008-09-12 00:00:00"
+  },
+  {
+    "id": "zp_88",
+    "shac": "V-RM",
+    "region": "",
+    "tipo_limitacion": "Yali Bajo El Prado",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "425",
+    "fecha_publicacion_do": "2006-01-17 00:00:00"
+  },
+  {
+    "id": "zp_89",
+    "shac": "RM",
+    "region": "",
+    "tipo_limitacion": "Popeta",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "241",
+    "fecha_publicacion_do": "2008-09-12 00:00:00"
+  },
+  {
+    "id": "zp_90",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 3 - Panquehue",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "57",
+    "fecha_publicacion_do": "2016-12-26 00:00:00"
+  },
+  {
+    "id": "zp_91",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 4 - Catemu",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "57",
+    "fecha_publicacion_do": "2016-12-26 00:00:00"
+  },
+  {
+    "id": "zp_92",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 6 - Nogales-Hijuelas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "128",
+    "fecha_publicacion_do": "2015-07-31 00:00:00"
+  },
+  {
+    "id": "zp_93",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 7 - Quillota",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "128",
+    "fecha_publicacion_do": "2015-07-31 00:00:00"
+  },
+  {
+    "id": "zp_94",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 8 - Aconcagua desembocadura",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "128",
+    "fecha_publicacion_do": "2015-07-31 00:00:00"
+  },
+  {
+    "id": "zp_95",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Acuífero 9 - Limache",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "128",
+    "fecha_publicacion_do": "2015-07-31 00:00:00"
+  },
+  {
+    "id": "zp_96",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Estero Cachagua",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "372",
+    "fecha_publicacion_do": "2005-11-10 00:00:00"
+  },
+  {
+    "id": "zp_97",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Estero Catapilco",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "152",
+    "fecha_publicacion_do": "2009-09-07 00:00:00"
+  },
+  {
+    "id": "zp_98",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Estero El Membrillo - Zona Prohibición",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "65",
+    "fecha_publicacion_do": "1983-03-17 00:00:00"
+  },
+  {
+    "id": "zp_99",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Estero Guaquén",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "152",
+    "fecha_publicacion_do": "2009-09-07 00:00:00"
+  },
+  {
+    "id": "zp_100",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Estero San Jeronimo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "418",
+    "fecha_publicacion_do": "2004-10-28 00:00:00"
+  },
+  {
+    "id": "zp_101",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Horcon",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "372",
+    "fecha_publicacion_do": "2005-11-10 00:00:00"
+  },
+  {
+    "id": "zp_102",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "La Laguna -  Catapilco",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "372",
+    "fecha_publicacion_do": "2005-11-10 00:00:00"
+  },
+  {
+    "id": "zp_103",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "La Vinilla-Casablanca",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "290",
+    "fecha_publicacion_do": "2005-09-26 00:00:00"
+  },
+  {
+    "id": "zp_104",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Lo Orozco",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "290",
+    "fecha_publicacion_do": "2005-09-26 00:00:00"
+  },
+  {
+    "id": "zp_105",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Lo Ovalle",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "161",
+    "fecha_publicacion_do": "2001-04-10 00:00:00"
+  },
+  {
+    "id": "zp_106",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Los Perales",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "290",
+    "fecha_publicacion_do": "2005-09-26 00:00:00"
+  },
+  {
+    "id": "zp_107",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 1 - Río Pedernal",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "216",
+    "fecha_publicacion_do": "1997-05-07 00:00:00"
+  },
+  {
+    "id": "zp_108",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 10 - Río Petorca Oriente",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "216",
+    "fecha_publicacion_do": "1997-05-07 00:00:00"
+  },
+  {
+    "id": "zp_109",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 11 - Río La Ligua Costa",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_110",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 12 - Estero Patagua",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_111",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 2 - Estero Las Palmas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "216",
+    "fecha_publicacion_do": "1997-05-07 00:00:00"
+  },
+  {
+    "id": "zp_112",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 3 - Río del Sobrante",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "216",
+    "fecha_publicacion_do": "1997-05-07 00:00:00"
+  },
+  {
+    "id": "zp_113",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 4 - Rio Petorca Poniente",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "216",
+    "fecha_publicacion_do": "1997-05-07 00:00:00"
+  },
+  {
+    "id": "zp_114",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 5 - Estero Alicahue",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_115",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 6 - Río La Ligua Oriente",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_116",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 7 - Río La Ligua Cabildo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_117",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 8 - Río La Ligua Pueblo",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_118",
+    "shac": "V",
+    "region": "",
+    "tipo_limitacion": "Sector 9 - Estero Los Angeles",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "204",
+    "fecha_publicacion_do": "2004-06-14 00:00:00"
+  },
+  {
+    "id": "zp_119",
+    "shac": "V-RM",
+    "region": "",
+    "tipo_limitacion": "Yali Bajo El Prado",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "425",
+    "fecha_publicacion_do": "2006-01-17 00:00:00"
+  },
+  {
+    "id": "zp_120",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Cadenas Marchigue",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "381",
+    "fecha_publicacion_do": "2005-12-14 00:00:00"
+  },
+  {
+    "id": "zp_121",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero El Rosario - Costeras VI",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "251",
+    "fecha_publicacion_do": "2011-11-10 00:00:00"
+  },
+  {
+    "id": "zp_122",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Lolol",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "114",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_123",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Pumanque",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "114",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_124",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Requinoa-Rosario-Rengo-Quinta Tilcoco",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "139",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_125",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Tinguiririca Inferior",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "139",
+    "fecha_publicacion_do": "2009-08-11 00:00:00"
+  },
+  {
+    "id": "zp_126",
+    "shac": "RM-VI",
+    "region": "",
+    "tipo_limitacion": "Codegua",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "392",
+    "fecha_publicacion_do": "2007-11-20 00:00:00"
+  },
+  {
+    "id": "zp_127",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Laguna de Cahuil",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "2",
+    "fecha_publicacion_do": "2017-09-04 00:00:00"
+  },
+  {
+    "id": "zp_128",
+    "shac": "VI-VII",
+    "region": "",
+    "tipo_limitacion": "Laguna Boyeruca",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "31",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_129",
+    "shac": "VI-RM-V",
+    "region": "",
+    "tipo_limitacion": "Rio Rapel bajo junta estero Rosario",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "26",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_130",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Altos de Rapel",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "27",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_131",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Caleta Matanzas",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "20",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_132",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Hidango",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "8",
+    "fecha_publicacion_do": "2017-11-24 00:00:00"
+  },
+  {
+    "id": "zp_133",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Navidad",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "25",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_134",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Paredones",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "20",
+    "fecha_publicacion_do": "2018-10-18 00:00:00"
+  },
+  {
+    "id": "zp_135",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Pupuya",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "3",
+    "fecha_publicacion_do": "2018-06-04 00:00:00"
+  },
+  {
+    "id": "zp_136",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Quillay",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "24",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_137",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Estero Topocalma",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "4",
+    "fecha_publicacion_do": "2018-06-04 00:00:00"
+  },
+  {
+    "id": "zp_138",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Laguna Bucalemu",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "91",
+    "fecha_publicacion_do": "2015-04-10 00:00:00"
+  },
+  {
+    "id": "zp_139",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Nilahue bajo",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "34",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_140",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Orilla Embalse Rapel Sur",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "29",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_141",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Polcura",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "23",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_142",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Punta Tuman",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "22",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_143",
+    "shac": "VI",
+    "region": "",
+    "tipo_limitacion": "Quebrada Honda VI",
+    "resolucion_dga": "Zona de Prohibicion",
+    "fecha_resolucion": "19",
+    "fecha_publicacion_do": "2024-08-16 00:00:00"
+  },
+  {
+    "id": "zp_144",
+    "shac": "RM-VI",
+    "region": "",
+    "tipo_limitacion": "Río Rapel antes junta estero Rosario",
+    "resolucion_dga": "Área de Restricción",
+    "fecha_resolucion": "251",
+    "fecha_publicacion_do": "2011-11-10 00:00:00"
+  },
+  {
+    "id": "zp_145",
+    "shac": "VII",
+    "region": "",
+    "tipo_limitacion": "Esteros Belco y Arenal",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "92",
+    "fecha_publicacion_do": "2015-04-10 00:00:00"
+  },
+  {
+    "id": "zp_146",
+    "shac": "VIII",
+    "region": "",
+    "tipo_limitacion": "Coronel Norte",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "23",
+    "fecha_publicacion_do": "2018-12-18 00:00:00"
+  },
+  {
+    "id": "zp_147",
+    "shac": "VIII",
+    "region": "",
+    "tipo_limitacion": "Coronel Sur",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "23",
+    "fecha_publicacion_do": "2018-12-18 00:00:00"
+  },
+  {
+    "id": "zp_148",
+    "shac": "XII",
+    "region": "",
+    "tipo_limitacion": "Punta Arenas",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "5",
+    "fecha_publicacion_do": "2023-04-28 00:00:00"
+  },
+  {
+    "id": "zp_149",
+    "shac": "XII",
+    "region": "",
+    "tipo_limitacion": "Río Calafate",
+    "resolucion_dga": "Zona de Prohibición",
+    "fecha_resolucion": "6",
+    "fecha_publicacion_do": "2023-04-28 00:00:00"
+  }
+]

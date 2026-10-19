@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "mma_humedal_hu-0001",
+    "codigo_humedal": "HU-0001",
+    "nombre": "Embalse Larrain",
+    "superficie_ha": 0.86,
+    "superficie_km2": 0.009,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Lo Barnechea",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 533/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2t5ho",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/1",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.351772,
+      "longitud": -70.508859
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0002",
+    "codigo_humedal": "HU-0002",
+    "nombre": "Tranque La Dehesa 1 y Tranque La Dehesa 2",
+    "superficie_ha": 12.91,
+    "superficie_km2": 0.129,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Lo Barnechea",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 534/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2t5bt",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/2",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.32692,
+      "longitud": -70.527006
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0009",
+    "codigo_humedal": "HU-0009",
+    "nombre": "Reserva Natural Municipal Piedras Blancas",
+    "superficie_ha": 70.1,
+    "superficie_km2": 0.701,
+    "region": "Valparaíso",
+    "comuna": "Limache",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 783/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul3r",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/7",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.989236,
+      "longitud": -71.29915
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0004",
+    "codigo_humedal": "HU-0004",
+    "nombre": "Playa Blanca",
+    "superficie_ha": 132.61,
+    "superficie_km2": 1.326,
+    "region": "Tarapacá",
+    "comuna": "Iquique",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 621/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2tces",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/2",
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "coordenadas": {
+      "latitud": -20.323475,
+      "longitud": -70.142475
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0005",
+    "codigo_humedal": "HU-0005",
+    "nombre": "Parque Maria Behety",
+    "superficie_ha": 4.34,
+    "superficie_km2": 0.043,
+    "region": "Magallanes y de la Antártica Chilena",
+    "comuna": "Punta Arenas",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 648/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul3c",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/3",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas": {
+      "latitud": -53.178475,
+      "longitud": -70.929828
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0012",
+    "codigo_humedal": "HU-0012",
+    "nombre": "Aguada La Chimba",
+    "superficie_ha": 1.01,
+    "superficie_km2": 0.01,
+    "region": "Antofagasta",
+    "comuna": "Antofagasta",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 787/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul3k",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/4",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.564078,
+      "longitud": -70.400077
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0006",
+    "codigo_humedal": "HU-0006",
+    "nombre": "Los Trapenses",
+    "superficie_ha": 3.24,
+    "superficie_km2": 0.032,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Lo Barnechea",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 727/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2rcl6",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/4",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.326475,
+      "longitud": -70.551881
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0007",
+    "codigo_humedal": "HU-0007",
+    "nombre": "Humedales de Quirilluca",
+    "superficie_ha": 34.52,
+    "superficie_km2": 0.345,
+    "region": "Valparaíso",
+    "comuna": "Puchuncaví",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 772/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2sm1c",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/5",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.724714,
+      "longitud": -71.429406
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0008",
+    "codigo_humedal": "HU-0008",
+    "nombre": "Los Maitenes - Campiche",
+    "superficie_ha": 504.95,
+    "superficie_km2": 5.05,
+    "region": "Valparaíso",
+    "comuna": "Quintero",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 773/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2sm2o",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/6",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.748539,
+      "longitud": -71.453904
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0016",
+    "codigo_humedal": "HU-0016",
+    "nombre": "Rio Cautin-Sector Antumalen",
+    "superficie_ha": 194.07,
+    "superficie_km2": 1.941,
+    "region": "La Araucanía",
+    "comuna": "Padre Las Casas",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 814/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul41",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/11",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.719767,
+      "longitud": -72.547573
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0010",
+    "codigo_humedal": "HU-0010",
+    "nombre": "Circuito Humedales Pudeto Bajo",
+    "superficie_ha": 37.25,
+    "superficie_km2": 0.372,
+    "region": "Los Lagos",
+    "comuna": "Ancud",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 784/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2rcl5",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/8",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -41.882713,
+      "longitud": -73.790332
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0011",
+    "codigo_humedal": "HU-0011",
+    "nombre": "Estero Lircay",
+    "superficie_ha": 22.94,
+    "superficie_km2": 0.229,
+    "region": "La Araucanía",
+    "comuna": "Temuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 785/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2rc6y",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/9",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.72306,
+      "longitud": -72.669294
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0019",
+    "codigo_humedal": "HU-0019",
+    "nombre": "La Marina",
+    "superficie_ha": 2.31,
+    "superficie_km2": 0.023,
+    "region": "Los Lagos",
+    "comuna": "Puerto Varas",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 830/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ssll",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/14",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.325168,
+      "longitud": -72.953299
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0020",
+    "codigo_humedal": "HU-0020",
+    "nombre": "Estero Quilpue",
+    "superficie_ha": 8.36,
+    "superficie_km2": 0.084,
+    "region": "Valparaíso",
+    "comuna": "Villa Alemana",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 852/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s13b",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/15",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.045458,
+      "longitud": -71.366204
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0013",
+    "codigo_humedal": "HU-0013",
+    "nombre": "Petrel",
+    "superficie_ha": 69.58,
+    "superficie_km2": 0.696,
+    "region": "Libertador General Bernardo O'Higgins",
+    "comuna": "Pichilemu",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 797/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul3a",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/5",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.382071,
+      "longitud": -71.991029
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0014",
+    "codigo_humedal": "HU-0014",
+    "nombre": "Sistema Laguna y Estero Cartagena",
+    "superficie_ha": 21.74,
+    "superficie_km2": 0.217,
+    "region": "Valparaíso",
+    "comuna": "Cartagena",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 798/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul3l",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/6",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.533678,
+      "longitud": -71.59323
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0017",
+    "codigo_humedal": "HU-0017",
+    "nombre": "Laguna Temuco",
+    "superficie_ha": 52.24,
+    "superficie_km2": 0.522,
+    "region": "La Araucanía",
+    "comuna": "Temuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 815/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2rc35",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/12",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.648124,
+      "longitud": -72.483989
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0018",
+    "codigo_humedal": "HU-0018",
+    "nombre": "Labranza Alto-Camino Mollulco",
+    "superficie_ha": 78.06,
+    "superficie_km2": 0.781,
+    "region": "La Araucanía",
+    "comuna": "Temuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 816/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2rc5l",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/13",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.749523,
+      "longitud": -72.746685
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0049",
+    "codigo_humedal": "HU-0049",
+    "nombre": "Tranque La Poza",
+    "superficie_ha": 1.8,
+    "superficie_km2": 0.018,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Lo Barnechea",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1267/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2tj2o",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/19",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.340615,
+      "longitud": -70.493031
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0050",
+    "codigo_humedal": "HU-0050",
+    "nombre": "Angachilla, Estero Catrico",
+    "superficie_ha": 126.09,
+    "superficie_km2": 1.261,
+    "region": "Los Ríos",
+    "comuna": "Valdivia",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1337/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ud22",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/20",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.860916,
+      "longitud": -73.2403
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0021",
+    "codigo_humedal": "HU-0021",
+    "nombre": "Laguna Amalia",
+    "superficie_ha": 2.33,
+    "superficie_km2": 0.023,
+    "region": "Biobío",
+    "comuna": "Lebu",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 879/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s138",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/16",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.618031,
+      "longitud": -73.669373
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0022",
+    "codigo_humedal": "HU-0022",
+    "nombre": "Laguna Santa Fe",
+    "superficie_ha": 2.27,
+    "superficie_km2": 0.023,
+    "region": "Biobío",
+    "comuna": "Lebu",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 898/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s139",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/17",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.620402,
+      "longitud": -73.666536
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0023",
+    "codigo_humedal": "HU-0023",
+    "nombre": "Vegas de Montana",
+    "superficie_ha": 96.52,
+    "superficie_km2": 0.965,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Lo Barnechea",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 891/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul49",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/7",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.337682,
+      "longitud": -70.298672
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0024",
+    "codigo_humedal": "HU-0024",
+    "nombre": "Villa El Lago",
+    "superficie_ha": 3.14,
+    "superficie_km2": 0.031,
+    "region": "Los Lagos",
+    "comuna": "Puerto Octay",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 919/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s11a",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/8",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.968521,
+      "longitud": -72.889536
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0025",
+    "codigo_humedal": "HU-0025",
+    "nombre": "Paso Seco Sur",
+    "superficie_ha": 88.4,
+    "superficie_km2": 0.884,
+    "region": "Biobío",
+    "comuna": "Coronel",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 920/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s131",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/18",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.007335,
+      "longitud": -73.142763
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0026",
+    "codigo_humedal": "HU-0026",
+    "nombre": "Collilelfu-Equil",
+    "superficie_ha": 5.14,
+    "superficie_km2": 0.051,
+    "region": "Los Ríos",
+    "comuna": "Los Lagos",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 922/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s11m",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/9",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.867845,
+      "longitud": -72.815284
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0027",
+    "codigo_humedal": "HU-0027",
+    "nombre": "El Avellano",
+    "superficie_ha": 6.62,
+    "superficie_km2": 0.066,
+    "region": "Biobío",
+    "comuna": "Los Angeles",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 921/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2sspa",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/10",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.438044,
+      "longitud": -72.336596
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0028",
+    "codigo_humedal": "HU-0028",
+    "nombre": "Las Obras",
+    "superficie_ha": 2.72,
+    "superficie_km2": 0.027,
+    "region": "La Araucanía",
+    "comuna": "Traiguén",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 926/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ssor",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/19",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.242935,
+      "longitud": -72.659739
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0029",
+    "codigo_humedal": "HU-0029",
+    "nombre": "Bucalemu",
+    "superficie_ha": 279.38,
+    "superficie_km2": 2.794,
+    "region": "Libertador General Bernardo O'Higgins",
+    "comuna": "Paredones",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 982/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul4c",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/11",
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "coordenadas": {
+      "latitud": -34.643306,
+      "longitud": -72.017499
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0030",
+    "codigo_humedal": "HU-0030",
+    "nombre": "Estero El Litre",
+    "superficie_ha": 4.43,
+    "superficie_km2": 0.044,
+    "region": "Valparaíso",
+    "comuna": "Nogales",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 988/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul4r",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/20",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.767955,
+      "longitud": -71.199826
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0031",
+    "codigo_humedal": "HU-0031",
+    "nombre": "Banos Morales",
+    "superficie_ha": 2.81,
+    "superficie_km2": 0.028,
+    "region": "Metropolitana de Santiago",
+    "comuna": "San José de Maipo",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 990/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2svqw",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/12",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.822922,
+      "longitud": -70.060832
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0032",
+    "codigo_humedal": "HU-0032",
+    "nombre": "El Trapiche",
+    "superficie_ha": 339.4,
+    "superficie_km2": 3.394,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Talagante",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1001/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2svrv",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/13",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.604329,
+      "longitud": -70.907079
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0033",
+    "codigo_humedal": "HU-0033",
+    "nombre": "San Rafael",
+    "superficie_ha": 25.78,
+    "superficie_km2": 0.258,
+    "region": "Los Lagos",
+    "comuna": "Calbuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1015/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul5y",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/21",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.767181,
+      "longitud": -73.149776
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0034",
+    "codigo_humedal": "HU-0034",
+    "nombre": "Caicaen",
+    "superficie_ha": 101.87,
+    "superficie_km2": 1.019,
+    "region": "Los Lagos",
+    "comuna": "Calbuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1029/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul62",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/22",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.788981,
+      "longitud": -73.154192
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0035",
+    "codigo_humedal": "HU-0035",
+    "nombre": "Cuatro Tubos",
+    "superficie_ha": 1.12,
+    "superficie_km2": 0.011,
+    "region": "Biobío",
+    "comuna": "Cañete",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1090/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s11v",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/14",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.808046,
+      "longitud": -73.392323
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0036",
+    "codigo_humedal": "HU-0036",
+    "nombre": "Pargua",
+    "superficie_ha": 5.56,
+    "superficie_km2": 0.056,
+    "region": "Los Lagos",
+    "comuna": "Calbuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1037/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul67",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/23",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -41.789358,
+      "longitud": -73.452375
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0037",
+    "codigo_humedal": "HU-0037",
+    "nombre": "Laguna Rayencura",
+    "superficie_ha": 1.51,
+    "superficie_km2": 0.015,
+    "region": "Biobío",
+    "comuna": "Hualqui",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1091/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2s121",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/15",
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "coordenadas": {
+      "latitud": -37.161239,
+      "longitud": -72.914286
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0038",
+    "codigo_humedal": "HU-0038",
+    "nombre": "Boca Maule",
+    "superficie_ha": 65.04,
+    "superficie_km2": 0.65,
+    "region": "Biobío",
+    "comuna": "Coronel",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1137/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul69",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/24",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.000935,
+      "longitud": -73.174403
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0039",
+    "codigo_humedal": "HU-0039",
+    "nombre": "Lebu Norte",
+    "superficie_ha": 2.81,
+    "superficie_km2": 0.028,
+    "region": "Biobío",
+    "comuna": "Lebu",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1157/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul6f",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/25",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.597915,
+      "longitud": -73.64338
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0040",
+    "codigo_humedal": "HU-0040",
+    "nombre": "Bosque Miraflores-Las Mulatas-Guacamayo",
+    "superficie_ha": 387.57,
+    "superficie_km2": 3.876,
+    "region": "Los Ríos",
+    "comuna": "Valdivia",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1159/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2tbom",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/26",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.850718,
+      "longitud": -73.250944
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0041",
+    "codigo_humedal": "HU-0041",
+    "nombre": "Sistema de Humedales Urbanos Sector Isla Teja",
+    "superficie_ha": 373.22,
+    "superficie_km2": 3.732,
+    "region": "Los Ríos",
+    "comuna": "Valdivia",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1158/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ud21",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/27",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.804207,
+      "longitud": -73.263025
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0051",
+    "codigo_humedal": "HU-0051",
+    "nombre": "Tres Puentes",
+    "superficie_ha": 104.94,
+    "superficie_km2": 1.049,
+    "region": "Magallanes y de la Antártica Chilena",
+    "comuna": "Punta Arenas",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1349/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ujds",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/21",
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "coordenadas": {
+      "latitud": -53.117458,
+      "longitud": -70.885877
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0042",
+    "codigo_humedal": "HU-0042",
+    "nombre": "Estuario Los Molles",
+    "superficie_ha": 9.22,
+    "superficie_km2": 0.092,
+    "region": "Valparaíso",
+    "comuna": "La Ligua",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1160/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul6i",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/28",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.234775,
+      "longitud": -71.508771
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0052",
+    "codigo_humedal": "HU-0052",
+    "nombre": "El Membrillo-Estero El Yugo",
+    "superficie_ha": 16.95,
+    "superficie_km2": 0.169,
+    "region": "Valparaíso",
+    "comuna": "Algarrobo",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1348/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ulgt",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/22",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.342358,
+      "longitud": -71.648647
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0053",
+    "codigo_humedal": "HU-0053",
+    "nombre": "Estero Quilpue, sector Quilpue",
+    "superficie_ha": 20.32,
+    "superficie_km2": 0.203,
+    "region": "Valparaíso",
+    "comuna": "Quilpué",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1138/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2uli4",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/32",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.043509,
+      "longitud": -71.447661
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0093",
+    "codigo_humedal": "HU-0093",
+    "nombre": "Picurio",
+    "superficie_ha": 1.47,
+    "superficie_km2": 0.015,
+    "region": "Los Lagos",
+    "comuna": "Frutillar",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1526/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/3bjsz",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/60",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.114676,
+      "longitud": -73.048719
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0094",
+    "codigo_humedal": "HU-0094",
+    "nombre": "Estero Puren Idahue",
+    "superficie_ha": 16.12,
+    "superficie_km2": 0.161,
+    "region": "Libertador General Bernardo O'Higgins",
+    "comuna": "Coltauco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 60/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bn5f",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/61",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -34.291051,
+      "longitud": -71.091914
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0095",
+    "codigo_humedal": "HU-0095",
+    "nombre": "Rio Maipo, de Isla de Maipo",
+    "superficie_ha": 1773.14,
+    "superficie_km2": 17.731,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Buin",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 61/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bnrf",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/62",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.739065,
+      "longitud": -70.957953
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0043",
+    "codigo_humedal": "HU-0043",
+    "nombre": "Catrico",
+    "superficie_ha": 29.93,
+    "superficie_km2": 0.299,
+    "region": "Los Ríos",
+    "comuna": "Valdivia",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1236/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul6o",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/16",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.843365,
+      "longitud": -73.224558
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0045",
+    "codigo_humedal": "HU-0045",
+    "nombre": "Quebrada Gramado",
+    "superficie_ha": 2.65,
+    "superficie_km2": 0.026,
+    "region": "Los Lagos",
+    "comuna": "Puerto Varas",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1226/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ujdv",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/30",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.315948,
+      "longitud": -72.991313
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0056",
+    "codigo_humedal": "HU-0056",
+    "nombre": "Estero Quellon",
+    "superficie_ha": 5.1,
+    "superficie_km2": 0.051,
+    "region": "Los Lagos",
+    "comuna": "Quellón",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1260/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wlpn",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/33",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -43.118503,
+      "longitud": -73.633677
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0057",
+    "codigo_humedal": "HU-0057",
+    "nombre": "Mallolafquen, Lago Villarrica",
+    "superficie_ha": 189.85,
+    "superficie_km2": 1.898,
+    "region": "La Araucanía",
+    "comuna": "Villarrica",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1410/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wlq2",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/25",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.28761,
+      "longitud": -72.171199
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0058",
+    "codigo_humedal": "HU-0058",
+    "nombre": "Mallinco Abtao Lawal",
+    "superficie_ha": 93.96,
+    "superficie_km2": 0.94,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1405/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wlol",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/26",
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "coordenadas": {
+      "latitud": -41.413188,
+      "longitud": -72.898502
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0059",
+    "codigo_humedal": "HU-0059",
+    "nombre": "Antinir",
+    "superficie_ha": 41.62,
+    "superficie_km2": 0.416,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1406/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wlp4",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/27",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.444887,
+      "longitud": -72.947692
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0046",
+    "codigo_humedal": "HU-0046",
+    "nombre": "La Vega de Pupuya",
+    "superficie_ha": 10.73,
+    "superficie_km2": 0.107,
+    "region": "Libertador General Bernardo O'Higgins",
+    "comuna": "Navidad",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1227/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2u8nk",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/31",
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "coordenadas": {
+      "latitud": -33.986769,
+      "longitud": -71.881135
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0060",
+    "codigo_humedal": "HU-0060",
+    "nombre": "Valle Volcanes",
+    "superficie_ha": 189.35,
+    "superficie_km2": 1.893,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1408/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wlnw",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/28",
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "coordenadas": {
+      "latitud": -41.464481,
+      "longitud": -72.883049
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0061",
+    "codigo_humedal": "HU-0061",
+    "nombre": "Laguna Avendano",
+    "superficie_ha": 156.31,
+    "superficie_km2": 1.563,
+    "region": "Ñuble",
+    "comuna": "Quillón",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1377/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2wxtp",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/34",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.752375,
+      "longitud": -72.445713
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0062",
+    "codigo_humedal": "HU-0062",
+    "nombre": "Rupallan",
+    "superficie_ha": 64.47,
+    "superficie_km2": 0.645,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1407/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2xpjj",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/29",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.399543,
+      "longitud": -72.89515
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0096",
+    "codigo_humedal": "HU-0096",
+    "nombre": "Parque Humedal Baquedano",
+    "superficie_ha": 0.34,
+    "superficie_km2": 0.003,
+    "region": "Los Lagos",
+    "comuna": "Llanquihue",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 66/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bnsr",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/63",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.250122,
+      "longitud": -73.008844
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0047",
+    "codigo_humedal": "HU-0047",
+    "nombre": "Krahmer",
+    "superficie_ha": 9.02,
+    "superficie_km2": 0.09,
+    "region": "Los Ríos",
+    "comuna": "Valdivia",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1235/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul6p",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/17",
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "coordenadas": {
+      "latitud": -39.832246,
+      "longitud": -73.228127
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0048",
+    "codigo_humedal": "HU-0048",
+    "nombre": "Paseo Ribereno de Vallenar",
+    "superficie_ha": 98.37,
+    "superficie_km2": 0.984,
+    "region": "Atacama",
+    "comuna": "Vallenar",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1242/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2ul6m",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/18",
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "coordenadas": {
+      "latitud": -28.572973,
+      "longitud": -70.771912
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0054",
+    "codigo_humedal": "HU-0054",
+    "nombre": "Laguna y Estero Catapilco",
+    "superficie_ha": 19.92,
+    "superficie_km2": 0.199,
+    "region": "Valparaíso",
+    "comuna": "Zapallar",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1409/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2vk9y",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/23",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.629532,
+      "longitud": -71.420542
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0055",
+    "codigo_humedal": "HU-0055",
+    "nombre": "Rio Mapocho, El Monte-Talagante",
+    "superficie_ha": 694.54,
+    "superficie_km2": 6.945,
+    "region": "Metropolitana de Santiago",
+    "comuna": "El Monte",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 1452/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2vplb",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/24",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.685235,
+      "longitud": -70.985279
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0070",
+    "codigo_humedal": "HU-0070",
+    "nombre": "San Miguel",
+    "superficie_ha": 0.25,
+    "superficie_km2": 0.003,
+    "region": "Ñuble",
+    "comuna": "Chillán",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 29/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2yghp",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/42",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.593302,
+      "longitud": -72.05802
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0071",
+    "codigo_humedal": "HU-0071",
+    "nombre": "Mayaca",
+    "superficie_ha": 234.54,
+    "superficie_km2": 2.345,
+    "region": "Valparaíso",
+    "comuna": "Quillota",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1505/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2yglf",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/43",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.871447,
+      "longitud": -71.258668
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0072",
+    "codigo_humedal": "HU-0072",
+    "nombre": "Tranque Cerro La Huinca",
+    "superficie_ha": 0.13,
+    "superficie_km2": 0.001,
+    "region": "Valparaíso",
+    "comuna": "Limache",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 57/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2ygy6",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/44",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.977313,
+      "longitud": -71.269573
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0063",
+    "codigo_humedal": "HU-0063",
+    "nombre": "Los Juanes",
+    "superficie_ha": 27.79,
+    "superficie_km2": 0.278,
+    "region": "Valparaíso",
+    "comuna": "Quintero",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1366/ 2021",
+    "enlace_decreto_bcn": "https://bcn.cl/2zqcy",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/35",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.815365,
+      "longitud": -71.524461
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0075",
+    "codigo_humedal": "HU-0075",
+    "nombre": "Desembocadura del Rio Aconcagua",
+    "superficie_ha": 56.39,
+    "superficie_km2": 0.564,
+    "region": "Valparaíso",
+    "comuna": "Quintero",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 233/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2ykmf",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/30",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.918716,
+      "longitud": -71.500094
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0076",
+    "codigo_humedal": "HU-0076",
+    "nombre": "Canal Waddington en Cerro La Huinca",
+    "superficie_ha": 1.12,
+    "superficie_km2": 0.011,
+    "region": "Valparaíso",
+    "comuna": "Limache",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 56/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2z43v",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/47",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -32.979631,
+      "longitud": -71.268395
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0077",
+    "codigo_humedal": "HU-0077",
+    "nombre": "Salar del Carmen",
+    "superficie_ha": 51.17,
+    "superficie_km2": 0.512,
+    "region": "Antofagasta",
+    "comuna": "Antofagasta",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 215/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/304v7",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/31",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.639894,
+      "longitud": -70.290014
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0064",
+    "codigo_humedal": "HU-0064",
+    "nombre": "La Isla",
+    "superficie_ha": 4.66,
+    "superficie_km2": 0.047,
+    "region": "Biobío",
+    "comuna": "Arauco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1388/ 2021",
+    "enlace_decreto_bcn": "https://bcn.cl/2zqda",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/36",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.22572,
+      "longitud": -73.210232
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0065",
+    "codigo_humedal": "HU-0065",
+    "nombre": "Escuadron-Laguna Quinenco",
+    "superficie_ha": 179.83,
+    "superficie_km2": 1.798,
+    "region": "Biobío",
+    "comuna": "Coronel",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1378/ 2021",
+    "enlace_decreto_bcn": "https://bcn.cl/2zhw3",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/37",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.983895,
+      "longitud": -73.12266
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0066",
+    "codigo_humedal": "HU-0066",
+    "nombre": "Estero El Molino",
+    "superficie_ha": 409.53,
+    "superficie_km2": 4.095,
+    "region": "Biobío",
+    "comuna": "Arauco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1387/ 2021",
+    "enlace_decreto_bcn": "https://bcn.cl/2zqd9",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/38",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -37.191268,
+      "longitud": -73.189155
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0067",
+    "codigo_humedal": "HU-0067",
+    "nombre": "Las Quemas",
+    "superficie_ha": 41.09,
+    "superficie_km2": 0.411,
+    "region": "Los Lagos",
+    "comuna": "Osorno",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 0049/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/2xz88",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/39",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.601996,
+      "longitud": -73.112104
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0068",
+    "codigo_humedal": "HU-0068",
+    "nombre": "La Marina Sur",
+    "superficie_ha": 2.1,
+    "superficie_km2": 0.021,
+    "region": "Los Lagos",
+    "comuna": "Puerto Varas",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 28/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2y58s",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/40",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.326551,
+      "longitud": -72.956646
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0069",
+    "codigo_humedal": "HU-0069",
+    "nombre": "Humedal Itata",
+    "superficie_ha": 918.06,
+    "superficie_km2": 9.181,
+    "region": "Ñuble",
+    "comuna": "Coelemu",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1444/ 2021",
+    "enlace_decreto_bcn": "http://bcn.cl/2y58m",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/41",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.479304,
+      "longitud": -72.676707
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0073",
+    "codigo_humedal": "HU-0073",
+    "nombre": "Estero Lo Godoy y Estero Pejerreyes",
+    "superficie_ha": 1.2,
+    "superficie_km2": 0.012,
+    "region": "Valparaíso",
+    "comuna": "Villa Alemana",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 30/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2ygy8",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/45",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.041577,
+      "longitud": -71.389666
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0074",
+    "codigo_humedal": "HU-0074",
+    "nombre": "Menoko Tromen",
+    "superficie_ha": 0.52,
+    "superficie_km2": 0.005,
+    "region": "La Araucanía",
+    "comuna": "Temuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 147/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/2ykly",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/46",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.726392,
+      "longitud": -72.621387
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0078",
+    "codigo_humedal": "HU-0078",
+    "nombre": "Estero Agua Salada",
+    "superficie_ha": 4.46,
+    "superficie_km2": 0.045,
+    "region": "Valparaíso",
+    "comuna": "Papudo",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 392/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/31fck",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/48",
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.502105,
+      "longitud": -71.434265
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0079",
+    "codigo_humedal": "HU-0079",
+    "nombre": "Curaquilla",
+    "superficie_ha": 79.83,
+    "superficie_km2": 0.798,
+    "region": "Biobío",
+    "comuna": "Arauco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 380/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/31fct",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/49",
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "coordenadas": {
+      "latitud": -37.244896,
+      "longitud": -73.362976
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0080",
+    "codigo_humedal": "HU-0080",
+    "nombre": "Desembocadura del Rio Lluta",
+    "superficie_ha": 481.84,
+    "superficie_km2": 4.818,
+    "region": "Arica y Parinacota",
+    "comuna": "Arica",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 427/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/31fd9",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/32",
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "coordenadas": {
+      "latitud": -18.422526,
+      "longitud": -70.313695
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0081",
+    "codigo_humedal": "HU-0081",
+    "nombre": "Pichi Mapu",
+    "superficie_ha": 0.78,
+    "superficie_km2": 0.008,
+    "region": "Biobío",
+    "comuna": "Concepción",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 520/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/32i43",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/50",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.827525,
+      "longitud": -73.00561
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0082",
+    "codigo_humedal": "HU-0082",
+    "nombre": "Estero El Puangue",
+    "superficie_ha": 118.41,
+    "superficie_km2": 1.184,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Curacaví",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 453/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/32i59",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/51",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.31708,
+      "longitud": -71.143397
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0087",
+    "codigo_humedal": "HU-0087",
+    "nombre": "La Cascada",
+    "superficie_ha": 0.68,
+    "superficie_km2": 0.007,
+    "region": "Ñuble",
+    "comuna": "Coelemu",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 667/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/34ajm",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/54",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.483624,
+      "longitud": -72.712267
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0088",
+    "codigo_humedal": "HU-0088",
+    "nombre": "Nuco",
+    "superficie_ha": 0.38,
+    "superficie_km2": 0.004,
+    "region": "Los Lagos",
+    "comuna": "Frutillar",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 528/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/34ajk",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/55",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.116654,
+      "longitud": -73.054776
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0083",
+    "codigo_humedal": "HU-0083",
+    "nombre": "Gamboa",
+    "superficie_ha": 62.89,
+    "superficie_km2": 0.629,
+    "region": "Los Lagos",
+    "comuna": "Castro",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 445/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/32i43",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/52",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.48352,
+      "longitud": -73.769872
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0084",
+    "codigo_humedal": "HU-0084",
+    "nombre": "La Poza y Delta del Trancura, Lago Villarrica",
+    "superficie_ha": 804.88,
+    "superficie_km2": 8.049,
+    "region": "La Araucanía",
+    "comuna": "Pucón",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 580/ 2022",
+    "enlace_decreto_bcn": "http://bcn.cl/341ud",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/33",
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "coordenadas": {
+      "latitud": -39.265978,
+      "longitud": -71.976931
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0085",
+    "codigo_humedal": "HU-0085",
+    "nombre": "Desembocadura del Rio Elqui",
+    "superficie_ha": 492.84,
+    "superficie_km2": 4.928,
+    "region": "Coquimbo",
+    "comuna": "La Serena",
+    "tipo_declaratoria": "de Oficio",
+    "resolucion_mma": "RE N° 833/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/34ahl",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/OficioHU/DetailsPublico/34",
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "coordenadas": {
+      "latitud": -29.906285,
+      "longitud": -71.217107
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0086",
+    "codigo_humedal": "HU-0086",
+    "nombre": "Bayona del Valle",
+    "superficie_ha": 1.58,
+    "superficie_km2": 0.016,
+    "region": "Biobío",
+    "comuna": "San Pedro de la Paz",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 672/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/34aj3",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/53",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.843356,
+      "longitud": -73.116191
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0089",
+    "codigo_humedal": "HU-0089",
+    "nombre": "Ten Ten",
+    "superficie_ha": 36.33,
+    "superficie_km2": 0.363,
+    "region": "Los Lagos",
+    "comuna": "Castro",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 885/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/365iw",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/56",
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "coordenadas": {
+      "latitud": -42.469468,
+      "longitud": -73.761073
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0090",
+    "codigo_humedal": "HU-0090",
+    "nombre": "Estero Las Gualtatas",
+    "superficie_ha": 21.91,
+    "superficie_km2": 0.219,
+    "region": "Metropolitana de Santiago",
+    "comuna": "Vitacura",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 962/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/365iw",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/57",
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "coordenadas": {
+      "latitud": -33.3224,
+      "longitud": -70.534666
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0091",
+    "codigo_humedal": "HU-0091",
+    "nombre": "Porvenir",
+    "superficie_ha": 3.61,
+    "superficie_km2": 0.036,
+    "region": "Magallanes y de la Antártica Chilena",
+    "comuna": "Porvenir",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1205/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/39qel",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/58",
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "coordenadas": {
+      "latitud": -53.287392,
+      "longitud": -70.36658
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0092",
+    "codigo_humedal": "HU-0092",
+    "nombre": "Sistema de Humedales Ovejeria",
+    "superficie_ha": 18.79,
+    "superficie_km2": 0.188,
+    "region": "Los Lagos",
+    "comuna": "Osorno",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1305/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/39zew",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/59",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.593646,
+      "longitud": -73.136079
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0097",
+    "codigo_humedal": "HU-0097",
+    "nombre": "vertiente de la chimba norte",
+    "superficie_ha": 0.42,
+    "superficie_km2": 0.004,
+    "region": "Antofagasta",
+    "comuna": "Antofagasta",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 67/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bnqs",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/64",
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "coordenadas": {
+      "latitud": -23.545843,
+      "longitud": -70.396731
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0098",
+    "codigo_humedal": "HU-0098",
+    "nombre": "luis ebel",
+    "superficie_ha": 6.24,
+    "superficie_km2": 0.062,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 84/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bnt7",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/65",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.462648,
+      "longitud": -72.902198
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0099",
+    "codigo_humedal": "HU-0099",
+    "nombre": "Costanera de puyehue",
+    "superficie_ha": 0.77,
+    "superficie_km2": 0.008,
+    "region": "Los Lagos",
+    "comuna": "Puyehue",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 83/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bnsg",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/66",
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "coordenadas": {
+      "latitud": -40.679894,
+      "longitud": -72.601636
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0100",
+    "codigo_humedal": "HU-0100",
+    "nombre": "Mantagua",
+    "superficie_ha": 41.62,
+    "superficie_km2": 0.416,
+    "region": "Valparaíso",
+    "comuna": "Quintero",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 81/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3bom6",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/67",
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "coordenadas": {
+      "latitud": -32.878558,
+      "longitud": -71.50147
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0101",
+    "codigo_humedal": "HU-0101",
+    "nombre": "Humedal Paicavi - Tucapel bajo",
+    "superficie_ha": 33.96,
+    "superficie_km2": 0.34,
+    "region": "Biobío",
+    "comuna": "Concepción",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 380/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3d2gb",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/97",
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "coordenadas": {
+      "latitud": -36.805364,
+      "longitud": -73.067579
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0102",
+    "codigo_humedal": "HU-0102",
+    "nombre": "Humedal Price",
+    "superficie_ha": 27.0,
+    "superficie_km2": 0.27,
+    "region": "Biobío",
+    "comuna": "Hualpén",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 378/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3d0qe",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/96",
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "coordenadas": {
+      "latitud": -36.806248,
+      "longitud": -73.086526
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0103",
+    "codigo_humedal": "HU-0103",
+    "nombre": "Vientos del Chelenko",
+    "superficie_ha": 65.63,
+    "superficie_km2": 0.656,
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "comuna": "Río Ibáñez",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1088/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3gbqh",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/132",
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "coordenadas": {
+      "latitud": -46.298677,
+      "longitud": -71.937804
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0104",
+    "codigo_humedal": "HU-0104",
+    "nombre": "Parque Mirasol",
+    "superficie_ha": 2.29,
+    "superficie_km2": 0.023,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1275/ 2022",
+    "enlace_decreto_bcn": "https://bcn.cl/3gsx9",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/111",
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "coordenadas": {
+      "latitud": -41.474527,
+      "longitud": -72.98194
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0105",
+    "codigo_humedal": "HU-0105",
+    "nombre": "Humedal Estero Coihueco",
+    "superficie_ha": 57.9,
+    "superficie_km2": 0.579,
+    "region": "La Araucanía",
+    "comuna": "Temuco",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1431/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3hbh4",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/147",
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "coordenadas": {
+      "latitud": -38.710588,
+      "longitud": -72.656819
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0106",
+    "codigo_humedal": "HU-0106",
+    "nombre": "Estero El Jote",
+    "superficie_ha": 2.8,
+    "superficie_km2": 0.028,
+    "region": "Valparaíso",
+    "comuna": "Casablanca",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1430/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3hbip",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/164",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.183581,
+      "longitud": -71.683369
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0107",
+    "codigo_humedal": "HU-0107",
+    "nombre": "Dos Esteros",
+    "superficie_ha": 1.43,
+    "superficie_km2": 0.014,
+    "region": "Los Lagos",
+    "comuna": "Puerto Montt",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1432/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3hbiq",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/102",
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "coordenadas": {
+      "latitud": -41.482184,
+      "longitud": -72.890191
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0108",
+    "codigo_humedal": "HU-0108",
+    "nombre": "Laguna El Criquet y Quebrada Honda",
+    "superficie_ha": 25.0,
+    "superficie_km2": 0.25,
+    "region": "Valparaíso",
+    "comuna": "Valparaíso",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1474/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3hn2j",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/163",
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "coordenadas": {
+      "latitud": -33.06663,
+      "longitud": -71.649735
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0109",
+    "codigo_humedal": "HU-0109",
+    "nombre": "Colmuyao",
+    "superficie_ha": 7.49,
+    "superficie_km2": 0.075,
+    "region": "Ñuble",
+    "comuna": "Cobquecura",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N° 1475/ 2023",
+    "enlace_decreto_bcn": "https://bcn.cl/3hn2k",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/119",
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "coordenadas": {
+      "latitud": -36.275915,
+      "longitud": -72.802397
+    },
+    "es_protegido_ley_21202": true
+  },
+  {
+    "id": "mma_humedal_hu-0110",
+    "codigo_humedal": "HU-0110",
+    "nombre": "Sistema de Humedales Hornopiren",
+    "superficie_ha": 551.51,
+    "superficie_km2": 5.515,
+    "region": "Los Lagos",
+    "comuna": "Hualaihué",
+    "tipo_declaratoria": "Municipal",
+    "resolucion_mma": "RE N°0093/ 2024",
+    "enlace_decreto_bcn": "N/A",
+    "enlace_simbio": "https://sistemahumedales.mma.gob.cl/HumedalesUrbanos/DetailsPublico/136",
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "Cuenca Río Puelo",
+    "coordenadas": {
+      "latitud": -41.954346,
+      "longitud": -72.44482
+    },
+    "es_protegido_ley_21202": true
+  }
+]

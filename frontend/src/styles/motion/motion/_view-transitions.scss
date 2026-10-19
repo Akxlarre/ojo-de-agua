@@ -1,0 +1,183 @@
+/* ============================================================
+   VIEW TRANSITIONS — Page Navigation
+   
+   Transiciones visuales para navegación de rutas usando la
+   View Transitions API nativa (activada por withViewTransitions).
+   
+   Sidebar + topbar permanecen estáticos.
+   Solo el área main-content anima: page-out ↑ / page-in ↓
+   
+   Login → App: transición cinematic controlada por la clase
+   .vt-login-enter en documentElement (añadida imperativamente
+   desde onViewTransitionCreated en app.config.ts).
+   
+   Cambio de tema: sin animación especial — el CSS transition
+   en body (background-color, color, border-color) ya provee
+   una transición suave de 220ms via tokens del design system.
+   
+   Requiere:
+     - `withViewTransitions()` en app.config.ts
+     - `view-transition-name: main-content` en .shell-content (app-shell)
+   ============================================================ */
+
+/* Contenedor del main: identifica el área que anima en cada cambio de ruta */
+.shell-content {
+  view-transition-name: main-content;
+}
+
+/* ── 1. ROOT — Sidebar y topbar estáticos ─────────────────── */
+::view-transition-group(root) {
+  z-index: 10;
+}
+
+::view-transition-group(main-content) {
+  z-index: 1;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+}
+
+/* ── 2. NAVEGACIÓN DE RUTAS — page-out / page-in ──────────── */
+/* Salida ágil (200ms), entrada más larga (320ms) con delay para que
+   se note el cambio. Movimiento vertical + ligero scale para sensación de profundidad. */
+
+::view-transition-old(main-content) {
+  animation: vt-page-out var(--duration-page-out, 200ms) var(--ease-in) both;
+}
+
+::view-transition-new(main-content) {
+  animation: vt-page-in var(--duration-page-in, 320ms) var(--ease-out) 60ms both;
+}
+
+@keyframes vt-page-out {
+  to {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.98);
+  }
+}
+
+@keyframes vt-page-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.99);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* ── 2b. VARIANTE: crossfade suave (opcional) ───────────────── */
+/* Activar con: document.documentElement.classList.add('vt-main-fade')
+   Útil cuando se prefiere una transición más minimalista, sin movimiento. */
+
+html.vt-main-fade::view-transition-old(main-content) {
+  animation: vt-page-out-fade var(--duration-page-out, 200ms) var(--ease-in) both;
+}
+
+html.vt-main-fade::view-transition-new(main-content) {
+  animation: vt-page-in-fade var(--duration-page-in, 320ms) var(--ease-out) 40ms both;
+}
+
+@keyframes vt-page-out-fade {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes vt-page-in-fade {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* ── 3. LOGIN ↔ APP — Transición cinematic ────────────────── */
+/* Activada imperativamente: app.config.ts → onViewTransitionCreated
+   añade .vt-login-enter al documentElement cuando la navegación
+   sale de /login hacia /app. Sobreescribe la regla del root (§1)
+   para animar el snapshot completo con blur + scale.
+
+   Duración mayor y más cinematográfica que la navegación intra-app
+   para dar sensación de "entrar" a la aplicación. */
+
+.vt-login-enter::view-transition-old(root) {
+  animation: vt-login-out var(--duration-login-out, 250ms) var(--ease-in) both;
+}
+
+.vt-login-enter::view-transition-new(root) {
+  animation: vt-login-in var(--duration-login-in, 400ms) var(--ease-out) 80ms both;
+}
+
+@keyframes vt-login-out {
+  to {
+    opacity: 0;
+    filter: blur(4px);
+    transform: scale(0.97);
+  }
+}
+
+@keyframes vt-login-in {
+  from {
+    opacity: 0;
+    filter: blur(4px);
+    transform: scale(1.02);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: scale(1);
+  }
+}
+
+/* Logout (app → login): salida más sutil, sin scale agresivo */
+.vt-login-leave::view-transition-old(root) {
+  animation: vt-logout-out var(--duration-login-out, 250ms) var(--ease-in) both;
+}
+
+.vt-login-leave::view-transition-new(root) {
+  animation: vt-logout-in var(--duration-login-in, 400ms) var(--ease-out) 80ms both;
+}
+
+@keyframes vt-logout-out {
+  to {
+    opacity: 0;
+    filter: blur(3px);
+  }
+}
+
+@keyframes vt-logout-in {
+  from {
+    opacity: 0;
+    filter: blur(3px);
+    transform: scale(0.98);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: scale(1);
+  }
+}
+
+/* ── 4. ACCESIBILIDAD ─────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+
+  ::view-transition-old(main-content),
+  ::view-transition-new(main-content),
+  html.vt-main-fade::view-transition-old(main-content),
+  html.vt-main-fade::view-transition-new(main-content),
+  .vt-login-enter::view-transition-old(root),
+  .vt-login-enter::view-transition-new(root),
+  .vt-login-leave::view-transition-old(root),
+  .vt-login-leave::view-transition-new(root) {
+    animation: none !important;
+  }
+}

@@ -1,0 +1,47 @@
+// _animations.scss — Animaciones CSS nativas (sin GSAP)
+// Usadas cuando el proyecto NO incluye GSAP (--with-gsap no especificado)
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+// Utility classes para entrada de elementos
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out both;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out both;
+}
+
+// Stagger helper — anima hijos secuencialmente sin JS
+.animate-stagger > * {
+  animation: fade-in-up 0.4s ease-out both;
+
+  @for $i from 1 through 12 {
+    &:nth-child(#{$i}) {
+      animation-delay: #{$i * 0.05}s;
+    }
+  }
+}
+
+// Respeta la preferencia del usuario (accesibilidad)
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in-up,
+  .animate-fade-in,
+  .animate-stagger > * {
+    animation: none;
+  }
+}

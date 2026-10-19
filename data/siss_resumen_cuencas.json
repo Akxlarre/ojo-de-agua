@@ -1,0 +1,2010 @@
+[
+  {
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS DEL ALTIPLANO S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - CHINCHORRO NORTE",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "ARICA",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_plantas": 5,
+    "empresas_sanitarias": [
+      "AGUAS DEL ALTIPLANO S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Reúso en Riego Agrícola": 2,
+      "Emisario Submarino / Marino": 3
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - HUARA",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "HUARA",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "ES - PLAYA BRAVA",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - POZO ALMONTE",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "ES - BARRIO INDUSTRIAL (PUNTA NEGRA)",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - ALTO HOSPICIO",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "IQUIQUE - ALTO HOSPICIO - POZO ALMONTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS DEL ALTIPLANO S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Reúso en Riego Agrícola": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PICA",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "PICA - MATILLA",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS - LA TIRANA",
+        "empresa": "AGUAS DEL ALTIPLANO S.A.",
+        "sistema": "LA TIRANA",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS ANTOFAGASTA S.A.",
+      "TRATACAL S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Reúso en Riego Agrícola": 1,
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - SIERRA GORDA",
+        "empresa": "AGUAS ANTOFAGASTA S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS - CALAMA",
+        "empresa": "TRATACAL S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_plantas": 6,
+    "empresas_sanitarias": [
+      "AGUAS ANTOFAGASTA S.A.",
+      "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 3,
+      "Reúso en Riego Agrícola": 2,
+      "Descarga Terrestre / Otros": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - GRAN ANTOFAGASTA",
+        "empresa": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - BAQUEDANO",
+        "empresa": "AGUAS ANTOFAGASTA S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS - SAN PEDRO COLOSO",
+        "empresa": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "ES - TOCOPILLA",
+        "empresa": "AGUAS ANTOFAGASTA S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - MEJILLONES",
+        "empresa": "AGUAS ANTOFAGASTA S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - LODOS ANTOFAGASTA",
+        "empresa": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+        "sistema": "GRAN SISTEMA NORTE",
+        "receptor": "CLIENTES INDUSTRIALES",
+        "categoria": "Descarga Terrestre / Otros"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS ANTOFAGASTA S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - TAL TAL",
+        "empresa": "AGUAS ANTOFAGASTA S.A.",
+        "sistema": "TAL TAL",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS CHAÑAR S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - COPIAPO",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "COPIAPO - TIERRA AMARILLA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - TIERRA AMARILLA",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "COPIAPO - TIERRA AMARILLA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "032",
+    "cuenca_nombre": "Cuenca Río Salado de Chañaral",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS CHAÑAR S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 1,
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - DIEGO DE ALMAGRO",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "DIEGO DE ALMAGRO - EL SALADO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "ES - CHAÑARAL",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "CALDERA - CHAÑARAL",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS CHAÑAR S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 1,
+      "Descarga Terrestre / Otros": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - EL SALADO",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "DIEGO DE ALMAGRO - EL SALADO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CALDERA",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "CALDERA - CHAÑARAL",
+        "receptor": "LAGO",
+        "categoria": "Descarga Terrestre / Otros"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS CHAÑAR S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1,
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - HUASCO",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "HUASCO - FREIRINA",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - VALLENAR",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "VALLENAR",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS CHAÑAR S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - FREIRINA",
+        "empresa": "AGUAS CHAÑAR S.A.",
+        "sistema": "HUASCO - FREIRINA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "total_plantas": 6,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A."
+    ],
+    "sistemas_urbanos_count": 5,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1,
+      "Cauce Natural Superficial (Río / Estero)": 4,
+      "Reúso en Riego Agrícola": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - LA SERENA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "LA SERENA - COQUIMBO",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - ANDACOLLO",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "ANDACOLLO",
+        "receptor": "Estero S/dilución",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - VICUÑA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "VICUÑA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PAIHUANO",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "PAIHUANO",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS - PERALILLO IV",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "PERALILLO DE VICUÑA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - ALGARROBITO",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "LA SERENA - COQUIMBO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_plantas": 4,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Reúso en Riego Agrícola": 3,
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - TONGOY",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "ANDACOLLO",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "ES - COQUIMBO",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "LA SERENA - COQUIMBO",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - GUANAQUEROS",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "ANDACOLLO",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS - EL PEÑON",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "ANDACOLLO",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_plantas": 7,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A."
+    ],
+    "sistemas_urbanos_count": 7,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 7
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - OVALLE",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "OVALLE - HUAMALATA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SOTAQUI",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "SOTAQUI",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHAÑARAL ALTO",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "CHAÑARAL ALTO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - EL PALQUI",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "EL PALQUI",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - COMBARBALA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "COMBARBALA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUNITAQUI",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "PUNITAQUI",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CANELA ALTA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "CANELA ALTA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CANELA BAJA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "CANELA BAJA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - ILLAPEL",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "ILLAPEL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SALAMANCA",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "SALAMANCA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "total_plantas": 3,
+    "empresas_sanitarias": [
+      "AGUAS DEL VALLE S.A.",
+      "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A."
+    ],
+    "sistemas_urbanos_count": 3,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1,
+      "Reúso en Riego Agrícola": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - LOS VILOS",
+        "empresa": "AGUAS DEL VALLE S.A.",
+        "sistema": "LOS VILOS",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - PICHIDANGUI",
+        "empresa": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+        "sistema": "PICHIDANGUI",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      },
+      {
+        "nombre": "PTAS LOS MOLLES",
+        "empresa": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+        "sistema": "LOS MOLLES",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "051",
+    "cuenca_nombre": "Cuenca Río Petorca",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "ESVAL S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PETORCA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "PETORCA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS CHINCOLCO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "CHINCOLCO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "ESVAL S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CABILDO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "CABILDO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LA LIGUA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_plantas": 5,
+    "empresas_sanitarias": [
+      "ESVAL S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 5
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PAPUDO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CACHAGUA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LA LAGUNA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - ZAPALLAR",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUCHUNCAVI",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_plantas": 10,
+    "empresas_sanitarias": [
+      "ESVAL S.A."
+    ],
+    "sistemas_urbanos_count": 6,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1,
+      "Cauce Natural Superficial (Río / Estero)": 9
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - QUINTERO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LA LIGUA - PUCHUNCAVI - LITORAL NORTE",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - LLAY - LLAY",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LLAY LLAY",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SAN ESTEBAN",
+        "empresa": "ESVAL S.A.",
+        "sistema": "SAN ESTEBAN",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUTAENDO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "PUTAENDO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SANTA MARIA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CURIMON",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LOS ANDES - SAN FELIPE - SANTA MARIA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "total_plantas": 9,
+    "empresas_sanitarias": [
+      "ESVAL S.A."
+    ],
+    "sistemas_urbanos_count": 3,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 6,
+      "Cauce Natural Superficial (Río / Estero)": 3
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - CONCON",
+        "empresa": "ESVAL S.A.",
+        "sistema": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - EL TABO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LITORAL SUR",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - ALGARROBO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LITORAL SUR",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - QUILLOTA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "ES - HIGUERILLAS",
+        "empresa": "ESVAL S.A.",
+        "sistema": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - DOS NORTE",
+        "empresa": "ESVAL S.A.",
+        "sistema": "GRAN VALPARAISO - LIMACHE - LA CALERA - QUILLOTA - LA CRUZ",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_plantas": 39,
+    "empresas_sanitarias": [
+      "AGUAS ANDINAS S.A.",
+      "AGUAS DE COLINA S.A.",
+      "AGUAS MANQUEHUE S.A.",
+      "AGUAS SAN PEDRO S.A.",
+      "AGUAS SANTIAGO NORTE S.A.",
+      "AGUAS SANTIAGO PONIENTE S.A.",
+      "BCC S.A.",
+      "COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA.",
+      "EMPRESA DE AGUA POTABLE IZARRA DE LO AGUIRRE S.A.",
+      "EMPRESA DE AGUA POTABLE LO AGUIRRE S.A.",
+      "EMPRESA DE AGUA POTABLE MELIPILLA NORTE S.A.",
+      "EMPRESA DE SERVICIOS SANITARIOS LO PRADO S.A.",
+      "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+      "EMPRESA PARTICULAR DE AGUA POTABLE Y ALCANTARILLADO LA LEONERA S.A.",
+      "ESSBIO S.A.",
+      "ESVAL S.A.",
+      "EXPLOTACIONES SANITARIAS S.A",
+      "HUERTOS FAMILIARES S.A.",
+      "SEMBCORP AGUAS CHACABUCO S.A.",
+      "SEMBCORP AGUAS LAMPA S.A.",
+      "SEMBCORP AGUAS SANTIAGO S.A.",
+      "SERVICIOS SANITARIOS DE LA ESTACIÓN S.A.",
+      "SERVICIOS SANITARIOS LARAPINTA S.A."
+    ],
+    "sistemas_urbanos_count": 32,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 28,
+      "Infiltración al Suelo": 2,
+      "Emisario Submarino / Marino": 2,
+      "Reúso en Riego Agrícola": 3,
+      "Descarga Terrestre / Otros": 4
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - SANTO DOMINGO",
+        "empresa": "COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA.",
+        "sistema": "COOPAGUA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SANTA MARIA DEL MAR",
+        "empresa": "COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA.",
+        "sistema": "COOPAGUA",
+        "receptor": "INFILTRACION",
+        "categoria": "Infiltración al Suelo"
+      },
+      {
+        "nombre": "ES - SAN ANTONIO",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LITORAL SUR",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - CARTAGENA",
+        "empresa": "ESVAL S.A.",
+        "sistema": "LITORAL SUR",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - SAN FRANCISCO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "SAN FRANCISCO DE MOSTAZAL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - VILLA GALILEA",
+        "empresa": "EMPRESA DE AGUA POTABLE MELIPILLA NORTE S.A.",
+        "sistema": "MELIPILLA NORTE",
+        "receptor": "RIEGO",
+        "categoria": "Reúso en Riego Agrícola"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_plantas": 18,
+    "empresas_sanitarias": [
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 18,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 18
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - NANCAGUA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "NANCAGUA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SANTA CRUZ",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "SANTA CRUZ - PALMILLA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PICHIDEGUA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "PICHIDEGUA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - OLIVAR ALTO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "OLIVAR ALTO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PERALILLO VI",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "PERALILLO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LAS CABRAS",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "LAS CABRAS",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "total_plantas": 3,
+    "empresas_sanitarias": [
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 3,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 3
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PICHILEMU",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "PICHILEMU",
+        "receptor": "ESTERO",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - POBLACION",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "POBLACION",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LOLOL",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "LOLOL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_plantas": 11,
+    "empresas_sanitarias": [
+      "AGUAS NUEVO SUR MAULE S.A.",
+      "AGUAS SAN PEDRO S.A.",
+      "COOP. DE SERVICIO DE ABASTECIMIENTO DE AP Y SANEAMIENTO AMBIENTAL DE LA COMUNIDAD DE SARMIENTO LTDA",
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 11,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 11
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CHIMBARONGO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CHIMBARONGO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHEPICA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CHEPICA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - TENO",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "TENO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - HUALAÑE",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "HUALAÑE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LICANTEN",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "LICANTEN",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - ZAPALLAR",
+        "empresa": "AGUAS SAN PEDRO S.A.",
+        "sistema": "ALTO DE ZAPALLAR",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "072",
+    "cuenca_nombre": "Cuencas Costeras entre Río Mataquito y Río Maule",
+    "total_plantas": 3,
+    "empresas_sanitarias": [
+      "AGUAS NUEVO SUR MAULE S.A."
+    ],
+    "sistemas_urbanos_count": 3,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 3
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CUREPTO",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "CUREPTO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUTU",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "PUTU",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - GUALLECO",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "GUALLECO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_plantas": 14,
+    "empresas_sanitarias": [
+      "AGUAS NUEVO SUR MAULE S.A.",
+      "COOP. DE SERVICIO DE ABASTECIMIENTO DE AP Y SANEAMIENTO AMBIENTAL DE LA COMUNIDAD DE MAULE LTDA"
+    ],
+    "sistemas_urbanos_count": 14,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 13,
+      "Reúso en Riego Agrícola": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - SAN RAFAEL",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "SAN RAFAEL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - RETIRO",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "RETIRO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PARRAL",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "PARRAL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LONGAVI",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "LONGAVI",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - TALCA",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "TALCA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CONSTITUCION",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "CONSTITUCION",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "total_plantas": 5,
+    "empresas_sanitarias": [
+      "AGUAS NUEVO SUR MAULE S.A.",
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 5,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 5
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CAUQUENES",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "CAUQUENES",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PELLUHUE",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "PELLUHUE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CURANIPE",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "CURANIPE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHANCO",
+        "empresa": "AGUAS NUEVO SUR MAULE S.A.",
+        "sistema": "CHANCO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - COBQUECURA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "COBQUECURA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "total_plantas": 17,
+    "empresas_sanitarias": [
+      "AGUAS SAN PEDRO S.A.",
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 17,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 17
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - SANTA CLARA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "SANTA CLARA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - BULNES",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "BULNES",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PEMUCO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "PEMUCO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - COELEMU",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "COELEMU",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - QUIRIHUE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "QUIRIHUE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - QUILLÓN",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "QUILLON",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "total_plantas": 4,
+    "empresas_sanitarias": [
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 3,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 2,
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - PENCO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CONCEPCION",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - TOME",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "TOME",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - DICHATO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "DICHATO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUNTA PARRA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "TOME",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_plantas": 24,
+    "empresas_sanitarias": [
+      "AGUAS ARAUCANIA S.A.",
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 24,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 23,
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - SANTA JUANA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "SANTA JUANA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "ES - SAN VICENTE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CONCEPCION",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - CABRERO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CABRERO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - QUILLECO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "QUILLECO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - NACIMIENTO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "NACIMIENTO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - NEGRETE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "NEGRETE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "total_plantas": 6,
+    "empresas_sanitarias": [
+      "AGUAS SAN PEDRO S.A.",
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 5,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 5,
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - LOTA",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "LOTA",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - CORONEL SUR",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CORONEL",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - SAN PEDRO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "SAN PEDRO DE LA PAZ",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "ES - CORONEL NORTE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CORONEL",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - PARQUE INDUSTRIAL CORONEL",
+        "empresa": "AGUAS SAN PEDRO S.A.",
+        "sistema": "PARQUE INDUSTRIAL CORONEL",
+        "receptor": "MAR_DENTRO_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - GRAN CONCEPCION",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CONCEPCION",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "total_plantas": 5,
+    "empresas_sanitarias": [
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 5,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 4,
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - LOS ALAMOS",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "LOS ALAMOS - CERRO ALTO - TRES PINOS",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CAÑETE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CAÑETE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CURANILAHUE",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CURANILAHUE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - ARAUCO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "ARAUCO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "ES - LEBU",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "LEBU",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_plantas": 15,
+    "empresas_sanitarias": [
+      "AGUAS ARAUCANIA S.A.",
+      "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A."
+    ],
+    "sistemas_urbanos_count": 15,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 15
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - GALVARINO",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "GALVARINO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PILLANLELBUN",
+        "empresa": "EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.",
+        "sistema": "PILLANLELBUN",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHERQUENCO",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "CHERQUENCO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - VICTORIA",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "VICTORIA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHOLCHOL",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "CHOL CHOL",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LAUTARO",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "LAUTARO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "092",
+    "cuenca_nombre": "Cuencas Costeras entre Río Imperial y Límite Regional",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "ESSBIO S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CONTULMO",
+        "empresa": "ESSBIO S.A.",
+        "sistema": "CONTULMO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_plantas": 9,
+    "empresas_sanitarias": [
+      "AGUAS ARAUCANIA S.A."
+    ],
+    "sistemas_urbanos_count": 9,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 8,
+      "Descarga Terrestre / Otros": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - LASTARRIA",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "LASTARRIA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUCON",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "PUCON",
+        "receptor": "LAGO",
+        "categoria": "Descarga Terrestre / Otros"
+      },
+      {
+        "nombre": "PTAS - QUITRATUÉ",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "QUITRATUE",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - GORBEA",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "GORBEA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LONCOCHE",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "LONCOCHE",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - VILLARRICA",
+        "empresa": "AGUAS ARAUCANIA S.A.",
+        "sistema": "VILLARRICA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_plantas": 8,
+    "empresas_sanitarias": [
+      "AGUAS DECIMA S.A.",
+      "ESSAL S.A."
+    ],
+    "sistemas_urbanos_count": 8,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 8
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - VALDIVIA",
+        "empresa": "AGUAS DECIMA S.A.",
+        "sistema": "AGUAS DECIMA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LANCO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "LANCO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PAILLACO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "PAILLACO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PANGUIPULLI",
+        "empresa": "ESSAL S.A.",
+        "sistema": "PANGUIPULLI",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - MAFIL",
+        "empresa": "ESSAL S.A.",
+        "sistema": "MAFIL",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LOS LAGOS",
+        "empresa": "ESSAL S.A.",
+        "sistema": "LOS LAGOS",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_plantas": 7,
+    "empresas_sanitarias": [
+      "ESSAL S.A."
+    ],
+    "sistemas_urbanos_count": 7,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 7
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - OSORNO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "OSORNO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PURRANQUE",
+        "empresa": "ESSAL S.A.",
+        "sistema": "PURRANQUE - CORTE ALTO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - SAN PABLO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "SAN PABLO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - RIO NEGRO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "RIO NEGRO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - RIO BUENO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "LA UNION - RIO BUENO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - FUTRONO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "FUTRONO",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "total_plantas": 8,
+    "empresas_sanitarias": [
+      "AGUAS SAN PEDRO S.A.",
+      "ESSAL S.A."
+    ],
+    "sistemas_urbanos_count": 8,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 2,
+      "Cauce Natural Superficial (Río / Estero)": 6
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - PUERTO MONTT",
+        "empresa": "ESSAL S.A.",
+        "sistema": "PUERTO MONTT",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - CALBUCO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "CALBUCO",
+        "receptor": "MAR_DENTRO_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - FRESIA",
+        "empresa": "ESSAL S.A.",
+        "sistema": "FRESIA",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - FRUTILLAR",
+        "empresa": "ESSAL S.A.",
+        "sistema": "FRUTILLAR",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LOS MUERMOS",
+        "empresa": "ESSAL S.A.",
+        "sistema": "LOS MUERMOS",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - LLANQUIHUE",
+        "empresa": "ESSAL S.A.",
+        "sistema": "PUERTO VARAS - LLANQUIHUE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "ESSAL S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - FUTALEUFU",
+        "empresa": "ESSAL S.A.",
+        "sistema": "FUTALEUFU",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CHAITEN",
+        "empresa": "ESSAL S.A.",
+        "sistema": "CHAITEN",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_plantas": 6,
+    "empresas_sanitarias": [
+      "ESSAL S.A."
+    ],
+    "sistemas_urbanos_count": 6,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 2,
+      "Cauce Natural Superficial (Río / Estero)": 4
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - ANCUD",
+        "empresa": "ESSAL S.A.",
+        "sistema": "ANCUD",
+        "receptor": "MAR_DENTRO_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - CHONCHI",
+        "empresa": "ESSAL S.A.",
+        "sistema": "CHONCHI",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - QUELLON",
+        "empresa": "ESSAL S.A.",
+        "sistema": "QUELLON",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - CASTRO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "CASTRO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - DALCAHUE",
+        "empresa": "ESSAL S.A.",
+        "sistema": "DALCAHUE",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "ES - ACHAO",
+        "empresa": "ESSAL S.A.",
+        "sistema": "ACHAO",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS PATAGONIA DE AYSEN S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PUERTO ING. IBAÑEZ",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "PUERTO IBAÑEZ",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_plantas": 5,
+    "empresas_sanitarias": [
+      "AGUAS PATAGONIA DE AYSEN S.A."
+    ],
+    "sistemas_urbanos_count": 5,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 4,
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - COYHAIQUE",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "COYHAIQUE",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUERTO CISNES",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "PUERTO CISNES",
+        "receptor": "MAR_DENTRO_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      },
+      {
+        "nombre": "PTAS - PUERTO AYSEN",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "PUERTO AYSEN",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - BALMACEDA",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "BALMACEDA",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - PUERTO CHACABUCO",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "PUERTO CHACABUCO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_plantas": 2,
+    "empresas_sanitarias": [
+      "AGUAS PATAGONIA DE AYSEN S.A."
+    ],
+    "sistemas_urbanos_count": 2,
+    "distribucion_receptores": {
+      "Cauce Natural Superficial (Río / Estero)": 2
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - CHILE CHICO",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "CHILE CHICO",
+        "receptor": "RIO_SIN_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      },
+      {
+        "nombre": "PTAS - COCHRANE",
+        "empresa": "AGUAS PATAGONIA DE AYSEN S.A.",
+        "sistema": "COCHRANE",
+        "receptor": "RIO_CON_DILUCION",
+        "categoria": "Cauce Natural Superficial (Río / Estero)"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS MAGALLANES S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "PTAS - PUERTO NATALES",
+        "empresa": "AGUAS MAGALLANES S.A.",
+        "sistema": "PUERTO NATALES",
+        "receptor": "MAR_DENTRO_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS MAGALLANES S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - PUNTA ARENAS",
+        "empresa": "AGUAS MAGALLANES S.A.",
+        "sistema": "PUNTA ARENAS",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "total_plantas": 1,
+    "empresas_sanitarias": [
+      "AGUAS MAGALLANES S.A."
+    ],
+    "sistemas_urbanos_count": 1,
+    "distribucion_receptores": {
+      "Emisario Submarino / Marino": 1
+    },
+    "plantas_destacadas": [
+      {
+        "nombre": "ES - PORVENIR",
+        "empresa": "AGUAS MAGALLANES S.A.",
+        "sistema": "PORVENIR",
+        "receptor": "MAR_FUERA_ZPL",
+        "categoria": "Emisario Submarino / Marino"
+      }
+    ]
+  }
+]

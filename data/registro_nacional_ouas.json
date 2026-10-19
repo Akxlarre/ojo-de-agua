@@ -1,0 +1,866 @@
+[
+  {
+    "id": "jv-010-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Lluta y sus Tributarios",
+    "cuenca_codigo": "010",
+    "rio": "Río Lluta",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "id": "jv-013-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río San José de Azapa",
+    "cuenca_codigo": "013",
+    "rio": "Río San José",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "id": "jv-015-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Camarones",
+    "cuenca_codigo": "015",
+    "rio": "Río Camarones",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "id": "jv-021-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Loa y sus Afluentes (Primera Sección)",
+    "cuenca_codigo": "021",
+    "rio": "Río Loa",
+    "region": "Antofagasta"
+  },
+  {
+    "id": "jv-021-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Loa (Segunda Sección)",
+    "cuenca_codigo": "021",
+    "rio": "Río Loa",
+    "region": "Antofagasta"
+  },
+  {
+    "id": "jv-030-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Copiapó y sus Afluentes",
+    "cuenca_codigo": "030",
+    "rio": "Río Copiapó",
+    "region": "Atacama"
+  },
+  {
+    "id": "jv-034-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia de la Cuenca del Río Huasco y sus Afluentes",
+    "cuenca_codigo": "034",
+    "rio": "Río Huasco",
+    "region": "Atacama"
+  },
+  {
+    "id": "jv-034-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río El Tránsito",
+    "cuenca_codigo": "034",
+    "rio": "Río El Tránsito",
+    "region": "Atacama"
+  },
+  {
+    "id": "jv-034-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río El Carmen",
+    "cuenca_codigo": "034",
+    "rio": "Río El Carmen",
+    "region": "Atacama"
+  },
+  {
+    "id": "jv-043-01",
+    "tipo": "Junta de Vigilancia del Río Elqui y sus Afluentes",
+    "nombre": "Junta de Vigilancia del Río Elqui y sus Afluentes",
+    "cuenca_codigo": "043",
+    "rio": "Río Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-043-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Claro de Elqui",
+    "cuenca_codigo": "043",
+    "rio": "Río Claro",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-043-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Turbio",
+    "cuenca_codigo": "043",
+    "rio": "Río Turbio",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-045-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Grande y Limarí",
+    "cuenca_codigo": "045",
+    "rio": "Río Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-045-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Hurtado",
+    "cuenca_codigo": "045",
+    "rio": "Río Hurtado",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-045-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Mostazal",
+    "cuenca_codigo": "045",
+    "rio": "Río Mostazal",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-047-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Choapa y sus Afluentes",
+    "cuenca_codigo": "047",
+    "rio": "Río Choapa",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-047-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Illapel y sus Afluentes",
+    "cuenca_codigo": "047",
+    "rio": "Río Illapel",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-047-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Chalinga",
+    "cuenca_codigo": "047",
+    "rio": "Río Chalinga",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-048-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Estero Quilimarí",
+    "cuenca_codigo": "048",
+    "rio": "Estero Quilimarí",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "jv-051-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Petorca",
+    "cuenca_codigo": "051",
+    "rio": "Río Petorca",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-051-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Sobrante",
+    "cuenca_codigo": "051",
+    "rio": "Río Sobrante",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-051-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Pedernal",
+    "cuenca_codigo": "051",
+    "rio": "Río Pedernal",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-052-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río La Ligua",
+    "cuenca_codigo": "052",
+    "rio": "Río La Ligua",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-052-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Estero Alicahue",
+    "cuenca_codigo": "052",
+    "rio": "Estero Alicahue",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-054-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia de la Primera Sección del Río Aconcagua",
+    "cuenca_codigo": "054",
+    "rio": "Río Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-054-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia de la Segunda Sección del Río Aconcagua",
+    "cuenca_codigo": "054",
+    "rio": "Río Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-054-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia de la Tercera Sección del Río Aconcagua",
+    "cuenca_codigo": "054",
+    "rio": "Río Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-054-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia de la Cuarta Sección del Río Aconcagua",
+    "cuenca_codigo": "054",
+    "rio": "Río Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-054-05",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Putaendo",
+    "cuenca_codigo": "054",
+    "rio": "Río Putaendo",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "jv-057-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Maipo Primera Sección",
+    "cuenca_codigo": "057",
+    "rio": "Río Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Maipo Segunda Sección",
+    "cuenca_codigo": "057",
+    "rio": "Río Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Maipo Tercera Sección",
+    "cuenca_codigo": "057",
+    "rio": "Río Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Mapocho",
+    "cuenca_codigo": "057",
+    "rio": "Río Mapocho",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-05",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Clarillo",
+    "cuenca_codigo": "057",
+    "rio": "Río Clarillo",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-06",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Angostura",
+    "cuenca_codigo": "057",
+    "rio": "Río Angostura",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-057-07",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Estero Puangue",
+    "cuenca_codigo": "057",
+    "rio": "Estero Puangue",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "jv-060-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Cachapoal Primera Sección",
+    "cuenca_codigo": "060",
+    "rio": "Río Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-060-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Cachapoal Segunda Sección",
+    "cuenca_codigo": "060",
+    "rio": "Río Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-060-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Tinguiririca",
+    "cuenca_codigo": "060",
+    "rio": "Río Tinguiririca",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-060-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Claro de Rengo",
+    "cuenca_codigo": "060",
+    "rio": "Río Claro de Rengo",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-060-05",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Estero Chimbarongo",
+    "cuenca_codigo": "060",
+    "rio": "Estero Chimbarongo",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-060-06",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Estero Zamorano",
+    "cuenca_codigo": "060",
+    "rio": "Estero Zamorano",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "jv-071-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Teno",
+    "cuenca_codigo": "071",
+    "rio": "Río Teno",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-071-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Lontué",
+    "cuenca_codigo": "071",
+    "rio": "Río Lontué",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Maule",
+    "cuenca_codigo": "073",
+    "rio": "Río Maule",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Melado",
+    "cuenca_codigo": "073",
+    "rio": "Río Melado",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Lircay",
+    "cuenca_codigo": "073",
+    "rio": "Río Lircay",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Achibueno",
+    "cuenca_codigo": "073",
+    "rio": "Río Achibueno",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-05",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Longaví",
+    "cuenca_codigo": "073",
+    "rio": "Río Longaví",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-06",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Ancoa",
+    "cuenca_codigo": "073",
+    "rio": "Río Ancoa",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-07",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Perquilauquén",
+    "cuenca_codigo": "073",
+    "rio": "Río Perquilauquén",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-08",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Loncomilla",
+    "cuenca_codigo": "073",
+    "rio": "Río Loncomilla",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-073-09",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Claro de Talca",
+    "cuenca_codigo": "073",
+    "rio": "Río Claro de Talca",
+    "region": "Maule"
+  },
+  {
+    "id": "jv-081-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Diguillín",
+    "cuenca_codigo": "081",
+    "rio": "Río Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "id": "jv-081-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Ñuble",
+    "cuenca_codigo": "081",
+    "rio": "Río Ñuble",
+    "region": "Ñuble"
+  },
+  {
+    "id": "jv-081-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Cholguán",
+    "cuenca_codigo": "081",
+    "rio": "Río Cholguán",
+    "region": "Biobío"
+  },
+  {
+    "id": "jv-081-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Dañicalqui",
+    "cuenca_codigo": "081",
+    "rio": "Río Dañicalqui",
+    "region": "Ñuble"
+  },
+  {
+    "id": "jv-083-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Biobío",
+    "cuenca_codigo": "083",
+    "rio": "Río Biobío",
+    "region": "Biobío"
+  },
+  {
+    "id": "jv-083-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Laja",
+    "cuenca_codigo": "083",
+    "rio": "Río Laja",
+    "region": "Biobío"
+  },
+  {
+    "id": "jv-083-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Duqueco",
+    "cuenca_codigo": "083",
+    "rio": "Río Duqueco",
+    "region": "Biobío"
+  },
+  {
+    "id": "jv-083-04",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Renaico",
+    "cuenca_codigo": "083",
+    "rio": "Río Renaico",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-083-05",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Malleco",
+    "cuenca_codigo": "083",
+    "rio": "Río Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-083-06",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Huépil",
+    "cuenca_codigo": "083",
+    "rio": "Río Huépil",
+    "region": "Biobío"
+  },
+  {
+    "id": "jv-091-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Cautín",
+    "cuenca_codigo": "091",
+    "rio": "Río Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-091-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Cholchol",
+    "cuenca_codigo": "091",
+    "rio": "Río Cholchol",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-091-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Quepe",
+    "cuenca_codigo": "091",
+    "rio": "Río Quepe",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-094-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Toltén",
+    "cuenca_codigo": "094",
+    "rio": "Río Toltén",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-094-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Allipén",
+    "cuenca_codigo": "094",
+    "rio": "Río Allipén",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-094-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Trancura",
+    "cuenca_codigo": "094",
+    "rio": "Río Trancura",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "jv-101-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río San Pedro",
+    "cuenca_codigo": "101",
+    "rio": "Río San Pedro",
+    "region": "Los Ríos"
+  },
+  {
+    "id": "jv-103-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Bueno",
+    "cuenca_codigo": "103",
+    "rio": "Río Bueno",
+    "region": "Los Ríos"
+  },
+  {
+    "id": "jv-103-02",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Rahue",
+    "cuenca_codigo": "103",
+    "rio": "Río Rahue",
+    "region": "Los Lagos"
+  },
+  {
+    "id": "jv-103-03",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Damas",
+    "cuenca_codigo": "103",
+    "rio": "Río Damas",
+    "region": "Los Lagos"
+  },
+  {
+    "id": "jv-104-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Junta de Vigilancia del Río Maullín",
+    "cuenca_codigo": "104",
+    "rio": "Río Maullín",
+    "region": "Los Lagos"
+  },
+  {
+    "id": "jv-113-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Comité de Cuenca Río Aysén",
+    "cuenca_codigo": "113",
+    "rio": "Río Aysén",
+    "region": "Aysén"
+  },
+  {
+    "id": "jv-115-01",
+    "tipo": "Junta de Vigilancia",
+    "nombre": "Comité de Cuenca Río Baker",
+    "cuenca_codigo": "115",
+    "rio": "Río Baker",
+    "region": "Aysén"
+  },
+  {
+    "id": "ac-030-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Lautaro",
+    "cuenca_codigo": "030",
+    "canal_matriz": "Canal Lautaro",
+    "region": "Atacama"
+  },
+  {
+    "id": "ac-034-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Bellavista de Huasco",
+    "cuenca_codigo": "034",
+    "canal_matriz": "Canal Bellavista",
+    "region": "Atacama"
+  },
+  {
+    "id": "ac-043-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal San Carlos de Elqui",
+    "cuenca_codigo": "043",
+    "canal_matriz": "Canal San Carlos de Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "ac-045-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Palqui",
+    "cuenca_codigo": "045",
+    "canal_matriz": "Canal Palqui",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "ac-045-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Cogotí",
+    "cuenca_codigo": "045",
+    "canal_matriz": "Canal Cogotí",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "ac-047-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Buzeta",
+    "cuenca_codigo": "047",
+    "canal_matriz": "Canal Buzeta",
+    "region": "Coquimbo"
+  },
+  {
+    "id": "ac-054-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Los Andes",
+    "cuenca_codigo": "054",
+    "canal_matriz": "Canal Los Andes",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "ac-054-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Mauco",
+    "cuenca_codigo": "054",
+    "canal_matriz": "Canal Mauco",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "ac-054-03",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Ovalle",
+    "cuenca_codigo": "054",
+    "canal_matriz": "Canal Ovalle",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "ac-054-04",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal San Pedro",
+    "cuenca_codigo": "054",
+    "canal_matriz": "Canal San Pedro",
+    "region": "Valparaíso"
+  },
+  {
+    "id": "ac-057-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Sociedad del Canal de Maipo (Canal San Carlos)",
+    "cuenca_codigo": "057",
+    "canal_matriz": "Canal San Carlos",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "ac-057-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Pirque",
+    "cuenca_codigo": "057",
+    "canal_matriz": "Canal Pirque",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "ac-057-03",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Eyzaguirre",
+    "cuenca_codigo": "057",
+    "canal_matriz": "Canal Eyzaguirre",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "ac-057-04",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal San Vicente",
+    "cuenca_codigo": "057",
+    "canal_matriz": "Canal San Vicente",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "ac-057-05",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Mallarauco",
+    "cuenca_codigo": "057",
+    "canal_matriz": "Canal Mallarauco",
+    "region": "Metropolitana"
+  },
+  {
+    "id": "ac-060-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Cachapoal",
+    "cuenca_codigo": "060",
+    "canal_matriz": "Canal Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "ac-060-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Rancagua",
+    "cuenca_codigo": "060",
+    "canal_matriz": "Canal Rancagua",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "ac-060-03",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Peumo",
+    "cuenca_codigo": "060",
+    "canal_matriz": "Canal Peumo",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "ac-060-04",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Almahue",
+    "cuenca_codigo": "060",
+    "canal_matriz": "Canal Almahue",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "ac-060-05",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Chimbarongo",
+    "cuenca_codigo": "060",
+    "canal_matriz": "Canal Chimbarongo",
+    "region": "O'Higgins"
+  },
+  {
+    "id": "ac-071-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Teno",
+    "cuenca_codigo": "071",
+    "canal_matriz": "Canal Teno",
+    "region": "Maule"
+  },
+  {
+    "id": "ac-073-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Melado",
+    "cuenca_codigo": "073",
+    "canal_matriz": "Canal Melado",
+    "region": "Maule"
+  },
+  {
+    "id": "ac-073-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Maule Norte",
+    "cuenca_codigo": "073",
+    "canal_matriz": "Canal Maule Norte",
+    "region": "Maule"
+  },
+  {
+    "id": "ac-073-03",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Pencahue",
+    "cuenca_codigo": "073",
+    "canal_matriz": "Canal Pencahue",
+    "region": "Maule"
+  },
+  {
+    "id": "ac-073-04",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Colbún",
+    "cuenca_codigo": "073",
+    "canal_matriz": "Canal Colbún",
+    "region": "Maule"
+  },
+  {
+    "id": "ac-081-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Diguillín",
+    "cuenca_codigo": "081",
+    "canal_matriz": "Canal Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "id": "ac-081-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Laja Diguillín",
+    "cuenca_codigo": "081",
+    "canal_matriz": "Canal Laja Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "id": "ac-083-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Zañartu",
+    "cuenca_codigo": "083",
+    "canal_matriz": "Canal Zañartu",
+    "region": "Biobío"
+  },
+  {
+    "id": "ac-083-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Biobío Sur",
+    "cuenca_codigo": "083",
+    "canal_matriz": "Canal Biobío Sur",
+    "region": "Biobío"
+  },
+  {
+    "id": "ac-083-03",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Negrete",
+    "cuenca_codigo": "083",
+    "canal_matriz": "Canal Negrete",
+    "region": "Biobío"
+  },
+  {
+    "id": "ac-091-01",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Temuco",
+    "cuenca_codigo": "091",
+    "canal_matriz": "Canal Temuco",
+    "region": "La Araucanía"
+  },
+  {
+    "id": "ac-091-02",
+    "tipo": "Asociación de Canalistas",
+    "nombre": "Asociación de Canalistas del Canal Lautaro Cautín",
+    "cuenca_codigo": "091",
+    "canal_matriz": "Canal Lautaro Cautín",
+    "region": "La Araucanía"
+  }
+]

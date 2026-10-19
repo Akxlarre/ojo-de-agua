@@ -1,0 +1,2874 @@
+[
+  {
+    "cuenca_codigo": "011",
+    "cuenca_nombre": "Cuencas Costeras entre Río Lluta y Quebrada de La Concordia",
+    "total_sanciones": 5,
+    "total_multa_uta": 96.0,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Agroindustrias": 1,
+      "Pesca y Acuicultura": 2,
+      "Instalación fabril": 1,
+      "Saneamiento Ambiental": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-003-2013",
+        "unidad": "ALIMENTOS RILA",
+        "multa_uta": 12.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-005-2013",
+        "unidad": "PLANTA PROCESADORA DE PRODUCTOS DEL MAR",
+        "multa_uta": 1.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-020-2013",
+        "unidad": "ACEITE DE PESCADO NATUROIL",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "013",
+    "cuenca_nombre": "Cuenca Río San José",
+    "total_sanciones": 50,
+    "total_multa_uta": 241.0,
+    "sanciones_agua": 6,
+    "distribucion_sectores": {
+      "Infraestructura Portuaria": 2,
+      "Minería": 2,
+      "Equipamiento": 34,
+      "Agroindustrias": 2,
+      "Infraestructura de Transporte": 2,
+      "Otras categorías": 3,
+      "Saneamiento Ambiental": 2,
+      "Vivienda e Inmobiliarios": 3
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-061-2015",
+        "unidad": "SCHOPERIA DOLAR",
+        "multa_uta": 1.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "F-018-2013",
+        "unidad": "TERMINAL MARÍTIMOPUERTO ARICA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "F-021-2013",
+        "unidad": "ALMACENAMIENTO DE MINERALES SOMARCO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "014",
+    "cuenca_nombre": "Cuenca Quebrada de Vitor",
+    "total_sanciones": 6,
+    "total_multa_uta": 179.9,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 2,
+      "Agroindustrias": 1,
+      "Instalación fabril": 1,
+      "Vivienda e Inmobiliarios": 1,
+      "Energía": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-111-2024",
+        "unidad": "MEGAPROYECTO PAMPA NUEVA LOTE R-7",
+        "multa_uta": 178.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "F-060-2014",
+        "unidad": "GOLDEN OMEGA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-064-2017",
+        "unidad": "AGROMAR S.A. (ARICA)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-005-2019",
+        "unidad": "GOLDEN OMEGA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "015",
+    "cuenca_nombre": "Cuenca Quebrada de Camarones",
+    "total_sanciones": 4,
+    "total_multa_uta": 3575.9,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Minería": 1,
+      "Vivienda e Inmobiliarios": 1,
+      "Energía": 1,
+      "Transportes y almacenajes": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-017-2013",
+        "unidad": "MINERA PAMPA CAMARONES",
+        "multa_uta": 3575.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-017-2018",
+        "unidad": "PTAS INMOBILIARIO DOS DE NOVIEMBRE - HUARA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "F-033-2021",
+        "unidad": "LINEA DE ALTA TENSIÓN PARINACOTA Y CONDORES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "016",
+    "cuenca_nombre": "Cuenca Altiplánica Río Lauca",
+    "total_sanciones": 5,
+    "total_multa_uta": 289.2,
+    "sanciones_agua": 5,
+    "distribucion_sectores": {
+      "Minería": 2,
+      "Otras categorías": 2,
+      "Saneamiento Ambiental": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-013-2013",
+        "unidad": "PASO FRONTERIZO CHUNGARA",
+        "multa_uta": 193.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Otras categorías"
+      },
+      {
+        "expediente": "F-001-2013",
+        "unidad": "MINERA CHOQUELIMPIE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-011-2015",
+        "unidad": "PTAS PARINACOTA",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "017",
+    "cuenca_nombre": "Cuenca Altiplánica Río Caquena",
+    "total_sanciones": 2,
+    "total_multa_uta": 503.1,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Energía": 1,
+      "Infraestructura de Transporte": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-036-2019",
+        "unidad": "ELECTRIFICACION GENERAL LAGOS",
+        "multa_uta": 503.1,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-123-2021",
+        "unidad": "REPOSICION RUTA ANDINA A -93 PARINACOTA",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Infraestructura de Transporte"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "018",
+    "cuenca_nombre": "Cuencas Costeras entre Camarones y Río Loa",
+    "total_sanciones": 106,
+    "total_multa_uta": 1751.6,
+    "sanciones_agua": 11,
+    "distribucion_sectores": {
+      "Transportes y almacenajes": 1,
+      "Minería": 6,
+      "Energía": 3,
+      "Equipamiento": 70,
+      "Saneamiento Ambiental": 2,
+      "Infraestructura de Transporte": 1,
+      "Vivienda e Inmobiliarios": 16,
+      "Otras categorías": 3,
+      "ETFA": 2,
+      "": 1,
+      "Infraestructura Hidráulica": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-007-2015",
+        "unidad": "FAENA CALA CALA COSAYACH",
+        "multa_uta": 324.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-055-2016",
+        "unidad": "RELLENO SANITARIO IQUIQUE",
+        "multa_uta": 197.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-033-2018",
+        "unidad": "CENTRO DE EVENTOS FRANCISCO CASQUINO ALTO HOSPICIO",
+        "multa_uta": 190.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-002-2013",
+        "unidad": "ALMACENAJE PELIGROSOSPLATAFORMA DE ALMACENAMIENTO 2",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Transportes y almacenajes"
+      },
+      {
+        "expediente": "F-008-2013",
+        "unidad": "PRODUCCION DE YODO BULLMINE - HUARA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "019",
+    "cuenca_nombre": "Cuenca Pampa del Tamarugal",
+    "total_sanciones": 4,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Energía": 2,
+      "Saneamiento Ambiental": 1,
+      "Vivienda e Inmobiliarios": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "A-001-2020",
+        "unidad": "PARQUE FOTOVOLTAICO GRANJA SOLAR",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-007-2023",
+        "unidad": "RELLENO SANITARIO CAMIÑA",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-257-2024",
+        "unidad": "FUNDO SAN IGNACIO",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Vivienda e Inmobiliarios"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "021",
+    "cuenca_nombre": "Cuenca Río Loa",
+    "total_sanciones": 20,
+    "total_multa_uta": 1709.4,
+    "sanciones_agua": 12,
+    "distribucion_sectores": {
+      "Energía": 2,
+      "Minería": 7,
+      "Instalación fabril": 2,
+      "Equipamiento": 4,
+      "Saneamiento Ambiental": 2,
+      "Transportes y almacenajes": 1,
+      "Vivienda e Inmobiliarios": 1,
+      "": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-254-2022",
+        "unidad": "MINERA CENTINELA",
+        "multa_uta": 809.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "A-002-2018",
+        "unidad": "GEOTERMICA CERRO PABELLON",
+        "multa_uta": 674.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-149-2022",
+        "unidad": "DEPOSITO RESIDUOS DE CONSTRUCCIÓN COMUNA DE CALAMA",
+        "multa_uta": 193.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "A-004-2013",
+        "unidad": "VALLE DE LOS VIENTOS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-009-2016",
+        "unidad": "PROYECTO SIERRA GORDA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "022",
+    "cuenca_nombre": "Cuenca Altiplánica Salar de Coposa",
+    "total_sanciones": 4,
+    "total_multa_uta": 1379.0,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Minería": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-115-2018",
+        "unidad": "FAENA MINERA QUEBRADA BLANCA",
+        "multa_uta": 1379.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "A-001-2013",
+        "unidad": "FAENA MINERA QUEBRADA BLANCA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-095-2017",
+        "unidad": "FAENA MINERA COLLAHUASI",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "023",
+    "cuenca_nombre": "Cuencas Costeras entre Río Loa y Quebrada Carrizalillo",
+    "total_sanciones": 126,
+    "total_multa_uta": 3404.6,
+    "sanciones_agua": 20,
+    "distribucion_sectores": {
+      "Energía": 10,
+      "Infraestructura Portuaria": 5,
+      "Equipamiento": 69,
+      "Instalación fabril": 5,
+      "Saneamiento Ambiental": 3,
+      "Vivienda e Inmobiliarios": 14,
+      "Otras categorías": 8,
+      "Infraestructura de Transporte": 2,
+      "Minería": 4,
+      "Transportes y almacenajes": 4,
+      "": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-006-2015",
+        "unidad": "PUERTO ANTOFAGASTA",
+        "multa_uta": 1583.0,
+        "estado": "En curso",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "D-070-2018",
+        "unidad": "PUERTO ANTOFAGASTA",
+        "multa_uta": 1237.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "F-003-2014",
+        "unidad": "CENTRAL MEJILLONES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-050-2014",
+        "unidad": "CENTRAL TOCOPILLA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-052-2014",
+        "unidad": "CENTRAL TERMOELÉCTRICA HORNITOS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "024",
+    "cuenca_nombre": "Cuenca Salar de Atacama",
+    "total_sanciones": 7,
+    "total_multa_uta": 630.3,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Minería": 2,
+      "Saneamiento Ambiental": 1,
+      "Equipamiento": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-036-2018",
+        "unidad": "PLANTA DE ARIDOS SAN PEDRO",
+        "multa_uta": 520.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-117-2020",
+        "unidad": "CONSTRUCCION ALCANTARILLADO DE SAN PEDRO DE ATACAMA",
+        "multa_uta": 94.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-041-2016",
+        "unidad": "SQM SALAR ATACAMA",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "026",
+    "cuenca_nombre": "Cuenca Quebrada Carrizalillo y Costeras hasta Río Salado",
+    "total_sanciones": 5,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Energía": 1,
+      "Saneamiento Ambiental": 1,
+      "Minería": 2,
+      "Equipamiento": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-026-2020",
+        "unidad": "SUMINISTRO ELECTRICO COMPLEJO ASTRONOMICO PARANAL - ARMAZONES",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-044-2020",
+        "unidad": "VERTEDERO MUNICIPAL DE TALTAL",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-036-2021",
+        "unidad": "LAS LUCES",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "027",
+    "cuenca_nombre": "Cuenca Salar de Punta Negra",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-102-2020",
+        "unidad": "MINERA ZALDIVAR",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "029",
+    "cuenca_nombre": "Cuenca Salar de Navidad",
+    "total_sanciones": 3,
+    "total_multa_uta": 14713.0,
+    "sanciones_agua": 2,
+    "distribucion_sectores": {
+      "Minería": 2,
+      "Instalación fabril": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-099-2020",
+        "unidad": "MINERA ESCONDIDA",
+        "multa_uta": 10000.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-018-2022",
+        "unidad": "PLANTA CLORURO DE LITIO",
+        "multa_uta": 4713.0,
+        "estado": "En curso",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-078-2022",
+        "unidad": "LOMAS BAYAS",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "030",
+    "cuenca_nombre": "Cuenca Río Copiapó",
+    "total_sanciones": 86,
+    "total_multa_uta": 35198.0,
+    "sanciones_agua": 23,
+    "distribucion_sectores": {
+      "Minería": 10,
+      "Energía": 7,
+      "Equipamiento": 52,
+      "Instalación fabril": 6,
+      "Vivienda e Inmobiliarios": 2,
+      "Otras categorías": 2,
+      "Agroindustrias": 1,
+      "Transportes y almacenajes": 2,
+      "Saneamiento Ambiental": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-025-2013",
+        "unidad": "CASERONES",
+        "multa_uta": 14745.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-018-2019",
+        "unidad": "CASERONES",
+        "multa_uta": 10000.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-018-2015",
+        "unidad": "CANDELARIA",
+        "multa_uta": 5049.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-207-2022",
+        "unidad": "CANDELARIA-OJOS DEL SALADO",
+        "multa_uta": 4162.4,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-045-2017",
+        "unidad": "LINEA DE TRANSMISIÓN CARDONES  POLPAICO",
+        "multa_uta": 914.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "032",
+    "cuenca_nombre": "Cuenca Río Salado de Chañaral",
+    "total_sanciones": 8,
+    "total_multa_uta": 1915.5,
+    "sanciones_agua": 6,
+    "distribucion_sectores": {
+      "Energía": 3,
+      "Equipamiento": 1,
+      "Minería": 3,
+      "": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-113-2021",
+        "unidad": "CODELCO SALVADOR - POTRERILLOS",
+        "multa_uta": 1150.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-015-2015",
+        "unidad": "CENTRAL TERMOELECTRICA DIEGO DE ALMAGRO",
+        "multa_uta": 750.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-046-2015",
+        "unidad": "HOSTERIA CHAÑARAL",
+        "multa_uta": 5.8,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "F-019-2015",
+        "unidad": "PARQUE PV DIEGO DE ALMAGRO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "033",
+    "cuenca_nombre": "Cuencas Costeras entre Río Salado y Río Copiapó",
+    "total_sanciones": 10,
+    "total_multa_uta": 2944.2,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 3,
+      "Equipamiento": 5,
+      "Infraestructura Portuaria": 1,
+      "Saneamiento Ambiental": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-118-2021",
+        "unidad": "MUELLE PUNTA CALETA",
+        "multa_uta": 2927.0,
+        "estado": "En curso",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "D-094-2018",
+        "unidad": "PUB ENTRE JOTES",
+        "multa_uta": 9.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-045-2018",
+        "unidad": "ANTENA ENTEL-CALDERA",
+        "multa_uta": 1.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "F-010-2016",
+        "unidad": "CAMANCHACA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "034",
+    "cuenca_nombre": "Cuenca Río Huasco",
+    "total_sanciones": 20,
+    "total_multa_uta": 12383.3,
+    "sanciones_agua": 8,
+    "distribucion_sectores": {
+      "Minería": 6,
+      "Equipamiento": 12,
+      "Energía": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "A-002-2013",
+        "unidad": "BARRICK - PASCUA LAMA",
+        "multa_uta": 7021.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-011-2015",
+        "unidad": "BARRICK - PASCUA LAMA",
+        "multa_uta": 5339.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-028-2015",
+        "unidad": "DOS AMIGOS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "035",
+    "cuenca_nombre": "Cuencas Costeras entre Río Copiapó y Quebrada Totoral",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-034-2021",
+        "unidad": "MINERA B Y T",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "036",
+    "cuenca_nombre": "Cuenca Quebrada Carrizal y Costeras hasta Río Huasco",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-002-2018",
+        "unidad": "CMP-LOS COLORADOS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "037",
+    "cuenca_nombre": "Cuencas Costeras entre Río Huasco y Quebrada Chañaral",
+    "total_sanciones": 5,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 5,
+    "distribucion_sectores": {
+      "Energía": 5
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-001-2019",
+        "unidad": "IBEREOLICA PARQUE EOLICO CABO LEONES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-023-2019",
+        "unidad": "IBEREOLICA PARQUE EOLICO CABO LEONES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-024-2019",
+        "unidad": "IBEREOLICA PARQUE EOLICO CABO LEONES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "038",
+    "cuenca_nombre": "Cuencas Endorreicas Maricunga y Pedernales",
+    "total_sanciones": 4,
+    "total_multa_uta": 626.0,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Minería": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-023-2018",
+        "unidad": "GOLD FIELDS-SALARES",
+        "multa_uta": 626.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-011-2016",
+        "unidad": "KINROSS - LA COIPA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-011-2016",
+        "unidad": "KINROSS - PROSPECCIONES MANTOS DE ORO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "039",
+    "cuenca_nombre": "Cuenca Laguna del Negro Francisco",
+    "total_sanciones": 2,
+    "total_multa_uta": 398.0,
+    "sanciones_agua": 2,
+    "distribucion_sectores": {
+      "Minería": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-016-2013",
+        "unidad": "KINROSS -REFUGIO",
+        "multa_uta": 398.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-014-2015",
+        "unidad": "KINROSS -REFUGIO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "041",
+    "cuenca_nombre": "Cuenca Quebrada Los Choros",
+    "total_sanciones": 2,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 2,
+    "distribucion_sectores": {
+      "Energía": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-027-2013",
+        "unidad": "CENTRAL TERMICA Y PARQUE EOLICO PUNTA COLORADA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-013-2023",
+        "unidad": "PROYECTO FOTOVOLTAICO EL PELICANO",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "043",
+    "cuenca_nombre": "Cuenca Río Elqui",
+    "total_sanciones": 9,
+    "total_multa_uta": 36.0,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Minería": 2,
+      "Agroindustrias": 1,
+      "Equipamiento": 4,
+      "Vivienda e Inmobiliarios": 1,
+      "Otras categorías": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-037-2016",
+        "unidad": "MINERA RENDIC",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-191-2019",
+        "unidad": "EXTRACCIÓN DE ÁRIDOS ACONCAGUA - HORMIGONES INDEPENDENCIA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-001-2021",
+        "unidad": "SISTEMA DE TRATAMIENTO Y DISPOSICION DE RILES ELQUI",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "044",
+    "cuenca_nombre": "Cuencas Costeras entre Río Elqui y Río Limarí",
+    "total_sanciones": 90,
+    "total_multa_uta": 3672.6,
+    "sanciones_agua": 13,
+    "distribucion_sectores": {
+      "Minería": 3,
+      "Vivienda e Inmobiliarios": 8,
+      "Equipamiento": 60,
+      "Saneamiento Ambiental": 3,
+      "Instalación fabril": 4,
+      "Energía": 2,
+      "": 1,
+      "Agroindustrias": 2,
+      "Otras categorías": 2,
+      "Pesca y Acuicultura": 3,
+      "Infraestructura Portuaria": 1,
+      "Alumbrado": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-096-2018",
+        "unidad": "SEGMENTO LÍNEA DE TRANSMISIÓN CARDONES  POLPAICO - IV REGIÓN",
+        "multa_uta": 1730.0,
+        "estado": "En curso",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-025-2018",
+        "unidad": "RELLENO SANITARIO EL PANUL",
+        "multa_uta": 1030.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-064-2017",
+        "unidad": "RESTAURANT HUENTELAUQUÉN",
+        "multa_uta": 214.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-041-2017",
+        "unidad": "EDIFICIO TERRAZAS DEL SOL II-LA SERENA",
+        "multa_uta": 19.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "F-023-2016",
+        "unidad": "MINERA FLORIDA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "045",
+    "cuenca_nombre": "Cuenca Río Limarí",
+    "total_sanciones": 21,
+    "total_multa_uta": 171.2,
+    "sanciones_agua": 16,
+    "distribucion_sectores": {
+      "Minería": 15,
+      "Agroindustrias": 1,
+      "Vivienda e Inmobiliarios": 1,
+      "Equipamiento": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-024-2015",
+        "unidad": "TECK CARMEN DE ANDACOLLO",
+        "multa_uta": 75.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-067-2014",
+        "unidad": "DAYTON",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-040-2015",
+        "unidad": "MINERA BMR (EX-ALTOS DE PUNITAQUI)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "046",
+    "cuenca_nombre": "Cuencas Costeras entre Río Limarí y Río Choapa",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-075-2020",
+        "unidad": "SECADO Y DESHIDRATADO DE ALGAS PARDAS PICADAS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "047",
+    "cuenca_nombre": "Cuenca Río Choapa",
+    "total_sanciones": 11,
+    "total_multa_uta": 2980.3,
+    "sanciones_agua": 7,
+    "distribucion_sectores": {
+      "Minería": 7,
+      "Infraestructura de Transporte": 1,
+      "Equipamiento": 2,
+      "Instalación fabril": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-011-2013",
+        "unidad": "MINERA LOS PELAMBRES",
+        "multa_uta": 2326.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-012-2013",
+        "unidad": "RUTA D-705 SECTOR: ILLAPEL-AUCO-LOS POZOS IV REGION",
+        "multa_uta": 440.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Infraestructura de Transporte"
+      },
+      {
+        "expediente": "D-099-2022",
+        "unidad": "MINERA LOS PELAMBRES",
+        "multa_uta": 211.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-012-2013",
+        "unidad": "TRES VALLES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "048",
+    "cuenca_nombre": "Cuenca Estero Quilimarí y Costeras",
+    "total_sanciones": 5,
+    "total_multa_uta": 10.9,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Equipamiento": 4,
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-001-2022",
+        "unidad": "PUB HILDA",
+        "multa_uta": 3.7,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-202-2019",
+        "unidad": "PANADERÍA PANCHITO",
+        "multa_uta": 2.6,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-070-2022",
+        "unidad": "RESTOBAR K2",
+        "multa_uta": 1.6,
+        "estado": "En curso",
+        "sector": "Equipamiento"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "052",
+    "cuenca_nombre": "Cuenca Río La Ligua",
+    "total_sanciones": 4,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Agroindustrias": 2,
+      "Equipamiento": 1,
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-056-2015",
+        "unidad": "AGRICOLA FUNDO VITAHUE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-095-2019",
+        "unidad": "PUB DISCOTEQUE ALTO BALI",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Archivado",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "F-094-2022",
+        "unidad": "PLANTA CABILFRUT",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "053",
+    "cuenca_nombre": "Cuencas Costeras entre Río La Ligua y Río Aconcagua",
+    "total_sanciones": 26,
+    "total_multa_uta": 3959.2,
+    "sanciones_agua": 19,
+    "distribucion_sectores": {
+      "Infraestructura Portuaria": 9,
+      "Otras categorías": 1,
+      "Energía": 5,
+      "Vivienda e Inmobiliarios": 2,
+      "Agroindustrias": 1,
+      "Instalación fabril": 2,
+      "Minería": 1,
+      "Saneamiento Ambiental": 1,
+      "Transportes y almacenajes": 2,
+      "Infraestructura de Transporte": 1,
+      "Equipamiento": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-073-2016",
+        "unidad": "PLANTA DE PROCESAMIENTO DE SALES METALICAS",
+        "multa_uta": 2230.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-030-2018",
+        "unidad": "TERMINAL MARITIMO DE QUINTERO ENAP",
+        "multa_uta": 885.0,
+        "estado": "En curso",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "F-050-2022",
+        "unidad": "TERMINAL MARITIMO DE QUINTERO COPEC",
+        "multa_uta": 277.4,
+        "estado": "En curso",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "F-017-2023",
+        "unidad": "COMPLEJO TERMOELECTRICO VENTANAS",
+        "multa_uta": 214.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-086-2018",
+        "unidad": "PLANTA GASMAR QUINTERO",
+        "multa_uta": 198.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Transportes y almacenajes"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "054",
+    "cuenca_nombre": "Cuenca Río Aconcagua",
+    "total_sanciones": 59,
+    "total_multa_uta": 21619.2,
+    "sanciones_agua": 37,
+    "distribucion_sectores": {
+      "Minería": 13,
+      "Agroindustrias": 18,
+      "Saneamiento Ambiental": 5,
+      "Equipamiento": 13,
+      "Otras categorías": 2,
+      "Instalación fabril": 3,
+      "Infraestructura de Transporte": 1,
+      "Vivienda e Inmobiliarios": 2,
+      "Infraestructura Hidráulica": 1,
+      "Energía": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-009-2018",
+        "unidad": "MINA CARDENILLA",
+        "multa_uta": 7976.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-019-2013",
+        "unidad": "MINA EL SOLDADO",
+        "multa_uta": 5299.4,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-026-2019",
+        "unidad": "KDM S.A. - LOMA LOS COLORADOS",
+        "multa_uta": 4984.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-034-2018",
+        "unidad": "AGRICOLA SANTIS FRUT LTDA",
+        "multa_uta": 2553.5,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-020-2013",
+        "unidad": "CERDOS PORKLAND",
+        "multa_uta": 304.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "055",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aconcagua y Río Maipo",
+    "total_sanciones": 94,
+    "total_multa_uta": 1083.7,
+    "sanciones_agua": 22,
+    "distribucion_sectores": {
+      "Infraestructura de Transporte": 4,
+      "Agroindustrias": 2,
+      "Transportes y almacenajes": 1,
+      "Energía": 3,
+      "Pesca y Acuicultura": 1,
+      "Saneamiento Ambiental": 6,
+      "Otras categorías": 5,
+      "Minería": 3,
+      "Instalación fabril": 10,
+      "Equipamiento": 47,
+      "Vivienda e Inmobiliarios": 8,
+      "ETFA": 3,
+      "Infraestructura Portuaria": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-025-2023",
+        "unidad": "REFINERIA ACONCAGUA - CONCON",
+        "multa_uta": 408.0,
+        "estado": "En curso",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-290-2023",
+        "unidad": "PUERTO VALPARAISO",
+        "multa_uta": 110.0,
+        "estado": "En curso",
+        "sector": "Infraestructura Portuaria"
+      },
+      {
+        "expediente": "F-013-2014",
+        "unidad": "FILOMENA NARVAEZ ELGUETA",
+        "multa_uta": 10.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-001-2014",
+        "unidad": "AUTOPISTA TRONCAL SUR",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Infraestructura de Transporte"
+      },
+      {
+        "expediente": "F-017-2014",
+        "unidad": "TERMINAL DE CONTENEDORES PLACILLA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Transportes y almacenajes"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "056",
+    "cuenca_nombre": "Cuencas Islas del Pacífico (Rapa Nui, Juan Fernández)",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 0,
+    "distribucion_sectores": {
+      "Otras categorías": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-185-2022",
+        "unidad": "SONDAJES EXPLORATORIOS DE RESTOS HISTORICOS EN PUERTO INGLES ISLA ROBINSON CRUSOE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Otras categorías"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "057",
+    "cuenca_nombre": "Cuenca Río Maipo",
+    "total_sanciones": 997,
+    "total_multa_uta": 35295.04,
+    "sanciones_agua": 163,
+    "distribucion_sectores": {
+      "Equipamiento": 493,
+      "Vivienda e Inmobiliarios": 225,
+      "Infraestructura Hidráulica": 1,
+      "Agroindustrias": 77,
+      "Instalación fabril": 83,
+      "Energía": 11,
+      "ETFA": 21,
+      "Minería": 25,
+      "Infraestructura de Transporte": 16,
+      "Saneamiento Ambiental": 22,
+      "Forestal": 2,
+      "Otras categorías": 11,
+      "Transportes y almacenajes": 5,
+      "Pesca y Acuicultura": 1,
+      "": 2,
+      "Infraestructura Portuaria": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-054-2014",
+        "unidad": "LOS BRONCES - ANGLO AMERICAN SUR S.A.",
+        "multa_uta": 6554.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-011-2016",
+        "unidad": "RELLENO SANITARIO SANTA MARTA",
+        "multa_uta": 2771.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-028-2021",
+        "unidad": "LOTEO-INVERSIONES LAMPA SPA",
+        "multa_uta": 2035.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "D-039-2016",
+        "unidad": "EMPRESA DE LOS FERROCARRILES DEL ESTADO",
+        "multa_uta": 1516.0,
+        "estado": "En curso",
+        "sector": "Infraestructura de Transporte"
+      },
+      {
+        "expediente": "D-038-2016",
+        "unidad": "MALTERIAS UNIDAS S.A. - TALAGANTE",
+        "multa_uta": 1332.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "058",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maipo y Río Rapel",
+    "total_sanciones": 1,
+    "total_multa_uta": 5001.0,
+    "sanciones_agua": 0,
+    "distribucion_sectores": {
+      "Vivienda e Inmobiliarios": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-091-2017",
+        "unidad": "PROYECTO PUNTA PUERTECILLO",
+        "multa_uta": 5001.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "060",
+    "cuenca_nombre": "Cuenca Río Rapel",
+    "total_sanciones": 151,
+    "total_multa_uta": 9381.1,
+    "sanciones_agua": 86,
+    "distribucion_sectores": {
+      "Agroindustrias": 68,
+      "Otras categorías": 2,
+      "Energía": 6,
+      "Equipamiento": 59,
+      "Infraestructura Hidráulica": 1,
+      "Minería": 6,
+      "Saneamiento Ambiental": 4,
+      "": 2,
+      "Infraestructura de Transporte": 2,
+      "ETFA": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-070-2017",
+        "unidad": "VIÑA URCELAY",
+        "multa_uta": 3433.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-019-2018",
+        "unidad": "ARIDOS CACHAPOAL - OLIVAR",
+        "multa_uta": 2379.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-034-2016",
+        "unidad": "PLANTA RENDERING CHILE MINK",
+        "multa_uta": 630.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "A-005-2015",
+        "unidad": "MERCOFRUT S.A. - CHIMBARONGO",
+        "multa_uta": 454.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-027-2014",
+        "unidad": "AUTODROMO CODEGUA",
+        "multa_uta": 451.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "061",
+    "cuenca_nombre": "Cuenca Estero Nilahue y Costeras",
+    "total_sanciones": 5,
+    "total_multa_uta": 1.4,
+    "sanciones_agua": 2,
+    "distribucion_sectores": {
+      "Agroindustrias": 1,
+      "Saneamiento Ambiental": 1,
+      "Instalación fabril": 2,
+      "Equipamiento": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-001-2014",
+        "unidad": "VIÑA ERRAZURIZ",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "F-035-2017",
+        "unidad": "RELLENO SANITARIO LAS QUILAS",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-039-2019",
+        "unidad": "PLANTA DE FUNDICIÓN ALCONES",
+        "multa_uta": 0.0,
+        "estado": "Suspendido",
+        "sector": "Instalación fabril"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "071",
+    "cuenca_nombre": "Cuenca Río Mataquito",
+    "total_sanciones": 64,
+    "total_multa_uta": 4270.0,
+    "sanciones_agua": 50,
+    "distribucion_sectores": {
+      "Agroindustrias": 31,
+      "Instalación fabril": 6,
+      "Saneamiento Ambiental": 12,
+      "Forestal": 1,
+      "Equipamiento": 9,
+      "Energía": 2,
+      "Minería": 2,
+      "Otras categorías": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-002-2015",
+        "unidad": "ECOMAULE",
+        "multa_uta": 3273.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-070-2020",
+        "unidad": "RILES VIÑA SEBASTIAN ASTABURUAGA",
+        "multa_uta": 214.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "F-020-2016",
+        "unidad": "LICANCEL",
+        "multa_uta": 182.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-183-2022",
+        "unidad": "RILES AL SUELO MEDIANTE MICRO ASPERSORES - COMERCIAL TORO Y NEGRONI",
+        "multa_uta": 145.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "F-006-2016",
+        "unidad": "RILES VIÑA Y BODEGA BOTALCURA",
+        "multa_uta": 129.7,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "073",
+    "cuenca_nombre": "Cuenca Río Maule",
+    "total_sanciones": 108,
+    "total_multa_uta": 5863.5,
+    "sanciones_agua": 46,
+    "distribucion_sectores": {
+      "Agroindustrias": 28,
+      "Equipamiento": 38,
+      "Infraestructura Hidráulica": 2,
+      "Saneamiento Ambiental": 7,
+      "Instalación fabril": 6,
+      "Energía": 6,
+      "Vivienda e Inmobiliarios": 2,
+      "Infraestructura de Transporte": 1,
+      "Forestal": 16,
+      "": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-065-2017",
+        "unidad": "OLIVARES DE QUEPU",
+        "multa_uta": 1500.0,
+        "estado": "En curso",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-207-2019",
+        "unidad": "EMBOTELLADORA METROPOLITANA",
+        "multa_uta": 1487.0,
+        "estado": "En curso",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-109-2018",
+        "unidad": "GENERADORA ELECTRICA ROBLERIA",
+        "multa_uta": 1174.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-048-2018",
+        "unidad": "RELLENO SANITARIOSAN ROQUE",
+        "multa_uta": 281.2,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-027-2015",
+        "unidad": "EMBALSE ANCOA MOP",
+        "multa_uta": 250.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Infraestructura Hidráulica"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "074",
+    "cuenca_nombre": "Cuencas Costeras entre Río Maule y Límite Regional",
+    "total_sanciones": 8,
+    "total_multa_uta": 12.3,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Equipamiento": 4,
+      "Instalación fabril": 1,
+      "Agroindustrias": 2,
+      "Pesca y Acuicultura": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-048-2017",
+        "unidad": "DISCOTECAARUBA",
+        "multa_uta": 1.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-004-2015",
+        "unidad": "DISCOTECA EL PUNTO COMUNA PELLUHUE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-050-2019",
+        "unidad": "DISCOTEQUE ESPACIO PIEDRA (EX AREA 51)",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Equipamiento"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "081",
+    "cuenca_nombre": "Cuenca Río Itata",
+    "total_sanciones": 105,
+    "total_multa_uta": 3279.4,
+    "sanciones_agua": 34,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 4,
+      "Agroindustrias": 19,
+      "Forestal": 15,
+      "Energía": 3,
+      "Equipamiento": 44,
+      "Infraestructura de Transporte": 3,
+      "Minería": 7,
+      "Instalación fabril": 3,
+      "Infraestructura Hidráulica": 1,
+      "Vivienda e Inmobiliarios": 2,
+      "Otras categorías": 2,
+      "Transportes y almacenajes": 1,
+      "ETFA": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-060-2022",
+        "unidad": "PLANTEL SITIO DESTETE-SECTOR RUCAPEQUEN",
+        "multa_uta": 703.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-048-2023",
+        "unidad": "PLANTEL SITIO DESTETE-SECTOR RUCAPEQUEN",
+        "multa_uta": 703.0,
+        "estado": "En curso",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "D-141-2021",
+        "unidad": "EXTRACCION ARIDOS SOPRAMAT CAUCE DEL RIO DIGUILLIN - SECTOR LOS TILOS",
+        "multa_uta": 673.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-074-2018",
+        "unidad": "PLANTA DE ARIDOS EL MAITEN",
+        "multa_uta": 598.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "A-001-2015",
+        "unidad": "CITA - RSU ECOBIO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "082",
+    "cuenca_nombre": "Cuencas Costeras entre Río Itata y Río Biobío",
+    "total_sanciones": 35,
+    "total_multa_uta": 167.2,
+    "sanciones_agua": 9,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 4,
+      "Instalación fabril": 4,
+      "Minería": 2,
+      "Pesca y Acuicultura": 2,
+      "Vivienda e Inmobiliarios": 6,
+      "Infraestructura Portuaria": 2,
+      "Infraestructura de Transporte": 1,
+      "Forestal": 1,
+      "Equipamiento": 12,
+      "ETFA": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-002-2014",
+        "unidad": "PLANTA VIDRIOS LIRQUEN",
+        "multa_uta": 9.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "F-039-2013",
+        "unidad": "RELLENO SANITARIO E INDUSTRIAL COPIULEMU",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-056-2014",
+        "unidad": "EXTRACCION DE ARIDOS FUNDO LANDA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "083",
+    "cuenca_nombre": "Cuenca Río Biobío",
+    "total_sanciones": 91,
+    "total_multa_uta": 3297.9,
+    "sanciones_agua": 55,
+    "distribucion_sectores": {
+      "Instalación fabril": 13,
+      "Agroindustrias": 15,
+      "Minería": 3,
+      "Pesca y Acuicultura": 7,
+      "Saneamiento Ambiental": 8,
+      "Energía": 13,
+      "Equipamiento": 18,
+      "Forestal": 11,
+      "Vivienda e Inmobiliarios": 2,
+      "Infraestructura de Transporte": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-042-2022",
+        "unidad": "REFINERIA ENAP BIOBIO",
+        "multa_uta": 1870.8,
+        "estado": "En curso",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "F-007-2013",
+        "unidad": "REFINERIA ENAP BIOBIO",
+        "multa_uta": 865.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "F-018-2025",
+        "unidad": "ASERRADERO POCO A POCO",
+        "multa_uta": 128.0,
+        "estado": "En curso",
+        "sector": "Forestal"
+      },
+      {
+        "expediente": "D-081-2018",
+        "unidad": "RELLENO SANITARIO LOS ANGELES",
+        "multa_uta": 118.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-001-2013",
+        "unidad": "MINERA NO METÁLICAÁRIDOS EN PARCELA PANGUECO SECTOR CHACAICO",
+        "multa_uta": 59.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "084",
+    "cuenca_nombre": "Cuencas Costeras entre Río Biobío y Río Carampangue",
+    "total_sanciones": 129,
+    "total_multa_uta": 12358.5,
+    "sanciones_agua": 33,
+    "distribucion_sectores": {
+      "Energía": 8,
+      "Otras categorías": 2,
+      "Vivienda e Inmobiliarios": 24,
+      "Minería": 8,
+      "Equipamiento": 56,
+      "Agroindustrias": 3,
+      "Infraestructura Portuaria": 3,
+      "Pesca y Acuicultura": 10,
+      "Instalación fabril": 5,
+      "Transportes y almacenajes": 1,
+      "ETFA": 2,
+      "Infraestructura de Transporte": 1,
+      "Forestal": 3,
+      "Saneamiento Ambiental": 2,
+      "Alumbrado": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-015-2013",
+        "unidad": "CT BOCAMINA",
+        "multa_uta": 8640.4,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-016-2015",
+        "unidad": "CT BOCAMINA",
+        "multa_uta": 1032.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-036-2017",
+        "unidad": "COMPLEJO CELCO PLANTA ARAUCO",
+        "multa_uta": 699.6,
+        "estado": "Terminado - Sanción",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-048-2015",
+        "unidad": "CANTERAS LONCO",
+        "multa_uta": 488.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-061-2021",
+        "unidad": "CT SANTA MARIA",
+        "multa_uta": 345.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "085",
+    "cuenca_nombre": "Cuencas Costeras de Lebu y Paicaví (Lago Lanalhue)",
+    "total_sanciones": 17,
+    "total_multa_uta": 38.8,
+    "sanciones_agua": 6,
+    "distribucion_sectores": {
+      "Instalación fabril": 3,
+      "Equipamiento": 6,
+      "Forestal": 2,
+      "Saneamiento Ambiental": 2,
+      "Vivienda e Inmobiliarios": 1,
+      "Energía": 1,
+      "Minería": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-090-2016",
+        "unidad": "BARRACA DE MADERAS MARIO SAN MARTIN",
+        "multa_uta": 7.0,
+        "estado": "En curso",
+        "sector": "Forestal"
+      },
+      {
+        "expediente": "D-086-2016",
+        "unidad": "PUB RESTAURANTE QUITRAHUE",
+        "multa_uta": 3.8,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-082-2016",
+        "unidad": "TALLER HOJALATERIA MAURICIO VEGA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Instalación fabril"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "091",
+    "cuenca_nombre": "Cuenca Río Imperial",
+    "total_sanciones": 178,
+    "total_multa_uta": 1756.55,
+    "sanciones_agua": 36,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 10,
+      "Equipamiento": 101,
+      "Agroindustrias": 10,
+      "Otras categorías": 4,
+      "Instalación fabril": 7,
+      "Forestal": 8,
+      "Transportes y almacenajes": 1,
+      "Vivienda e Inmobiliarios": 25,
+      "Energía": 2,
+      "Pesca y Acuicultura": 3,
+      "Infraestructura de Transporte": 2,
+      "Minería": 4,
+      "": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-033-2018",
+        "unidad": "COMASA LAUTARO",
+        "multa_uta": 809.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "F-038-2013",
+        "unidad": "VERTEDERO TEMUCO",
+        "multa_uta": 320.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-057-2014",
+        "unidad": "EAGON LAUTARO",
+        "multa_uta": 270.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Forestal"
+      },
+      {
+        "expediente": "F-011-2013",
+        "unidad": "PTAS TEMUCO",
+        "multa_uta": 21.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-029-2013",
+        "unidad": "FERIA AGRÍCOLAFRUTAS Y VERDURAS LA GRANJA",
+        "multa_uta": 0.25,
+        "estado": "Terminado - Sanción",
+        "sector": "Agroindustrias"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "094",
+    "cuenca_nombre": "Cuenca Río Toltén",
+    "total_sanciones": 44,
+    "total_multa_uta": 5632.5,
+    "sanciones_agua": 33,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 16,
+      "Transportes y almacenajes": 1,
+      "Energía": 5,
+      "Saneamiento Ambiental": 3,
+      "Agroindustrias": 6,
+      "Instalación fabril": 2,
+      "Vivienda e Inmobiliarios": 1,
+      "Equipamiento": 6,
+      "Minería": 3,
+      "Otras categorías": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-049-2020",
+        "unidad": "PISCICULTURA QUIMEYCO",
+        "multa_uta": 2791.9,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-193-2023",
+        "unidad": "PTAS SAN RAMON",
+        "multa_uta": 778.0,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-027-2020",
+        "unidad": "EXTRACCIÓN DE ÁRIDOS TERRANOVA LTDA.",
+        "multa_uta": 618.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-077-2018",
+        "unidad": "PROYECTO INMOBILIARIO ALTOS DEL TRANCURA",
+        "multa_uta": 594.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "D-106-2020",
+        "unidad": "ÁRIDOS PUTUE BAJO",
+        "multa_uta": 256.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "101",
+    "cuenca_nombre": "Cuenca Río Valdivia",
+    "total_sanciones": 137,
+    "total_multa_uta": 13472.0,
+    "sanciones_agua": 35,
+    "distribucion_sectores": {
+      "Energía": 2,
+      "Vivienda e Inmobiliarios": 17,
+      "Minería": 3,
+      "Saneamiento Ambiental": 8,
+      "Forestal": 5,
+      "Instalación fabril": 8,
+      "Agroindustrias": 7,
+      "Pesca y Acuicultura": 6,
+      "Otras categorías": 5,
+      "Equipamiento": 70,
+      "Infraestructura Portuaria": 3,
+      "Transportes y almacenajes": 1,
+      "": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-001-2016",
+        "unidad": "CELCO VALDIVIA",
+        "multa_uta": 6065.2,
+        "estado": "En curso",
+        "sector": "Instalación fabril"
+      },
+      {
+        "expediente": "D-032-2015",
+        "unidad": "RILESUR",
+        "multa_uta": 5020.8,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-112-2018",
+        "unidad": "VALDICOR",
+        "multa_uta": 563.1,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "D-067-2017",
+        "unidad": "FUERTE CORRAL 2",
+        "multa_uta": 355.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Otras categorías"
+      },
+      {
+        "expediente": "F-008-2017",
+        "unidad": "ECOSOLUCION PAILLACO",
+        "multa_uta": 354.6,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "103",
+    "cuenca_nombre": "Cuenca Río Bueno",
+    "total_sanciones": 111,
+    "total_multa_uta": 783.3,
+    "sanciones_agua": 54,
+    "distribucion_sectores": {
+      "Equipamiento": 32,
+      "Pesca y Acuicultura": 18,
+      "Saneamiento Ambiental": 5,
+      "Energía": 3,
+      "Agroindustrias": 20,
+      "Vivienda e Inmobiliarios": 18,
+      "Otras categorías": 3,
+      "Forestal": 4,
+      "Minería": 7,
+      "Instalación fabril": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-057-2017",
+        "unidad": "RILES LACTEOS PUERTO OCTAY",
+        "multa_uta": 449.5,
+        "estado": "En curso",
+        "sector": "Agroindustrias"
+      },
+      {
+        "expediente": "F-018-2019",
+        "unidad": "INMOBILIARIO MACRO PILAUCO II",
+        "multa_uta": 122.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "F-033-2015",
+        "unidad": "PISCICULTURA LAS QUEMAS",
+        "multa_uta": 21.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-009-2015",
+        "unidad": "RESTOBAR BRUTTU'S",
+        "multa_uta": 1.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "F-032-2015",
+        "unidad": "PISCICULTURA ÑILQUE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Archivado",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "104",
+    "cuenca_nombre": "Cuenca Río Maullín",
+    "total_sanciones": 98,
+    "total_multa_uta": 5324.1,
+    "sanciones_agua": 52,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 31,
+      "Saneamiento Ambiental": 11,
+      "Equipamiento": 30,
+      "Vivienda e Inmobiliarios": 4,
+      "Transportes y almacenajes": 3,
+      "Instalación fabril": 4,
+      "ETFA": 4,
+      "": 1,
+      "Minería": 4,
+      "Infraestructura Portuaria": 5,
+      "Agroindustrias": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-092-2021",
+        "unidad": "ALTO MAULLIN",
+        "multa_uta": 4414.0,
+        "estado": "En curso",
+        "sector": ""
+      },
+      {
+        "expediente": "D-068-2017",
+        "unidad": "VERTEDERO EL EMPALME REXIN LTDA.",
+        "multa_uta": 624.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-080-2017",
+        "unidad": "RELLENO SANITARIO LA LAJA",
+        "multa_uta": 101.7,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-009-2013",
+        "unidad": "SEA FLAVORS",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-019-2014",
+        "unidad": "VERTEDERO EL EMPALME REXIN LTDA.",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "105",
+    "cuenca_nombre": "Cuenca Río Petrohué",
+    "total_sanciones": 8,
+    "total_multa_uta": 171.9,
+    "sanciones_agua": 7,
+    "distribucion_sectores": {
+      "Energía": 1,
+      "Infraestructura de Transporte": 1,
+      "Pesca y Acuicultura": 6
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-036-2016",
+        "unidad": "SALMON LIBRE DE ENFERMEDADES",
+        "multa_uta": 150.9,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-023-2013",
+        "unidad": "PROYECTO HIDROELECTRICO RIO BLANCO - ENSENADA",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-073-2015",
+        "unidad": "CONSTRUCCIÓN CAMINO SECTOR EL MANSO",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Infraestructura de Transporte"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "106",
+    "cuenca_nombre": "Cuenca Río Chamiza",
+    "total_sanciones": 29,
+    "total_multa_uta": 14764.7,
+    "sanciones_agua": 24,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 18,
+      "Minería": 5,
+      "Equipamiento": 2,
+      "Vivienda e Inmobiliarios": 3,
+      "Forestal": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-103-2018",
+        "unidad": "CES PUNTA REDONDA (RNA 102833)",
+        "multa_uta": 8914.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-206-2022",
+        "unidad": "INMOBILIARIA ALTO VOLCANES",
+        "multa_uta": 5793.0,
+        "estado": "En curso",
+        "sector": "Vivienda e Inmobiliarios"
+      },
+      {
+        "expediente": "F-004-2013",
+        "unidad": "CES QUILLAIPE (RNA 103536)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-019-2014",
+        "unidad": "CES CAICURA (RNA 102882)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-063-2016",
+        "unidad": "CES PUNTA PERHUE (RNA 104066)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "107",
+    "cuenca_nombre": "Cuenca Río Puelo",
+    "total_sanciones": 1,
+    "total_multa_uta": 33.8,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-010-2024",
+        "unidad": "AS Y ALCANTARILLADO HORNOPIREN",
+        "multa_uta": 33.8,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "108",
+    "cuenca_nombre": "Cuenca Río Yelcho",
+    "total_sanciones": 1,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-001-2024",
+        "unidad": "CES PALVITAD (RNA 102582)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "109",
+    "cuenca_nombre": "Cuencas de Chiloé e Islas Adyacentes",
+    "total_sanciones": 62,
+    "total_multa_uta": 1127.7,
+    "sanciones_agua": 49,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 10,
+      "Pesca y Acuicultura": 31,
+      "Agroindustrias": 2,
+      "Energía": 1,
+      "Instalación fabril": 2,
+      "Infraestructura de Transporte": 1,
+      "Equipamiento": 9,
+      "Infraestructura Portuaria": 2,
+      "Otras categorías": 1,
+      "Minería": 2,
+      "Forestal": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-052-2019",
+        "unidad": "VERTEDERO DICHAM",
+        "multa_uta": 453.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-122-2021",
+        "unidad": "RELLENO SANITARIO PUNTRA",
+        "multa_uta": 242.2,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-013-2014",
+        "unidad": "ACOPIO DE CONCHAS Y PLANTA DE CAL AGRICOLA CHILOE",
+        "multa_uta": 221.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-041-2018",
+        "unidad": "VERTEDERO CASTRO",
+        "multa_uta": 140.2,
+        "estado": "En curso",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "D-004-2013",
+        "unidad": "VERTEDERO DICHAM",
+        "multa_uta": 25.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Saneamiento Ambiental"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "110",
+    "cuenca_nombre": "Cuenca Río Palena",
+    "total_sanciones": 3,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 3,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 3
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-004-2018",
+        "unidad": "CES CANAL REFUGIO (RNA 110270)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-015-2018",
+        "unidad": "CES SENO MELIMOYU (RNA 110740)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-032-2023",
+        "unidad": "CES SENO MELIMOYU (RNA 110740)",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "112",
+    "cuenca_nombre": "Cuencas Costeras e Islas entre Palena y Río Aysén",
+    "total_sanciones": 69,
+    "total_multa_uta": 53445.0,
+    "sanciones_agua": 69,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 69
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES CANALAD 1 (RNA 110669)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES VALVERDE 5 (RNA 110688)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES LUNA 2 (RNA 110556)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES VALVERDE 1 (RNA 110524)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES VALVERDE 2 (RNA 110549)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "113",
+    "cuenca_nombre": "Cuenca Río Aysén",
+    "total_sanciones": 113,
+    "total_multa_uta": 6083.2,
+    "sanciones_agua": 44,
+    "distribucion_sectores": {
+      "Equipamiento": 64,
+      "Pesca y Acuicultura": 21,
+      "Minería": 6,
+      "Agroindustrias": 9,
+      "Saneamiento Ambiental": 5,
+      "Otras categorías": 1,
+      "Instalación fabril": 3,
+      "Forestal": 2,
+      "Energía": 2
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-002-2015",
+        "unidad": "CES SENO VERA (RNA 110488)",
+        "multa_uta": 3142.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-057-2015",
+        "unidad": "MINERA EL TOQUI",
+        "multa_uta": 2637.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-018-2014",
+        "unidad": "TALLER SERVICIOS DEL SUR",
+        "multa_uta": 13.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-009-2014",
+        "unidad": "COMERCIAL MAÑIHUALES",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Archivado",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-018-2014",
+        "unidad": "PISCICULTURA FIORDO AYSEN",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "114",
+    "cuenca_nombre": "Cuencas Costeras entre Río Aysén y Río Baker",
+    "total_sanciones": 33,
+    "total_multa_uta": 4891.8,
+    "sanciones_agua": 33,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 33
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-096-2021",
+        "unidad": "CES HUILLINES 2 (RNA 110228)",
+        "multa_uta": 1630.6,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-096-2021",
+        "unidad": "CES HUILLINES 3 (RNA 110259)",
+        "multa_uta": 1630.6,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-096-2021",
+        "unidad": "CES PUNTA GARRAO (RNA 110897)",
+        "multa_uta": 1630.6,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-018-2014",
+        "unidad": "CES BUTÁN 3 (RNA 110366)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-018-2014",
+        "unidad": "CES QUITRALCO 1 (RNA 110144)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "115",
+    "cuenca_nombre": "Cuenca Río Baker",
+    "total_sanciones": 5,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 4,
+    "distribucion_sectores": {
+      "Saneamiento Ambiental": 2,
+      "Energía": 1,
+      "Minería": 1,
+      "Vivienda e Inmobiliarios": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-007-2019",
+        "unidad": "GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS DE PUERTO RÍO TRANQUILO",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Saneamiento Ambiental"
+      },
+      {
+        "expediente": "F-002-2024",
+        "unidad": "CENTRAL HIDROELÉCTRICA LOS MAQUIS",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Energía"
+      },
+      {
+        "expediente": "D-029-2024",
+        "unidad": "MINERA CERRO BAYO",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "121",
+    "cuenca_nombre": "Cuenca Río Serrano (Torres del Paine)",
+    "total_sanciones": 33,
+    "total_multa_uta": 719.4,
+    "sanciones_agua": 23,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 12,
+      "Equipamiento": 14,
+      "Saneamiento Ambiental": 2,
+      "Otras categorías": 1,
+      "Forestal": 1,
+      "Infraestructura Portuaria": 2,
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-065-2018",
+        "unidad": "HOTEL LAGO GREY",
+        "multa_uta": 566.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Equipamiento"
+      },
+      {
+        "expediente": "D-025-2014",
+        "unidad": "CES ENTRADA BAHÍA TRANQUILA II (RNA 120078)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-028-2016",
+        "unidad": "PESQUERA EDEN - PUERTO NATALES",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-044-2016",
+        "unidad": "HOTEL EXPLORA TORRES DEL PAINE",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Equipamiento"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "123",
+    "cuenca_nombre": "Cuencas Costeras Seno Unión a Estrecho de Magallanes",
+    "total_sanciones": 17,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 17,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 17
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-005-2013",
+        "unidad": "CES WAGNER II (RNA 120117)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-025-2014",
+        "unidad": "CES ENTRADA BAHIA TRANQUILA 1 (RNA 120079)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-161-2021",
+        "unidad": "CES CÓRDOVA 3 ISLA (RNA 120152)",
+        "multa_uta": 0.0,
+        "estado": "Programa de Cumplimiento en ejecución",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "124",
+    "cuenca_nombre": "Cuenca Península de Brunswick y Seno Otway",
+    "total_sanciones": 58,
+    "total_multa_uta": 1819.5,
+    "sanciones_agua": 47,
+    "distribucion_sectores": {
+      "Minería": 4,
+      "Pesca y Acuicultura": 38,
+      "Agroindustrias": 2,
+      "Energía": 3,
+      "Infraestructura de Transporte": 1,
+      "Equipamiento": 8,
+      "Vivienda e Inmobiliarios": 1,
+      "Infraestructura Portuaria": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-072-2024",
+        "unidad": "CES UNICORNIO SUR (RNA 120115)",
+        "multa_uta": 1411.0,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-021-2013",
+        "unidad": "MINA INVIERNO",
+        "multa_uta": 244.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-026-2013",
+        "unidad": "TURBERA GRAZZIA SAN JUAN",
+        "multa_uta": 42.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Minería"
+      },
+      {
+        "expediente": "F-022-2014",
+        "unidad": "PESQUERA VALMAR Y CIA.LTDA.",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "125",
+    "cuenca_nombre": "Cuenca Río Grande de Tierra del Fuego",
+    "total_sanciones": 2,
+    "total_multa_uta": 0.0,
+    "sanciones_agua": 2,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 1,
+      "Minería": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-066-2014",
+        "unidad": "PLANTA NOVA AUSTRAL",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-250-2022",
+        "unidad": "LAVADERO DE ORO DANYKA 7",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Minería"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "126",
+    "cuenca_nombre": "Cuencas Tierra del Fuego Pacífico e Islas",
+    "total_sanciones": 8,
+    "total_multa_uta": 3240.0,
+    "sanciones_agua": 8,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 8
+    },
+    "casos_destacados": [
+      {
+        "expediente": "D-100-2019",
+        "unidad": "CES ARACENA 19 (RNA 120128)",
+        "multa_uta": 1940.0,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-143-2021",
+        "unidad": "CES ARACENA 14 (RNA 120096)",
+        "multa_uta": 1300.0,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "F-066-2014",
+        "unidad": "CES ARACENA 14 (RNA 120096)",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-091-2019",
+        "unidad": "CES ARACENA 10 (RNA 120088)",
+        "multa_uta": 0.0,
+        "estado": "En curso",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "127",
+    "cuenca_nombre": "Cuenca Isla Navarino y Canal Beagle",
+    "total_sanciones": 1,
+    "total_multa_uta": 3.3,
+    "sanciones_agua": 1,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 1
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-061-2022",
+        "unidad": "PLANTA PRODUCTOS MARINOS PUERTO WILLIAMS",
+        "multa_uta": 3.3,
+        "estado": "Terminado - Sanción",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  },
+  {
+    "cuenca_codigo": "128",
+    "cuenca_nombre": "Cuenca Río Gallegos Vertiente Atlántica",
+    "total_sanciones": 11,
+    "total_multa_uta": 33.1,
+    "sanciones_agua": 11,
+    "distribucion_sectores": {
+      "Pesca y Acuicultura": 4,
+      "Minería": 3,
+      "Saneamiento Ambiental": 4
+    },
+    "casos_destacados": [
+      {
+        "expediente": "F-014-2013",
+        "unidad": "PLANTA AQUAPROTEIN",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "D-024-2014",
+        "unidad": "PLANTA AQUAPROTEIN",
+        "multa_uta": 0.0,
+        "estado": "Terminado - Absolución",
+        "sector": "Pesca y Acuicultura"
+      },
+      {
+        "expediente": "P-001-2015",
+        "unidad": "PLANTA AQUAPROTEIN",
+        "multa_uta": 0.0,
+        "estado": "Terminado - PDC Satisfactorio",
+        "sector": "Pesca y Acuicultura"
+      }
+    ]
+  }
+]
