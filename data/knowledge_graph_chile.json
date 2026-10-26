@@ -975129,223 +975129,7 @@
       }
     },
     {
-      "id": "jv-62184",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia del Río Copiapó y sus Afluentes (Cuenca DGA 030)",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec2"
-      }
-    },
-    {
-      "id": "canal-16744",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal San Fernando y Canal Nantoco",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec2"
-      }
-    },
-    {
-      "id": "bocatoma-3537",
-      "label": "Bocatoma",
-      "bounded_context": "Fisico",
-      "name": "Bocatoma Lautaro",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec2"
-      }
-    },
-    {
-      "id": "jv-61013",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia de la Cuenca del Río Huasco y sus Afluentes (Cuenca DGA 034)",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec3"
-      }
-    },
-    {
-      "id": "canal-60026",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Bellavista",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec3"
-      }
-    },
-    {
-      "id": "jv-45386",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia del Río Elqui y sus Afluentes (Cuenca DGA 043)",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec4"
-      }
-    },
-    {
-      "id": "canal-67746",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Asiento en el Valle",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec4"
-      }
-    },
-    {
-      "id": "celador-87759",
-      "label": "Celador",
-      "bounded_context": "Operacion",
-      "name": "de cada tramo certifica mediante aforo en marco partidor que el canal no reciba más del volumen alícuota programado",
-      "properties": {
-        "fuente_doc": "estatutos_norte_chico.md#sec4"
-      }
-    },
-    {
-      "id": "canal-31330",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Los Andes",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec2"
-      }
-    },
-    {
-      "id": "celador-16306",
-      "label": "Celador",
-      "bounded_context": "Operacion",
-      "name": "de cada canal matriz tiene la obligación de constatar",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec2"
-      }
-    },
-    {
-      "id": "jv-68170",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia realizan aforos continuos en la estación fluviométrica El Manzano (BNA 05701001-8)",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec3"
-      }
-    },
-    {
-      "id": "canal-43046",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal San Carlos",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec3"
-      }
-    },
-    {
-      "id": "bocatoma-79500",
-      "label": "Bocatoma",
-      "bounded_context": "Fisico",
-      "name": "Bocatoma San Carlos debe ser coordinada",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec3"
-      }
-    },
-    {
-      "id": "celador-6453",
-      "label": "Celador",
-      "bounded_context": "Operacion",
-      "name": "Mayor del río",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec3"
-      }
-    },
-    {
-      "id": "jv-48581",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia del Río Cachapoal (Cuenca DGA 060 - Rapel)",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec4"
-      }
-    },
-    {
-      "id": "canal-93971",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Cachapoal y Canal Rancagua",
-      "properties": {
-        "fuente_doc": "estatutos_zona_central.md#sec4"
-      }
-    },
-    {
-      "id": "jv-60927",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia del Río Maule y sus Cuencas Tributarias (Cuenca DGA 073)",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec2"
-      }
-    },
-    {
-      "id": "canal-79764",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Maule Norte para riego",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec2"
-      }
-    },
-    {
-      "id": "celador-64738",
-      "label": "Celador",
-      "bounded_context": "Operacion",
-      "name": "General emite órdenes diarias de ajuste de caudal en",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec2"
-      }
-    },
-    {
-      "id": "jv-85199",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia de la Cuenca del Río Biobío y Río Laja (Cuenca DGA 083)",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec3"
-      }
-    },
-    {
-      "id": "canal-10086",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Laja Diguillín y Canal Biobío Sur",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec3"
-      }
-    },
-    {
-      "id": "celador-15437",
-      "label": "Celador",
-      "bounded_context": "Operacion",
-      "name": "reporta cualquier anomalía",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec3"
-      }
-    },
-    {
-      "id": "jv-42415",
-      "label": "JuntaVigilancia",
-      "bounded_context": "OUA",
-      "name": "Junta de Vigilancia del Río Cautín (Cuenca DGA 091 - Imperial)",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec4"
-      }
-    },
-    {
-      "id": "canal-81644",
-      "label": "Canal",
-      "bounded_context": "Fisico",
-      "name": "Canal Temuco para riego periurbano y agrícola",
-      "properties": {
-        "fuente_doc": "estatutos_zona_sur.md#sec4"
-      }
-    },
-    {
-      "id": "jv-11039",
+      "id": "jv-74177",
       "label": "JuntaVigilancia",
       "bounded_context": "OUA",
       "name": "Junta de Vigilancia tiene por objeto principal administrar y distribuir las aguas a que tienen derecho sus miembros en los cauces naturales",
@@ -975354,12 +975138,228 @@
       }
     },
     {
-      "id": "celador-28576",
+      "id": "celador-89044",
       "label": "Celador",
       "bounded_context": "Operacion",
       "name": "sin autorización del Repartidor General",
       "properties": {
         "fuente_doc": "codigo_de_aguas_chile_ouas.md#sec2"
+      }
+    },
+    {
+      "id": "jv-66009",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia del Río Maule y sus Cuencas Tributarias (Cuenca DGA 073)",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec2"
+      }
+    },
+    {
+      "id": "canal-77051",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Maule Norte para riego",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec2"
+      }
+    },
+    {
+      "id": "celador-40153",
+      "label": "Celador",
+      "bounded_context": "Operacion",
+      "name": "General emite órdenes diarias de ajuste de caudal en",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec2"
+      }
+    },
+    {
+      "id": "jv-38129",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia de la Cuenca del Río Biobío y Río Laja (Cuenca DGA 083)",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec3"
+      }
+    },
+    {
+      "id": "canal-77464",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Laja Diguillín y Canal Biobío Sur",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec3"
+      }
+    },
+    {
+      "id": "celador-27525",
+      "label": "Celador",
+      "bounded_context": "Operacion",
+      "name": "reporta cualquier anomalía",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec3"
+      }
+    },
+    {
+      "id": "jv-49218",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia del Río Cautín (Cuenca DGA 091 - Imperial)",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec4"
+      }
+    },
+    {
+      "id": "canal-55376",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Temuco para riego periurbano y agrícola",
+      "properties": {
+        "fuente_doc": "estatutos_zona_sur.md#sec4"
+      }
+    },
+    {
+      "id": "jv-29225",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia del Río Copiapó y sus Afluentes (Cuenca DGA 030)",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec2"
+      }
+    },
+    {
+      "id": "canal-20750",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal San Fernando y Canal Nantoco",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec2"
+      }
+    },
+    {
+      "id": "bocatoma-96851",
+      "label": "Bocatoma",
+      "bounded_context": "Fisico",
+      "name": "Bocatoma Lautaro",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec2"
+      }
+    },
+    {
+      "id": "jv-95920",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia de la Cuenca del Río Huasco y sus Afluentes (Cuenca DGA 034)",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec3"
+      }
+    },
+    {
+      "id": "canal-4048",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Bellavista",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec3"
+      }
+    },
+    {
+      "id": "jv-76885",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia del Río Elqui y sus Afluentes (Cuenca DGA 043)",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec4"
+      }
+    },
+    {
+      "id": "canal-76039",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Asiento en el Valle",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec4"
+      }
+    },
+    {
+      "id": "celador-1745",
+      "label": "Celador",
+      "bounded_context": "Operacion",
+      "name": "de cada tramo certifica mediante aforo en marco partidor que el canal no reciba más del volumen alícuota programado",
+      "properties": {
+        "fuente_doc": "estatutos_norte_chico.md#sec4"
+      }
+    },
+    {
+      "id": "canal-41996",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Los Andes",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec2"
+      }
+    },
+    {
+      "id": "celador-77764",
+      "label": "Celador",
+      "bounded_context": "Operacion",
+      "name": "de cada canal matriz tiene la obligación de constatar",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec2"
+      }
+    },
+    {
+      "id": "jv-37811",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia realizan aforos continuos en la estación fluviométrica El Manzano (BNA 05701001-8)",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec3"
+      }
+    },
+    {
+      "id": "canal-82464",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal San Carlos",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec3"
+      }
+    },
+    {
+      "id": "bocatoma-35534",
+      "label": "Bocatoma",
+      "bounded_context": "Fisico",
+      "name": "Bocatoma San Carlos debe ser coordinada",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec3"
+      }
+    },
+    {
+      "id": "celador-31024",
+      "label": "Celador",
+      "bounded_context": "Operacion",
+      "name": "Mayor del río",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec3"
+      }
+    },
+    {
+      "id": "jv-10088",
+      "label": "JuntaVigilancia",
+      "bounded_context": "OUA",
+      "name": "Junta de Vigilancia del Río Cachapoal (Cuenca DGA 060 - Rapel)",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec4"
+      }
+    },
+    {
+      "id": "canal-32918",
+      "label": "Canal",
+      "bounded_context": "Fisico",
+      "name": "Canal Cachapoal y Canal Rancagua",
+      "properties": {
+        "fuente_doc": "estatutos_zona_central.md#sec4"
       }
     }
   ],
@@ -1354774,36 +1354774,36 @@
       }
     },
     {
-      "source_id": "jv-62184",
-      "target_id": "bocatoma-3537",
+      "source_id": "jv-29225",
+      "target_id": "bocatoma-96851",
       "relation_type": "REGULA_EXTRACCION_EN",
       "bounded_context": "OUA",
       "properties": {}
     },
     {
-      "source_id": "bocatoma-3537",
-      "target_id": "canal-16744",
+      "source_id": "bocatoma-96851",
+      "target_id": "canal-20750",
       "relation_type": "ALIMENTA_A",
       "bounded_context": "Fisico",
       "properties": {}
     },
     {
-      "source_id": "jv-68170",
-      "target_id": "bocatoma-79500",
+      "source_id": "jv-37811",
+      "target_id": "bocatoma-35534",
       "relation_type": "REGULA_EXTRACCION_EN",
       "bounded_context": "OUA",
       "properties": {}
     },
     {
-      "source_id": "bocatoma-79500",
-      "target_id": "canal-43046",
+      "source_id": "bocatoma-35534",
+      "target_id": "canal-82464",
       "relation_type": "ALIMENTA_A",
       "bounded_context": "Fisico",
       "properties": {}
     },
     {
-      "source_id": "celador-6453",
-      "target_id": "bocatoma-79500",
+      "source_id": "celador-31024",
+      "target_id": "bocatoma-35534",
       "relation_type": "OPERA_COMPUERTA",
       "bounded_context": "Operacion",
       "properties": {}

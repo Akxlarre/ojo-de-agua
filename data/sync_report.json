@@ -1,15 +1,15 @@
 {
   "estado": "EXITOSO",
-  "timestamp_inicio": "2026-10-19T15:08:15.584052+00:00",
-  "timestamp_fin": "2026-10-19T15:08:29.349369+00:00",
-  "duracion_segundos": 13.77,
+  "timestamp_inicio": "2026-10-26T12:26:02.858955+00:00",
+  "timestamp_fin": "2026-10-26T12:26:09.311156+00:00",
+  "duracion_segundos": 6.45,
   "decretos_escasez": {
     "vigentes": 5,
     "caducados": 0
   },
   "grafo_nodos": 42801,
   "grafo_aristas": 37466,
-  "mapa_html_bytes": 2254745,
+  "mapa_html_bytes": 2253343,
   "entidades_resumen": {
     "Cuenca": 90,
     "Rio": 221,
@@ -37,7 +37,7 @@
     "DemandaAgricola": 90,
     "PredioRiego": 8,
     "Embalse": 43,
-    "Bocatoma": 2,
-    "Celador": 6
+    "Celador": 6,
+    "Bocatoma": 2
   }
 }
