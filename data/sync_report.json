@@ -1,8 +1,8 @@
 {
   "estado": "EXITOSO",
-  "timestamp_inicio": "2026-10-26T12:26:02.858955+00:00",
-  "timestamp_fin": "2026-10-26T12:26:09.311156+00:00",
-  "duracion_segundos": 6.45,
+  "timestamp_inicio": "2026-11-02T14:58:40.682475+00:00",
+  "timestamp_fin": "2026-11-02T14:58:46.343669+00:00",
+  "duracion_segundos": 5.66,
   "decretos_escasez": {
     "vigentes": 5,
     "caducados": 0
